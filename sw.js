@@ -1,4 +1,4 @@
-const CACHE_NAME = 'futquiz-v1';
+const CACHE_NAME = 'futquiz-v2';
 const ASSETS = [
   './',
   './index.html',
@@ -7,11 +7,15 @@ const ASSETS = [
   './js/router.js',
   './js/game.js',
   './js/data.js',
+  './js/generators.js',
   './js/views/home.js',
   './js/views/categories.js',
   './js/views/carrera.js',
   './js/views/companeros.js',
   './js/views/pasaporte.js',
+  './js/views/quiensoy.js',
+  './js/views/conexion.js',
+  './js/views/linea.js',
   './js/views/result.js',
   './data/players.json',
   './data/categories.json',

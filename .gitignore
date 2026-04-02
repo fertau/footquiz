@@ -4,3 +4,8 @@ Thumbs.db
 node_modules/
 .env
 img/icons/generate-icons.sh
+node_modules/
+data/players-raw.json
+data/players-enriched.json
+scripts/failed-names.txt
+package-lock.json

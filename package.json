@@ -1,0 +1,16 @@
+{
+  "name": "futquiz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-careers.js",
+    "enrich": "node scripts/enrich-players.js",
+    "merge": "node scripts/merge-players.js",
+    "validate": "node scripts/validate-data.js",
+    "pipeline": "npm run fetch && npm run enrich && npm run merge && npm run validate"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}

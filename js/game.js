@@ -1,6 +1,6 @@
 // Game state management
 
-export function createGameState(mode, categoryId, playerList) {
+export function createGameState(mode, categoryId, playerList, modeConfig = {}) {
   return {
     mode,
     categoryId,
@@ -12,7 +12,8 @@ export function createGameState(mode, categoryId, playerList) {
     cluesRevealed: 1,
     pistaExtraUsed: false,
     attempts: 0,
-    resolved: false
+    resolved: false,
+    modeConfig
   };
 }
 
@@ -27,6 +28,7 @@ export function getMaxClues(state) {
     case 'carrera': return player.carrera.length;
     case 'companeros': return player.companeros.length;
     case 'pasaporte': return player.paises.length;
+    case 'quiensoy': return state.modeConfig.clues ? state.modeConfig.clues.length : 0;
     default: return 0;
   }
 }
@@ -50,8 +52,9 @@ export function usePistaExtra(state) {
 export function calculatePoints(state) {
   const player = getCurrentPlayer(state);
   if (!player) return 0;
-  const maxPoints = player.tier * 100;
+  const maxPoints = (player.tier || 2) * 100;
   const totalClues = getMaxClues(state);
+  if (totalClues === 0) return maxPoints;
   const penaltyPerClue = maxPoints / totalClues;
   const pistaExtraPenalty = state.pistaExtraUsed ? 50 : 0;
   const attemptPenalty = state.attempts * 10;
@@ -97,6 +100,22 @@ export function registerGiveUp(state) {
   return state;
 }
 
+// For modes that don't use text input (linea, conexion scoring)
+export function registerChoiceResult(state, correct, points) {
+  const player = getCurrentPlayer(state);
+  state.resolved = true;
+  state.results.push({
+    player,
+    correct,
+    cluesUsed: state.cluesRevealed,
+    pistaExtra: false,
+    attempts: state.attempts,
+    points: correct ? points : 0
+  });
+  if (correct) state.totalScore += points;
+  return state;
+}
+
 export function advanceToNext(state) {
   state.currentIndex++;
   state.cluesRevealed = 1;
@@ -111,17 +130,28 @@ export function isGameOver(state) {
 }
 
 export function getMaxPossibleScore(state) {
-  return state.players.reduce((sum, p) => sum + p.tier * 100, 0);
+  if (state.mode === 'conexion') {
+    return state.players.length * 100;
+  }
+  if (state.mode === 'linea') {
+    return state.players.length * 100;
+  }
+  return state.players.reduce((sum, p) => sum + (p.tier || 2) * 100, 0);
 }
 
 export function generateShareText(state, categoryName) {
-  const modeNames = { carrera: 'La Carrera', companeros: 'Compañeros', pasaporte: 'El Pasaporte' };
+  const modeNames = {
+    carrera: 'La Carrera', companeros: 'Compañeros', pasaporte: 'El Pasaporte',
+    quiensoy: 'Quién Soy', conexion: 'Conexión', linea: 'Línea de Tiempo'
+  };
   const modeName = modeNames[state.mode] || state.mode;
   let text = `\u26BD\u{1F9E9} FutQuiz \u2014 ${modeName}\n`;
   text += `Categor\u00eda: ${categoryName}\n\n`;
   state.results.forEach((r, i) => {
     const icon = r.correct ? '\u2705' : '\u274C';
-    const blocks = Array.from({ length: r.cluesUsed }, () => '\u2B1B').join('');
+    const blocks = r.cluesUsed > 0
+      ? Array.from({ length: r.cluesUsed }, () => '\u2B1B').join('')
+      : '';
     const extra = r.pistaExtra ? '\u{1F4A1}' : '';
     const detail = r.correct ? `(${r.cluesUsed} pista${r.cluesUsed > 1 ? 's' : ''})` : '';
     text += `${i + 1}. ${icon} ${blocks}${extra} ${detail}\n`;

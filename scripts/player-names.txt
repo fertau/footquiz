@@ -1,0 +1,341 @@
+# Argentinos clásicos
+Diego Maradona
+Lionel Messi
+Gabriel Batistuta
+Hernán Crespo
+Javier Mascherano
+Javier Zanetti
+Juan Sebastián Verón
+Juan Román Riquelme
+Pablo Aimar
+Esteban Cambiasso
+Ariel Ortega
+Claudio López
+Diego Simeone
+Fernando Redondo
+Marcelo Gallardo
+Javier Saviola
+Carlos Tevez
+Diego Milito
+Gabriel Milito
+Martín Palermo
+Roberto Abbondanzieri
+Juan Pablo Sorín
+Gabriel Heinze
+Matías Almeyda
+Sergio Agüero
+Gonzalo Higuaín
+Ezequiel Lavezzi
+Walter Samuel
+Roberto Ayala
+Oscar Ruggeri
+Jorge Burruchaga
+Mario Kempes
+Américo Gallego
+Norberto Alonso
+Ricardo Bochini
+
+# Argentinos actuales
+Ángel Di María
+Lautaro Martínez
+Enzo Fernández
+Alexis Mac Allister
+Julián Álvarez
+Giovani Lo Celso
+Nicolás Otamendi
+Leandro Paredes
+Rodrigo De Paul
+Paulo Dybala
+Nicolás González
+Emiliano Martínez
+Cristian Romero
+Lisandro Martínez
+Alejandro Garnacho
+Exequiel Palacios
+Nahuel Molina
+Marcos Acuña
+Germán Pezzella
+
+# Brasil
+Ronaldo
+Rivaldo
+Romário
+Roberto Carlos
+Cafú
+Kaká
+Neymar
+Adriano
+Robinho
+Dani Alves
+Thiago Silva
+Ronaldinho
+Firmino
+Casemiro
+Marcelo
+David Luiz
+Vinicius Jr
+Rodrygo
+Endrick
+Raphinha
+Lucas Moura
+Philippe Coutinho
+Oscar
+Fernandinho
+Willian
+Hulk
+Alisson
+Ederson
+Denílson
+Bebeto
+
+# Uruguay
+Luis Suárez
+Edinson Cavani
+Álvaro Recoba
+Enzo Francescoli
+Diego Forlán
+Diego Godín
+Federico Valverde
+Diego Lugano
+Fernando Muslera
+Sebastián Abreu
+Carlos De Pena
+Maxi Pereira
+Gastón Ramírez
+Darwin Núñez
+Ronald Araújo
+
+# Colombia
+Carlos Valderrama
+James Rodríguez
+Radamel Falcao
+René Higuita
+Freddy Rincón
+Faustino Asprilla
+Juan Cuadrado
+Luis Díaz
+Iván Córdoba
+
+# Chile
+Arturo Vidal
+Alexis Sánchez
+Iván Zamorano
+Marcelo Salas
+Claudio Bravo
+Gary Medel
+
+# Paraguay
+José Luis Chilavert
+Roque Santa Cruz
+Nelson Valdez
+Oscar Romero
+
+# Perú
+Paolo Guerrero
+Claudio Pizarro
+Teófilo Cubillas
+Jefferson Farfán
+
+# México
+Hugo Sánchez
+Rafael Márquez
+Javier Hernández
+Andrés Guardado
+Guillermo Ochoa
+Hirving Lozano
+
+# Europa - España
+Xavi Hernández
+Andrés Iniesta
+Iker Casillas
+Sergio Ramos
+Fernando Torres
+David Villa
+Raúl González
+Carles Puyol
+Gerard Piqué
+Sergio Busquets
+Cesc Fàbregas
+Pedri
+Gavi
+Lamine Yamal
+Rodri
+
+# Europa - Italia
+Andrea Pirlo
+Gianluigi Buffon
+Francesco Totti
+Alessandro Del Piero
+Paolo Maldini
+Alessandro Nesta
+Fabio Cannavaro
+Marco Materazzi
+Daniele De Rossi
+Gennaro Gattuso
+
+# Europa - Francia
+Zinedine Zidane
+Thierry Henry
+Kylian Mbappé
+Antoine Griezmann
+Karim Benzema
+Patrick Vieira
+Lilian Thuram
+Marcel Desailly
+Robert Pirès
+Franck Ribéry
+
+# Europa - Inglaterra
+David Beckham
+Steven Gerrard
+Frank Lampard
+Wayne Rooney
+Michael Owen
+Gary Lineker
+Alan Shearer
+Rio Ferdinand
+John Terry
+Harry Kane
+Jude Bellingham
+Phil Foden
+Bukayo Saka
+
+# Europa - Alemania
+Franz Beckenbauer
+Miroslav Klose
+Thomas Müller
+Manuel Neuer
+Toni Kroos
+Bastian Schweinsteiger
+Philipp Lahm
+Oliver Kahn
+Lothar Matthäus
+Florian Wirtz
+Jamal Musiala
+
+# Europa - Portugal
+Cristiano Ronaldo
+Luís Figo
+Rui Costa
+Eusébio
+Pepe
+Bernardo Silva
+Bruno Fernandes
+João Félix
+
+# Europa - Países Bajos
+Johan Cruyff
+Marco van Basten
+Ruud van Nistelrooy
+Dennis Bergkamp
+Arjen Robben
+Robin van Persie
+Wesley Sneijder
+Virgil van Dijk
+Frenkie de Jong
+
+# Europa - Croacia
+Luka Modrić
+Davor Šuker
+Robert Prosinečki
+Ivan Rakitić
+Mario Mandžukić
+
+# Europa - Otros
+Zlatan Ibrahimović
+Robert Lewandowski
+Mohamed Salah
+Erling Haaland
+Kevin De Bruyne
+Eden Hazard
+Clarence Seedorf
+George Weah
+Samuel Eto'o
+Didier Drogba
+
+# África
+Yaya Touré
+Sadio Mané
+Jay-Jay Okocha
+Michael Essien
+Nwankwo Kanu
+Roger Milla
+Pierre-Emerick Aubameyang
+Riyad Mahrez
+Achraf Hakimi
+Victor Osimhen
+
+# Argentina extra
+Nicolás Burdisso
+Ever Banega
+Maxi Rodríguez
+Luciano Galletti
+Lucho González
+Erik Lamela
+Ángel Correa
+Joaquín Correa
+Giovanni Simeone
+Mauro Icardi
+Roberto Pereyra
+Lucas Biglia
+Lucas Alario
+Willy Caballero
+Sergio Romero
+Fabricio Coloccini
+Martín Demichelis
+Nicolás Gaitán
+
+# Brasil extra
+Ronaldo Gaúcho
+Gilberto Silva
+Julio César
+Maicon
+Lucio
+Juan
+Dida
+Paulinho
+Talisca
+Diego Costa
+Alex Sandro
+Marquinhos
+Fred
+Gabriel Jesus
+Richarlison
+Antony
+Bruno Guimarães
+Paquetá
+
+# Europa extra
+Didier Deschamps
+Eric Cantona
+Nicolas Anelka
+Claude Makélélé
+N'Golo Kanté
+Paul Pogba
+Ousmane Dembélé
+Xabi Alonso
+David Silva
+Marcos Senna
+Fernando Hierro
+Gheorghe Hagi
+Pavel Nedvěd
+Zinédine Zidane
+Gianfranco Zola
+Christian Vieri
+Hernán Crespo
+Dejan Stankovic
+Diego Forlán
+Andriy Shevchenko
+Michael Ballack
+Mesut Özil
+Thibaut Courtois
+Jan Oblak
+Marc-André ter Stegen
+
+# Históricos
+Pelé
+Diego Maradona
+Alfredo Di Stéfano
+Ferenc Puskás
+Bobby Charlton
+Gerd Müller
