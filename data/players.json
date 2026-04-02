@@ -498,5 +498,496 @@
     ],
     "paises": ["AR", "PT", "FR", "BR"],
     "pistaExtra": "Ídolo de Porto, volvió dos veces al club"
+  },
+  {
+    "id": "cristiano_ronaldo",
+    "nombre": "Cristiano Ronaldo",
+    "nombreCompleto": "Cristiano Ronaldo dos Santos Aveiro",
+    "apodo": "CR7",
+    "nacionalidad": "PT",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "champions", "la_liga", "premier_league", "serie_a", "mundialistas", "generacion_2000", "generacion_2010"],
+    "carrera": [
+      { "club": "Sporting CP", "pais": "PT", "anios": "2002-2003" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2003-2009" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2009-2018" },
+      { "club": "Juventus", "pais": "IT", "anios": "2018-2021" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2021-2022" },
+      { "club": "Al-Nassr", "pais": "SA", "anios": "2023-" }
+    ],
+    "companeros": [
+      { "nombre": "Rooney", "club": "Manchester United" },
+      { "nombre": "Sergio Ramos", "club": "Real Madrid" },
+      { "nombre": "Modrić", "club": "Real Madrid" },
+      { "nombre": "Dybala", "club": "Juventus" }
+    ],
+    "paises": ["PT", "GB-ENG", "ES", "IT", "SA"],
+    "pistaExtra": "Máximo goleador histórico del Real Madrid"
+  },
+  {
+    "id": "david_beckham",
+    "nombre": "Beckham",
+    "nombreCompleto": "David Robert Joseph Beckham",
+    "apodo": "Becks",
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "premier_league", "la_liga", "champions", "generacion_2000", "trotamundos"],
+    "carrera": [
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "1992-2003" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2003-2007" },
+      { "club": "LA Galaxy", "pais": "US", "anios": "2007-2012" },
+      { "club": "Milan", "pais": "IT", "anios": "2009" },
+      { "club": "Milan", "pais": "IT", "anios": "2010" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2013" }
+    ],
+    "companeros": [
+      { "nombre": "Scholes", "club": "Manchester United" },
+      { "nombre": "Zidane", "club": "Real Madrid" },
+      { "nombre": "Ronaldo", "club": "Real Madrid" },
+      { "nombre": "Pirlo", "club": "Milan" }
+    ],
+    "paises": ["GB-ENG", "ES", "US", "IT", "FR"],
+    "pistaExtra": "Conocido por sus centros y tiros libres con efecto"
+  },
+  {
+    "id": "thierry_henry",
+    "nombre": "Henry",
+    "nombreCompleto": "Thierry Daniel Henry",
+    "apodo": "Titi",
+    "nacionalidad": "FR",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "premier_league", "champions", "mundialistas", "generacion_2000"],
+    "carrera": [
+      { "club": "Monaco", "pais": "FR", "anios": "1994-1999" },
+      { "club": "Juventus", "pais": "IT", "anios": "1999" },
+      { "club": "Arsenal", "pais": "GB-ENG", "anios": "1999-2007" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2007-2010" },
+      { "club": "New York Red Bulls", "pais": "US", "anios": "2010-2014" },
+      { "club": "Arsenal", "pais": "GB-ENG", "anios": "2012" }
+    ],
+    "companeros": [
+      { "nombre": "Bergkamp", "club": "Arsenal" },
+      { "nombre": "Vieira", "club": "Arsenal" },
+      { "nombre": "Messi", "club": "Barcelona" },
+      { "nombre": "Trezeguet", "club": "Monaco" }
+    ],
+    "paises": ["FR", "IT", "GB-ENG", "ES", "US"],
+    "pistaExtra": "Máximo goleador histórico del Arsenal"
+  },
+  {
+    "id": "zlatan_ibrahimovic",
+    "nombre": "Zlatan",
+    "nombreCompleto": "Zlatan Ibrahimović",
+    "apodo": "Ibra",
+    "nacionalidad": "SE",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "trotamundos", "serie_a", "la_liga", "champions", "generacion_2000", "generacion_2010"],
+    "carrera": [
+      { "club": "Malmö FF", "pais": "SE", "anios": "1999-2001" },
+      { "club": "Ajax", "pais": "NL", "anios": "2001-2004" },
+      { "club": "Juventus", "pais": "IT", "anios": "2004-2006" },
+      { "club": "Inter", "pais": "IT", "anios": "2006-2009" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2009-2010" },
+      { "club": "Milan", "pais": "IT", "anios": "2010-2012" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2012-2016" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2016-2018" },
+      { "club": "LA Galaxy", "pais": "US", "anios": "2018-2019" },
+      { "club": "Milan", "pais": "IT", "anios": "2020-2023" }
+    ],
+    "companeros": [
+      { "nombre": "Zanetti", "club": "Inter" },
+      { "nombre": "Xavi", "club": "Barcelona" },
+      { "nombre": "Verratti", "club": "Paris Saint-Germain" },
+      { "nombre": "Pogba", "club": "Manchester United" }
+    ],
+    "paises": ["SE", "NL", "IT", "ES", "FR", "GB-ENG", "US"],
+    "pistaExtra": "Jugó en 6 ligas europeas diferentes"
+  },
+  {
+    "id": "gianluigi_buffon",
+    "nombre": "Buffon",
+    "nombreCompleto": "Gianluigi Buffon",
+    "apodo": "Gigi",
+    "nacionalidad": "IT",
+    "posicion": "arquero",
+    "tier": 1,
+    "categorias": ["leyendas", "arqueros", "serie_a", "mundialistas", "champions", "generacion_2000", "generacion_2010"],
+    "carrera": [
+      { "club": "Parma", "pais": "IT", "anios": "1995-2001" },
+      { "club": "Juventus", "pais": "IT", "anios": "2001-2018" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2018-2019" },
+      { "club": "Juventus", "pais": "IT", "anios": "2019-2021" },
+      { "club": "Parma", "pais": "IT", "anios": "2021-2023" }
+    ],
+    "companeros": [
+      { "nombre": "Del Piero", "club": "Juventus" },
+      { "nombre": "Pirlo", "club": "Juventus" },
+      { "nombre": "Crespo", "club": "Parma" },
+      { "nombre": "Mbappé", "club": "Paris Saint-Germain" }
+    ],
+    "paises": ["IT", "FR"],
+    "pistaExtra": "Campeón del Mundo en 2006 y más de 25 temporadas en la élite"
+  },
+  {
+    "id": "francesco_totti",
+    "nombre": "Totti",
+    "nombreCompleto": "Francesco Totti",
+    "apodo": "Il Capitano",
+    "nacionalidad": "IT",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": ["leyendas", "enganches", "serie_a", "mundialistas", "numero_10", "generacion_2000"],
+    "carrera": [
+      { "club": "Roma", "pais": "IT", "anios": "1993-2017" }
+    ],
+    "companeros": [
+      { "nombre": "Batistuta", "club": "Roma" },
+      { "nombre": "Cafu", "club": "Roma" },
+      { "nombre": "De Rossi", "club": "Roma" },
+      { "nombre": "Salah", "club": "Roma" }
+    ],
+    "paises": ["IT"],
+    "pistaExtra": "Toda su carrera en un solo club: 25 temporadas en la Roma"
+  },
+  {
+    "id": "alessandro_del_piero",
+    "nombre": "Del Piero",
+    "nombreCompleto": "Alessandro Del Piero",
+    "apodo": "Pinturicchio",
+    "nacionalidad": "IT",
+    "posicion": "delantero",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "serie_a", "champions", "mundialistas", "generacion_2000"],
+    "carrera": [
+      { "club": "Padova", "pais": "IT", "anios": "1991-1993" },
+      { "club": "Juventus", "pais": "IT", "anios": "1993-2012" },
+      { "club": "Sydney FC", "pais": "AU", "anios": "2012-2014" },
+      { "club": "Delhi Dynamos", "pais": "IN", "anios": "2014" }
+    ],
+    "companeros": [
+      { "nombre": "Zidane", "club": "Juventus" },
+      { "nombre": "Buffon", "club": "Juventus" },
+      { "nombre": "Pirlo", "club": "Juventus" },
+      { "nombre": "Nedvěd", "club": "Juventus" }
+    ],
+    "paises": ["IT", "AU", "IN"],
+    "pistaExtra": "Máximo goleador histórico de la Juventus"
+  },
+  {
+    "id": "steven_gerrard",
+    "nombre": "Gerrard",
+    "nombreCompleto": "Steven George Gerrard",
+    "apodo": "Stevie G",
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "premier_league", "champions", "generacion_2000", "tecnicos_jugadores"],
+    "carrera": [
+      { "club": "Liverpool", "pais": "GB-ENG", "anios": "1998-2015" },
+      { "club": "LA Galaxy", "pais": "US", "anios": "2015-2016" }
+    ],
+    "companeros": [
+      { "nombre": "Torres", "club": "Liverpool" },
+      { "nombre": "Alonso", "club": "Liverpool" },
+      { "nombre": "Mascherano", "club": "Liverpool" },
+      { "nombre": "Suárez", "club": "Liverpool" }
+    ],
+    "paises": ["GB-ENG", "US"],
+    "pistaExtra": "Héroe de la remontada de Estambul en la final de Champions 2005"
+  },
+  {
+    "id": "frank_lampard",
+    "nombre": "Lampard",
+    "nombreCompleto": "Frank James Lampard",
+    "apodo": "Super Frank",
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "premier_league", "champions", "goleadores", "generacion_2000", "tecnicos_jugadores"],
+    "carrera": [
+      { "club": "West Ham United", "pais": "GB-ENG", "anios": "1996-2001" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2001-2014" },
+      { "club": "New York City FC", "pais": "US", "anios": "2014-2016" },
+      { "club": "Manchester City", "pais": "GB-ENG", "anios": "2014-2015" }
+    ],
+    "companeros": [
+      { "nombre": "Drogba", "club": "Chelsea" },
+      { "nombre": "Terry", "club": "Chelsea" },
+      { "nombre": "Crespo", "club": "Chelsea" },
+      { "nombre": "Pirlo", "club": "New York City FC" }
+    ],
+    "paises": ["GB-ENG", "US"],
+    "pistaExtra": "Máximo goleador histórico del Chelsea con más de 200 goles"
+  },
+  {
+    "id": "wayne_rooney",
+    "nombre": "Rooney",
+    "nombreCompleto": "Wayne Mark Rooney",
+    "apodo": "Wazza",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "premier_league", "champions", "generacion_2000", "generacion_2010", "tecnicos_jugadores"],
+    "carrera": [
+      { "club": "Everton", "pais": "GB-ENG", "anios": "2002-2004" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2004-2017" },
+      { "club": "Everton", "pais": "GB-ENG", "anios": "2017-2018" },
+      { "club": "D.C. United", "pais": "US", "anios": "2018-2020" },
+      { "club": "Derby County", "pais": "GB-ENG", "anios": "2020-2021" }
+    ],
+    "companeros": [
+      { "nombre": "Cristiano Ronaldo", "club": "Manchester United" },
+      { "nombre": "Giggs", "club": "Manchester United" },
+      { "nombre": "Van Persie", "club": "Manchester United" },
+      { "nombre": "Scholes", "club": "Manchester United" }
+    ],
+    "paises": ["GB-ENG", "US"],
+    "pistaExtra": "Máximo goleador histórico del Manchester United y de la selección inglesa"
+  },
+  {
+    "id": "xavi_hernandez",
+    "nombre": "Xavi",
+    "nombreCompleto": "Xavier Hernández Creus",
+    "apodo": null,
+    "nacionalidad": "ES",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "la_liga", "champions", "mundialistas", "generacion_2000", "generacion_2010", "tecnicos_jugadores"],
+    "carrera": [
+      { "club": "Barcelona", "pais": "ES", "anios": "1998-2015" },
+      { "club": "Al-Sadd", "pais": "QA", "anios": "2015-2019" }
+    ],
+    "companeros": [
+      { "nombre": "Messi", "club": "Barcelona" },
+      { "nombre": "Iniesta", "club": "Barcelona" },
+      { "nombre": "Puyol", "club": "Barcelona" },
+      { "nombre": "Busquets", "club": "Barcelona" }
+    ],
+    "paises": ["ES", "QA"],
+    "pistaExtra": "Cerebro del tiki-taka del Barcelona y de la selección española"
+  },
+  {
+    "id": "andres_iniesta",
+    "nombre": "Iniesta",
+    "nombreCompleto": "Andrés Iniesta Luján",
+    "apodo": "El Cerebro",
+    "nacionalidad": "ES",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "enganches", "la_liga", "champions", "mundialistas", "generacion_2000", "generacion_2010"],
+    "carrera": [
+      { "club": "Barcelona", "pais": "ES", "anios": "2002-2018" },
+      { "club": "Vissel Kobe", "pais": "JP", "anios": "2018-2023" },
+      { "club": "Emirates Club", "pais": "AE", "anios": "2023-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Xavi", "club": "Barcelona" },
+      { "nombre": "Messi", "club": "Barcelona" },
+      { "nombre": "Puyol", "club": "Barcelona" },
+      { "nombre": "David Villa", "club": "Barcelona" }
+    ],
+    "paises": ["ES", "JP", "AE"],
+    "pistaExtra": "Autor del gol del título en la final del Mundial 2010"
+  },
+  {
+    "id": "sergio_ramos",
+    "nombre": "Sergio Ramos",
+    "nombreCompleto": "Sergio Ramos García",
+    "apodo": null,
+    "nacionalidad": "ES",
+    "posicion": "defensor",
+    "tier": 1,
+    "categorias": ["leyendas", "murallas", "la_liga", "champions", "mundialistas", "generacion_2010"],
+    "carrera": [
+      { "club": "Sevilla", "pais": "ES", "anios": "2003-2005" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2005-2021" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2021-2023" },
+      { "club": "Sevilla", "pais": "ES", "anios": "2023-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Cristiano Ronaldo", "club": "Real Madrid" },
+      { "nombre": "Casillas", "club": "Real Madrid" },
+      { "nombre": "Modrić", "club": "Real Madrid" },
+      { "nombre": "Mbappé", "club": "Paris Saint-Germain" }
+    ],
+    "paises": ["ES", "FR"],
+    "pistaExtra": "Gol de cabeza en el minuto 93 de la final de Champions 2014"
+  },
+  {
+    "id": "raul_gonzalez",
+    "nombre": "Raúl",
+    "nombreCompleto": "Raúl González Blanco",
+    "apodo": "El Ángel de Madrid",
+    "nacionalidad": "ES",
+    "posicion": "delantero",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "la_liga", "champions", "mundialistas", "heroes_90", "generacion_2000"],
+    "carrera": [
+      { "club": "Real Madrid", "pais": "ES", "anios": "1994-2010" },
+      { "club": "Schalke 04", "pais": "DE", "anios": "2010-2012" },
+      { "club": "Al-Sadd", "pais": "QA", "anios": "2012-2014" },
+      { "club": "New York Cosmos", "pais": "US", "anios": "2015" }
+    ],
+    "companeros": [
+      { "nombre": "Zidane", "club": "Real Madrid" },
+      { "nombre": "Roberto Carlos", "club": "Real Madrid" },
+      { "nombre": "Casillas", "club": "Real Madrid" },
+      { "nombre": "Huntelaar", "club": "Schalke 04" }
+    ],
+    "paises": ["ES", "DE", "QA", "US"],
+    "pistaExtra": "Fue máximo goleador histórico de la Champions League hasta 2014"
+  },
+  {
+    "id": "luka_modric",
+    "nombre": "Modrić",
+    "nombreCompleto": "Luka Modrić",
+    "apodo": null,
+    "nacionalidad": "HR",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "la_liga", "premier_league", "champions", "mundialistas", "generacion_2010"],
+    "carrera": [
+      { "club": "Dinamo Zagreb", "pais": "HR", "anios": "2003-2008" },
+      { "club": "Tottenham Hotspur", "pais": "GB-ENG", "anios": "2008-2012" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2012-" }
+    ],
+    "companeros": [
+      { "nombre": "Cristiano Ronaldo", "club": "Real Madrid" },
+      { "nombre": "Kroos", "club": "Real Madrid" },
+      { "nombre": "Bale", "club": "Tottenham Hotspur" },
+      { "nombre": "Sergio Ramos", "club": "Real Madrid" }
+    ],
+    "paises": ["HR", "GB-ENG", "ES"],
+    "pistaExtra": "Balón de Oro 2018, rompiendo la hegemonía de Messi y Ronaldo"
+  },
+  {
+    "id": "robert_lewandowski",
+    "nombre": "Lewandowski",
+    "nombreCompleto": "Robert Lewandowski",
+    "apodo": "Lewy",
+    "nacionalidad": "PL",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "bundesliga", "la_liga", "champions", "generacion_2010"],
+    "carrera": [
+      { "club": "Znicz Pruszków", "pais": "PL", "anios": "2006-2008" },
+      { "club": "Lech Poznań", "pais": "PL", "anios": "2008-2010" },
+      { "club": "Borussia Dortmund", "pais": "DE", "anios": "2010-2014" },
+      { "club": "Bayern Munich", "pais": "DE", "anios": "2014-2022" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2022-" }
+    ],
+    "companeros": [
+      { "nombre": "Reus", "club": "Borussia Dortmund" },
+      { "nombre": "Müller", "club": "Bayern Munich" },
+      { "nombre": "Neuer", "club": "Bayern Munich" },
+      { "nombre": "Pedri", "club": "Barcelona" }
+    ],
+    "paises": ["PL", "DE", "ES"],
+    "pistaExtra": "5 goles en 9 minutos contra Wolfsburgo en 2015"
+  },
+  {
+    "id": "wesley_sneijder",
+    "nombre": "Sneijder",
+    "nombreCompleto": "Wesley Sneijder",
+    "apodo": null,
+    "nacionalidad": "NL",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["mediocampistas", "enganches", "champions", "la_liga", "serie_a", "trotamundos", "generacion_2000", "generacion_2010"],
+    "carrera": [
+      { "club": "Ajax", "pais": "NL", "anios": "2002-2007" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2007-2009" },
+      { "club": "Inter", "pais": "IT", "anios": "2009-2013" },
+      { "club": "Galatasaray", "pais": "TR", "anios": "2013-2017" },
+      { "club": "Nice", "pais": "FR", "anios": "2017-2018" },
+      { "club": "Al-Gharafa", "pais": "QA", "anios": "2018-2019" }
+    ],
+    "companeros": [
+      { "nombre": "Zanetti", "club": "Inter" },
+      { "nombre": "Milito", "club": "Inter" },
+      { "nombre": "Drogba", "club": "Galatasaray" },
+      { "nombre": "Van der Vaart", "club": "Ajax" }
+    ],
+    "paises": ["NL", "ES", "IT", "TR", "FR", "QA"],
+    "pistaExtra": "Ganó el triplete con Inter en 2010 y fue subcampeón del mundo con Holanda"
+  },
+  {
+    "id": "arjen_robben",
+    "nombre": "Robben",
+    "nombreCompleto": "Arjen Robben",
+    "apodo": null,
+    "nacionalidad": "NL",
+    "posicion": "extremo",
+    "tier": 2,
+    "categorias": ["goleadores", "champions", "premier_league", "la_liga", "bundesliga", "generacion_2000", "generacion_2010"],
+    "carrera": [
+      { "club": "Groningen", "pais": "NL", "anios": "2000-2002" },
+      { "club": "PSV", "pais": "NL", "anios": "2002-2004" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2004-2007" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2007-2009" },
+      { "club": "Bayern Munich", "pais": "DE", "anios": "2009-2019" },
+      { "club": "Groningen", "pais": "NL", "anios": "2020-2021" }
+    ],
+    "companeros": [
+      { "nombre": "Lampard", "club": "Chelsea" },
+      { "nombre": "Sneijder", "club": "Real Madrid" },
+      { "nombre": "Ribéry", "club": "Bayern Munich" },
+      { "nombre": "Lewandowski", "club": "Bayern Munich" }
+    ],
+    "paises": ["NL", "GB-ENG", "ES", "DE"],
+    "pistaExtra": "Famoso por recortar siempre hacia la izquierda y definir con pierna izquierda"
+  },
+  {
+    "id": "clarence_seedorf",
+    "nombre": "Seedorf",
+    "nombreCompleto": "Clarence Clyde Seedorf",
+    "apodo": null,
+    "nacionalidad": "NL",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["mediocampistas", "champions", "serie_a", "la_liga", "trotamundos", "heroes_90", "generacion_2000", "tecnicos_jugadores"],
+    "carrera": [
+      { "club": "Ajax", "pais": "NL", "anios": "1992-1995" },
+      { "club": "Sampdoria", "pais": "IT", "anios": "1995-1996" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "1996-2000" },
+      { "club": "Inter", "pais": "IT", "anios": "2000-2002" },
+      { "club": "Milan", "pais": "IT", "anios": "2002-2012" },
+      { "club": "Botafogo", "pais": "BR", "anios": "2012-2014" }
+    ],
+    "companeros": [
+      { "nombre": "Kaká", "club": "Milan" },
+      { "nombre": "Maldini", "club": "Milan" },
+      { "nombre": "Roberto Carlos", "club": "Real Madrid" },
+      { "nombre": "Ronaldo", "club": "Inter" }
+    ],
+    "paises": ["NL", "IT", "ES", "BR"],
+    "pistaExtra": "Único jugador en ganar la Champions League con tres clubes distintos"
+  },
+  {
+    "id": "kylian_mbappe",
+    "nombre": "Mbappé",
+    "nombreCompleto": "Kylian Mbappé Lottin",
+    "apodo": "Donatello",
+    "nacionalidad": "FR",
+    "posicion": "delantero",
+    "tier": 1,
+    "categorias": ["generacion_actual", "goleadores", "la_liga", "mundialistas", "champions"],
+    "carrera": [
+      { "club": "Monaco", "pais": "FR", "anios": "2015-2018" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2018-2024" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2024-" }
+    ],
+    "companeros": [
+      { "nombre": "Neymar", "club": "Paris Saint-Germain" },
+      { "nombre": "Messi", "club": "Paris Saint-Germain" },
+      { "nombre": "Modrić", "club": "Real Madrid" },
+      { "nombre": "Bernardo Silva", "club": "Monaco" }
+    ],
+    "paises": ["FR", "ES"],
+    "pistaExtra": "Campeón del Mundo con 19 años en Rusia 2018"
   }
 ]

@@ -11,42 +11,42 @@
     "nombre": "Héroes de los 90",
     "emoji": "📼⚽",
     "descripcion": "Los cracks de los noventa",
-    "jugadorIds": ["maradona", "batistuta", "ortega", "lopez"]
+    "jugadorIds": ["maradona", "batistuta", "ortega", "lopez", "raul_gonzalez", "clarence_seedorf"]
   },
   {
     "id": "generacion_2000",
     "nombre": "Generación 2000",
     "emoji": "💿⚽",
     "descripcion": "Pico de carrera en los 2000",
-    "jugadorIds": ["crespo", "mascherano", "veron", "riquelme", "aimar", "cambiasso", "etoo", "lucho"]
+    "jugadorIds": ["crespo", "mascherano", "veron", "riquelme", "aimar", "cambiasso", "etoo", "lucho", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "francesco_totti", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "raul_gonzalez", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "cristiano_ronaldo", "gianluigi_buffon"]
   },
   {
     "id": "leyendas",
     "nombre": "Leyendas",
     "emoji": "👑🏆",
     "descripcion": "Los que conoce todo el mundo",
-    "jugadorIds": ["maradona", "messi", "ronaldinho", "zidane", "batistuta", "riquelme", "zanetti"]
+    "jugadorIds": ["maradona", "messi", "ronaldinho", "zidane", "batistuta", "riquelme", "zanetti", "cristiano_ronaldo", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski"]
   },
   {
     "id": "goleadores",
     "nombre": "Goleadores",
     "emoji": "⚽🔥",
     "descripcion": "Los que no paraban de meter goles",
-    "jugadorIds": ["messi", "batistuta", "crespo", "forlan", "drogba", "etoo", "lopez"]
+    "jugadorIds": ["messi", "batistuta", "crespo", "forlan", "drogba", "etoo", "lopez", "cristiano_ronaldo", "thierry_henry", "zlatan_ibrahimovic", "alessandro_del_piero", "frank_lampard", "wayne_rooney", "raul_gonzalez", "robert_lewandowski", "arjen_robben"]
   },
   {
     "id": "enganches",
     "nombre": "Enganches y Creativos",
     "emoji": "🎩✨",
     "descripcion": "Los que inventaban fútbol",
-    "jugadorIds": ["maradona", "ronaldinho", "zidane", "riquelme", "aimar", "ortega", "pirlo"]
+    "jugadorIds": ["maradona", "ronaldinho", "zidane", "riquelme", "aimar", "ortega", "pirlo", "francesco_totti", "andres_iniesta", "wesley_sneijder"]
   },
   {
     "id": "mediocampistas",
     "nombre": "Mediocampistas",
     "emoji": "🧠⚡",
     "descripcion": "Los que manejaban el medio",
-    "jugadorIds": ["mascherano", "cambiasso", "veron", "pirlo", "lucho"]
+    "jugadorIds": ["mascherano", "cambiasso", "veron", "pirlo", "lucho", "david_beckham", "steven_gerrard", "frank_lampard", "xavi_hernandez", "andres_iniesta", "luka_modric", "wesley_sneijder", "clarence_seedorf"]
   },
   {
     "id": "trotamundos",
