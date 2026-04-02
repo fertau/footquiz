@@ -96,5 +96,82 @@
     "emoji": "🌎⚽",
     "descripcion": "Sudamericanos que la rompieron en Europa",
     "jugadorIds": ["maradona", "messi", "ronaldinho", "batistuta", "crespo", "mascherano", "forlan", "zanetti", "veron", "riquelme", "aimar", "cambiasso", "ortega", "lopez", "lucho"]
+  },
+  {
+    "id": "europa_pura",
+    "nombre": "Europa Pura",
+    "emoji": "🌍⚽",
+    "descripcion": "Cracks nacidos y criados en Europa",
+    "jugadorIds": ["zidane", "pirlo", "cristiano_ronaldo", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "kylian_mbappe"]
+  },
+  {
+    "id": "generacion_2010",
+    "nombre": "Generación 2010",
+    "emoji": "📱⚽",
+    "descripcion": "Pico de carrera en los 2010",
+    "jugadorIds": ["cristiano_ronaldo", "zlatan_ibrahimovic", "gianluigi_buffon", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben"]
+  },
+  {
+    "id": "generacion_actual",
+    "nombre": "Generación Actual",
+    "emoji": "🔥⚽",
+    "descripcion": "Estrellas del fútbol actual",
+    "jugadorIds": ["kylian_mbappe"]
+  },
+  {
+    "id": "serie_a",
+    "nombre": "Serie A",
+    "emoji": "🇮🇹🏟️",
+    "descripcion": "Figuras de la Serie A italiana",
+    "jugadorIds": ["pirlo", "cristiano_ronaldo", "zlatan_ibrahimovic", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "wesley_sneijder", "clarence_seedorf"]
+  },
+  {
+    "id": "premier_league",
+    "nombre": "Premier League",
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿🏟️",
+    "descripcion": "Figuras de la Premier League",
+    "jugadorIds": ["cristiano_ronaldo", "david_beckham", "thierry_henry", "steven_gerrard", "frank_lampard", "wayne_rooney", "luka_modric", "arjen_robben"]
+  },
+  {
+    "id": "la_liga",
+    "nombre": "La Liga",
+    "emoji": "🇪🇸🏟️",
+    "descripcion": "Figuras de La Liga española",
+    "jugadorIds": ["cristiano_ronaldo", "david_beckham", "zlatan_ibrahimovic", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "kylian_mbappe"]
+  },
+  {
+    "id": "bundesliga",
+    "nombre": "Bundesliga",
+    "emoji": "🇩🇪🏟️",
+    "descripcion": "Figuras de la Bundesliga alemana",
+    "jugadorIds": ["robert_lewandowski", "arjen_robben"]
+  },
+  {
+    "id": "numero_10",
+    "nombre": "Número 10",
+    "emoji": "🔟✨",
+    "descripcion": "Los clásicos número 10",
+    "jugadorIds": ["maradona", "ronaldinho", "zidane", "riquelme", "francesco_totti"]
+  },
+  {
+    "id": "tecnicos_jugadores",
+    "nombre": "De Jugador a Técnico",
+    "emoji": "📋⚽",
+    "descripcion": "Grandes jugadores que pasaron a dirigir",
+    "jugadorIds": ["steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "clarence_seedorf"]
+  },
+  {
+    "id": "murallas",
+    "nombre": "Murallas",
+    "emoji": "🧱🛡️",
+    "descripcion": "Los mejores defensores",
+    "jugadorIds": ["zanetti", "sergio_ramos"]
+  },
+  {
+    "id": "arqueros",
+    "nombre": "Arqueros",
+    "emoji": "🧤🥅",
+    "descripcion": "Los grandes guardametas",
+    "jugadorIds": ["gianluigi_buffon"]
   }
 ]
