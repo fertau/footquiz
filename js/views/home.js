@@ -1,9 +1,11 @@
 export function renderHome(container) {
   container.innerHTML = `
     <div class="home">
-      <div class="home-logo">⚽🧩</div>
-      <h1 class="home-title">FutQuiz</h1>
-      <p class="home-subtitle">Adiviná jugadores de fútbol con pistas de su carrera</p>
+      <div class="home-hero">
+        <div class="home-logo">⚽</div>
+        <h1 class="home-title">FutQuiz</h1>
+        <p class="home-subtitle">Adiviná jugadores de fútbol con pistas de su carrera</p>
+      </div>
       <div class="mode-grid">
         <button class="mode-btn" data-mode="carrera">
           <span class="mode-emoji">🏟️</span>
@@ -27,7 +29,7 @@ export function renderHome(container) {
           </span>
         </button>
       </div>
-      <button class="how-to-play-btn" style="background:none;border:none;color:var(--gray-600);font-size:0.9rem;cursor:pointer;margin-top:8px;text-decoration:underline;">¿Cómo se juega?</button>
+      <button class="how-to-play-btn">¿Cómo se juega?</button>
     </div>
   `;
 

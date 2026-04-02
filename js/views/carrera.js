@@ -13,7 +13,6 @@ export function renderCarrera(container, params) {
   const allPlayers = getPlayersForCategory(catId)
     .filter(p => p.carrera && p.carrera.length >= 2);
 
-  // Shuffle and pick up to 5
   const shuffled = [...allPlayers].sort(() => Math.random() - 0.5);
   const selected = shuffled.slice(0, Math.min(5, shuffled.length));
 
@@ -33,12 +32,10 @@ function renderRound(container) {
     return;
   }
 
-  const player = getCurrentPlayer(state);
   const cat = getCategories().find(c => c.id === state.categoryId);
   const catName = cat ? cat.nombre : '';
   const total = state.players.length;
   const current = state.currentIndex + 1;
-  const maxClues = getMaxClues(state);
 
   container.innerHTML = `
     <div class="header">
@@ -63,6 +60,7 @@ function renderRound(container) {
         }).join('')}
       </div>
       <div class="clues-area" id="clues-area"></div>
+      <div id="next-clue-area" class="next-clue-area"></div>
       <div id="answer-area"></div>
       <div class="guess-area" id="guess-area"></div>
     </div>
@@ -75,6 +73,7 @@ function renderRound(container) {
   });
 
   renderClues();
+  renderNextClueButton();
   renderGuessArea();
 }
 
@@ -98,7 +97,7 @@ function renderClues() {
     }
   }
 
-  // Pista extra button (only if player has one and not resolved)
+  // Pista extra
   if (player.pistaExtra && !state.resolved) {
     if (state.pistaExtraUsed) {
       html += `<div class="pista-extra-btn revealed">💡 ${player.pistaExtra}</div>`;
@@ -118,9 +117,30 @@ function renderClues() {
   }
 }
 
+function renderNextClueButton() {
+  const area = document.getElementById('next-clue-area');
+  if (!area) return;
+
+  if (state.resolved || !canRevealMore(state)) {
+    area.innerHTML = '';
+    return;
+  }
+
+  area.innerHTML = `
+    <button class="next-clue-btn" id="next-clue-btn">
+      <span class="btn-icon">+</span> Siguiente pista
+    </button>
+  `;
+
+  document.getElementById('next-clue-btn').addEventListener('click', () => {
+    revealNextClue(state);
+    renderClues();
+    renderNextClueButton();
+  });
+}
+
 function renderGuessArea() {
   const guessArea = document.getElementById('guess-area');
-  const answerArea = document.getElementById('answer-area');
   if (!guessArea) return;
 
   if (state.resolved) {
@@ -128,26 +148,21 @@ function renderGuessArea() {
     return;
   }
 
-  const moreClues = canRevealMore(state);
-
   guessArea.innerHTML = `
     <div class="guess-row">
       <input type="text" class="guess-input" id="guess-input" placeholder="¿Quién es?" autocomplete="off" autocorrect="off" spellcheck="false">
-      <button class="guess-btn" id="guess-btn">Adivinar</button>
+      <button class="guess-btn" id="guess-btn">OK</button>
     </div>
     <div class="game-actions">
-      ${moreClues ? '<button class="next-clue-btn" id="next-clue-btn">Siguiente pista 👆</button>' : ''}
-      <button class="skip-btn" id="skip-btn">${moreClues ? 'Me rindo 🏳️' : 'No sé 🏳️'}</button>
+      <button class="skip-btn" id="skip-btn">Me rindo 🏳️</button>
     </div>
   `;
 
   const input = document.getElementById('guess-input');
   const guessBtn = document.getElementById('guess-btn');
-  const nextClueBtn = document.getElementById('next-clue-btn');
   const skipBtn = document.getElementById('skip-btn');
 
-  input.focus();
-
+  // Only focus on explicit tap on input — no auto-focus
   const handleGuess = () => {
     const val = input.value.trim();
     if (!val) return;
@@ -160,7 +175,6 @@ function renderGuessArea() {
       input.classList.add('wrong');
       input.value = '';
       setTimeout(() => input.classList.remove('wrong'), 400);
-      input.focus();
     }
   };
 
@@ -168,14 +182,6 @@ function renderGuessArea() {
   input.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') handleGuess();
   });
-
-  if (nextClueBtn) {
-    nextClueBtn.addEventListener('click', () => {
-      revealNextClue(state);
-      renderClues();
-      renderGuessArea();
-    });
-  }
 
   skipBtn.addEventListener('click', () => {
     registerGiveUp(state);
@@ -187,9 +193,11 @@ function showAnswer(correct) {
   const player = getCurrentPlayer(state);
   const answerArea = document.getElementById('answer-area');
   const guessArea = document.getElementById('guess-area');
+  const nextClueArea = document.getElementById('next-clue-area');
   if (!answerArea) return;
 
   guessArea.innerHTML = '';
+  if (nextClueArea) nextClueArea.innerHTML = '';
 
   const lastResult = state.results[state.results.length - 1];
   const points = lastResult ? lastResult.points : 0;
@@ -198,7 +206,7 @@ function showAnswer(correct) {
     <div class="answer-reveal ${correct ? 'correct' : 'wrong'}">
       <div class="answer-emoji">${correct ? '🎉' : '😔'}</div>
       <div class="answer-name">${getFlag(player.nacionalidad)} ${player.nombreCompleto || player.nombre}</div>
-      ${player.apodo ? `<div style="color:var(--gray-600);font-size:0.9rem;">"${player.apodo}"</div>` : ''}
+      ${player.apodo ? `<div class="answer-apodo">"${player.apodo}"</div>` : ''}
       <div class="answer-points">${correct ? `+${points} puntos` : 'Sin puntos'}</div>
       <button class="answer-next-btn" id="next-player-btn">
         ${state.currentIndex + 1 < state.players.length ? 'Siguiente jugador →' : 'Ver resultado'}
