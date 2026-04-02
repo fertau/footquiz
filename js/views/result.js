@@ -1,5 +1,5 @@
 import { generateShareText, getMaxPossibleScore } from '../game.js';
-import { getCategories } from '../data.js';
+import { getCategories, updateStats, getStats, getPlayers } from '../data.js';
 
 let savedState = null;
 
@@ -19,6 +19,9 @@ export function renderResult(container) {
   const maxScore = getMaxPossibleScore(state);
   const correct = state.results.filter(r => r.correct).length;
   const total = state.results.length;
+
+  // Update stats
+  const stats = updateStats(state.results);
 
   let emoji = '😢';
   if (correct === total) emoji = '🏆';

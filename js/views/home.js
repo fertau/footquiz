@@ -1,3 +1,5 @@
+import { getStats, getPlayers } from '../data.js';
+
 export function renderHome(container) {
   container.innerHTML = `
     <div class="home">
@@ -58,6 +60,7 @@ export function renderHome(container) {
           </button>
         </div>
       </div>
+      <div class="home-stats" id="home-stats"></div>
       <button class="how-to-play-btn">¿Cómo se juega?</button>
     </div>
   `;
@@ -67,6 +70,18 @@ export function renderHome(container) {
       location.hash = `#/categorias/${btn.dataset.mode}`;
     });
   });
+
+  // Show stats
+  const stats = getStats();
+  const totalPlayers = getPlayers().length;
+  const discovered = stats.discoveredCount || 0;
+  const gamesPlayed = stats.gamesPlayed || 0;
+  if (gamesPlayed > 0) {
+    document.getElementById('home-stats').innerHTML = `
+      <span>${discovered}/${totalPlayers} descubiertos</span>
+      <span>${gamesPlayed} partida${gamesPlayed !== 1 ? 's' : ''}</span>
+    `;
+  }
 
   container.querySelector('.how-to-play-btn').addEventListener('click', () => {
     showHowToPlay(container);

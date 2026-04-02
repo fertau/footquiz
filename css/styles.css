@@ -227,6 +227,17 @@ body {
   color: var(--gray-500);
 }
 
+.home-stats {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--gray-400);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
 .how-to-play-btn {
   background: none;
   border: none;

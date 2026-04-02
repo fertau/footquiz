@@ -1,4 +1,4 @@
-import { getFlag, checkGuess, getPlayersForCategory, getCategories } from '../data.js';
+import { getFlag, checkGuess, getPlayersForCategory, getCategories, selectPlayersForRound } from '../data.js';
 import {
   createGameState, getCurrentPlayer, getMaxClues, canRevealMore,
   revealNextClue, usePistaExtra, registerCorrectGuess, registerWrongGuess,
@@ -13,8 +13,7 @@ export function renderCompaneros(container, params) {
   const allPlayers = getPlayersForCategory(catId)
     .filter(p => p.companeros && p.companeros.length >= 3);
 
-  const shuffled = [...allPlayers].sort(() => Math.random() - 0.5);
-  const selected = shuffled.slice(0, Math.min(5, shuffled.length));
+  const selected = selectPlayersForRound(allPlayers, 5);
 
   if (selected.length === 0) {
     container.innerHTML = '<div class="home"><p>No hay suficientes jugadores con datos de compañeros.</p><button class="mode-btn" onclick="location.hash=\'#/\'">Volver</button></div>';
