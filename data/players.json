@@ -1,0 +1,502 @@
+[
+  {
+    "id": "maradona",
+    "nombre": "Maradona",
+    "nombreCompleto": "Diego Armando Maradona",
+    "apodo": "El Diego",
+    "nacionalidad": "AR",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": ["argentinos_mundo", "leyendas", "enganches", "heroes_90", "mundialistas", "ida_y_vuelta"],
+    "carrera": [
+      { "club": "Argentinos Juniors", "pais": "AR", "anios": "1976-1981" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "1981-1982" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1982-1984" },
+      { "club": "Napoli", "pais": "IT", "anios": "1984-1991" },
+      { "club": "Sevilla", "pais": "ES", "anios": "1992-1993" },
+      { "club": "Newell's Old Boys", "pais": "AR", "anios": "1993" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "1995-1997" }
+    ],
+    "companeros": [
+      { "nombre": "Caniggia", "club": "Boca Juniors" },
+      { "nombre": "Careca", "club": "Napoli" },
+      { "nombre": "Valdano", "club": "Argentina" },
+      { "nombre": "Schuster", "club": "Barcelona" }
+    ],
+    "paises": ["AR", "ES", "IT"],
+    "pistaExtra": "Campeón del Mundo en 1986"
+  },
+  {
+    "id": "messi",
+    "nombre": "Messi",
+    "nombreCompleto": "Lionel Andrés Messi",
+    "apodo": "La Pulga",
+    "nacionalidad": "AR",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["argentinos_mundo", "leyendas", "goleadores", "mundialistas", "champions"],
+    "carrera": [
+      { "club": "Barcelona", "pais": "ES", "anios": "2004-2021" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2021-2023" },
+      { "club": "Inter Miami", "pais": "US", "anios": "2023-" }
+    ],
+    "companeros": [
+      { "nombre": "Xavi", "club": "Barcelona" },
+      { "nombre": "Neymar", "club": "Paris Saint-Germain" },
+      { "nombre": "Mbappé", "club": "Paris Saint-Germain" },
+      { "nombre": "Busquets", "club": "Inter Miami" }
+    ],
+    "paises": ["AR", "ES", "FR", "US"],
+    "pistaExtra": "Campeón del Mundo en 2022"
+  },
+  {
+    "id": "ronaldinho",
+    "nombre": "Ronaldinho",
+    "nombreCompleto": "Ronaldo de Assis Moreira",
+    "apodo": "Ronaldinho Gaúcho",
+    "nacionalidad": "BR",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": ["brasileros_mundo", "leyendas", "enganches", "trotamundos", "champions"],
+    "carrera": [
+      { "club": "Grêmio", "pais": "BR", "anios": "1998-2001" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2001-2003" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2003-2008" },
+      { "club": "Milan", "pais": "IT", "anios": "2008-2011" },
+      { "club": "Flamengo", "pais": "BR", "anios": "2011-2012" },
+      { "club": "Atlético Mineiro", "pais": "BR", "anios": "2012-2014" },
+      { "club": "Querétaro", "pais": "MX", "anios": "2014-2015" },
+      { "club": "Fluminense", "pais": "BR", "anios": "2015" }
+    ],
+    "companeros": [
+      { "nombre": "Messi", "club": "Barcelona" },
+      { "nombre": "Pirlo", "club": "Milan" },
+      { "nombre": "Jay-Jay Okocha", "club": "PSG" },
+      { "nombre": "Eto'o", "club": "Barcelona" }
+    ],
+    "paises": ["BR", "FR", "ES", "IT", "MX"],
+    "pistaExtra": "Balón de Oro 2005"
+  },
+  {
+    "id": "zidane",
+    "nombre": "Zidane",
+    "nombreCompleto": "Zinedine Yazid Zidane",
+    "apodo": "Zizou",
+    "nacionalidad": "FR",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": ["leyendas", "europa_pura", "enganches", "mundialistas", "champions"],
+    "carrera": [
+      { "club": "Cannes", "pais": "FR", "anios": "1989-1992" },
+      { "club": "Bordeaux", "pais": "FR", "anios": "1992-1996" },
+      { "club": "Juventus", "pais": "IT", "anios": "1996-2001" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2001-2006" }
+    ],
+    "companeros": [
+      { "nombre": "Del Piero", "club": "Juventus" },
+      { "nombre": "Ronaldo", "club": "Real Madrid" },
+      { "nombre": "Roberto Carlos", "club": "Real Madrid" },
+      { "nombre": "Figo", "club": "Real Madrid" }
+    ],
+    "paises": ["FR", "IT", "ES"],
+    "pistaExtra": "Campeón del Mundo en 1998"
+  },
+  {
+    "id": "batistuta",
+    "nombre": "Batistuta",
+    "nombreCompleto": "Gabriel Omar Batistuta",
+    "apodo": "Batigol",
+    "nacionalidad": "AR",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["argentinos_mundo", "leyendas", "goleadores", "heroes_90", "mundialistas", "un_solo_amor"],
+    "carrera": [
+      { "club": "Newell's Old Boys", "pais": "AR", "anios": "1988-1989" },
+      { "club": "River Plate", "pais": "AR", "anios": "1989-1991" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1991-2000" },
+      { "club": "Roma", "pais": "IT", "anios": "2000-2003" },
+      { "club": "Al-Arabi", "pais": "QA", "anios": "2003-2005" }
+    ],
+    "companeros": [
+      { "nombre": "Rui Costa", "club": "Fiorentina" },
+      { "nombre": "Totti", "club": "Roma" },
+      { "nombre": "Cafu", "club": "Roma" },
+      { "nombre": "Passarella", "club": "River Plate" }
+    ],
+    "paises": ["AR", "IT", "QA"],
+    "pistaExtra": "9 temporadas consecutivas en Fiorentina"
+  },
+  {
+    "id": "crespo",
+    "nombre": "Crespo",
+    "nombreCompleto": "Hernán Jorge Crespo",
+    "apodo": "Valdanito",
+    "nacionalidad": "AR",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["argentinos_mundo", "goleadores", "trotamundos", "generacion_2000", "champions"],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "1993-1996" },
+      { "club": "Parma", "pais": "IT", "anios": "1996-2000" },
+      { "club": "Lazio", "pais": "IT", "anios": "2000-2002" },
+      { "club": "Inter", "pais": "IT", "anios": "2002-2003" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2003-2004" },
+      { "club": "Milan", "pais": "IT", "anios": "2004-2006" },
+      { "club": "Inter", "pais": "IT", "anios": "2006-2008" },
+      { "club": "Genoa", "pais": "IT", "anios": "2008-2009" },
+      { "club": "Parma", "pais": "IT", "anios": "2009-2012" }
+    ],
+    "companeros": [
+      { "nombre": "Buffon", "club": "Parma" },
+      { "nombre": "Lampard", "club": "Chelsea" },
+      { "nombre": "Kaká", "club": "Milan" },
+      { "nombre": "Zanetti", "club": "Inter" }
+    ],
+    "paises": ["AR", "IT", "GB-ENG"],
+    "pistaExtra": "Volvió a Parma dos veces en su carrera"
+  },
+  {
+    "id": "mascherano",
+    "nombre": "Mascherano",
+    "nombreCompleto": "Javier Alejandro Mascherano",
+    "apodo": "El Jefecito",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["argentinos_mundo", "mediocampistas", "trotamundos", "de_sudamerica_europa", "generacion_2000"],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "2003-2005" },
+      { "club": "Corinthians", "pais": "BR", "anios": "2005-2006" },
+      { "club": "West Ham United", "pais": "GB-ENG", "anios": "2006-2007" },
+      { "club": "Liverpool", "pais": "GB-ENG", "anios": "2007-2010" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2010-2018" },
+      { "club": "Hebei China Fortune", "pais": "CN", "anios": "2018" },
+      { "club": "Estudiantes", "pais": "AR", "anios": "2019-2020" }
+    ],
+    "companeros": [
+      { "nombre": "Gerrard", "club": "Liverpool" },
+      { "nombre": "Messi", "club": "Barcelona" },
+      { "nombre": "Xavi", "club": "Barcelona" },
+      { "nombre": "Tevez", "club": "Corinthians" }
+    ],
+    "paises": ["AR", "BR", "GB-ENG", "ES", "CN"],
+    "pistaExtra": "Jugó de defensor central en Barcelona"
+  },
+  {
+    "id": "forlan",
+    "nombre": "Forlán",
+    "nombreCompleto": "Diego Martín Forlán Corazo",
+    "apodo": "Cachavacha",
+    "nacionalidad": "UY",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["garra_charrua", "goleadores", "trotamundos", "mundialistas", "generacion_2000"],
+    "carrera": [
+      { "club": "Independiente", "pais": "AR", "anios": "1997-2002" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2002-2004" },
+      { "club": "Villarreal", "pais": "ES", "anios": "2004-2007" },
+      { "club": "Atlético de Madrid", "pais": "ES", "anios": "2007-2011" },
+      { "club": "Inter", "pais": "IT", "anios": "2011-2012" },
+      { "club": "Internacional", "pais": "BR", "anios": "2012-2013" },
+      { "club": "Cerezo Osaka", "pais": "JP", "anios": "2014" },
+      { "club": "Peñarol", "pais": "UY", "anios": "2015-2016" },
+      { "club": "Mumbai City", "pais": "IN", "anios": "2016" }
+    ],
+    "companeros": [
+      { "nombre": "Van Nistelrooy", "club": "Manchester United" },
+      { "nombre": "Agüero", "club": "Atlético de Madrid" },
+      { "nombre": "Riquelme", "club": "Villarreal" },
+      { "nombre": "Zanetti", "club": "Inter" }
+    ],
+    "paises": ["UY", "AR", "GB-ENG", "ES", "IT", "BR", "JP", "IN"],
+    "pistaExtra": "Balón de Oro del Mundial 2010"
+  },
+  {
+    "id": "drogba",
+    "nombre": "Drogba",
+    "nombreCompleto": "Didier Yves Drogba Tébily",
+    "apodo": "El Elefante",
+    "nacionalidad": "CI",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["estrellas_africa", "goleadores", "trotamundos", "champions", "ida_y_vuelta"],
+    "carrera": [
+      { "club": "Le Mans", "pais": "FR", "anios": "1998-2002" },
+      { "club": "Guingamp", "pais": "FR", "anios": "2002-2003" },
+      { "club": "Marseille", "pais": "FR", "anios": "2003-2004" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2004-2012" },
+      { "club": "Shanghai Shenhua", "pais": "CN", "anios": "2012" },
+      { "club": "Galatasaray", "pais": "TR", "anios": "2013-2014" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2014-2015" },
+      { "club": "Montreal Impact", "pais": "US", "anios": "2015-2016" }
+    ],
+    "companeros": [
+      { "nombre": "Lampard", "club": "Chelsea" },
+      { "nombre": "Terry", "club": "Chelsea" },
+      { "nombre": "Sneijder", "club": "Galatasaray" },
+      { "nombre": "Anelka", "club": "Shanghai Shenhua" }
+    ],
+    "paises": ["CI", "FR", "GB-ENG", "CN", "TR", "US"],
+    "pistaExtra": "Gol en la final de Champions 2012"
+  },
+  {
+    "id": "pirlo",
+    "nombre": "Pirlo",
+    "nombreCompleto": "Andrea Pirlo",
+    "apodo": "El Arquitecto",
+    "nacionalidad": "IT",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["europa_pura", "mediocampistas", "enganches", "champions", "mundialistas"],
+    "carrera": [
+      { "club": "Brescia", "pais": "IT", "anios": "1995-1998" },
+      { "club": "Inter", "pais": "IT", "anios": "1998-2001" },
+      { "club": "Milan", "pais": "IT", "anios": "2001-2011" },
+      { "club": "Juventus", "pais": "IT", "anios": "2011-2015" },
+      { "club": "New York City FC", "pais": "US", "anios": "2015-2017" }
+    ],
+    "companeros": [
+      { "nombre": "Maldini", "club": "Milan" },
+      { "nombre": "Kaká", "club": "Milan" },
+      { "nombre": "Tevez", "club": "Juventus" },
+      { "nombre": "David Villa", "club": "New York City FC" }
+    ],
+    "paises": ["IT", "US"],
+    "pistaExtra": "Campeón del Mundo en 2006"
+  },
+  {
+    "id": "etoo",
+    "nombre": "Eto'o",
+    "nombreCompleto": "Samuel Eto'o Fils",
+    "apodo": null,
+    "nacionalidad": "CM",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["estrellas_africa", "goleadores", "trotamundos", "champions", "generacion_2000"],
+    "carrera": [
+      { "club": "Real Madrid", "pais": "ES", "anios": "1997-2000" },
+      { "club": "Mallorca", "pais": "ES", "anios": "2000-2004" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2004-2009" },
+      { "club": "Inter", "pais": "IT", "anios": "2009-2011" },
+      { "club": "Anzhi Makhachkala", "pais": "RU", "anios": "2011-2013" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2013-2014" },
+      { "club": "Everton", "pais": "GB-ENG", "anios": "2014-2015" },
+      { "club": "Sampdoria", "pais": "IT", "anios": "2015" },
+      { "club": "Antalyaspor", "pais": "TR", "anios": "2015-2017" },
+      { "club": "Konyaspor", "pais": "TR", "anios": "2017-2018" }
+    ],
+    "companeros": [
+      { "nombre": "Ronaldinho", "club": "Barcelona" },
+      { "nombre": "Messi", "club": "Barcelona" },
+      { "nombre": "Mourinho", "club": "Inter" },
+      { "nombre": "Zanetti", "club": "Inter" }
+    ],
+    "paises": ["CM", "ES", "IT", "RU", "GB-ENG", "TR"],
+    "pistaExtra": "Ganó la Champions con dos clubes distintos en dos años seguidos"
+  },
+  {
+    "id": "zanetti",
+    "nombre": "Zanetti",
+    "nombreCompleto": "Javier Adelmar Zanetti",
+    "apodo": "El Tractor",
+    "nacionalidad": "AR",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": ["argentinos_mundo", "murallas", "leyendas", "un_solo_amor", "champions"],
+    "carrera": [
+      { "club": "Talleres", "pais": "AR", "anios": "1992-1993" },
+      { "club": "Banfield", "pais": "AR", "anios": "1993-1995" },
+      { "club": "Inter", "pais": "IT", "anios": "1995-2014" }
+    ],
+    "companeros": [
+      { "nombre": "Ronaldo", "club": "Inter" },
+      { "nombre": "Adriano", "club": "Inter" },
+      { "nombre": "Milito", "club": "Inter" },
+      { "nombre": "Cambiasso", "club": "Inter" }
+    ],
+    "paises": ["AR", "IT"],
+    "pistaExtra": "Más de 800 partidos en un solo club europeo"
+  },
+  {
+    "id": "veron",
+    "nombre": "Verón",
+    "nombreCompleto": "Juan Sebastián Verón",
+    "apodo": "La Brujita",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["argentinos_mundo", "mediocampistas", "trotamundos", "generacion_2000", "ida_y_vuelta"],
+    "carrera": [
+      { "club": "Estudiantes", "pais": "AR", "anios": "1994-1996" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "1996" },
+      { "club": "Sampdoria", "pais": "IT", "anios": "1996-1998" },
+      { "club": "Lazio", "pais": "IT", "anios": "1998-2001" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2001-2003" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2003-2006" },
+      { "club": "Estudiantes", "pais": "AR", "anios": "2006-2014" }
+    ],
+    "companeros": [
+      { "nombre": "Beckham", "club": "Manchester United" },
+      { "nombre": "Nesta", "club": "Lazio" },
+      { "nombre": "Lampard", "club": "Chelsea" },
+      { "nombre": "Riquelme", "club": "Boca Juniors" }
+    ],
+    "paises": ["AR", "IT", "GB-ENG"],
+    "pistaExtra": "Ganó la Libertadores volviendo al club donde debutó"
+  },
+  {
+    "id": "riquelme",
+    "nombre": "Riquelme",
+    "nombreCompleto": "Juan Román Riquelme",
+    "apodo": "Román",
+    "nacionalidad": "AR",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": ["argentinos_mundo", "leyendas", "enganches", "ida_y_vuelta", "generacion_2000"],
+    "carrera": [
+      { "club": "Argentinos Juniors", "pais": "AR", "anios": "1995-1996" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "1996-2002" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2002-2003" },
+      { "club": "Villarreal", "pais": "ES", "anios": "2003-2007" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "2007-2014" }
+    ],
+    "companeros": [
+      { "nombre": "Palermo", "club": "Boca Juniors" },
+      { "nombre": "Forlán", "club": "Villarreal" },
+      { "nombre": "Saviola", "club": "Barcelona" },
+      { "nombre": "Senna", "club": "Villarreal" }
+    ],
+    "paises": ["AR", "ES"],
+    "pistaExtra": "Ídolo máximo de Boca con múltiples Libertadores"
+  },
+  {
+    "id": "aimar",
+    "nombre": "Aimar",
+    "nombreCompleto": "Pablo César Aimar",
+    "apodo": "El Payaso",
+    "nacionalidad": "AR",
+    "posicion": "enganche",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "enganches", "de_sudamerica_europa", "generacion_2000", "ida_y_vuelta"],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "1996-2001" },
+      { "club": "Valencia", "pais": "ES", "anios": "2001-2006" },
+      { "club": "Real Zaragoza", "pais": "ES", "anios": "2006-2008" },
+      { "club": "Benfica", "pais": "PT", "anios": "2008-2013" },
+      { "club": "River Plate", "pais": "AR", "anios": "2013-2015" }
+    ],
+    "companeros": [
+      { "nombre": "D'Alessandro", "club": "River Plate" },
+      { "nombre": "David Villa", "club": "Valencia" },
+      { "nombre": "Aduriz", "club": "Real Zaragoza" },
+      { "nombre": "Di María", "club": "Benfica" }
+    ],
+    "paises": ["AR", "ES", "PT"],
+    "pistaExtra": "Ídolo de Messi en su infancia"
+  },
+  {
+    "id": "cambiasso",
+    "nombre": "Cambiasso",
+    "nombreCompleto": "Esteban Matías Cambiasso",
+    "apodo": "Cuchu",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "mediocampistas", "de_sudamerica_europa", "champions", "generacion_2000"],
+    "carrera": [
+      { "club": "Argentinos Juniors", "pais": "AR", "anios": "1995-1998" },
+      { "club": "River Plate", "pais": "AR", "anios": "1998-2002" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2002-2004" },
+      { "club": "Inter", "pais": "IT", "anios": "2004-2014" },
+      { "club": "Leicester City", "pais": "GB-ENG", "anios": "2014-2015" }
+    ],
+    "companeros": [
+      { "nombre": "Zanetti", "club": "Inter" },
+      { "nombre": "Zidane", "club": "Real Madrid" },
+      { "nombre": "Milito", "club": "Inter" },
+      { "nombre": "Vardy", "club": "Leicester City" }
+    ],
+    "paises": ["AR", "ES", "IT", "GB-ENG"],
+    "pistaExtra": "Ganó la Champions con Inter en 2010"
+  },
+  {
+    "id": "ortega",
+    "nombre": "Ortega",
+    "nombreCompleto": "Ariel Arnaldo Ortega",
+    "apodo": "El Burrito",
+    "nacionalidad": "AR",
+    "posicion": "enganche",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "enganches", "ida_y_vuelta", "heroes_90", "te_acordas"],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "1991-1996" },
+      { "club": "Valencia", "pais": "ES", "anios": "1996-1997" },
+      { "club": "Sampdoria", "pais": "IT", "anios": "1997-1998" },
+      { "club": "Parma", "pais": "IT", "anios": "1998-1999" },
+      { "club": "River Plate", "pais": "AR", "anios": "1999-2000" },
+      { "club": "Fenerbahçe", "pais": "TR", "anios": "2000-2001" },
+      { "club": "River Plate", "pais": "AR", "anios": "2001-2002" },
+      { "club": "Newell's Old Boys", "pais": "AR", "anios": "2003-2004" }
+    ],
+    "companeros": [
+      { "nombre": "Crespo", "club": "River Plate" },
+      { "nombre": "Aimar", "club": "River Plate" },
+      { "nombre": "Caniggia", "club": "River Plate" },
+      { "nombre": "Batistuta", "club": "Parma" }
+    ],
+    "paises": ["AR", "ES", "IT", "TR"],
+    "pistaExtra": "Volvió a River Plate al menos 3 veces"
+  },
+  {
+    "id": "lopez",
+    "nombre": "Claudio López",
+    "nombreCompleto": "Claudio Javier López",
+    "apodo": "El Piojo",
+    "nacionalidad": "AR",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "goleadores", "de_sudamerica_europa", "heroes_90", "te_acordas"],
+    "carrera": [
+      { "club": "Racing Club", "pais": "AR", "anios": "1993-1996" },
+      { "club": "Valencia", "pais": "ES", "anios": "1996-2001" },
+      { "club": "Lazio", "pais": "IT", "anios": "2001-2004" },
+      { "club": "Celta de Vigo", "pais": "ES", "anios": "2004-2005" },
+      { "club": "Mallorca", "pais": "ES", "anios": "2005-2006" },
+      { "club": "Racing Club", "pais": "AR", "anios": "2008-2009" }
+    ],
+    "companeros": [
+      { "nombre": "Mendieta", "club": "Valencia" },
+      { "nombre": "Aimar", "club": "Valencia" },
+      { "nombre": "Verón", "club": "Lazio" },
+      { "nombre": "Stankovic", "club": "Lazio" }
+    ],
+    "paises": ["AR", "ES", "IT"],
+    "pistaExtra": "Fue goleador de Racing antes de ir a Europa"
+  },
+  {
+    "id": "lucho",
+    "nombre": "Lucho González",
+    "nombreCompleto": "Luciano Fabián González",
+    "apodo": "Lucho",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "mediocampistas", "de_sudamerica_europa", "generacion_2000", "ida_y_vuelta"],
+    "carrera": [
+      { "club": "Huracán", "pais": "AR", "anios": "2001-2003" },
+      { "club": "River Plate", "pais": "AR", "anios": "2003-2005" },
+      { "club": "Porto", "pais": "PT", "anios": "2005-2010" },
+      { "club": "Marseille", "pais": "FR", "anios": "2010-2012" },
+      { "club": "Porto", "pais": "PT", "anios": "2012-2014" },
+      { "club": "Athletico Paranaense", "pais": "BR", "anios": "2015-2019" }
+    ],
+    "companeros": [
+      { "nombre": "Falcao", "club": "Porto" },
+      { "nombre": "Hulk", "club": "Porto" },
+      { "nombre": "Ayew", "club": "Marseille" },
+      { "nombre": "D'Alessandro", "club": "River Plate" }
+    ],
+    "paises": ["AR", "PT", "FR", "BR"],
+    "pistaExtra": "Ídolo de Porto, volvió dos veces al club"
+  }
+]
