@@ -4,174 +4,577 @@
     "nombre": "Argentinos por el Mundo",
     "emoji": "🇦🇷✈️",
     "descripcion": "Argentinos que brillaron afuera",
-    "jugadorIds": ["maradona", "messi", "batistuta", "crespo", "mascherano", "zanetti", "veron", "riquelme", "aimar", "cambiasso", "ortega", "lopez", "lucho"]
+    "jugadorIds": [
+      "maradona",
+      "messi",
+      "batistuta",
+      "crespo",
+      "mascherano",
+      "zanetti",
+      "veron",
+      "riquelme",
+      "aimar",
+      "cambiasso",
+      "ortega",
+      "lopez",
+      "lucho"
+    ]
   },
   {
     "id": "heroes_90",
     "nombre": "Héroes de los 90",
     "emoji": "📼⚽",
     "descripcion": "Los cracks de los noventa",
-    "jugadorIds": ["maradona", "batistuta", "ortega", "lopez", "raul_gonzalez", "clarence_seedorf"]
+    "jugadorIds": [
+      "maradona",
+      "batistuta",
+      "ortega",
+      "lopez",
+      "raul_gonzalez",
+      "clarence_seedorf",
+      "enzo_francescoli",
+      "carlos_valderrama",
+      "ivan_zamorano",
+      "jose_luis_chilavert",
+      "george_weah",
+      "jay_jay_okocha"
+    ]
   },
   {
     "id": "generacion_2000",
     "nombre": "Generación 2000",
     "emoji": "💿⚽",
     "descripcion": "Pico de carrera en los 2000",
-    "jugadorIds": ["crespo", "mascherano", "veron", "riquelme", "aimar", "cambiasso", "etoo", "lucho", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "francesco_totti", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "raul_gonzalez", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "cristiano_ronaldo", "gianluigi_buffon"]
+    "jugadorIds": [
+      "crespo",
+      "mascherano",
+      "veron",
+      "riquelme",
+      "aimar",
+      "cambiasso",
+      "etoo",
+      "lucho",
+      "david_beckham",
+      "thierry_henry",
+      "zlatan_ibrahimovic",
+      "francesco_totti",
+      "alessandro_del_piero",
+      "steven_gerrard",
+      "frank_lampard",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "raul_gonzalez",
+      "wesley_sneijder",
+      "arjen_robben",
+      "clarence_seedorf",
+      "cristiano_ronaldo",
+      "gianluigi_buffon",
+      "forlan",
+      "alvaro_recoba",
+      "claudio_pizarro",
+      "jay_jay_okocha"
+    ]
   },
   {
     "id": "leyendas",
     "nombre": "Leyendas",
     "emoji": "👑🏆",
     "descripcion": "Los que conoce todo el mundo",
-    "jugadorIds": ["maradona", "messi", "ronaldinho", "zidane", "batistuta", "riquelme", "zanetti", "cristiano_ronaldo", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski"]
+    "jugadorIds": [
+      "maradona",
+      "messi",
+      "ronaldinho",
+      "zidane",
+      "batistuta",
+      "riquelme",
+      "zanetti",
+      "cristiano_ronaldo",
+      "david_beckham",
+      "thierry_henry",
+      "zlatan_ibrahimovic",
+      "gianluigi_buffon",
+      "francesco_totti",
+      "alessandro_del_piero",
+      "steven_gerrard",
+      "frank_lampard",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "sergio_ramos",
+      "raul_gonzalez",
+      "luka_modric",
+      "robert_lewandowski",
+      "luis_suarez",
+      "enzo_francescoli",
+      "carlos_valderrama",
+      "ivan_zamorano",
+      "jose_luis_chilavert",
+      "george_weah"
+    ]
   },
   {
     "id": "goleadores",
     "nombre": "Goleadores",
     "emoji": "⚽🔥",
     "descripcion": "Los que no paraban de meter goles",
-    "jugadorIds": ["messi", "batistuta", "crespo", "forlan", "drogba", "etoo", "lopez", "cristiano_ronaldo", "thierry_henry", "zlatan_ibrahimovic", "alessandro_del_piero", "frank_lampard", "wayne_rooney", "raul_gonzalez", "robert_lewandowski", "arjen_robben"]
+    "jugadorIds": [
+      "messi",
+      "batistuta",
+      "crespo",
+      "forlan",
+      "drogba",
+      "etoo",
+      "lopez",
+      "cristiano_ronaldo",
+      "thierry_henry",
+      "zlatan_ibrahimovic",
+      "alessandro_del_piero",
+      "frank_lampard",
+      "wayne_rooney",
+      "raul_gonzalez",
+      "robert_lewandowski",
+      "arjen_robben",
+      "kylian_mbappe",
+      "luis_suarez",
+      "edinson_cavani",
+      "radamel_falcao",
+      "alexis_sanchez",
+      "ivan_zamorano",
+      "claudio_pizarro",
+      "george_weah",
+      "sadio_mane",
+      "mohamed_salah"
+    ]
   },
   {
     "id": "enganches",
     "nombre": "Enganches y Creativos",
     "emoji": "🎩✨",
     "descripcion": "Los que inventaban fútbol",
-    "jugadorIds": ["maradona", "ronaldinho", "zidane", "riquelme", "aimar", "ortega", "pirlo", "francesco_totti", "andres_iniesta", "wesley_sneijder"]
+    "jugadorIds": [
+      "maradona",
+      "ronaldinho",
+      "zidane",
+      "riquelme",
+      "aimar",
+      "ortega",
+      "pirlo",
+      "francesco_totti",
+      "andres_iniesta",
+      "wesley_sneijder",
+      "enzo_francescoli",
+      "alvaro_recoba",
+      "james_rodriguez",
+      "carlos_valderrama",
+      "jay_jay_okocha"
+    ]
   },
   {
     "id": "mediocampistas",
     "nombre": "Mediocampistas",
     "emoji": "🧠⚡",
     "descripcion": "Los que manejaban el medio",
-    "jugadorIds": ["mascherano", "cambiasso", "veron", "pirlo", "lucho", "david_beckham", "steven_gerrard", "frank_lampard", "xavi_hernandez", "andres_iniesta", "luka_modric", "wesley_sneijder", "clarence_seedorf"]
+    "jugadorIds": [
+      "mascherano",
+      "cambiasso",
+      "veron",
+      "pirlo",
+      "lucho",
+      "david_beckham",
+      "steven_gerrard",
+      "frank_lampard",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "luka_modric",
+      "wesley_sneijder",
+      "clarence_seedorf",
+      "arturo_vidal",
+      "yaya_toure"
+    ]
   },
   {
     "id": "trotamundos",
     "nombre": "Trotamundos",
     "emoji": "🌎🧳",
     "descripcion": "Jugaron en 4 o más países",
-    "jugadorIds": ["ronaldinho", "crespo", "mascherano", "forlan", "drogba", "etoo", "ortega", "david_beckham", "zlatan_ibrahimovic", "wesley_sneijder", "clarence_seedorf"]
+    "jugadorIds": [
+      "ronaldinho",
+      "crespo",
+      "mascherano",
+      "forlan",
+      "drogba",
+      "etoo",
+      "ortega",
+      "david_beckham",
+      "zlatan_ibrahimovic",
+      "wesley_sneijder",
+      "clarence_seedorf",
+      "veron",
+      "edinson_cavani",
+      "diego_godin",
+      "radamel_falcao",
+      "james_rodriguez",
+      "arturo_vidal",
+      "alexis_sanchez",
+      "ivan_zamorano",
+      "claudio_pizarro",
+      "george_weah",
+      "sadio_mane",
+      "jay_jay_okocha"
+    ]
   },
   {
     "id": "ida_y_vuelta",
     "nombre": "Ida y Vuelta",
     "emoji": "🔄🏠",
     "descripcion": "Se fueron y volvieron a su club",
-    "jugadorIds": ["maradona", "riquelme", "aimar", "veron", "drogba", "ortega", "lucho", "crespo"]
+    "jugadorIds": [
+      "maradona",
+      "riquelme",
+      "aimar",
+      "veron",
+      "drogba",
+      "ortega",
+      "lucho",
+      "crespo"
+    ]
   },
   {
     "id": "de_sudamerica_europa",
     "nombre": "De Sudamérica a Europa",
     "emoji": "🌎➡️🌍",
     "descripcion": "Carrera en ambos continentes",
-    "jugadorIds": ["mascherano", "crespo", "aimar", "cambiasso", "lopez", "lucho"]
+    "jugadorIds": [
+      "mascherano",
+      "crespo",
+      "aimar",
+      "cambiasso",
+      "lopez",
+      "lucho",
+      "luis_suarez",
+      "edinson_cavani",
+      "enzo_francescoli",
+      "alvaro_recoba",
+      "radamel_falcao",
+      "james_rodriguez",
+      "carlos_valderrama",
+      "arturo_vidal",
+      "alexis_sanchez",
+      "ivan_zamorano",
+      "jose_luis_chilavert",
+      "claudio_pizarro"
+    ]
   },
   {
     "id": "mundialistas",
     "nombre": "Mundialistas",
     "emoji": "🏆🌍",
     "descripcion": "Marcados por el Mundial",
-    "jugadorIds": ["maradona", "messi", "zidane", "batistuta", "forlan", "pirlo", "cristiano_ronaldo", "thierry_henry", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "kylian_mbappe"]
+    "jugadorIds": [
+      "maradona",
+      "messi",
+      "zidane",
+      "batistuta",
+      "forlan",
+      "pirlo",
+      "cristiano_ronaldo",
+      "thierry_henry",
+      "gianluigi_buffon",
+      "francesco_totti",
+      "alessandro_del_piero",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "sergio_ramos",
+      "raul_gonzalez",
+      "luka_modric",
+      "kylian_mbappe",
+      "edinson_cavani",
+      "diego_godin",
+      "james_rodriguez",
+      "carlos_valderrama",
+      "jose_luis_chilavert"
+    ]
   },
   {
     "id": "champions",
     "nombre": "Champions League",
     "emoji": "🏆⭐",
     "descripcion": "Figuras de la Champions",
-    "jugadorIds": ["messi", "ronaldinho", "zidane", "crespo", "etoo", "drogba", "pirlo", "zanetti", "cambiasso", "cristiano_ronaldo", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "gianluigi_buffon", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "kylian_mbappe"]
+    "jugadorIds": [
+      "messi",
+      "ronaldinho",
+      "zidane",
+      "crespo",
+      "etoo",
+      "drogba",
+      "pirlo",
+      "zanetti",
+      "cambiasso",
+      "cristiano_ronaldo",
+      "david_beckham",
+      "thierry_henry",
+      "zlatan_ibrahimovic",
+      "gianluigi_buffon",
+      "alessandro_del_piero",
+      "steven_gerrard",
+      "frank_lampard",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "sergio_ramos",
+      "raul_gonzalez",
+      "luka_modric",
+      "robert_lewandowski",
+      "wesley_sneijder",
+      "arjen_robben",
+      "clarence_seedorf",
+      "kylian_mbappe",
+      "luis_suarez",
+      "james_rodriguez",
+      "arturo_vidal",
+      "claudio_pizarro",
+      "george_weah",
+      "yaya_toure",
+      "sadio_mane",
+      "mohamed_salah"
+    ]
   },
   {
     "id": "te_acordas",
     "nombre": "¿Te Acordás de Este?",
     "emoji": "🤔💭",
     "descripcion": "Conocidos pero semi-olvidados",
-    "jugadorIds": ["ortega", "lopez", "lucho", "aimar"]
+    "jugadorIds": [
+      "ortega",
+      "lopez",
+      "lucho",
+      "aimar"
+    ]
   },
   {
     "id": "latinos_europa",
     "nombre": "Latinos en Europa",
     "emoji": "🌎⚽",
     "descripcion": "Sudamericanos que la rompieron en Europa",
-    "jugadorIds": ["maradona", "messi", "ronaldinho", "batistuta", "crespo", "mascherano", "forlan", "zanetti", "veron", "riquelme", "aimar", "cambiasso", "ortega", "lopez", "lucho"]
+    "jugadorIds": [
+      "maradona",
+      "messi",
+      "ronaldinho",
+      "batistuta",
+      "crespo",
+      "mascherano",
+      "forlan",
+      "zanetti",
+      "veron",
+      "riquelme",
+      "aimar",
+      "cambiasso",
+      "ortega",
+      "lopez",
+      "lucho"
+    ]
   },
   {
     "id": "europa_pura",
     "nombre": "Europa Pura",
     "emoji": "🌍⚽",
     "descripcion": "Cracks nacidos y criados en Europa",
-    "jugadorIds": ["zidane", "pirlo", "cristiano_ronaldo", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "kylian_mbappe"]
+    "jugadorIds": [
+      "zidane",
+      "pirlo",
+      "cristiano_ronaldo",
+      "david_beckham",
+      "thierry_henry",
+      "zlatan_ibrahimovic",
+      "gianluigi_buffon",
+      "francesco_totti",
+      "alessandro_del_piero",
+      "steven_gerrard",
+      "frank_lampard",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "sergio_ramos",
+      "raul_gonzalez",
+      "luka_modric",
+      "robert_lewandowski",
+      "wesley_sneijder",
+      "arjen_robben",
+      "clarence_seedorf",
+      "kylian_mbappe"
+    ]
   },
   {
     "id": "generacion_2010",
     "nombre": "Generación 2010",
     "emoji": "📱⚽",
     "descripcion": "Pico de carrera en los 2010",
-    "jugadorIds": ["cristiano_ronaldo", "zlatan_ibrahimovic", "gianluigi_buffon", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben"]
-  },
-  {
-    "id": "generacion_actual",
-    "nombre": "Generación Actual",
-    "emoji": "🔥⚽",
-    "descripcion": "Estrellas del fútbol actual",
-    "jugadorIds": ["kylian_mbappe"]
+    "jugadorIds": [
+      "cristiano_ronaldo",
+      "zlatan_ibrahimovic",
+      "gianluigi_buffon",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "sergio_ramos",
+      "luka_modric",
+      "robert_lewandowski",
+      "wesley_sneijder",
+      "arjen_robben",
+      "luis_suarez",
+      "edinson_cavani",
+      "diego_godin",
+      "radamel_falcao",
+      "james_rodriguez",
+      "arturo_vidal",
+      "alexis_sanchez",
+      "yaya_toure",
+      "sadio_mane"
+    ]
   },
   {
     "id": "serie_a",
     "nombre": "Serie A",
     "emoji": "🇮🇹🏟️",
     "descripcion": "Figuras de la Serie A italiana",
-    "jugadorIds": ["pirlo", "cristiano_ronaldo", "zlatan_ibrahimovic", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "wesley_sneijder", "clarence_seedorf"]
+    "jugadorIds": [
+      "pirlo",
+      "cristiano_ronaldo",
+      "zlatan_ibrahimovic",
+      "gianluigi_buffon",
+      "francesco_totti",
+      "alessandro_del_piero",
+      "wesley_sneijder",
+      "clarence_seedorf",
+      "edinson_cavani",
+      "enzo_francescoli",
+      "alvaro_recoba",
+      "diego_godin",
+      "arturo_vidal",
+      "alexis_sanchez",
+      "ivan_zamorano",
+      "george_weah",
+      "mohamed_salah"
+    ]
   },
   {
     "id": "premier_league",
     "nombre": "Premier League",
     "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿🏟️",
     "descripcion": "Figuras de la Premier League",
-    "jugadorIds": ["cristiano_ronaldo", "david_beckham", "thierry_henry", "steven_gerrard", "frank_lampard", "wayne_rooney", "luka_modric", "arjen_robben"]
+    "jugadorIds": [
+      "cristiano_ronaldo",
+      "david_beckham",
+      "thierry_henry",
+      "steven_gerrard",
+      "frank_lampard",
+      "wayne_rooney",
+      "luka_modric",
+      "arjen_robben",
+      "luis_suarez",
+      "radamel_falcao",
+      "alexis_sanchez",
+      "yaya_toure",
+      "sadio_mane",
+      "mohamed_salah",
+      "jay_jay_okocha"
+    ]
   },
   {
     "id": "la_liga",
     "nombre": "La Liga",
     "emoji": "🇪🇸🏟️",
     "descripcion": "Figuras de La Liga española",
-    "jugadorIds": ["cristiano_ronaldo", "david_beckham", "zlatan_ibrahimovic", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "kylian_mbappe"]
-  },
-  {
-    "id": "bundesliga",
-    "nombre": "Bundesliga",
-    "emoji": "🇩🇪🏟️",
-    "descripcion": "Figuras de la Bundesliga alemana",
-    "jugadorIds": ["robert_lewandowski", "arjen_robben"]
+    "jugadorIds": [
+      "cristiano_ronaldo",
+      "david_beckham",
+      "zlatan_ibrahimovic",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "sergio_ramos",
+      "raul_gonzalez",
+      "luka_modric",
+      "robert_lewandowski",
+      "wesley_sneijder",
+      "arjen_robben",
+      "clarence_seedorf",
+      "kylian_mbappe",
+      "luis_suarez",
+      "diego_godin",
+      "radamel_falcao",
+      "james_rodriguez",
+      "alexis_sanchez",
+      "ivan_zamorano",
+      "yaya_toure"
+    ]
   },
   {
     "id": "numero_10",
     "nombre": "Número 10",
     "emoji": "🔟✨",
     "descripcion": "Los clásicos número 10",
-    "jugadorIds": ["maradona", "ronaldinho", "zidane", "riquelme", "francesco_totti"]
+    "jugadorIds": [
+      "maradona",
+      "ronaldinho",
+      "zidane",
+      "riquelme",
+      "francesco_totti"
+    ]
   },
   {
     "id": "tecnicos_jugadores",
     "nombre": "De Jugador a Técnico",
     "emoji": "📋⚽",
     "descripcion": "Grandes jugadores que pasaron a dirigir",
-    "jugadorIds": ["steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "clarence_seedorf"]
+    "jugadorIds": [
+      "steven_gerrard",
+      "frank_lampard",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "clarence_seedorf"
+    ]
   },
   {
     "id": "murallas",
     "nombre": "Murallas",
     "emoji": "🧱🛡️",
     "descripcion": "Los mejores defensores",
-    "jugadorIds": ["zanetti", "sergio_ramos"]
+    "jugadorIds": [
+      "zanetti",
+      "sergio_ramos",
+      "diego_godin",
+      "jose_luis_chilavert"
+    ]
   },
   {
-    "id": "arqueros",
-    "nombre": "Arqueros",
-    "emoji": "🧤🥅",
-    "descripcion": "Los grandes guardametas",
-    "jugadorIds": ["gianluigi_buffon"]
+    "id": "garra_charrua",
+    "nombre": "La Garra Charrúa",
+    "emoji": "🇺🇾💪",
+    "descripcion": "Uruguayos con carrera internacional",
+    "jugadorIds": [
+      "forlan",
+      "luis_suarez",
+      "edinson_cavani",
+      "enzo_francescoli",
+      "alvaro_recoba",
+      "diego_godin"
+    ]
+  },
+  {
+    "id": "estrellas_africa",
+    "nombre": "Estrellas de África",
+    "emoji": "🌍⭐",
+    "descripcion": "Africanos que brillaron en Europa",
+    "jugadorIds": [
+      "drogba",
+      "etoo",
+      "george_weah",
+      "yaya_toure",
+      "sadio_mane",
+      "mohamed_salah",
+      "jay_jay_okocha"
+    ]
   }
 ]
