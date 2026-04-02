@@ -1,0 +1,587 @@
+[
+  {
+    "id": "michael_owen",
+    "nombre": "Michael Owen",
+    "nombreCompleto": "Michael James Owen",
+    "apodo": "The Boy Wonder",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["goleadores", "heroes_90", "generacion_2000", "premier_league", "la_liga", "mundialistas", "champions"],
+    "carrera": [
+      { "club": "Liverpool", "pais": "GB-ENG", "anios": "1996-2004" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2004-2005" },
+      { "club": "Newcastle United", "pais": "GB-ENG", "anios": "2005-2009" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2009-2012" },
+      { "club": "Stoke City", "pais": "GB-ENG", "anios": "2012-2013" }
+    ],
+    "companeros": [
+      { "nombre": "Gerrard", "club": "Liverpool" },
+      { "nombre": "Zidane", "club": "Real Madrid" },
+      { "nombre": "Rooney", "club": "Manchester United" },
+      { "nombre": "Shearer", "club": "Selección Inglaterra" }
+    ],
+    "paises": ["GB-ENG", "ES"],
+    "pistaExtra": "Ganó el Balón de Oro en 2001 con solo 22 años"
+  },
+  {
+    "id": "gary_lineker",
+    "nombre": "Gary Lineker",
+    "nombreCompleto": "Gary Winston Lineker",
+    "apodo": "El Depredador",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["leyendas", "goleadores", "heroes_90", "mundialistas", "premier_league", "la_liga", "trotamundos"],
+    "carrera": [
+      { "club": "Leicester City", "pais": "GB-ENG", "anios": "1978-1985" },
+      { "club": "Everton", "pais": "GB-ENG", "anios": "1985-1986" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1986-1989" },
+      { "club": "Tottenham Hotspur", "pais": "GB-ENG", "anios": "1989-1992" },
+      { "club": "Nagoya Grampus", "pais": "JP", "anios": "1992-1994" }
+    ],
+    "companeros": [
+      { "nombre": "Gascoigne", "club": "Tottenham Hotspur" },
+      { "nombre": "Schmeichel", "club": "Selección" },
+      { "nombre": "Hughes", "club": "Barcelona" },
+      { "nombre": "Waddle", "club": "Selección Inglaterra" }
+    ],
+    "paises": ["GB-ENG", "ES", "JP"],
+    "pistaExtra": "Bota de Oro del Mundial 1986 con 6 goles"
+  },
+  {
+    "id": "alan_shearer",
+    "nombre": "Alan Shearer",
+    "nombreCompleto": "Alan Shearer",
+    "apodo": "The Goal Machine",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "premier_league", "heroes_90", "generacion_2000", "mundialistas", "tecnicos_jugadores"],
+    "carrera": [
+      { "club": "Southampton", "pais": "GB-ENG", "anios": "1988-1992" },
+      { "club": "Blackburn Rovers", "pais": "GB-ENG", "anios": "1992-1996" },
+      { "club": "Newcastle United", "pais": "GB-ENG", "anios": "1996-2006" }
+    ],
+    "companeros": [
+      { "nombre": "Le Tissier", "club": "Southampton" },
+      { "nombre": "Sutton", "club": "Blackburn Rovers" },
+      { "nombre": "Owen", "club": "Selección Inglaterra" },
+      { "nombre": "Robert", "club": "Newcastle United" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Máximo goleador histórico de la Premier League con 260 goles"
+  },
+  {
+    "id": "rio_ferdinand",
+    "nombre": "Rio Ferdinand",
+    "nombreCompleto": "Rio Gavin Ferdinand",
+    "apodo": "Rio",
+    "nacionalidad": "GB-ENG",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": ["leyendas", "murallas", "premier_league", "champions", "generacion_2000", "generacion_2010", "mundialistas"],
+    "carrera": [
+      { "club": "West Ham United", "pais": "GB-ENG", "anios": "1996-2000" },
+      { "club": "Leeds United", "pais": "GB-ENG", "anios": "2000-2002" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2002-2014" },
+      { "club": "Queens Park Rangers", "pais": "GB-ENG", "anios": "2014-2015" }
+    ],
+    "companeros": [
+      { "nombre": "Rooney", "club": "Manchester United" },
+      { "nombre": "Lampard", "club": "West Ham United" },
+      { "nombre": "Vidić", "club": "Manchester United" },
+      { "nombre": "Scholes", "club": "Manchester United" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Ganó 6 títulos de Premier League con el Manchester United"
+  },
+  {
+    "id": "john_terry",
+    "nombre": "John Terry",
+    "nombreCompleto": "John George Terry",
+    "apodo": "JT",
+    "nacionalidad": "GB-ENG",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": ["leyendas", "murallas", "premier_league", "champions", "generacion_2000", "generacion_2010", "mundialistas"],
+    "carrera": [
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "1998-2017" },
+      { "club": "Aston Villa", "pais": "GB-ENG", "anios": "2017-2018" }
+    ],
+    "companeros": [
+      { "nombre": "Lampard", "club": "Chelsea" },
+      { "nombre": "Drogba", "club": "Chelsea" },
+      { "nombre": "Čech", "club": "Chelsea" },
+      { "nombre": "Ashley Cole", "club": "Chelsea" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Capitán emblemático del Chelsea, ganó la Champions League 2012"
+  },
+  {
+    "id": "harry_kane",
+    "nombre": "Harry Kane",
+    "nombreCompleto": "Harry Edward Kane",
+    "apodo": "The Hurricane",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["goleadores", "generacion_2010", "generacion_actual", "premier_league", "bundesliga", "mundialistas"],
+    "carrera": [
+      { "club": "Tottenham Hotspur", "pais": "GB-ENG", "anios": "2011-2023" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2023-" }
+    ],
+    "companeros": [
+      { "nombre": "Son Heung-min", "club": "Tottenham Hotspur" },
+      { "nombre": "Eriksen", "club": "Tottenham Hotspur" },
+      { "nombre": "Müller", "club": "Bayern Múnich" },
+      { "nombre": "Saka", "club": "Selección Inglaterra" }
+    ],
+    "paises": ["GB-ENG", "DE"],
+    "pistaExtra": "Bota de Oro del Mundial 2018 con 6 goles"
+  },
+  {
+    "id": "jude_bellingham",
+    "nombre": "Jude Bellingham",
+    "nombreCompleto": "Jude Victor William Bellingham",
+    "apodo": "Jude",
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["generacion_actual", "mediocampistas", "la_liga", "bundesliga", "champions"],
+    "carrera": [
+      { "club": "Birmingham City", "pais": "GB-ENG", "anios": "2019-2020" },
+      { "club": "Borussia Dortmund", "pais": "DE", "anios": "2020-2023" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2023-" }
+    ],
+    "companeros": [
+      { "nombre": "Vinícius Jr.", "club": "Real Madrid" },
+      { "nombre": "Haaland", "club": "Borussia Dortmund" },
+      { "nombre": "Modric", "club": "Real Madrid" },
+      { "nombre": "Saka", "club": "Selección Inglaterra" }
+    ],
+    "paises": ["GB-ENG", "DE", "ES"],
+    "pistaExtra": "Debutó con 17 años en el Dortmund y se convirtió en estrella del Real Madrid a los 20"
+  },
+  {
+    "id": "phil_foden",
+    "nombre": "Phil Foden",
+    "nombreCompleto": "Philip Walter Foden",
+    "apodo": "The Stockport Iniesta",
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["generacion_actual", "mediocampistas", "premier_league", "champions"],
+    "carrera": [
+      { "club": "Manchester City", "pais": "GB-ENG", "anios": "2017-" }
+    ],
+    "companeros": [
+      { "nombre": "De Bruyne", "club": "Manchester City" },
+      { "nombre": "Haaland", "club": "Manchester City" },
+      { "nombre": "Grealish", "club": "Manchester City" },
+      { "nombre": "Bellingham", "club": "Selección Inglaterra" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Campeón del treble con el City en 2023 y Balón de Oro al mejor joven del Mundial Sub-17 en 2017"
+  },
+  {
+    "id": "bukayo_saka",
+    "nombre": "Bukayo Saka",
+    "nombreCompleto": "Bukayo Ayoyinka Saka",
+    "apodo": "Starboy",
+    "nacionalidad": "GB-ENG",
+    "posicion": "extremo",
+    "tier": 2,
+    "categorias": ["generacion_actual", "premier_league", "mundialistas"],
+    "carrera": [
+      { "club": "Arsenal", "pais": "GB-ENG", "anios": "2019-" }
+    ],
+    "companeros": [
+      { "nombre": "Ødegaard", "club": "Arsenal" },
+      { "nombre": "Saliba", "club": "Arsenal" },
+      { "nombre": "Kane", "club": "Selección Inglaterra" },
+      { "nombre": "Rice", "club": "Arsenal" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Formado íntegramente en la academia del Arsenal, clave en el regreso del club a la élite"
+  },
+  {
+    "id": "franz_beckenbauer",
+    "nombre": "Franz Beckenbauer",
+    "nombreCompleto": "Franz Anton Beckenbauer",
+    "apodo": "Der Kaiser",
+    "nacionalidad": "DE",
+    "posicion": "defensor",
+    "tier": 1,
+    "categorias": ["leyendas", "murallas", "mundialistas", "bundesliga", "champions", "tecnicos_jugadores", "europa_pura"],
+    "carrera": [
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "1964-1977" },
+      { "club": "New York Cosmos", "pais": "US", "anios": "1977-1980" },
+      { "club": "Hamburgo", "pais": "DE", "anios": "1980-1982" },
+      { "club": "New York Cosmos", "pais": "US", "anios": "1983" }
+    ],
+    "companeros": [
+      { "nombre": "Gerd Müller", "club": "Bayern Múnich" },
+      { "nombre": "Sepp Maier", "club": "Bayern Múnich" },
+      { "nombre": "Pelé", "club": "New York Cosmos" },
+      { "nombre": "Breitner", "club": "Bayern Múnich" }
+    ],
+    "paises": ["DE", "US"],
+    "pistaExtra": "Ganó el Mundial como jugador (1974) y como técnico (1990)"
+  },
+  {
+    "id": "miroslav_klose",
+    "nombre": "Miroslav Klose",
+    "nombreCompleto": "Miroslav Josef Klose",
+    "apodo": "Miro",
+    "nacionalidad": "DE",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["goleadores", "mundialistas", "bundesliga", "serie_a", "generacion_2000", "generacion_2010", "europa_pura"],
+    "carrera": [
+      { "club": "Kaiserslautern", "pais": "DE", "anios": "1999-2004" },
+      { "club": "Werder Bremen", "pais": "DE", "anios": "2004-2007" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2007-2011" },
+      { "club": "Lazio", "pais": "IT", "anios": "2011-2016" }
+    ],
+    "companeros": [
+      { "nombre": "Lahm", "club": "Bayern Múnich" },
+      { "nombre": "Schweinsteiger", "club": "Bayern Múnich" },
+      { "nombre": "Podolski", "club": "Selección Alemania" },
+      { "nombre": "Anderson", "club": "Lazio" }
+    ],
+    "paises": ["DE", "IT"],
+    "pistaExtra": "Máximo goleador en la historia de los Mundiales con 16 goles"
+  },
+  {
+    "id": "thomas_muller",
+    "nombre": "Thomas Müller",
+    "nombreCompleto": "Thomas Müller",
+    "apodo": "Der Raumdeuter",
+    "nacionalidad": "DE",
+    "posicion": "mediapunta",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "mundialistas", "bundesliga", "champions", "generacion_2010", "europa_pura"],
+    "carrera": [
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2008-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Lewandowski", "club": "Bayern Múnich" },
+      { "nombre": "Neuer", "club": "Bayern Múnich" },
+      { "nombre": "Robben", "club": "Bayern Múnich" },
+      { "nombre": "Schweinsteiger", "club": "Bayern Múnich" }
+    ],
+    "paises": ["DE"],
+    "pistaExtra": "Bota de Oro y Balón de Oro del Mundial 2010, toda su carrera en el Bayern"
+  },
+  {
+    "id": "manuel_neuer",
+    "nombre": "Manuel Neuer",
+    "nombreCompleto": "Manuel Peter Neuer",
+    "apodo": "The Sweeper Keeper",
+    "nacionalidad": "DE",
+    "posicion": "arquero",
+    "tier": 1,
+    "categorias": ["leyendas", "arqueros", "mundialistas", "bundesliga", "champions", "generacion_2010", "europa_pura"],
+    "carrera": [
+      { "club": "Schalke 04", "pais": "DE", "anios": "2004-2011" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2011-" }
+    ],
+    "companeros": [
+      { "nombre": "Müller", "club": "Bayern Múnich" },
+      { "nombre": "Lahm", "club": "Bayern Múnich" },
+      { "nombre": "Kimmich", "club": "Bayern Múnich" },
+      { "nombre": "Kroos", "club": "Selección Alemania" }
+    ],
+    "paises": ["DE"],
+    "pistaExtra": "Revolucionó el rol del arquero moderno como líbero-arquero, campeón del mundo 2014"
+  },
+  {
+    "id": "toni_kroos",
+    "nombre": "Toni Kroos",
+    "nombreCompleto": "Toni Kroos",
+    "apodo": "El Metronomo",
+    "nacionalidad": "DE",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "mundialistas", "bundesliga", "la_liga", "champions", "generacion_2010"],
+    "carrera": [
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2007-2014" },
+      { "club": "Bayer Leverkusen", "pais": "DE", "anios": "2009-2010" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2014-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Modrić", "club": "Real Madrid" },
+      { "nombre": "Benzema", "club": "Real Madrid" },
+      { "nombre": "Müller", "club": "Bayern Múnich" },
+      { "nombre": "Bellingham", "club": "Real Madrid" }
+    ],
+    "paises": ["DE", "ES"],
+    "pistaExtra": "Ganó 6 Champions League y se retiró tras la Eurocopa 2024 en su país"
+  },
+  {
+    "id": "bastian_schweinsteiger",
+    "nombre": "Bastian Schweinsteiger",
+    "nombreCompleto": "Bastian Schweinsteiger",
+    "apodo": "Schweini",
+    "nacionalidad": "DE",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "mundialistas", "bundesliga", "champions", "generacion_2000", "generacion_2010", "premier_league", "trotamundos"],
+    "carrera": [
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2002-2015" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2015-2017" },
+      { "club": "Chicago Fire", "pais": "US", "anios": "2017-2019" }
+    ],
+    "companeros": [
+      { "nombre": "Lahm", "club": "Bayern Múnich" },
+      { "nombre": "Robben", "club": "Bayern Múnich" },
+      { "nombre": "Rooney", "club": "Manchester United" },
+      { "nombre": "Müller", "club": "Bayern Múnich" }
+    ],
+    "paises": ["DE", "GB-ENG", "US"],
+    "pistaExtra": "Capitán de Alemania campeona del mundo en 2014, símbolo del Bayern por más de una década"
+  },
+  {
+    "id": "philipp_lahm",
+    "nombre": "Philipp Lahm",
+    "nombreCompleto": "Philipp Lahm",
+    "apodo": "Die Wunderkind",
+    "nacionalidad": "DE",
+    "posicion": "defensor",
+    "tier": 1,
+    "categorias": ["leyendas", "murallas", "mundialistas", "bundesliga", "champions", "generacion_2000", "generacion_2010", "europa_pura"],
+    "carrera": [
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2002-2017" },
+      { "club": "Stuttgart", "pais": "DE", "anios": "2003-2005" }
+    ],
+    "companeros": [
+      { "nombre": "Schweinsteiger", "club": "Bayern Múnich" },
+      { "nombre": "Müller", "club": "Bayern Múnich" },
+      { "nombre": "Neuer", "club": "Bayern Múnich" },
+      { "nombre": "Ribéry", "club": "Bayern Múnich" }
+    ],
+    "paises": ["DE"],
+    "pistaExtra": "Capitán del Bayern y de Alemania, podía jugar de lateral derecho o izquierdo con la misma calidad"
+  },
+  {
+    "id": "oliver_kahn",
+    "nombre": "Oliver Kahn",
+    "nombreCompleto": "Oliver Rolf Kahn",
+    "apodo": "Der Titan",
+    "nacionalidad": "DE",
+    "posicion": "arquero",
+    "tier": 1,
+    "categorias": ["leyendas", "arqueros", "mundialistas", "bundesliga", "champions", "heroes_90", "generacion_2000", "europa_pura"],
+    "carrera": [
+      { "club": "Karlsruher SC", "pais": "DE", "anios": "1987-1994" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "1994-2008" }
+    ],
+    "companeros": [
+      { "nombre": "Effenberg", "club": "Bayern Múnich" },
+      { "nombre": "Elber", "club": "Bayern Múnich" },
+      { "nombre": "Lizarazu", "club": "Bayern Múnich" },
+      { "nombre": "Ballack", "club": "Bayern Múnich" }
+    ],
+    "paises": ["DE"],
+    "pistaExtra": "Balón de Oro del Mundial 2002, único arquero en ganar ese premio"
+  },
+  {
+    "id": "lothar_matthaus",
+    "nombre": "Lothar Matthäus",
+    "nombreCompleto": "Lothar Herbert Matthäus",
+    "apodo": "Loddar",
+    "nacionalidad": "DE",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": ["leyendas", "mediocampistas", "mundialistas", "bundesliga", "serie_a", "heroes_90", "europa_pura"],
+    "carrera": [
+      { "club": "Borussia Mönchengladbach", "pais": "DE", "anios": "1979-1984" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "1984-1988" },
+      { "club": "Inter de Milán", "pais": "IT", "anios": "1988-1992" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "1992-2000" },
+      { "club": "MetroStars", "pais": "US", "anios": "2000" }
+    ],
+    "companeros": [
+      { "nombre": "Brehme", "club": "Inter de Milán" },
+      { "nombre": "Klinsmann", "club": "Selección Alemania" },
+      { "nombre": "Effenberg", "club": "Bayern Múnich" },
+      { "nombre": "Kahn", "club": "Bayern Múnich" }
+    ],
+    "paises": ["DE", "IT", "US"],
+    "pistaExtra": "Balón de Oro 1990, récord de 150 partidos con Alemania y 5 Mundiales disputados"
+  },
+  {
+    "id": "michael_ballack",
+    "nombre": "Michael Ballack",
+    "nombreCompleto": "Michael Ballack",
+    "apodo": "Little Kaiser",
+    "nacionalidad": "DE",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["mediocampistas", "generacion_2000", "bundesliga", "premier_league", "mundialistas", "champions", "europa_pura"],
+    "carrera": [
+      { "club": "Chemnitzer FC", "pais": "DE", "anios": "1995-1997" },
+      { "club": "Kaiserslautern", "pais": "DE", "anios": "1997-1999" },
+      { "club": "Bayer Leverkusen", "pais": "DE", "anios": "1999-2002" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "2002-2006" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2006-2010" },
+      { "club": "Bayer Leverkusen", "pais": "DE", "anios": "2010-2012" }
+    ],
+    "companeros": [
+      { "nombre": "Kahn", "club": "Bayern Múnich" },
+      { "nombre": "Lampard", "club": "Chelsea" },
+      { "nombre": "Drogba", "club": "Chelsea" },
+      { "nombre": "Zé Roberto", "club": "Bayer Leverkusen" }
+    ],
+    "paises": ["DE", "GB-ENG"],
+    "pistaExtra": "Subcampeón en el Mundial 2002, la Champions 2002 y la Copa Alemana en la misma temporada"
+  },
+  {
+    "id": "mesut_ozil",
+    "nombre": "Mesut Özil",
+    "nombreCompleto": "Mesut Özil",
+    "apodo": "El Mago",
+    "nacionalidad": "DE",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": ["enganches", "numero_10", "generacion_2010", "mundialistas", "la_liga", "premier_league", "bundesliga", "champions"],
+    "carrera": [
+      { "club": "Schalke 04", "pais": "DE", "anios": "2006-2008" },
+      { "club": "Werder Bremen", "pais": "DE", "anios": "2008-2010" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2010-2013" },
+      { "club": "Arsenal", "pais": "GB-ENG", "anios": "2013-2021" },
+      { "club": "Fenerbahçe", "pais": "TR", "anios": "2021" },
+      { "club": "Başakşehir", "pais": "TR", "anios": "2022" }
+    ],
+    "companeros": [
+      { "nombre": "Cristiano Ronaldo", "club": "Real Madrid" },
+      { "nombre": "Sánchez", "club": "Arsenal" },
+      { "nombre": "Khedira", "club": "Real Madrid" },
+      { "nombre": "Müller", "club": "Selección Alemania" }
+    ],
+    "paises": ["DE", "ES", "GB-ENG", "TR"],
+    "pistaExtra": "Campeón del mundo 2014, uno de los máximos asistidores de la historia del Real Madrid"
+  },
+  {
+    "id": "luis_figo",
+    "nombre": "Luís Figo",
+    "nombreCompleto": "Luís Filipe Madeira Caeiro Figo",
+    "apodo": "El Portugués",
+    "nacionalidad": "PT",
+    "posicion": "extremo",
+    "tier": 1,
+    "categorias": ["leyendas", "la_liga", "serie_a", "champions", "generacion_2000", "heroes_90", "trotamundos", "mundialistas"],
+    "carrera": [
+      { "club": "Sporting Lisboa", "pais": "PT", "anios": "1989-1995" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1995-2000" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2000-2005" },
+      { "club": "Inter de Milán", "pais": "IT", "anios": "2005-2009" }
+    ],
+    "companeros": [
+      { "nombre": "Zidane", "club": "Real Madrid" },
+      { "nombre": "Rivaldo", "club": "Barcelona" },
+      { "nombre": "Zanetti", "club": "Inter de Milán" },
+      { "nombre": "Rui Costa", "club": "Selección Portugal" }
+    ],
+    "paises": ["PT", "ES", "IT"],
+    "pistaExtra": "Balón de Oro 2000, protagonizó el polémico traspaso del Barcelona al Real Madrid"
+  },
+  {
+    "id": "rui_costa",
+    "nombre": "Rui Costa",
+    "nombreCompleto": "Rui Manuel César Costa",
+    "apodo": "El Maestro",
+    "nacionalidad": "PT",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": ["enganches", "numero_10", "serie_a", "heroes_90", "generacion_2000", "europa_pura", "mundialistas"],
+    "carrera": [
+      { "club": "Benfica", "pais": "PT", "anios": "1990-1994" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1994-2001" },
+      { "club": "Milan", "pais": "IT", "anios": "2001-2006" },
+      { "club": "Benfica", "pais": "PT", "anios": "2006-2008" }
+    ],
+    "companeros": [
+      { "nombre": "Batistuta", "club": "Fiorentina" },
+      { "nombre": "Shevchenko", "club": "Milan" },
+      { "nombre": "Figo", "club": "Selección Portugal" },
+      { "nombre": "Kaká", "club": "Milan" }
+    ],
+    "paises": ["PT", "IT"],
+    "pistaExtra": "Ícono de la Fiorentina en los 90 y campeón de la Champions con el Milan en 2003"
+  },
+  {
+    "id": "pepe",
+    "nombre": "Pepe",
+    "nombreCompleto": "Képler Laveran de Lima Ferreira",
+    "apodo": "Pepe",
+    "nacionalidad": "PT",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": ["murallas", "la_liga", "champions", "generacion_2000", "generacion_2010", "mundialistas"],
+    "carrera": [
+      { "club": "Marítimo", "pais": "PT", "anios": "2001-2004" },
+      { "club": "Porto", "pais": "PT", "anios": "2004-2007" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2007-2017" },
+      { "club": "Beşiktaş", "pais": "TR", "anios": "2017-2019" },
+      { "club": "Porto", "pais": "PT", "anios": "2019-2023" }
+    ],
+    "companeros": [
+      { "nombre": "Cristiano Ronaldo", "club": "Real Madrid" },
+      { "nombre": "Sergio Ramos", "club": "Real Madrid" },
+      { "nombre": "Casillas", "club": "Real Madrid" },
+      { "nombre": "Bruno Fernandes", "club": "Selección Portugal" }
+    ],
+    "paises": ["PT", "ES", "TR"],
+    "pistaExtra": "Nacido en Brasil, se nacionalizó portugués y fue clave en el título de la Eurocopa 2016"
+  },
+  {
+    "id": "bernardo_silva",
+    "nombre": "Bernardo Silva",
+    "nombreCompleto": "Bernardo Mota Veiga de Carvalho e Silva",
+    "apodo": "Bernardo",
+    "nacionalidad": "PT",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["mediocampistas", "generacion_actual", "premier_league", "champions", "mundialistas"],
+    "carrera": [
+      { "club": "Benfica", "pais": "PT", "anios": "2013-2014" },
+      { "club": "Mónaco", "pais": "FR", "anios": "2014-2017" },
+      { "club": "Manchester City", "pais": "GB-ENG", "anios": "2017-" }
+    ],
+    "companeros": [
+      { "nombre": "De Bruyne", "club": "Manchester City" },
+      { "nombre": "Mbappé", "club": "Mónaco" },
+      { "nombre": "Foden", "club": "Manchester City" },
+      { "nombre": "Bruno Fernandes", "club": "Selección Portugal" }
+    ],
+    "paises": ["PT", "FR", "GB-ENG"],
+    "pistaExtra": "Pieza clave del treble histórico del Manchester City en 2023"
+  },
+  {
+    "id": "bruno_fernandes",
+    "nombre": "Bruno Fernandes",
+    "nombreCompleto": "Bruno Miguel Borges Fernandes",
+    "apodo": "Magnifico",
+    "nacionalidad": "PT",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["mediocampistas", "generacion_actual", "premier_league", "serie_a", "mundialistas", "goleadores"],
+    "carrera": [
+      { "club": "Novara", "pais": "IT", "anios": "2012-2013" },
+      { "club": "Udinese", "pais": "IT", "anios": "2013-2016" },
+      { "club": "Sampdoria", "pais": "IT", "anios": "2016-2017" },
+      { "club": "Sporting Lisboa", "pais": "PT", "anios": "2017-2020" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2020-" }
+    ],
+    "companeros": [
+      { "nombre": "Cristiano Ronaldo", "club": "Manchester United" },
+      { "nombre": "Rashford", "club": "Manchester United" },
+      { "nombre": "Bernardo Silva", "club": "Selección Portugal" },
+      { "nombre": "Casemiro", "club": "Manchester United" }
+    ],
+    "paises": ["IT", "PT", "GB-ENG"],
+    "pistaExtra": "Capitán del Manchester United, formado en Italia antes de brillar en Portugal e Inglaterra"
+  }
+]
