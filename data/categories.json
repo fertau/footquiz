@@ -53,7 +53,7 @@
     "nombre": "Trotamundos",
     "emoji": "🌎🧳",
     "descripcion": "Jugaron en 4 o más países",
-    "jugadorIds": ["ronaldinho", "crespo", "mascherano", "forlan", "drogba", "etoo", "ortega"]
+    "jugadorIds": ["ronaldinho", "crespo", "mascherano", "forlan", "drogba", "etoo", "ortega", "david_beckham", "zlatan_ibrahimovic", "wesley_sneijder", "clarence_seedorf"]
   },
   {
     "id": "ida_y_vuelta",
@@ -74,14 +74,14 @@
     "nombre": "Mundialistas",
     "emoji": "🏆🌍",
     "descripcion": "Marcados por el Mundial",
-    "jugadorIds": ["maradona", "messi", "zidane", "batistuta", "forlan", "pirlo"]
+    "jugadorIds": ["maradona", "messi", "zidane", "batistuta", "forlan", "pirlo", "cristiano_ronaldo", "thierry_henry", "gianluigi_buffon", "francesco_totti", "alessandro_del_piero", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "kylian_mbappe"]
   },
   {
     "id": "champions",
     "nombre": "Champions League",
     "emoji": "🏆⭐",
     "descripcion": "Figuras de la Champions",
-    "jugadorIds": ["messi", "ronaldinho", "zidane", "crespo", "etoo", "drogba", "pirlo", "zanetti", "cambiasso"]
+    "jugadorIds": ["messi", "ronaldinho", "zidane", "crespo", "etoo", "drogba", "pirlo", "zanetti", "cambiasso", "cristiano_ronaldo", "david_beckham", "thierry_henry", "zlatan_ibrahimovic", "gianluigi_buffon", "alessandro_del_piero", "steven_gerrard", "frank_lampard", "wayne_rooney", "xavi_hernandez", "andres_iniesta", "sergio_ramos", "raul_gonzalez", "luka_modric", "robert_lewandowski", "wesley_sneijder", "arjen_robben", "clarence_seedorf", "kylian_mbappe"]
   },
   {
     "id": "te_acordas",
