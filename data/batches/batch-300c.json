@@ -1,0 +1,1215 @@
+[
+  {
+    "id": "eusebio",
+    "nombre": "Eusébio",
+    "nombreCompleto": "Eusébio da Silva Ferreira",
+    "apodo": "Pantera Negra",
+    "nacionalidad": "PT",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "goleadores",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Benfica",
+        "pais": "PT",
+        "anios": "1960-1975"
+      },
+      {
+        "club": "Boston Minutemen",
+        "pais": "US",
+        "anios": "1975"
+      },
+      {
+        "club": "Toronto Metros-Croatia",
+        "pais": "CA",
+        "anios": "1976"
+      },
+      {
+        "club": "Las Vegas Quicksilvers",
+        "pais": "US",
+        "anios": "1977"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Coluna",
+        "club": "Benfica"
+      },
+      {
+        "nombre": "Torres",
+        "club": "Benfica"
+      },
+      {
+        "nombre": "Simões",
+        "club": "Benfica"
+      },
+      {
+        "nombre": "Augusto",
+        "club": "Benfica"
+      }
+    ],
+    "paises": [
+      "PT",
+      "US",
+      "CA"
+    ],
+    "pistaExtra": "Máximo goleador de la historia del Benfica con más de 600 goles"
+  },
+  {
+    "id": "franco_baresi",
+    "nombre": "Franco Baresi",
+    "nombreCompleto": "Franco Baresi",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "defensor",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "murallas",
+      "serie_a",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Milan",
+        "pais": "IT",
+        "anios": "1977-1997"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Maldini",
+        "club": "Milan"
+      },
+      {
+        "nombre": "Van Basten",
+        "club": "Milan"
+      },
+      {
+        "nombre": "Gullit",
+        "club": "Milan"
+      },
+      {
+        "nombre": "Rijkaard",
+        "club": "Milan"
+      }
+    ],
+    "paises": [
+      "IT"
+    ],
+    "pistaExtra": "20 años como capitán del Milan, nunca jugó en otro club"
+  },
+  {
+    "id": "carlos_bilardo",
+    "nombre": "Carlos Bilardo",
+    "nombreCompleto": "Carlos Salvador Bilardo",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "tecnicos_jugadores",
+      "heroes_90"
+    ],
+    "carrera": [
+      {
+        "club": "San Lorenzo",
+        "pais": "AR",
+        "anios": "1958-1960"
+      },
+      {
+        "club": "Deportivo Español",
+        "pais": "AR",
+        "anios": "1960-1970"
+      },
+      {
+        "club": "Estudiantes",
+        "pais": "AR",
+        "anios": "1965-1970"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Madero",
+        "club": "Estudiantes"
+      },
+      {
+        "nombre": "Manera",
+        "club": "Estudiantes"
+      },
+      {
+        "nombre": "Conigliaro",
+        "club": "Estudiantes"
+      },
+      {
+        "nombre": "Verón",
+        "club": "Estudiantes"
+      }
+    ],
+    "paises": [
+      "AR"
+    ],
+    "pistaExtra": "DT campeón del mundo en 1986, pero antes fue jugador campeón de la Intercontinental 1968"
+  },
+  {
+    "id": "cesar_menotti",
+    "nombre": "César Menotti",
+    "nombreCompleto": "César Luis Menotti",
+    "apodo": "El Flaco",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "tecnicos_jugadores"
+    ],
+    "carrera": [
+      {
+        "club": "Rosario Central",
+        "pais": "AR",
+        "anios": "1960-1965"
+      },
+      {
+        "club": "Racing",
+        "pais": "AR",
+        "anios": "1965-1967"
+      },
+      {
+        "club": "Santos",
+        "pais": "BR",
+        "anios": "1968-1969"
+      },
+      {
+        "club": "New York Generals",
+        "pais": "US",
+        "anios": "1969"
+      },
+      {
+        "club": "Boca Juniors",
+        "pais": "AR",
+        "anios": "1970"
+      },
+      {
+        "club": "Independiente",
+        "pais": "AR",
+        "anios": "1971"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Juan José Pizzuti",
+        "club": "Racing"
+      },
+      {
+        "nombre": "Agustín Cejas",
+        "club": "Independiente"
+      },
+      {
+        "nombre": "Norberto Raffo",
+        "club": "Rosario Central"
+      },
+      {
+        "nombre": "Pelé",
+        "club": "Santos"
+      }
+    ],
+    "paises": [
+      "AR",
+      "BR",
+      "US"
+    ],
+    "pistaExtra": "DT campeón del mundo en 1978, revolucionó el estilo argentino"
+  },
+  {
+    "id": "jurgen_klinsmann",
+    "nombre": "Klinsmann",
+    "nombreCompleto": "Jürgen Klinsmann",
+    "apodo": null,
+    "nacionalidad": "DE",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "trotamundos",
+      "serie_a",
+      "premier_league",
+      "bundesliga",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Stuttgart",
+        "pais": "DE",
+        "anios": "1984-1989"
+      },
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "1989-1992"
+      },
+      {
+        "club": "Mónaco",
+        "pais": "FR",
+        "anios": "1992-1994"
+      },
+      {
+        "club": "Tottenham",
+        "pais": "GB-ENG",
+        "anios": "1994-1995"
+      },
+      {
+        "club": "Bayern Múnich",
+        "pais": "DE",
+        "anios": "1995-1997"
+      },
+      {
+        "club": "Sampdoria",
+        "pais": "IT",
+        "anios": "1997"
+      },
+      {
+        "club": "Tottenham",
+        "pais": "GB-ENG",
+        "anios": "1998"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Bergkamp",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Effenberg",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Sheringham",
+        "club": "Tottenham"
+      },
+      {
+        "nombre": "Matthäus",
+        "club": "Inter"
+      }
+    ],
+    "paises": [
+      "DE",
+      "IT",
+      "FR",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Celebraba con un clavado, ganó el Mundial 90 con Alemania"
+  },
+  {
+    "id": "rudi_voller",
+    "nombre": "Rudi Völler",
+    "nombreCompleto": "Rudolf Völler",
+    "apodo": null,
+    "nacionalidad": "DE",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "serie_a",
+      "mundialistas",
+      "heroes_90",
+      "trotamundos"
+    ],
+    "carrera": [
+      {
+        "club": "1860 Múnich",
+        "pais": "DE",
+        "anios": "1980-1982"
+      },
+      {
+        "club": "Werder Bremen",
+        "pais": "DE",
+        "anios": "1982-1987"
+      },
+      {
+        "club": "Roma",
+        "pais": "IT",
+        "anios": "1987-1992"
+      },
+      {
+        "club": "Marseille",
+        "pais": "FR",
+        "anios": "1992-1994"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "pais": "DE",
+        "anios": "1994-1996"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Giuseppe Giannini",
+        "club": "Roma"
+      },
+      {
+        "nombre": "Didier Deschamps",
+        "club": "Marseille"
+      },
+      {
+        "nombre": "Lothar Matthäus",
+        "club": "Alemania"
+      },
+      {
+        "nombre": "Pierre Littbarski",
+        "club": "Alemania"
+      }
+    ],
+    "paises": [
+      "DE",
+      "IT",
+      "FR"
+    ],
+    "pistaExtra": "El escupitajo de Rijkaard en Italia 90 es una imagen icónica"
+  },
+  {
+    "id": "eric_abidal",
+    "nombre": "Abidal",
+    "nombreCompleto": "Éric Sylvain Abidal",
+    "apodo": null,
+    "nacionalidad": "FR",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "murallas",
+      "la_liga",
+      "champions",
+      "generacion_2000"
+    ],
+    "carrera": [
+      {
+        "club": "Lyon",
+        "pais": "FR",
+        "anios": "2000-2007"
+      },
+      {
+        "club": "Barcelona",
+        "pais": "ES",
+        "anios": "2007-2013"
+      },
+      {
+        "club": "Mónaco",
+        "pais": "FR",
+        "anios": "2013-2014"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Juninho",
+        "club": "Lyon"
+      },
+      {
+        "nombre": "Messi",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Xavi",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Puyol",
+        "club": "Barcelona"
+      }
+    ],
+    "paises": [
+      "FR",
+      "ES"
+    ],
+    "pistaExtra": "Superó un trasplante de hígado y volvió a jugar al máximo nivel"
+  },
+  {
+    "id": "tim_cahill",
+    "nombre": "Tim Cahill",
+    "nombreCompleto": "Timothy Filiga Cahill",
+    "apodo": null,
+    "nacionalidad": "AU",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "goleadores",
+      "premier_league",
+      "trotamundos",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Millwall",
+        "pais": "GB-ENG",
+        "anios": "1998-2004"
+      },
+      {
+        "club": "Everton",
+        "pais": "GB-ENG",
+        "anios": "2004-2012"
+      },
+      {
+        "club": "New York Red Bulls",
+        "pais": "US",
+        "anios": "2012-2015"
+      },
+      {
+        "club": "Shanghai Shenhua",
+        "pais": "CN",
+        "anios": "2015"
+      },
+      {
+        "club": "Melbourne City",
+        "pais": "AU",
+        "anios": "2016"
+      },
+      {
+        "club": "Hangzhou Greentown",
+        "pais": "CN",
+        "anios": "2017-2018"
+      },
+      {
+        "club": "Jamshedpur",
+        "pais": "IN",
+        "anios": "2018-2019"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Fellaini",
+        "club": "Everton"
+      },
+      {
+        "nombre": "Baines",
+        "club": "Everton"
+      },
+      {
+        "nombre": "Henry",
+        "club": "New York Red Bulls"
+      },
+      {
+        "nombre": "Osman",
+        "club": "Everton"
+      }
+    ],
+    "paises": [
+      "GB-ENG",
+      "US",
+      "CN",
+      "AU",
+      "IN"
+    ],
+    "pistaExtra": "Mejor goleador australiano de la historia, famoso por sus cabezazos"
+  },
+  {
+    "id": "marcel_desailly",
+    "nombre": "Desailly",
+    "nombreCompleto": "Marcel Desailly",
+    "apodo": null,
+    "nacionalidad": "FR",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "murallas",
+      "serie_a",
+      "premier_league",
+      "champions",
+      "mundialistas",
+      "heroes_90"
+    ],
+    "carrera": [
+      {
+        "club": "Nantes",
+        "pais": "FR",
+        "anios": "1986-1992"
+      },
+      {
+        "club": "Marseille",
+        "pais": "FR",
+        "anios": "1992-1993"
+      },
+      {
+        "club": "Milan",
+        "pais": "IT",
+        "anios": "1993-1998"
+      },
+      {
+        "club": "Chelsea",
+        "pais": "GB-ENG",
+        "anios": "1998-2004"
+      },
+      {
+        "club": "Al-Gharafa",
+        "pais": "QA",
+        "anios": "2004-2005"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Maldini",
+        "club": "Milan"
+      },
+      {
+        "nombre": "Zola",
+        "club": "Chelsea"
+      },
+      {
+        "nombre": "Lampard",
+        "club": "Chelsea"
+      },
+      {
+        "nombre": "Deschamps",
+        "club": "Marseille"
+      }
+    ],
+    "paises": [
+      "FR",
+      "IT",
+      "GB-ENG",
+      "QA"
+    ],
+    "pistaExtra": "Ganó la Champions con dos clubes distintos en años consecutivos (Marseille 93, Milan 94)"
+  },
+  {
+    "id": "gianluca_vialli",
+    "nombre": "Vialli",
+    "nombreCompleto": "Gianluca Vialli",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "serie_a",
+      "premier_league",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Cremonese",
+        "pais": "IT",
+        "anios": "1980-1984"
+      },
+      {
+        "club": "Sampdoria",
+        "pais": "IT",
+        "anios": "1984-1992"
+      },
+      {
+        "club": "Juventus",
+        "pais": "IT",
+        "anios": "1992-1996"
+      },
+      {
+        "club": "Chelsea",
+        "pais": "GB-ENG",
+        "anios": "1996-1999"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Mancini",
+        "club": "Sampdoria"
+      },
+      {
+        "nombre": "Del Piero",
+        "club": "Juventus"
+      },
+      {
+        "nombre": "Zola",
+        "club": "Chelsea"
+      },
+      {
+        "nombre": "Baggio",
+        "club": "Juventus"
+      }
+    ],
+    "paises": [
+      "IT",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Capitán de la Sampdoria campeón de la Serie A 1991"
+  },
+  {
+    "id": "juan_carlos_valeron",
+    "nombre": "Valerón",
+    "nombreCompleto": "Juan Carlos Valerón Santana",
+    "apodo": null,
+    "nacionalidad": "ES",
+    "posicion": "enganche",
+    "tier": 3,
+    "categorias": [
+      "enganches",
+      "la_liga",
+      "te_acordas"
+    ],
+    "carrera": [
+      {
+        "club": "Las Palmas",
+        "pais": "ES",
+        "anios": "1993-1995"
+      },
+      {
+        "club": "Mallorca",
+        "pais": "ES",
+        "anios": "1995-2000"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "pais": "ES",
+        "anios": "2000"
+      },
+      {
+        "club": "Deportivo de La Coruña",
+        "pais": "ES",
+        "anios": "2000-2013"
+      },
+      {
+        "club": "Las Palmas",
+        "pais": "ES",
+        "anios": "2014-2016"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Djalminha",
+        "club": "Deportivo de La Coruña"
+      },
+      {
+        "nombre": "Makaay",
+        "club": "Deportivo de La Coruña"
+      },
+      {
+        "nombre": "Fran",
+        "club": "Deportivo de La Coruña"
+      },
+      {
+        "nombre": "Tristán",
+        "club": "Deportivo de La Coruña"
+      }
+    ],
+    "paises": [
+      "ES"
+    ],
+    "pistaExtra": "El mago del Depor: uno de los mejores enganches españoles"
+  },
+  {
+    "id": "peter_schmeichel",
+    "nombre": "Schmeichel",
+    "nombreCompleto": "Peter Bolesław Schmeichel",
+    "apodo": null,
+    "nacionalidad": "DK",
+    "posicion": "arquero",
+    "tier": 1,
+    "categorias": [
+      "arqueros",
+      "leyendas",
+      "premier_league",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Brøndby",
+        "pais": "DK",
+        "anios": "1987-1991"
+      },
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "1991-1999"
+      },
+      {
+        "club": "Sporting de Lisboa",
+        "pais": "PT",
+        "anios": "1999-2001"
+      },
+      {
+        "club": "Aston Villa",
+        "pais": "GB-ENG",
+        "anios": "2001-2002"
+      },
+      {
+        "club": "Manchester City",
+        "pais": "GB-ENG",
+        "anios": "2002-2003"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Beckham",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Giggs",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Keane",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Cantona",
+        "club": "Manchester United"
+      }
+    ],
+    "paises": [
+      "DK",
+      "GB-ENG",
+      "PT"
+    ],
+    "pistaExtra": "Portero del triplete del United en 1999"
+  },
+  {
+    "id": "gianluigi_donnarumma",
+    "nombre": "Donnarumma",
+    "nombreCompleto": "Gianluigi Donnarumma",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "arqueros",
+      "generacion_actual",
+      "serie_a",
+      "ligue_1"
+    ],
+    "carrera": [
+      {
+        "club": "Milan",
+        "pais": "IT",
+        "anios": "2015-2021"
+      },
+      {
+        "club": "Paris Saint-Germain",
+        "pais": "FR",
+        "anios": "2021-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Ibrahimovic",
+        "club": "Milan"
+      },
+      {
+        "nombre": "Mbappé",
+        "club": "Paris Saint-Germain"
+      },
+      {
+        "nombre": "Neymar",
+        "club": "Paris Saint-Germain"
+      },
+      {
+        "nombre": "Bonucci",
+        "club": "Italia"
+      }
+    ],
+    "paises": [
+      "IT",
+      "FR"
+    ],
+    "pistaExtra": "MVP de la Euro 2020 con solo 22 años"
+  },
+  {
+    "id": "lev_yashin",
+    "nombre": "Lev Yashin",
+    "nombreCompleto": "Lev Ivánovich Yashin",
+    "apodo": "La Araña Negra",
+    "nacionalidad": "RU",
+    "posicion": "arquero",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "arqueros",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Dinamo de Moscú",
+        "pais": "RU",
+        "anios": "1950-1970"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Igor Netto",
+        "club": "Dinamo de Moscú"
+      },
+      {
+        "nombre": "Valentin Ivanov",
+        "club": "Selección URSS"
+      },
+      {
+        "nombre": "Eduard Streltsov",
+        "club": "Selección URSS"
+      },
+      {
+        "nombre": "Slava Metreveli",
+        "club": "Selección URSS"
+      }
+    ],
+    "paises": [
+      "RU"
+    ],
+    "pistaExtra": "El único arquero en ganar el Balón de Oro (1963)"
+  },
+  {
+    "id": "ryan_giggs",
+    "nombre": "Giggs",
+    "nombreCompleto": "Ryan Joseph Giggs",
+    "apodo": null,
+    "nacionalidad": "GB-WLS",
+    "posicion": "extremo",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "premier_league",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "1990-2014"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Scholes",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Beckham",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Cristiano Ronaldo",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Rooney",
+        "club": "Manchester United"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "24 temporadas en Manchester United, 13 títulos de Premier"
+  },
+  {
+    "id": "paul_scholes",
+    "nombre": "Scholes",
+    "nombreCompleto": "Paul Scholes",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "mediocampistas",
+      "leyendas",
+      "premier_league",
+      "champions",
+      "generacion_2000"
+    ],
+    "carrera": [
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "1993-2011"
+      },
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "2012-2013"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Giggs",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Beckham",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Keane",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Cristiano Ronaldo",
+        "club": "Manchester United"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Xavi dijo que era el mejor mediocampista de su generación"
+  },
+  {
+    "id": "dimitar_berbatov",
+    "nombre": "Berbatov",
+    "nombreCompleto": "Dimitar Ivelin Berbatov",
+    "apodo": null,
+    "nacionalidad": "BG",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "goleadores",
+      "trotamundos",
+      "premier_league",
+      "bundesliga",
+      "ligue_1",
+      "te_acordas"
+    ],
+    "carrera": [
+      {
+        "club": "CSKA Sofía",
+        "pais": "BG",
+        "anios": "1998-2001"
+      },
+      {
+        "club": "Bayer Leverkusen",
+        "pais": "DE",
+        "anios": "2001-2006"
+      },
+      {
+        "club": "Tottenham",
+        "pais": "GB-ENG",
+        "anios": "2006-2008"
+      },
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "2008-2012"
+      },
+      {
+        "club": "Fulham",
+        "pais": "GB-ENG",
+        "anios": "2012-2014"
+      },
+      {
+        "club": "Mónaco",
+        "pais": "FR",
+        "anios": "2014-2015"
+      },
+      {
+        "club": "PAOK",
+        "pais": "GR",
+        "anios": "2015-2016"
+      },
+      {
+        "club": "Kerala Blasters",
+        "pais": "IN",
+        "anios": "2017-2018"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Rooney",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Robben",
+        "club": "Bayer Leverkusen"
+      },
+      {
+        "nombre": "Keane",
+        "club": "Tottenham"
+      },
+      {
+        "nombre": "Falcao",
+        "club": "Mónaco"
+      }
+    ],
+    "paises": [
+      "BG",
+      "DE",
+      "GB-ENG",
+      "FR",
+      "GR",
+      "IN"
+    ],
+    "pistaExtra": "Famoso por su elegancia y control de balón"
+  },
+  {
+    "id": "socrates",
+    "nombre": "Sócrates",
+    "nombreCompleto": "Sócrates Brasileiro Sampaio de Souza Vieira de Oliveira",
+    "apodo": "El Doctor",
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "mediocampistas",
+      "mundialistas",
+      "heroes_90"
+    ],
+    "carrera": [
+      {
+        "club": "Botafogo-SP",
+        "pais": "BR",
+        "anios": "1974-1978"
+      },
+      {
+        "club": "Corinthians",
+        "pais": "BR",
+        "anios": "1978-1984"
+      },
+      {
+        "club": "Fiorentina",
+        "pais": "IT",
+        "anios": "1984-1985"
+      },
+      {
+        "club": "Flamengo",
+        "pais": "BR",
+        "anios": "1986-1987"
+      },
+      {
+        "club": "Santos",
+        "pais": "BR",
+        "anios": "1988-1989"
+      },
+      {
+        "club": "Botafogo-SP",
+        "pais": "BR",
+        "anios": "1989"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Zico",
+        "club": "Selección Brasil"
+      },
+      {
+        "nombre": "Falcão",
+        "club": "Selección Brasil"
+      },
+      {
+        "nombre": "Cerezo",
+        "club": "Selección Brasil"
+      },
+      {
+        "nombre": "Casagrande",
+        "club": "Corinthians"
+      }
+    ],
+    "paises": [
+      "BR",
+      "IT"
+    ],
+    "pistaExtra": "Médico y capitán de la Democracia Corinthiana, líder del Brasil del 82"
+  },
+  {
+    "id": "ferenc_puskas",
+    "nombre": "Puskás",
+    "nombreCompleto": "Ferenc Puskás Biró",
+    "apodo": "El Mayor Galopante",
+    "nacionalidad": "HU",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "goleadores",
+      "mundialistas",
+      "la_liga"
+    ],
+    "carrera": [
+      {
+        "club": "Budapest Honvéd",
+        "pais": "HU",
+        "anios": "1943-1956"
+      },
+      {
+        "club": "Real Madrid",
+        "pais": "ES",
+        "anios": "1958-1966"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Di Stéfano",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Gento",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Kocsis",
+        "club": "Budapest Honvéd"
+      },
+      {
+        "nombre": "Czibor",
+        "club": "Budapest Honvéd"
+      }
+    ],
+    "paises": [
+      "HU",
+      "ES"
+    ],
+    "pistaExtra": "El premio FIFA al mejor gol del año lleva su nombre"
+  },
+  {
+    "id": "garrincha",
+    "nombre": "Garrincha",
+    "nombreCompleto": "Manuel Francisco dos Santos",
+    "apodo": "Alegría del Pueblo",
+    "nacionalidad": "BR",
+    "posicion": "extremo",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "mundialistas",
+      "goleadores"
+    ],
+    "carrera": [
+      {
+        "club": "Botafogo",
+        "pais": "BR",
+        "anios": "1953-1965"
+      },
+      {
+        "club": "Corinthians",
+        "pais": "BR",
+        "anios": "1966"
+      },
+      {
+        "club": "Flamengo",
+        "pais": "BR",
+        "anios": "1968-1969"
+      },
+      {
+        "club": "Olaria",
+        "pais": "BR",
+        "anios": "1972"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Pelé",
+        "club": "Selección Brasil"
+      },
+      {
+        "nombre": "Nilton Santos",
+        "club": "Botafogo"
+      },
+      {
+        "nombre": "Didi",
+        "club": "Selección Brasil"
+      },
+      {
+        "nombre": "Zagallo",
+        "club": "Selección Brasil"
+      }
+    ],
+    "paises": [
+      "BR"
+    ],
+    "pistaExtra": "Bicampeón del mundo con piernas torcidas, considerado el mejor driblador de la historia"
+  }
+]
