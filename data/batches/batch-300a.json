@@ -1,0 +1,403 @@
+[
+  {
+    "id": "gavi",
+    "nombre": "Gavi",
+    "nombreCompleto": "Pablo Martín Páez Gavira",
+    "apodo": null,
+    "nacionalidad": "ES",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "generacion_actual",
+      "mediocampistas",
+      "la_liga"
+    ],
+    "carrera": [
+      {
+        "club": "Barcelona",
+        "pais": "ES",
+        "anios": "2021-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Pedri",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Lewandowski",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Ter Stegen",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Lamine Yamal",
+        "club": "Barcelona"
+      }
+    ],
+    "paises": [
+      "ES"
+    ],
+    "pistaExtra": "Ganó el Trofeo Kopa como mejor sub-21 en 2022"
+  },
+  {
+    "id": "nelson_valdez",
+    "nombre": "Nelson Valdez",
+    "nombreCompleto": "Nelson Antonio Haedo Valdez",
+    "apodo": null,
+    "nacionalidad": "PY",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "trotamundos",
+      "goleadores",
+      "bundesliga",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      {
+        "club": "Olimpia",
+        "pais": "PY",
+        "anios": "2001-2003"
+      },
+      {
+        "club": "Werder Bremen",
+        "pais": "DE",
+        "anios": "2003-2007"
+      },
+      {
+        "club": "Borussia Dortmund",
+        "pais": "DE",
+        "anios": "2007-2009"
+      },
+      {
+        "club": "Hércules",
+        "pais": "ES",
+        "anios": "2010-2011"
+      },
+      {
+        "club": "Valencia",
+        "pais": "ES",
+        "anios": "2011"
+      },
+      {
+        "club": "Rubin Kazan",
+        "pais": "RU",
+        "anios": "2012"
+      },
+      {
+        "club": "Al Jazira",
+        "pais": "AE",
+        "anios": "2012-2013"
+      },
+      {
+        "club": "Olympiacos",
+        "pais": "GR",
+        "anios": "2013-2014"
+      },
+      {
+        "club": "Seattle Sounders",
+        "pais": "US",
+        "anios": "2015-2016"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Klose",
+        "club": "Werder Bremen"
+      },
+      {
+        "nombre": "Lewandowski",
+        "club": "Borussia Dortmund"
+      },
+      {
+        "nombre": "Diego",
+        "club": "Werder Bremen"
+      },
+      {
+        "nombre": "Roque Santa Cruz",
+        "club": "Selección"
+      }
+    ],
+    "paises": [
+      "PY",
+      "DE",
+      "ES",
+      "RU",
+      "AE",
+      "GR",
+      "US"
+    ],
+    "pistaExtra": "Delantero nómade: jugó en 7 países distintos"
+  },
+  {
+    "id": "teofilo_cubillas",
+    "nombre": "Cubillas",
+    "nombreCompleto": "Teófilo Juan Cubillas Arizaga",
+    "apodo": "El Nene",
+    "nacionalidad": "PE",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "leyendas",
+      "enganches",
+      "heroes_90",
+      "mundialistas",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      {
+        "club": "Alianza Lima",
+        "pais": "PE",
+        "anios": "1966-1972"
+      },
+      {
+        "club": "Basel",
+        "pais": "CH",
+        "anios": "1972-1977"
+      },
+      {
+        "club": "Porto",
+        "pais": "PT",
+        "anios": "1977-1979"
+      },
+      {
+        "club": "Fort Lauderdale Strikers",
+        "pais": "US",
+        "anios": "1979-1983"
+      },
+      {
+        "club": "Alianza Lima",
+        "pais": "PE",
+        "anios": "1979-1988"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Hugo Sotil",
+        "club": "Alianza Lima"
+      },
+      {
+        "nombre": "Percy Rojas",
+        "club": "Alianza Lima"
+      },
+      {
+        "nombre": "Roberto Challe",
+        "club": "Alianza Lima"
+      },
+      {
+        "nombre": "Héctor Chumpitaz",
+        "club": "Selección"
+      }
+    ],
+    "paises": [
+      "PE",
+      "CH",
+      "PT",
+      "US"
+    ],
+    "pistaExtra": "Marcó en tres Mundiales distintos (70, 78, 82)"
+  },
+  {
+    "id": "norberto_alonso",
+    "nombre": "Norberto Alonso",
+    "nombreCompleto": "Norberto Osvaldo Alonso",
+    "apodo": "Beto",
+    "nacionalidad": "AR",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "argentinos_mundo",
+      "leyendas",
+      "enganches",
+      "heroes_90",
+      "ida_y_vuelta",
+      "numero_10",
+      "libertadores"
+    ],
+    "carrera": [
+      {
+        "club": "River Plate",
+        "pais": "AR",
+        "anios": "1971-1983"
+      },
+      {
+        "club": "Olympique de Marseille",
+        "pais": "FR",
+        "anios": "1983-1984"
+      },
+      {
+        "club": "Vélez Sarsfield",
+        "pais": "AR",
+        "anios": "1984"
+      },
+      {
+        "club": "River Plate",
+        "pais": "AR",
+        "anios": "1985-1986"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Fillol",
+        "club": "River Plate"
+      },
+      {
+        "nombre": "Passarella",
+        "club": "River Plate"
+      },
+      {
+        "nombre": "Kempes",
+        "club": "Selección"
+      },
+      {
+        "nombre": "Labruna",
+        "club": "River Plate"
+      }
+    ],
+    "paises": [
+      "AR",
+      "FR"
+    ],
+    "pistaExtra": "Ídolo máximo de River Plate en los 70"
+  },
+  {
+    "id": "ricardo_bochini",
+    "nombre": "Bochini",
+    "nombreCompleto": "Ricardo Enrique Bochini",
+    "apodo": "El Bocha",
+    "nacionalidad": "AR",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "argentinos_mundo",
+      "leyendas",
+      "enganches",
+      "numero_10",
+      "libertadores"
+    ],
+    "carrera": [
+      {
+        "club": "Independiente",
+        "pais": "AR",
+        "anios": "1972-1991"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Burruchaga",
+        "club": "Independiente"
+      },
+      {
+        "nombre": "Percudani",
+        "club": "Independiente"
+      },
+      {
+        "nombre": "Maradona",
+        "club": "Selección"
+      },
+      {
+        "nombre": "Commisso",
+        "club": "Independiente"
+      }
+    ],
+    "paises": [
+      "AR"
+    ],
+    "pistaExtra": "Ídolo de Maradona. Toda su carrera en un solo club: 20 años en Independiente"
+  },
+  {
+    "id": "florian_wirtz",
+    "nombre": "Wirtz",
+    "nombreCompleto": "Florian Richard Wirtz",
+    "apodo": null,
+    "nacionalidad": "DE",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "generacion_actual",
+      "enganches",
+      "bundesliga"
+    ],
+    "carrera": [
+      {
+        "club": "Bayer Leverkusen",
+        "pais": "DE",
+        "anios": "2020-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Xhaka",
+        "club": "Bayer Leverkusen"
+      },
+      {
+        "nombre": "Schick",
+        "club": "Bayer Leverkusen"
+      },
+      {
+        "nombre": "Xabi Alonso",
+        "club": "Bayer Leverkusen"
+      },
+      {
+        "nombre": "Havertz",
+        "club": "Bayer Leverkusen"
+      }
+    ],
+    "paises": [
+      "DE"
+    ],
+    "pistaExtra": "Pieza clave del Leverkusen invicto campeón 2024"
+  },
+  {
+    "id": "jamal_musiala",
+    "nombre": "Musiala",
+    "nombreCompleto": "Jamal Musiala",
+    "apodo": null,
+    "nacionalidad": "DE",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "generacion_actual",
+      "enganches",
+      "bundesliga"
+    ],
+    "carrera": [
+      {
+        "club": "Chelsea",
+        "pais": "GB",
+        "anios": "2016-2019"
+      },
+      {
+        "club": "Bayern Munich",
+        "pais": "DE",
+        "anios": "2020-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Müller",
+        "club": "Bayern Munich"
+      },
+      {
+        "nombre": "Kimmich",
+        "club": "Bayern Munich"
+      },
+      {
+        "nombre": "Sané",
+        "club": "Bayern Munich"
+      },
+      {
+        "nombre": "Neuer",
+        "club": "Bayern Munich"
+      }
+    ],
+    "paises": [
+      "GB",
+      "DE"
+    ],
+    "pistaExtra": "Eligió Alemania sobre Inglaterra para su selección"
+  }
+]

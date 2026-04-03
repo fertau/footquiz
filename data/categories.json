@@ -144,7 +144,8 @@
       "claudio_bravo",
       "freddy_rincon",
       "hugo_sanchez",
-      "rafael_marquez"
+      "rafael_marquez",
+      "teofilo_cubillas"
     ]
   },
   {
@@ -395,7 +396,9 @@
       "juan_cuadrado",
       "luis_diaz",
       "marcelo_salas",
-      "rafael_marquez"
+      "rafael_marquez",
+      "nelson_valdez",
+      "teofilo_cubillas"
     ]
   },
   {
@@ -510,7 +513,8 @@
       "freddy_rincon",
       "hugo_sanchez",
       "rafael_marquez",
-      "ronald_araujo"
+      "ronald_araujo",
+      "gavi"
     ]
   },
   {
@@ -905,7 +909,8 @@
       "juan_cuadrado",
       "luis_diaz",
       "marcelo_salas",
-      "sebastian_abreu"
+      "sebastian_abreu",
+      "nelson_valdez"
     ]
   },
   {
@@ -996,6 +1001,88 @@
     ]
   },
   {
+    "id": "leyendas",
+    "nombre": "Leyendas",
+    "emoji": "👑🏆",
+    "descripcion": "Los que conoce todo el mundo",
+    "jugadorIds": [
+      "maradona",
+      "messi",
+      "ronaldinho",
+      "zidane",
+      "batistuta",
+      "riquelme",
+      "zanetti",
+      "cristiano_ronaldo",
+      "david_beckham",
+      "thierry_henry",
+      "zlatan_ibrahimovic",
+      "gianluigi_buffon",
+      "francesco_totti",
+      "alessandro_del_piero",
+      "steven_gerrard",
+      "frank_lampard",
+      "wayne_rooney",
+      "xavi_hernandez",
+      "andres_iniesta",
+      "sergio_ramos",
+      "raul_gonzalez",
+      "luka_modric",
+      "robert_lewandowski",
+      "luis_suarez",
+      "enzo_francescoli",
+      "carlos_valderrama",
+      "ivan_zamorano",
+      "jose_luis_chilavert",
+      "george_weah",
+      "alan_shearer",
+      "andriy_shevchenko",
+      "bastian_schweinsteiger",
+      "dennis_bergkamp",
+      "eric_cantona",
+      "fabio_cannavaro",
+      "fernando_redondo",
+      "franz_beckenbauer",
+      "gary_lineker",
+      "gheorghe_hagi",
+      "iker_casillas",
+      "johan_cruyff",
+      "john_terry",
+      "jorge_burruchaga",
+      "lothar_matthaus",
+      "luis_figo",
+      "manuel_neuer",
+      "marco_van_basten",
+      "mario_kempes",
+      "oliver_kahn",
+      "oscar_ruggeri",
+      "paolo_maldini",
+      "philipp_lahm",
+      "rio_ferdinand",
+      "thomas_muller",
+      "toni_kroos",
+      "alfredo_di_stefano",
+      "gary_neville",
+      "makelele",
+      "pele",
+      "cafu",
+      "dani_alves",
+      "kaka",
+      "neymar",
+      "rivaldo",
+      "roberto_carlos",
+      "romario",
+      "ronaldo_nazario",
+      "thiago_silva",
+      "vinicius_jr",
+      "roger_milla",
+      "hugo_sanchez",
+      "norberto_alonso",
+      "ricardo_bochini",
+      "teofilo_cubillas"
+    ]
+  },
+  {
     "id": "generacion_2010",
     "nombre": "Generación 2010",
     "emoji": "📱⚽",
@@ -1076,85 +1163,6 @@
     ]
   },
   {
-    "id": "leyendas",
-    "nombre": "Leyendas",
-    "emoji": "👑🏆",
-    "descripcion": "Los que conoce todo el mundo",
-    "jugadorIds": [
-      "maradona",
-      "messi",
-      "ronaldinho",
-      "zidane",
-      "batistuta",
-      "riquelme",
-      "zanetti",
-      "cristiano_ronaldo",
-      "david_beckham",
-      "thierry_henry",
-      "zlatan_ibrahimovic",
-      "gianluigi_buffon",
-      "francesco_totti",
-      "alessandro_del_piero",
-      "steven_gerrard",
-      "frank_lampard",
-      "wayne_rooney",
-      "xavi_hernandez",
-      "andres_iniesta",
-      "sergio_ramos",
-      "raul_gonzalez",
-      "luka_modric",
-      "robert_lewandowski",
-      "luis_suarez",
-      "enzo_francescoli",
-      "carlos_valderrama",
-      "ivan_zamorano",
-      "jose_luis_chilavert",
-      "george_weah",
-      "alan_shearer",
-      "andriy_shevchenko",
-      "bastian_schweinsteiger",
-      "dennis_bergkamp",
-      "eric_cantona",
-      "fabio_cannavaro",
-      "fernando_redondo",
-      "franz_beckenbauer",
-      "gary_lineker",
-      "gheorghe_hagi",
-      "iker_casillas",
-      "johan_cruyff",
-      "john_terry",
-      "jorge_burruchaga",
-      "lothar_matthaus",
-      "luis_figo",
-      "manuel_neuer",
-      "marco_van_basten",
-      "mario_kempes",
-      "oliver_kahn",
-      "oscar_ruggeri",
-      "paolo_maldini",
-      "philipp_lahm",
-      "rio_ferdinand",
-      "thomas_muller",
-      "toni_kroos",
-      "alfredo_di_stefano",
-      "gary_neville",
-      "makelele",
-      "pele",
-      "cafu",
-      "dani_alves",
-      "kaka",
-      "neymar",
-      "rivaldo",
-      "roberto_carlos",
-      "romario",
-      "ronaldo_nazario",
-      "thiago_silva",
-      "vinicius_jr",
-      "roger_milla",
-      "hugo_sanchez"
-    ]
-  },
-  {
     "id": "argentinos_mundo",
     "nombre": "Argentinos por el Mundo",
     "emoji": "🇦🇷✈️",
@@ -1227,7 +1235,9 @@
       "german_pezzella",
       "marcos_acuna",
       "nahuel_molina",
-      "nicolas_gonzalez"
+      "nicolas_gonzalez",
+      "norberto_alonso",
+      "ricardo_bochini"
     ]
   },
   {
@@ -1301,7 +1311,8 @@
       "andres_guardado",
       "michael_essien",
       "federico_valverde",
-      "freddy_rincon"
+      "freddy_rincon",
+      "gavi"
     ]
   },
   {
@@ -1373,7 +1384,8 @@
       "gary_medel",
       "juan_cuadrado",
       "rafael_marquez",
-      "sebastian_abreu"
+      "sebastian_abreu",
+      "nelson_valdez"
     ]
   },
   {
@@ -1436,7 +1448,9 @@
       "roger_milla",
       "faustino_asprilla",
       "freddy_rincon",
-      "marcelo_salas"
+      "marcelo_salas",
+      "norberto_alonso",
+      "teofilo_cubillas"
     ]
   },
   {
@@ -1486,7 +1500,10 @@
       "darwin_nunez",
       "federico_valverde",
       "luis_diaz",
-      "ronald_araujo"
+      "ronald_araujo",
+      "florian_wirtz",
+      "gavi",
+      "jamal_musiala"
     ],
     "nombre": "Generación Actual",
     "emoji": "🔥⚽",
@@ -1623,7 +1640,10 @@
       "jefferson_farfan",
       "paolo_guerrero",
       "pierre_emerick_aubameyang",
-      "roque_santa_cruz"
+      "roque_santa_cruz",
+      "florian_wirtz",
+      "jamal_musiala",
+      "nelson_valdez"
     ],
     "nombre": "Bundesliga",
     "emoji": "🇩🇪⚽",
@@ -1663,7 +1683,12 @@
       "kaka",
       "oscar",
       "paqueta",
-      "rivaldo"
+      "rivaldo",
+      "florian_wirtz",
+      "jamal_musiala",
+      "norberto_alonso",
+      "ricardo_bochini",
+      "teofilo_cubillas"
     ]
   },
   {
@@ -1723,7 +1748,8 @@
       "gilberto_silva",
       "hulk",
       "julio_cesar",
-      "marcelo_salas"
+      "marcelo_salas",
+      "norberto_alonso"
     ]
   },
   {
@@ -1745,7 +1771,9 @@
       "cafu",
       "exequiel_palacios",
       "neymar",
-      "paolo_guerrero"
+      "paolo_guerrero",
+      "norberto_alonso",
+      "ricardo_bochini"
     ],
     "nombre": "Copa Libertadores",
     "emoji": "🏆🌎",
@@ -1776,6 +1804,30 @@
     "descripcion": "Los guardianes del arco"
   },
   {
+    "id": "numero_10",
+    "nombre": "Número 10",
+    "emoji": "🔟✨",
+    "descripcion": "Los clásicos número 10",
+    "jugadorIds": [
+      "maradona",
+      "ronaldinho",
+      "zidane",
+      "riquelme",
+      "francesco_totti",
+      "dennis_bergkamp",
+      "eric_cantona",
+      "gheorghe_hagi",
+      "johan_cruyff",
+      "marcelo_gallardo",
+      "mesut_ozil",
+      "rui_costa",
+      "gianfranco_zola",
+      "pele",
+      "norberto_alonso",
+      "ricardo_bochini"
+    ]
+  },
+  {
     "id": "latinos_europa",
     "nombre": "Latinos en Europa",
     "emoji": "🌎⚽",
@@ -1796,28 +1848,6 @@
       "ortega",
       "lopez",
       "lucho"
-    ]
-  },
-  {
-    "id": "numero_10",
-    "nombre": "Número 10",
-    "emoji": "🔟✨",
-    "descripcion": "Los clásicos número 10",
-    "jugadorIds": [
-      "maradona",
-      "ronaldinho",
-      "zidane",
-      "riquelme",
-      "francesco_totti",
-      "dennis_bergkamp",
-      "eric_cantona",
-      "gheorghe_hagi",
-      "johan_cruyff",
-      "marcelo_gallardo",
-      "mesut_ozil",
-      "rui_costa",
-      "gianfranco_zola",
-      "pele"
     ]
   },
   {
