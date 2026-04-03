@@ -1,4 +1,4 @@
-import { getStats, getPlayers } from '../data.js';
+import { getPlayers } from '../data.js';
 
 export function renderHome(container) {
   container.innerHTML = `
@@ -8,59 +8,50 @@ export function renderHome(container) {
         <h1 class="home-title">FutQuiz</h1>
         <p class="home-subtitle">Adiviná jugadores de fútbol con pistas de su carrera</p>
       </div>
-      <div class="mode-section">
-        <div class="mode-section-label">Clásicos</div>
-        <div class="mode-grid">
-          <button class="mode-btn" data-mode="carrera">
-            <span class="mode-emoji">🏟️</span>
-            <span class="mode-info">
-              <span>La Carrera</span>
-              <span class="mode-desc">Adiviná por los clubes donde jugó</span>
-            </span>
-          </button>
-          <button class="mode-btn" data-mode="companeros">
-            <span class="mode-emoji">🤝</span>
-            <span class="mode-info">
-              <span>Compañeros</span>
-              <span class="mode-desc">¿Con quién jugaron todos estos?</span>
-            </span>
-          </button>
-          <button class="mode-btn" data-mode="pasaporte">
-            <span class="mode-emoji">🛂</span>
-            <span class="mode-info">
-              <span>El Pasaporte</span>
-              <span class="mode-desc">Adiviná por los países donde jugó</span>
-            </span>
-          </button>
-        </div>
+      <div class="mode-grid">
+        <button class="mode-btn" data-mode="carrera">
+          <span class="mode-emoji">🏟️</span>
+          <span class="mode-info">
+            <span>La Carrera</span>
+            <span class="mode-desc">Adiviná por los clubes donde jugó</span>
+          </span>
+        </button>
+        <button class="mode-btn" data-mode="companeros">
+          <span class="mode-emoji">🤝</span>
+          <span class="mode-info">
+            <span>Compañeros</span>
+            <span class="mode-desc">¿Con quién jugaron todos estos?</span>
+          </span>
+        </button>
+        <button class="mode-btn" data-mode="pasaporte">
+          <span class="mode-emoji">🛂</span>
+          <span class="mode-info">
+            <span>El Pasaporte</span>
+            <span class="mode-desc">Adiviná por los países donde jugó</span>
+          </span>
+        </button>
+        <button class="mode-btn" data-mode="quiensoy">
+          <span class="mode-emoji">🎭</span>
+          <span class="mode-info">
+            <span>Quién Soy</span>
+            <span class="mode-desc">Pistas genéricas: posición, década, datos</span>
+          </span>
+        </button>
+        <button class="mode-btn" data-mode="conexion">
+          <span class="mode-emoji">🔗</span>
+          <span class="mode-info">
+            <span>Conexión</span>
+            <span class="mode-desc">¿En qué club jugaron juntos?</span>
+          </span>
+        </button>
+        <button class="mode-btn" data-mode="linea">
+          <span class="mode-emoji">📅</span>
+          <span class="mode-info">
+            <span>Línea de Tiempo</span>
+            <span class="mode-desc">Ordená los clubes cronológicamente</span>
+          </span>
+        </button>
       </div>
-      <div class="mode-section">
-        <div class="mode-section-label">Nuevos</div>
-        <div class="mode-grid">
-          <button class="mode-btn mode-btn-new" data-mode="quiensoy">
-            <span class="mode-emoji">🎭</span>
-            <span class="mode-info">
-              <span>Quién Soy</span>
-              <span class="mode-desc">Pistas genéricas: posición, década, datos</span>
-            </span>
-          </button>
-          <button class="mode-btn mode-btn-new" data-mode="conexion">
-            <span class="mode-emoji">🔗</span>
-            <span class="mode-info">
-              <span>Conexión</span>
-              <span class="mode-desc">¿En qué club jugaron juntos?</span>
-            </span>
-          </button>
-          <button class="mode-btn mode-btn-new" data-mode="linea">
-            <span class="mode-emoji">📅</span>
-            <span class="mode-info">
-              <span>Línea de Tiempo</span>
-              <span class="mode-desc">Ordená los clubes cronológicamente</span>
-            </span>
-          </button>
-        </div>
-      </div>
-      <div class="home-stats" id="home-stats"></div>
       <button class="how-to-play-btn">¿Cómo se juega?</button>
     </div>
   `;
@@ -70,18 +61,6 @@ export function renderHome(container) {
       location.hash = `#/categorias/${btn.dataset.mode}`;
     });
   });
-
-  // Show stats
-  const stats = getStats();
-  const totalPlayers = getPlayers().length;
-  const discovered = stats.discoveredCount || 0;
-  const gamesPlayed = stats.gamesPlayed || 0;
-  if (gamesPlayed > 0) {
-    document.getElementById('home-stats').innerHTML = `
-      <span>${discovered}/${totalPlayers} descubiertos</span>
-      <span>${gamesPlayed} partida${gamesPlayed !== 1 ? 's' : ''}</span>
-    `;
-  }
 
   container.querySelector('.how-to-play-btn').addEventListener('click', () => {
     showHowToPlay(container);

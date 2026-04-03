@@ -160,19 +160,20 @@ body {
 }
 
 .mode-grid {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 10px;
   width: 100%;
-  max-width: 340px;
-  margin-top: 12px;
+  max-width: 360px;
+  margin-top: 16px;
 }
 
 .mode-btn {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 14px;
-  padding: 16px 18px;
+  gap: 8px;
+  padding: 20px 12px 16px;
   background: var(--white);
   border: none;
   border-radius: var(--radius);
@@ -181,61 +182,62 @@ body {
   color: var(--gray-900);
   cursor: pointer;
   transition: all var(--transition);
-  text-align: left;
+  text-align: center;
   box-shadow: var(--shadow);
   position: relative;
   overflow: hidden;
 }
 
-.mode-btn::after {
-  content: '>';
+.mode-btn::before {
+  content: '';
   position: absolute;
-  right: 18px;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 1.2rem;
-  color: var(--gray-400);
-  font-weight: 300;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--green-500), var(--green-400));
+  opacity: 0;
+  transition: opacity var(--transition);
 }
 
 .mode-btn:active {
-  transform: scale(0.97);
+  transform: scale(0.96);
   box-shadow: var(--shadow-sm);
+}
+
+.mode-btn:active::before {
+  opacity: 1;
 }
 
 .mode-btn .mode-emoji {
   font-size: 2rem;
   flex-shrink: 0;
-  width: 44px;
-  height: 44px;
+  width: 48px;
+  height: 48px;
   display: flex;
   align-items: center;
   justify-content: center;
   background: var(--green-100);
-  border-radius: var(--radius-sm);
+  border-radius: 50%;
 }
 
 .mode-btn .mode-info {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  align-items: center;
+  gap: 3px;
+}
+
+.mode-btn .mode-info > span:first-child {
+  font-size: 0.9rem;
+  font-weight: 800;
 }
 
 .mode-btn .mode-desc {
-  font-size: 0.72rem;
+  font-size: 0.65rem;
   font-weight: 500;
   color: var(--gray-500);
-}
-
-.home-stats {
-  display: flex;
-  gap: 16px;
-  justify-content: center;
-  font-size: 0.75rem;
-  font-weight: 700;
-  color: var(--gray-400);
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+  line-height: 1.3;
 }
 
 .how-to-play-btn {
@@ -897,25 +899,7 @@ body {
   text-transform: uppercase;
 }
 
-/* === Mode Section Labels === */
-.mode-section {
-  width: 100%;
-  max-width: 340px;
-}
-
-.mode-section-label {
-  font-size: 0.7rem;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-  color: var(--gray-400);
-  margin-bottom: 8px;
-  padding-left: 4px;
-}
-
-.mode-btn-new {
-  border-left: 3px solid var(--gold);
-}
+/* (mode section labels removed — unified grid) */
 
 /* === Conexión Mode === */
 .conexion-pair {
