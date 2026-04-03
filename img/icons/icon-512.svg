@@ -1,47 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <defs>
-    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1b5e20"/>
-      <stop offset="100%" style="stop-color:#2e7d32"/>
-    </linearGradient>
-    <radialGradient id="shine5" cx="38%" cy="32%" r="55%">
-      <stop offset="0%" style="stop-color:#ffffff"/>
-      <stop offset="60%" style="stop-color:#f0f0f0"/>
-      <stop offset="100%" style="stop-color:#cccccc"/>
-    </radialGradient>
-    <filter id="shadow5">
-      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-opacity="0.3"/>
-    </filter>
-  </defs>
-  <rect width="512" height="512" rx="102" fill="url(#bg5)"/>
-  <circle cx="256" cy="256" r="155" fill="url(#shine5)" filter="url(#shadow5)"/>
-  <!-- Seams -->
-  <g fill="none" stroke="#999" stroke-width="2.5" opacity="0.5">
-    <line x1="256" y1="101" x2="208" y2="149"/>
-    <line x1="256" y1="101" x2="304" y2="149"/>
-    <line x1="304" y1="149" x2="358" y2="203"/>
-    <line x1="208" y1="149" x2="154" y2="203"/>
-    <line x1="358" y1="203" x2="374" y2="267"/>
-    <line x1="154" y1="203" x2="138" y2="267"/>
-    <line x1="374" y1="267" x2="347" y2="331"/>
-    <line x1="138" y1="267" x2="165" y2="331"/>
-    <line x1="347" y1="331" x2="299" y2="374"/>
-    <line x1="165" y1="331" x2="213" y2="374"/>
-    <line x1="299" y1="374" x2="256" y2="411"/>
-    <line x1="213" y1="374" x2="256" y2="411"/>
-    <line x1="208" y1="149" x2="304" y2="149"/>
-    <line x1="358" y1="203" x2="304" y2="149"/>
-    <line x1="154" y1="203" x2="208" y2="149"/>
-    <line x1="374" y1="267" x2="358" y2="203"/>
-    <line x1="138" y1="267" x2="154" y2="203"/>
-    <line x1="347" y1="331" x2="374" y2="267"/>
-    <line x1="165" y1="331" x2="138" y2="267"/>
-    <line x1="299" y1="374" x2="347" y2="331"/>
-    <line x1="213" y1="374" x2="165" y2="331"/>
-  </g>
-  <!-- Dark pentagons -->
-  <polygon points="256,117 293,144 283,187 229,187 219,144" fill="#2a2a2a" opacity="0.8"/>
-  <polygon points="366,211 370,262 336,293 310,262 322,211" fill="#2a2a2a" opacity="0.7"/>
-  <polygon points="146,211 190,211 202,262 176,293 142,262" fill="#2a2a2a" opacity="0.65"/>
-  <polygon points="224,363 208,326 235,299 277,299 304,326 288,363" fill="#2a2a2a" opacity="0.55"/>
+  <rect width="512" height="512" rx="102" fill="#1b5e20"/>
+  <text x="256" y="310" font-size="256" text-anchor="middle" font-family="sans-serif">⚽</text>
 </svg>
