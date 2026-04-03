@@ -15,7 +15,23 @@ export function renderHome(container) {
   container.innerHTML = `
     <div class="home">
       <div class="home-hero">
-        <h1 class="home-title">⚽ FutQuiz</h1>
+        <div class="home-logo">
+          <svg viewBox="0 0 120 100" width="100" height="84">
+            <circle cx="60" cy="40" r="30" fill="#fff" opacity="0.95"/>
+            <circle cx="60" cy="40" r="30" fill="none" stroke="#fff" stroke-width="2"/>
+            <polygon points="60,10 69,21 66,34 54,34 51,21" fill="#1b5e20"/>
+            <polygon points="60,70 69,59 66,46 54,46 51,59" fill="#1b5e20"/>
+            <polygon points="30,40 40,30 40,50" fill="#1b5e20"/>
+            <polygon points="90,40 80,30 80,50" fill="#1b5e20"/>
+            <polygon points="44,16 51,21 40,30 34,25" fill="#1b5e20"/>
+            <polygon points="76,16 69,21 80,30 86,25" fill="#1b5e20"/>
+            <polygon points="44,64 51,59 40,50 34,55" fill="#1b5e20"/>
+            <polygon points="76,64 69,59 80,50 86,55" fill="#1b5e20"/>
+            <rect x="24" y="76" width="72" height="22" rx="11" fill="#ffd600"/>
+            <text x="60" y="92" font-family="system-ui,sans-serif" font-size="14" font-weight="900" fill="#1b5e20" text-anchor="middle">QUIZ</text>
+          </svg>
+        </div>
+        <h1 class="home-title">FutQuiz</h1>
         <p class="home-subtitle">${total} jugadores para adivinar</p>
       </div>
       <div class="home-section-label">Adiviná al jugador</div>

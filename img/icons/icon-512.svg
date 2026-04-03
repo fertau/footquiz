@@ -1,4 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="64" fill="#1b5e20"/>
-  <text x="256" y="320" font-size="280" text-anchor="middle" font-family="sans-serif">⚽</text>
+  <defs>
+    <linearGradient id="bg512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1b5e20"/>
+      <stop offset="100%" style="stop-color:#2e7d32"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg512)"/>
+  <circle cx="256" cy="192" r="100" fill="#fff" opacity="0.95"/>
+  <circle cx="256" cy="192" r="100" fill="none" stroke="#1b5e20" stroke-width="6"/>
+  <polygon points="256,92 285,130 274,172 238,172 227,130" fill="#1b5e20"/>
+  <polygon points="256,292 285,254 274,212 238,212 227,254" fill="#1b5e20"/>
+  <polygon points="156,192 188,160 188,224" fill="#1b5e20"/>
+  <polygon points="356,192 324,160 324,224" fill="#1b5e20"/>
+  <polygon points="211,118 227,130 188,160 166,148" fill="#1b5e20"/>
+  <polygon points="301,118 285,130 324,160 346,148" fill="#1b5e20"/>
+  <polygon points="211,266 227,254 188,224 166,236" fill="#1b5e20"/>
+  <polygon points="301,266 285,254 324,224 346,236" fill="#1b5e20"/>
+  <rect x="144" y="336" width="224" height="96" rx="48" fill="#ffd600"/>
+  <text x="256" y="400" font-family="system-ui,sans-serif" font-size="58" font-weight="900" fill="#1b5e20" text-anchor="middle">QUIZ</text>
 </svg>

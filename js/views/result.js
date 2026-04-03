@@ -1,5 +1,6 @@
 import { generateShareText, getMaxPossibleScore } from '../game.js';
 import { getCategories, updateStats, getStats, getPlayers } from '../data.js';
+import { confetti, haptic } from '../effects.js';
 
 let savedState = null;
 
@@ -28,6 +29,14 @@ export function renderResult(container) {
   else if (correct >= total * 0.8) emoji = '🔥';
   else if (correct >= total * 0.5) emoji = '💪';
   else if (correct >= 1) emoji = '🤔';
+
+  // Confetti on great performance
+  if (correct === total) {
+    setTimeout(() => confetti(), 300);
+    haptic('success');
+  } else if (correct >= total * 0.8) {
+    haptic('success');
+  }
 
   container.innerHTML = `
     <div class="header">

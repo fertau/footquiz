@@ -1,4 +1,5 @@
 import { getFlag, checkGuess, getPlayersForCategory, getCategories, selectPlayersForRound, updateStats } from '../data.js';
+import { miniConfetti, confetti, haptic, scorePop } from '../effects.js';
 import {
   createGameState, getCurrentPlayer, getMaxClues, canRevealMore,
   revealNextClue, usePistaExtra, registerCorrectGuess, registerWrongGuess,
@@ -47,16 +48,8 @@ function renderRound(container) {
         <span>Jugador ${current}/${total}</span>
         <span class="game-score">${state.totalScore} pts</span>
       </div>
-      <div class="game-dots">
-        ${state.players.map((_, i) => {
-          let cls = '';
-          if (i < state.currentIndex) {
-            cls = state.results[i].correct ? 'correct' : 'wrong';
-          } else if (i === state.currentIndex) {
-            cls = 'active';
-          }
-          return `<div class="game-dot ${cls}"></div>`;
-        }).join('')}
+      <div class="game-progress-bar">
+        <div class="game-progress-fill" style="width: ${(current / total) * 100}%"></div>
       </div>
       <div class="clues-area" id="clues-area"></div>
       <div id="next-clue-area" class="next-clue-area"></div>
@@ -171,6 +164,7 @@ function renderGuessArea() {
       showAnswer(true);
     } else {
       registerWrongGuess(state);
+      haptic('error');
       input.classList.add('wrong');
       input.value = '';
       setTimeout(() => input.classList.remove('wrong'), 400);
@@ -197,6 +191,16 @@ function showAnswer(correct) {
 
   guessArea.innerHTML = '';
   if (nextClueArea) nextClueArea.innerHTML = '';
+
+  // Effects
+  if (correct) {
+    haptic('success');
+    miniConfetti(answerArea);
+    // Score pop
+    setTimeout(() => scorePop(document.querySelector('.game-score')), 300);
+  } else {
+    haptic('error');
+  }
 
   const lastResult = state.results[state.results.length - 1];
   const points = lastResult ? lastResult.points : 0;

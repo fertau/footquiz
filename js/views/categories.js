@@ -62,13 +62,17 @@ function render(container, mode) {
     <div class="categories">
       ${validCategories.length === 0 ? '<p style="text-align:center;color:var(--gray-500);padding:32px;">No hay categorías disponibles para este modo. Probá mezclar.</p>' : ''}
       <div class="cat-grid">
-        ${validCategories.map(cat => `
-          <div class="cat-card" data-cat="${cat.id}">
-            <span class="cat-emoji">${cat.emoji}</span>
-            <span class="cat-name">${cat.nombre}</span>
-            <span class="cat-desc">${cat.descripcion}</span>
-          </div>
-        `).join('')}
+        ${validCategories.map(cat => {
+          const players = getPlayersForCategory(cat.id);
+          const count = checkModeViability(players, mode);
+          return `
+            <div class="cat-card ripple" data-cat="${cat.id}">
+              <span class="cat-emoji">${cat.emoji}</span>
+              <span class="cat-name">${cat.nombre}</span>
+              <span class="cat-count">${count} jugadores</span>
+            </div>
+          `;
+        }).join('')}
       </div>
       <button class="shuffle-btn">🔀 Mezclar</button>
     </div>

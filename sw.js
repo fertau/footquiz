@@ -1,4 +1,4 @@
-const CACHE_NAME = 'futquiz-v3';
+const CACHE_NAME = 'futquiz-v4';
 const ASSETS = [
   './',
   './index.html',
@@ -16,6 +16,7 @@ const ASSETS = [
   './js/views/quiensoy.js',
   './js/views/conexion.js',
   './js/views/linea.js',
+  './js/effects.js',
   './js/views/result.js',
   './data/players.json',
   './data/categories.json',
