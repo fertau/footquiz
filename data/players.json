@@ -2553,6 +2553,72 @@
     "pistaExtra": "Único jugador en ganar la Champions League con tres clubes distintos"
   },
   {
+    "id": "claudio_bravo",
+    "nombre": "Claudio Bravo",
+    "nombreCompleto": "Claudio Andrés Bravo Muñoz",
+    "nacionalidad": "CL",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "arqueros",
+      "la_liga",
+      "premier_league",
+      "de_sudamerica_europa",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Colo-Colo",
+        "pais": "CL",
+        "anios": "2002-2006"
+      },
+      {
+        "club": "Real Sociedad",
+        "pais": "ES",
+        "anios": "2006-2014"
+      },
+      {
+        "club": "Barcelona",
+        "pais": "ES",
+        "anios": "2014-2016"
+      },
+      {
+        "club": "Manchester City",
+        "pais": "GB-ENG",
+        "anios": "2016-2020"
+      },
+      {
+        "club": "Real Betis",
+        "pais": "ES",
+        "anios": "2020-2024"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Messi",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "De Bruyne",
+        "club": "Manchester City"
+      },
+      {
+        "nombre": "Xavi",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "David Silva",
+        "club": "Manchester City"
+      }
+    ],
+    "paises": [
+      "CL",
+      "ES",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Ganó dos Copas América con Chile (2015, 2016)"
+  },
+  {
     "id": "claudio_pizarro",
     "nombre": "Pizarro",
     "nombreCompleto": "Claudio Miguel Pizarro Bosio",
@@ -3089,6 +3155,68 @@
       "AR"
     ],
     "pistaExtra": "Leyenda de la Roma con casi 20 años en el club, terminó su carrera en Boca Juniors"
+  },
+  {
+    "id": "darwin_nunez",
+    "nombre": "Darwin Núñez",
+    "nombreCompleto": "Darwin Gabriel Núñez Ribeiro",
+    "nacionalidad": "UY",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "garra_charrua",
+      "goleadores",
+      "generacion_actual",
+      "premier_league",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      {
+        "club": "Peñarol",
+        "pais": "UY",
+        "anios": "2017-2019"
+      },
+      {
+        "club": "Almería",
+        "pais": "ES",
+        "anios": "2019-2020"
+      },
+      {
+        "club": "Benfica",
+        "pais": "PT",
+        "anios": "2020-2022"
+      },
+      {
+        "club": "Liverpool",
+        "pais": "GB-ENG",
+        "anios": "2022-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Díaz",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Salah",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Enzo Fernández",
+        "club": "Benfica"
+      },
+      {
+        "nombre": "Rafa Silva",
+        "club": "Benfica"
+      }
+    ],
+    "paises": [
+      "UY",
+      "ES",
+      "PT",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Transferencia de 75M de Benfica a Liverpool"
   },
   {
     "id": "david_beckham",
@@ -3809,6 +3937,79 @@
       "AR"
     ],
     "pistaExtra": "Gol de cabeza en la final de la Champions League 2014"
+  },
+  {
+    "id": "diego_lugano",
+    "nombre": "Diego Lugano",
+    "nombreCompleto": "Diego Alfredo Lugano Morena",
+    "nacionalidad": "UY",
+    "posicion": "defensor",
+    "tier": 3,
+    "categorias": [
+      "garra_charrua",
+      "murallas",
+      "trotamundos",
+      "de_sudamerica_europa",
+      "ligue_1"
+    ],
+    "carrera": [
+      {
+        "club": "São Paulo",
+        "pais": "BR",
+        "anios": "2003-2006"
+      },
+      {
+        "club": "Fenerbahçe",
+        "pais": "TR",
+        "anios": "2006-2008"
+      },
+      {
+        "club": "PSG",
+        "pais": "FR",
+        "anios": "2008-2011"
+      },
+      {
+        "club": "Málaga",
+        "pais": "ES",
+        "anios": "2011-2012"
+      },
+      {
+        "club": "West Bromwich Albion",
+        "pais": "GB-ENG",
+        "anios": "2013"
+      },
+      {
+        "club": "São Paulo",
+        "pais": "BR",
+        "anios": "2013-2014"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Kaká",
+        "club": "São Paulo"
+      },
+      {
+        "nombre": "Alex",
+        "club": "Fenerbahçe"
+      },
+      {
+        "nombre": "Pastore",
+        "club": "PSG"
+      },
+      {
+        "nombre": "Nené",
+        "club": "PSG"
+      }
+    ],
+    "paises": [
+      "BR",
+      "TR",
+      "FR",
+      "ES",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Capitán de Uruguay en el Mundial 2010"
   },
   {
     "id": "diego_milito",
@@ -5157,6 +5358,136 @@
     "pistaExtra": "Capitán de Newcastle por varios años, gran recorrido por España"
   },
   {
+    "id": "faustino_asprilla",
+    "nombre": "Faustino Asprilla",
+    "nombreCompleto": "Faustino Hernán Asprilla Hinestroza",
+    "apodo": "El Tino",
+    "nacionalidad": "CO",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "heroes_90",
+      "trotamundos",
+      "serie_a",
+      "premier_league",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      {
+        "club": "Cúcuta",
+        "pais": "CO",
+        "anios": "1990-1992"
+      },
+      {
+        "club": "Atlético Nacional",
+        "pais": "CO",
+        "anios": "1992-1993"
+      },
+      {
+        "club": "Parma",
+        "pais": "IT",
+        "anios": "1993-1996"
+      },
+      {
+        "club": "Newcastle",
+        "pais": "GB-ENG",
+        "anios": "1996-1998"
+      },
+      {
+        "club": "Parma",
+        "pais": "IT",
+        "anios": "1998-1999"
+      },
+      {
+        "club": "Palmeiras",
+        "pais": "BR",
+        "anios": "2000-2001"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Zola",
+        "club": "Parma"
+      },
+      {
+        "nombre": "Buffon",
+        "club": "Parma"
+      },
+      {
+        "nombre": "Shearer",
+        "club": "Newcastle"
+      },
+      {
+        "nombre": "Crespo",
+        "club": "Parma"
+      }
+    ],
+    "paises": [
+      "CO",
+      "IT",
+      "GB-ENG",
+      "BR"
+    ],
+    "pistaExtra": "Hat-trick contra Barcelona en Champions con Newcastle"
+  },
+  {
+    "id": "federico_valverde",
+    "nombre": "Federico Valverde",
+    "nombreCompleto": "Federico Santiago Valverde Dipetta",
+    "apodo": "El Pajarito",
+    "nacionalidad": "UY",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "garra_charrua",
+      "mediocampistas",
+      "generacion_actual",
+      "la_liga",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Peñarol",
+        "pais": "UY",
+        "anios": "2015-2016"
+      },
+      {
+        "club": "Real Madrid",
+        "pais": "ES",
+        "anios": "2016-"
+      },
+      {
+        "club": "Deportivo",
+        "pais": "ES",
+        "anios": "2017-2018"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Modric",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Kroos",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Vinicius",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Bellingham",
+        "club": "Real Madrid"
+      }
+    ],
+    "paises": [
+      "UY",
+      "ES"
+    ],
+    "pistaExtra": "Su falta táctica en la Supercopa 2020 evitó un gol de Morata"
+  },
+  {
     "id": "fernandinho",
     "nombre": "Fernandinho",
     "nombreCompleto": "Fernando Luiz Rosa",
@@ -5281,6 +5612,61 @@
       "GB"
     ],
     "pistaExtra": "Tres veces campeón de la Champions League con Real Madrid"
+  },
+  {
+    "id": "fernando_muslera",
+    "nombre": "Fernando Muslera",
+    "nombreCompleto": "Néstor Fernando Muslera Micol",
+    "nacionalidad": "UY",
+    "posicion": "arquero",
+    "tier": 3,
+    "categorias": [
+      "garra_charrua",
+      "arqueros",
+      "serie_a",
+      "trotamundos"
+    ],
+    "carrera": [
+      {
+        "club": "Nacional",
+        "pais": "UY",
+        "anios": "2005-2007"
+      },
+      {
+        "club": "Lazio",
+        "pais": "IT",
+        "anios": "2007-2011"
+      },
+      {
+        "club": "Galatasaray",
+        "pais": "TR",
+        "anios": "2011-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Klose",
+        "club": "Lazio"
+      },
+      {
+        "nombre": "Sneijder",
+        "club": "Galatasaray"
+      },
+      {
+        "nombre": "Drogba",
+        "club": "Galatasaray"
+      },
+      {
+        "nombre": "Forlán",
+        "club": "Selección"
+      }
+    ],
+    "paises": [
+      "UY",
+      "IT",
+      "TR"
+    ],
+    "pistaExtra": "Más de 10 años en Galatasaray"
   },
   {
     "id": "fernando_redondo",
@@ -5835,6 +6221,90 @@
     "pistaExtra": "Volante brasileño que fue pieza clave del mediocampo del Manchester United durante cinco temporadas"
   },
   {
+    "id": "freddy_rincon",
+    "nombre": "Freddy Rincón",
+    "nombreCompleto": "Freddy Eusebio Rincón Valencia",
+    "apodo": "El Coloso",
+    "nacionalidad": "CO",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "mediocampistas",
+      "heroes_90",
+      "trotamundos",
+      "de_sudamerica_europa",
+      "la_liga",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "América de Cali",
+        "pais": "CO",
+        "anios": "1987-1989"
+      },
+      {
+        "club": "Santa Fe",
+        "pais": "CO",
+        "anios": "1989-1991"
+      },
+      {
+        "club": "Napoli",
+        "pais": "IT",
+        "anios": "1994-1995"
+      },
+      {
+        "club": "Real Madrid",
+        "pais": "ES",
+        "anios": "1995-1996"
+      },
+      {
+        "club": "Palmeiras",
+        "pais": "BR",
+        "anios": "1996-1999"
+      },
+      {
+        "club": "Corinthians",
+        "pais": "BR",
+        "anios": "1999-2001"
+      },
+      {
+        "club": "Cruzeiro",
+        "pais": "BR",
+        "anios": "2001"
+      },
+      {
+        "club": "Santos",
+        "pais": "BR",
+        "anios": "2001-2002"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Raúl",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Roberto Carlos",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Edmundo",
+        "club": "Palmeiras"
+      },
+      {
+        "nombre": "Ricardinho",
+        "club": "Corinthians"
+      }
+    ],
+    "paises": [
+      "CO",
+      "IT",
+      "ES",
+      "BR"
+    ],
+    "pistaExtra": "Gol histórico contra Alemania en Italia 90"
+  },
+  {
     "id": "frenkie_de_jong",
     "nombre": "Frenkie de Jong",
     "nombreCompleto": "Frenkie de Jong",
@@ -6168,6 +6638,96 @@
       "JP"
     ],
     "pistaExtra": "Bota de Oro del Mundial 1986 con 6 goles"
+  },
+  {
+    "id": "gary_medel",
+    "nombre": "Gary Medel",
+    "nombreCompleto": "Gary Alexis Medel Soto",
+    "apodo": "El Pitbull",
+    "nacionalidad": "CL",
+    "posicion": "defensor",
+    "tier": 3,
+    "categorias": [
+      "murallas",
+      "trotamundos",
+      "serie_a",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      {
+        "club": "Universidad Católica",
+        "pais": "CL",
+        "anios": "2006-2009"
+      },
+      {
+        "club": "Boca Juniors",
+        "pais": "AR",
+        "anios": "2009-2010"
+      },
+      {
+        "club": "Sevilla",
+        "pais": "ES",
+        "anios": "2010-2013"
+      },
+      {
+        "club": "Cardiff",
+        "pais": "GB-WLS",
+        "anios": "2013-2014"
+      },
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "2014-2016"
+      },
+      {
+        "club": "Besiktas",
+        "pais": "TR",
+        "anios": "2016-2017"
+      },
+      {
+        "club": "Bologna",
+        "pais": "IT",
+        "anios": "2019-2023"
+      },
+      {
+        "club": "Vasco",
+        "pais": "BR",
+        "anios": "2023"
+      },
+      {
+        "club": "Boca Juniors",
+        "pais": "AR",
+        "anios": "2024"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Icardi",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Rakitić",
+        "club": "Sevilla"
+      },
+      {
+        "nombre": "Vidal",
+        "club": "Selección"
+      },
+      {
+        "nombre": "Riquelme",
+        "club": "Boca Juniors"
+      }
+    ],
+    "paises": [
+      "CL",
+      "AR",
+      "ES",
+      "GB-WLS",
+      "IT",
+      "TR",
+      "BR"
+    ],
+    "pistaExtra": "El Pitbull: conocido por su intensidad y liderazgo"
   },
   {
     "id": "gary_neville",
@@ -7149,6 +7709,75 @@
     "pistaExtra": "Bota de Oro del Mundial 2018 con 6 goles"
   },
   {
+    "id": "hugo_sanchez",
+    "nombre": "Hugo Sánchez",
+    "nombreCompleto": "Hugo Sánchez Márquez",
+    "nacionalidad": "MX",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "goleadores",
+      "la_liga",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "UNAM Pumas",
+        "pais": "MX",
+        "anios": "1976-1981"
+      },
+      {
+        "club": "Atlético de Madrid",
+        "pais": "ES",
+        "anios": "1981-1985"
+      },
+      {
+        "club": "Real Madrid",
+        "pais": "ES",
+        "anios": "1985-1992"
+      },
+      {
+        "club": "América",
+        "pais": "MX",
+        "anios": "1992-1994"
+      },
+      {
+        "club": "Rayo Vallecano",
+        "pais": "ES",
+        "anios": "1994-1995"
+      },
+      {
+        "club": "Atlético Celaya",
+        "pais": "MX",
+        "anios": "1996-1997"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Butragueño",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Míchel",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Futre",
+        "club": "Atlético de Madrid"
+      },
+      {
+        "nombre": "Schuster",
+        "club": "Real Madrid"
+      }
+    ],
+    "paises": [
+      "MX",
+      "ES"
+    ],
+    "pistaExtra": "5 veces Pichichi, sus goles de chilena eran su marca"
+  },
+  {
     "id": "hulk",
     "nombre": "Hulk",
     "nombreCompleto": "Givanildo Vieira de Sousa",
@@ -7267,6 +7896,62 @@
       "PT"
     ],
     "pistaExtra": "Paró el penal decisivo en la final del Mundial 2010 ante Holanda"
+  },
+  {
+    "id": "ivan_cordoba",
+    "nombre": "Iván Córdoba",
+    "nombreCompleto": "Iván Ramiro Córdoba Sepúlveda",
+    "nacionalidad": "CO",
+    "posicion": "defensor",
+    "tier": 3,
+    "categorias": [
+      "murallas",
+      "serie_a",
+      "de_sudamerica_europa",
+      "champions",
+      "generacion_2000"
+    ],
+    "carrera": [
+      {
+        "club": "Atlético Nacional",
+        "pais": "CO",
+        "anios": "1997-1999"
+      },
+      {
+        "club": "San Lorenzo",
+        "pais": "AR",
+        "anios": "1999-2000"
+      },
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "2000-2012"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Zanetti",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Cambiasso",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Adriano",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Crespo",
+        "club": "Inter"
+      }
+    ],
+    "paises": [
+      "CO",
+      "AR",
+      "IT"
+    ],
+    "pistaExtra": "12 años como central del Inter"
   },
   {
     "id": "ivan_rakitic",
@@ -8207,6 +8892,83 @@
       "UY"
     ],
     "pistaExtra": "Arquero goleador: anotó más de 60 goles de tiro libre y penal en su carrera"
+  },
+  {
+    "id": "juan_cuadrado",
+    "nombre": "Juan Cuadrado",
+    "nombreCompleto": "Juan Guillermo Cuadrado Bello",
+    "nacionalidad": "CO",
+    "posicion": "extremo",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "trotamundos",
+      "generacion_2010",
+      "serie_a",
+      "de_sudamerica_europa",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Independiente Medellín",
+        "pais": "CO",
+        "anios": "2008-2009"
+      },
+      {
+        "club": "Udinese",
+        "pais": "IT",
+        "anios": "2009-2012"
+      },
+      {
+        "club": "Lecce",
+        "pais": "IT",
+        "anios": "2010-2011"
+      },
+      {
+        "club": "Fiorentina",
+        "pais": "IT",
+        "anios": "2012-2015"
+      },
+      {
+        "club": "Chelsea",
+        "pais": "GB-ENG",
+        "anios": "2015"
+      },
+      {
+        "club": "Juventus",
+        "pais": "IT",
+        "anios": "2015-2023"
+      },
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "2023-2024"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Cristiano Ronaldo",
+        "club": "Juventus"
+      },
+      {
+        "nombre": "Buffon",
+        "club": "Juventus"
+      },
+      {
+        "nombre": "Hazard",
+        "club": "Chelsea"
+      },
+      {
+        "nombre": "James",
+        "club": "Colombia"
+      }
+    ],
+    "paises": [
+      "CO",
+      "IT",
+      "GB-ENG"
+    ],
+    "pistaExtra": "10 años entre Fiorentina y Juventus en Italia"
   },
   {
     "id": "juan_pablo_sorin",
@@ -9560,6 +10322,61 @@
     "pistaExtra": "Marcó en la final de la Champions 2010 con Inter"
   },
   {
+    "id": "luis_diaz",
+    "nombre": "Luis Díaz",
+    "nombreCompleto": "Luis Fernando Díaz Marulanda",
+    "nacionalidad": "CO",
+    "posicion": "extremo",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "generacion_actual",
+      "premier_league",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      {
+        "club": "Junior Barranquilla",
+        "pais": "CO",
+        "anios": "2017-2019"
+      },
+      {
+        "club": "Porto",
+        "pais": "PT",
+        "anios": "2019-2022"
+      },
+      {
+        "club": "Liverpool",
+        "pais": "GB-ENG",
+        "anios": "2022-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Salah",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Darwin Núñez",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Pepe",
+        "club": "Porto"
+      },
+      {
+        "nombre": "Corona",
+        "club": "Porto"
+      }
+    ],
+    "paises": [
+      "CO",
+      "PT",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Goleador de la Copa América 2021"
+  },
+  {
     "id": "luis_figo",
     "nombre": "Luís Figo",
     "nombreCompleto": "Luís Filipe Madeira Caeiro Figo",
@@ -10181,6 +10998,78 @@
       "UY"
     ],
     "pistaExtra": "Como DT de River ganó múltiples Copas Libertadores"
+  },
+  {
+    "id": "marcelo_salas",
+    "nombre": "Marcelo Salas",
+    "nombreCompleto": "José Marcelo Salas Melinao",
+    "apodo": "El Matador",
+    "nacionalidad": "CL",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "heroes_90",
+      "serie_a",
+      "de_sudamerica_europa",
+      "ida_y_vuelta"
+    ],
+    "carrera": [
+      {
+        "club": "Universidad de Chile",
+        "pais": "CL",
+        "anios": "1993-1996"
+      },
+      {
+        "club": "River Plate",
+        "pais": "AR",
+        "anios": "1996-1998"
+      },
+      {
+        "club": "Lazio",
+        "pais": "IT",
+        "anios": "1998-2001"
+      },
+      {
+        "club": "Juventus",
+        "pais": "IT",
+        "anios": "2001-2004"
+      },
+      {
+        "club": "River Plate",
+        "pais": "AR",
+        "anios": "2005-2007"
+      },
+      {
+        "club": "Universidad de Chile",
+        "pais": "CL",
+        "anios": "2007-2008"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Ortega",
+        "club": "River Plate"
+      },
+      {
+        "nombre": "Verón",
+        "club": "Lazio"
+      },
+      {
+        "nombre": "Nedvěd",
+        "club": "Lazio"
+      },
+      {
+        "nombre": "Del Piero",
+        "club": "Juventus"
+      }
+    ],
+    "paises": [
+      "CL",
+      "AR",
+      "IT"
+    ],
+    "pistaExtra": "Dupla letal con Zamorano en la selección chilena"
   },
   {
     "id": "marcelo_vieira",
@@ -13516,6 +14405,80 @@
     "pistaExtra": "Máximo goleador histórico del Atlético de Madrid en competiciones europeas"
   },
   {
+    "id": "rafael_marquez",
+    "nombre": "Rafael Márquez",
+    "nombreCompleto": "Rafael Márquez Álvarez",
+    "apodo": "El Káiser de Michoacán",
+    "nacionalidad": "MX",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "murallas",
+      "la_liga",
+      "champions",
+      "mundialistas",
+      "trotamundos",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      {
+        "club": "Atlas",
+        "pais": "MX",
+        "anios": "1996-1999"
+      },
+      {
+        "club": "Monaco",
+        "pais": "FR",
+        "anios": "1999-2003"
+      },
+      {
+        "club": "Barcelona",
+        "pais": "ES",
+        "anios": "2003-2010"
+      },
+      {
+        "club": "New York Red Bulls",
+        "pais": "US",
+        "anios": "2010-2012"
+      },
+      {
+        "club": "León",
+        "pais": "MX",
+        "anios": "2013-2018"
+      },
+      {
+        "club": "Atlas",
+        "pais": "MX",
+        "anios": "2018-2019"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Messi",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Ronaldinho",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Henry",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Xavi",
+        "club": "Barcelona"
+      }
+    ],
+    "paises": [
+      "MX",
+      "FR",
+      "ES",
+      "US"
+    ],
+    "pistaExtra": "5 Mundiales consecutivos con México"
+  },
+  {
     "id": "raphinha",
     "nombre": "Raphinha",
     "nombreCompleto": "Raphael Dias Belloli",
@@ -15017,6 +15980,55 @@
     "pistaExtra": "Mejor jugador del Mundial 1994, más de 1000 goles"
   },
   {
+    "id": "ronald_araujo",
+    "nombre": "Ronald Araújo",
+    "nombreCompleto": "Ronald Federico Araújo da Silva",
+    "nacionalidad": "UY",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "garra_charrua",
+      "murallas",
+      "generacion_actual",
+      "la_liga"
+    ],
+    "carrera": [
+      {
+        "club": "Boston River",
+        "pais": "UY",
+        "anios": "2017-2018"
+      },
+      {
+        "club": "Barcelona",
+        "pais": "ES",
+        "anios": "2018-"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Messi",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Pedri",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Lewandowski",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Ter Stegen",
+        "club": "Barcelona"
+      }
+    ],
+    "paises": [
+      "UY",
+      "ES"
+    ],
+    "pistaExtra": "Central titular del Barcelona siendo uruguayo"
+  },
+  {
     "id": "ronaldinho",
     "nombre": "Ronaldinho",
     "nombreCompleto": "Ronaldo de Assis Moreira",
@@ -15486,6 +16498,89 @@
       "SA"
     ],
     "pistaExtra": "Campeón de la Copa Africana de Naciones con Senegal en 2022"
+  },
+  {
+    "id": "sebastian_abreu",
+    "nombre": "Sebastián Abreu",
+    "nombreCompleto": "Washington Sebastián Abreu Gallo",
+    "apodo": "El Loco",
+    "nacionalidad": "UY",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "garra_charrua",
+      "goleadores",
+      "trotamundos",
+      "te_acordas"
+    ],
+    "carrera": [
+      {
+        "club": "Nacional",
+        "pais": "UY",
+        "anios": "1994-1996"
+      },
+      {
+        "club": "Deportivo",
+        "pais": "ES",
+        "anios": "1996-1998"
+      },
+      {
+        "club": "San Lorenzo",
+        "pais": "AR",
+        "anios": "1998-2000"
+      },
+      {
+        "club": "Gremio",
+        "pais": "BR",
+        "anios": "2001"
+      },
+      {
+        "club": "Nacional",
+        "pais": "UY",
+        "anios": "2002-2003"
+      },
+      {
+        "club": "Real Sociedad",
+        "pais": "ES",
+        "anios": "2003-2004"
+      },
+      {
+        "club": "River Plate",
+        "pais": "AR",
+        "anios": "2005"
+      },
+      {
+        "club": "Dorados",
+        "pais": "MX",
+        "anios": "2006"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Makaay",
+        "club": "Deportivo"
+      },
+      {
+        "nombre": "Forlán",
+        "club": "Selección"
+      },
+      {
+        "nombre": "Recoba",
+        "club": "Nacional"
+      },
+      {
+        "nombre": "Francescoli",
+        "club": "River Plate"
+      }
+    ],
+    "paises": [
+      "UY",
+      "ES",
+      "AR",
+      "BR",
+      "MX"
+    ],
+    "pistaExtra": "Jugó en más de 30 clubes en 10+ países"
   },
   {
     "id": "sergio_aguero",
