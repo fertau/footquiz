@@ -9,6 +9,7 @@ import { renderQuienSoy } from './views/quiensoy.js';
 import { renderConexion } from './views/conexion.js';
 import { renderLinea } from './views/linea.js';
 import { renderResult } from './views/result.js';
+import { renderTriviaMenu } from './views/trivia.js';
 
 const app = document.getElementById('app');
 
@@ -31,6 +32,7 @@ async function init() {
     '#/jugar/quiensoy/:catId': (params) => renderQuienSoy(app, params),
     '#/jugar/conexion/:catId': (params) => renderConexion(app, params),
     '#/jugar/linea/:catId': (params) => renderLinea(app, params),
+    '#/trivia': () => renderTriviaMenu(app),
     '#/resultado': () => renderResult(app),
   });
 

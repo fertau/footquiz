@@ -52,6 +52,11 @@ export function renderHome(container) {
           </span>
         </button>
       </div>
+      <button class="trivia-home-btn" id="trivia-btn">
+        <span>🧠</span>
+        <span>Trivia Futbolera</span>
+        <span class="mode-desc">Mundiales, finales épicas, clásicos</span>
+      </button>
       <button class="how-to-play-btn">¿Cómo se juega?</button>
     </div>
   `;
@@ -60,6 +65,10 @@ export function renderHome(container) {
     btn.addEventListener('click', () => {
       location.hash = `#/categorias/${btn.dataset.mode}`;
     });
+  });
+
+  document.getElementById('trivia-btn').addEventListener('click', () => {
+    location.hash = '#/trivia';
   });
 
   container.querySelector('.how-to-play-btn').addEventListener('click', () => {
