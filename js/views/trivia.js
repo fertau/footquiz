@@ -205,6 +205,7 @@ function renderTriviaResult(container) {
       <div class="result-actions">
         <button class="share-btn" id="share-trivia">📋 Compartir</button>
         <button class="replay-btn" id="replay-trivia">🔄 Jugar de nuevo</button>
+        <button class="replay-btn" id="home-trivia">🏠 Volver al inicio</button>
       </div>
     </div>
   `;
@@ -225,6 +226,15 @@ function renderTriviaResult(container) {
   });
 
   document.getElementById('replay-trivia').addEventListener('click', () => {
-    location.hash = '#/trivia';
+    // Force re-render even if hash is already #/trivia
+    if (location.hash === '#/trivia') {
+      renderTriviaMenu(container);
+    } else {
+      location.hash = '#/trivia';
+    }
+  });
+
+  document.getElementById('home-trivia').addEventListener('click', () => {
+    location.hash = '#/';
   });
 }

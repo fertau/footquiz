@@ -15,7 +15,7 @@ export function renderHome(container) {
   container.innerHTML = `
     <div class="home">
       <div class="home-hero">
-        <h1 class="home-title">FutQuiz</h1>
+        <h1 class="home-title">⚽ FutQuiz</h1>
         <p class="home-subtitle">${total} jugadores para adivinar</p>
       </div>
       <div class="home-section-label">Adiviná al jugador</div>
@@ -23,8 +23,10 @@ export function renderHome(container) {
         ${MODES.map(m => `
           <button class="mode-btn" data-mode="${m.id}" style="--mode-color: ${m.color}">
             <span class="mode-emoji">${m.emoji}</span>
-            <span class="mode-name">${m.name}</span>
-            <span class="mode-desc">${m.desc}</span>
+            <div class="mode-text">
+              <span class="mode-name">${m.name}</span>
+              <span class="mode-desc">${m.desc}</span>
+            </div>
           </button>
         `).join('')}
       </div>
