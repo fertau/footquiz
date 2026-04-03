@@ -1,21 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
   <defs>
-    <linearGradient id="bg192" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#1b5e20"/>
       <stop offset="100%" style="stop-color:#2e7d32"/>
     </linearGradient>
+    <radialGradient id="ball" cx="40%" cy="35%" r="50%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#e0e0e0"/>
+    </radialGradient>
   </defs>
-  <rect width="192" height="192" rx="40" fill="url(#bg192)"/>
-  <circle cx="96" cy="72" r="38" fill="#fff" opacity="0.95"/>
-  <circle cx="96" cy="72" r="38" fill="none" stroke="#1b5e20" stroke-width="2.5"/>
-  <polygon points="96,34 107,48 103,64 89,64 85,48" fill="#1b5e20"/>
-  <polygon points="96,110 107,96 103,80 89,80 85,96" fill="#1b5e20"/>
-  <polygon points="58,72 70,60 70,84" fill="#1b5e20"/>
-  <polygon points="134,72 122,60 122,84" fill="#1b5e20"/>
-  <polygon points="79,44 85,48 70,60 62,55" fill="#1b5e20"/>
-  <polygon points="113,44 107,48 122,60 130,55" fill="#1b5e20"/>
-  <polygon points="79,100 85,96 70,84 62,89" fill="#1b5e20"/>
-  <polygon points="113,100 107,96 122,84 130,89" fill="#1b5e20"/>
-  <rect x="54" y="126" width="84" height="36" rx="18" fill="#ffd600"/>
-  <text x="96" y="151" font-family="system-ui,sans-serif" font-size="22" font-weight="900" fill="#1b5e20" text-anchor="middle">QUIZ</text>
+  <rect width="192" height="192" rx="42" fill="url(#bg)"/>
+  <circle cx="96" cy="96" r="56" fill="url(#ball)"/>
+  <circle cx="96" cy="96" r="56" fill="none" stroke="#bbb" stroke-width="1.5"/>
+  <!-- Pentagon patches -->
+  <polygon points="96,40 112,52 106,72 86,72 80,52" fill="#333" opacity="0.85"/>
+  <polygon points="130,82 132,102 116,112 106,98 116,82" fill="#333" opacity="0.85"/>
+  <polygon points="62,82 76,82 86,98 76,112 60,102" fill="#333" opacity="0.85"/>
+  <polygon points="80,120 86,108 106,108 112,120 104,136" fill="#333" opacity="0.7"/>
+  <polygon points="88,136 80,120 68,126" fill="#333" opacity="0.5"/>
+  <polygon points="120,68 132,82 140,72" fill="#333" opacity="0.5"/>
+  <polygon points="72,68 60,82 52,72" fill="#333" opacity="0.5"/>
 </svg>
