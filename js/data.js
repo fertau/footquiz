@@ -84,6 +84,48 @@ export function normalize(str) {
     .trim();
 }
 
+// Levenshtein distance for typo tolerance
+function levenshtein(a, b) {
+  if (a.length === 0) return b.length;
+  if (b.length === 0) return a.length;
+  const matrix = [];
+  for (let i = 0; i <= b.length; i++) matrix[i] = [i];
+  for (let j = 0; j <= a.length; j++) matrix[0][j] = j;
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      const cost = b[i - 1] === a[j - 1] ? 0 : 1;
+      matrix[i][j] = Math.min(
+        matrix[i - 1][j] + 1,
+        matrix[i][j - 1] + 1,
+        matrix[i - 1][j - 1] + cost
+      );
+    }
+  }
+  return matrix[b.length][a.length];
+}
+
+// How many typos to allow based on word length
+function maxTypos(len) {
+  if (len <= 3) return 0;
+  if (len <= 5) return 1;
+  return 2;
+}
+
+// Fuzzy match: exact, substring, or within typo tolerance
+export function fuzzyMatch(guess, target) {
+  if (target === guess) return true;
+  if (target.includes(guess) && guess.length >= 4) return true;
+  // Typo tolerance on the last word of the guess (usually the surname)
+  if (guess.length >= 4 && levenshtein(guess, target) <= maxTypos(target.length)) return true;
+  // Also check each word of the target against the guess
+  const targetWords = target.split(/\s+/);
+  return targetWords.some(tw =>
+    tw.length >= 4 && guess.length >= 4 && levenshtein(guess, tw) <= maxTypos(tw.length)
+  );
+}
+
+const ARTICLES = new Set(['el', 'la', 'lo', 'los', 'las', 'o', 'a', 'il', 'le', 'the', 'de', 'del']);
+
 export function checkGuess(guess, player) {
   const g = normalize(guess);
   if (!g) return false;
@@ -93,16 +135,28 @@ export function checkGuess(guess, player) {
     player.apodo
   ].filter(Boolean).map(normalize);
 
-  // Check full match or substring (4+ chars)
-  if (targets.some(t => t === g || (t.includes(g) && g.length >= 4))) return true;
+  // Check each target with fuzzy matching
+  if (targets.some(t => fuzzyMatch(g, t))) return true;
 
-  // For apodos: match individual words, ignoring articles
+  // Also check each word of the guess against targets
+  const guessWords = g.split(/\s+/).filter(w => !ARTICLES.has(w) && w.length > 1);
+  if (guessWords.length > 0) {
+    // Match last name: last significant word of guess against any target word
+    const lastWord = guessWords[guessWords.length - 1];
+    if (lastWord.length >= 4) {
+      for (const t of targets) {
+        const tWords = t.split(/\s+/);
+        if (tWords.some(tw => tw.length >= 4 && fuzzyMatch(lastWord, tw))) return true;
+      }
+    }
+  }
+
+  // For apodos: match by significant words
   if (player.apodo) {
-    const articles = new Set(['el', 'la', 'lo', 'los', 'las', 'o', 'a', 'il', 'le', 'the', 'de', 'del']);
-    const apodoWords = normalize(player.apodo).split(/\s+/).filter(w => !articles.has(w) && w.length > 1);
-    const guessWords = g.split(/\s+/).filter(w => !articles.has(w) && w.length > 1);
-    // Match if any significant word from the guess matches any significant apodo word
-    if (guessWords.length > 0 && guessWords.every(gw => apodoWords.some(aw => aw === gw || (aw.includes(gw) && gw.length >= 4)))) {
+    const apodoWords = normalize(player.apodo).split(/\s+/).filter(w => !ARTICLES.has(w) && w.length > 1);
+    if (guessWords.length > 0 && guessWords.every(gw =>
+      apodoWords.some(aw => fuzzyMatch(gw, aw))
+    )) {
       return true;
     }
   }

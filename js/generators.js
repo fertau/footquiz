@@ -1,5 +1,5 @@
 // Question generators for Conexión and Línea de Tiempo modes
-import { getPlayers, normalize } from './data.js';
+import { getPlayers, normalize, fuzzyMatch } from './data.js';
 
 // Build an index of club → player IDs
 export function buildClubIndex(players) {
@@ -58,13 +58,16 @@ export function generateConnectionPairs(players, count = 5) {
   return shuffled.slice(0, Math.min(count, shuffled.length));
 }
 
-// Check if a guess matches any of the valid clubs
+// Check if a guess matches any of the valid clubs (with typo tolerance)
 export function checkConnectionGuess(guess, validAnswers) {
   const g = normalize(guess);
   if (!g || g.length < 3) return false;
   return validAnswers.some(club => {
     const n = normalize(club);
-    return n === g || n.includes(g) && g.length >= 4;
+    if (fuzzyMatch(g, n)) return true;
+    // Also match significant words (e.g. "barsa" for "barcelona", "inter" for "inter milan")
+    const clubWords = n.split(/\s+/);
+    return clubWords.some(w => w.length >= 4 && fuzzyMatch(g, w));
   });
 }
 
