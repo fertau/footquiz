@@ -1,0 +1,354 @@
+[
+  {
+    "id": "filippo_inzaghi",
+    "nombre": "Inzaghi",
+    "nombreCompleto": "Filippo Inzaghi",
+    "apodo": "Pippo",
+    "nacionalidad": "IT",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["goleadores", "serie_a", "champions", "leyendas", "generacion_2000"],
+    "carrera": [
+      { "club": "Piacenza", "pais": "IT", "anios": "1991-1995" },
+      { "club": "Parma", "pais": "IT", "anios": "1995-1996" },
+      { "club": "Atalanta", "pais": "IT", "anios": "1996-1997" },
+      { "club": "Juventus", "pais": "IT", "anios": "1997-2001" },
+      { "club": "Milan", "pais": "IT", "anios": "2001-2012" }
+    ],
+    "companeros": [
+      { "nombre": "Del Piero", "club": "Juventus" },
+      { "nombre": "Kaká", "club": "Milan" },
+      { "nombre": "Pirlo", "club": "Milan" },
+      { "nombre": "Maldini", "club": "Milan" }
+    ],
+    "paises": ["IT"],
+    "pistaExtra": "El delantero que más goles metió en Champions League en su época"
+  },
+  {
+    "id": "roberto_baggio",
+    "nombre": "Baggio",
+    "nombreCompleto": "Roberto Baggio",
+    "apodo": "Il Divin Codino",
+    "nacionalidad": "IT",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": ["leyendas", "enganches", "numero_10", "serie_a", "mundialistas", "heroes_90"],
+    "carrera": [
+      { "club": "Vicenza", "pais": "IT", "anios": "1982-1985" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1985-1990" },
+      { "club": "Juventus", "pais": "IT", "anios": "1990-1995" },
+      { "club": "Milan", "pais": "IT", "anios": "1995-1997" },
+      { "club": "Bologna", "pais": "IT", "anios": "1997-1998" },
+      { "club": "Inter", "pais": "IT", "anios": "1998-2000" },
+      { "club": "Brescia", "pais": "IT", "anios": "2000-2004" }
+    ],
+    "companeros": [
+      { "nombre": "Del Piero", "club": "Juventus" },
+      { "nombre": "Maldini", "club": "Milan" },
+      { "nombre": "Ronaldo", "club": "Inter" },
+      { "nombre": "Pirlo", "club": "Brescia" }
+    ],
+    "paises": ["IT"],
+    "pistaExtra": "Balón de Oro 1993, erró el penal decisivo de la final del Mundial 94"
+  },
+  {
+    "id": "george_best",
+    "nombre": "George Best",
+    "nombreCompleto": "George Best",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "extremo",
+    "tier": 1,
+    "categorias": ["leyendas", "premier_league", "champions"],
+    "carrera": [
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "1963-1974" }
+    ],
+    "companeros": [
+      { "nombre": "Bobby Charlton", "club": "Manchester United" },
+      { "nombre": "Denis Law", "club": "Manchester United" },
+      { "nombre": "Paddy Crerand", "club": "Manchester United" },
+      { "nombre": "Alex Stepney", "club": "Manchester United" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Balón de Oro 1968, considerado el mejor jugador norirlandés de la historia"
+  },
+  {
+    "id": "kenny_dalglish",
+    "nombre": "Dalglish",
+    "nombreCompleto": "Kenneth Mathieson Dalglish",
+    "apodo": "King Kenny",
+    "nacionalidad": "GB-SCT",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "premier_league"],
+    "carrera": [
+      { "club": "Celtic", "pais": "GB-SCT", "anios": "1969-1977" },
+      { "club": "Liverpool", "pais": "GB-ENG", "anios": "1977-1990" }
+    ],
+    "companeros": [
+      { "nombre": "Rush", "club": "Liverpool" },
+      { "nombre": "Hansen", "club": "Liverpool" },
+      { "nombre": "Souness", "club": "Liverpool" },
+      { "nombre": "Jock Stein", "club": "Celtic" }
+    ],
+    "paises": ["GB-SCT", "GB-ENG"],
+    "pistaExtra": "Leyenda del Liverpool: jugador y técnico campeón"
+  },
+  {
+    "id": "michel_platini",
+    "nombre": "Platini",
+    "nombreCompleto": "Michel François Platini",
+    "apodo": "Le Roi",
+    "nacionalidad": "FR",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": ["leyendas", "enganches", "numero_10", "serie_a", "mundialistas", "heroes_90"],
+    "carrera": [
+      { "club": "Nancy", "pais": "FR", "anios": "1972-1979" },
+      { "club": "Saint-Étienne", "pais": "FR", "anios": "1979-1982" },
+      { "club": "Juventus", "pais": "IT", "anios": "1982-1987" }
+    ],
+    "companeros": [
+      { "nombre": "Boniek", "club": "Juventus" },
+      { "nombre": "Scirea", "club": "Juventus" },
+      { "nombre": "Giresse", "club": "Francia" },
+      { "nombre": "Tigana", "club": "Francia" }
+    ],
+    "paises": ["FR", "IT"],
+    "pistaExtra": "3 Balones de Oro consecutivos (1983-85)"
+  },
+  {
+    "id": "luis_enrique",
+    "nombre": "Luis Enrique",
+    "nombreCompleto": "Luis Enrique Martínez García",
+    "apodo": null,
+    "nacionalidad": "ES",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["mediocampistas", "la_liga", "tecnicos_jugadores", "generacion_2000"],
+    "carrera": [
+      { "club": "Sporting de Gijón", "pais": "ES", "anios": "1989-1991" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "1991-1996" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1996-2004" }
+    ],
+    "companeros": [
+      { "nombre": "Raúl", "club": "Real Madrid" },
+      { "nombre": "Rivaldo", "club": "Barcelona" },
+      { "nombre": "Ronaldinho", "club": "Barcelona" },
+      { "nombre": "Figo", "club": "Real Madrid" }
+    ],
+    "paises": ["ES"],
+    "pistaExtra": "Uno de los pocos que jugó en Real Madrid y Barcelona"
+  },
+  {
+    "id": "hristo_stoichkov",
+    "nombre": "Stoichkov",
+    "nombreCompleto": "Hristo Stoichkov Stoichkov",
+    "apodo": null,
+    "nacionalidad": "BG",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": ["leyendas", "goleadores", "la_liga", "mundialistas", "trotamundos"],
+    "carrera": [
+      { "club": "CSKA Sofia", "pais": "BG", "anios": "1984-1990" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1990-1995" },
+      { "club": "Parma", "pais": "IT", "anios": "1995-1996" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1996-1998" },
+      { "club": "Al-Nassr", "pais": "SA", "anios": "1998-1999" },
+      { "club": "CSKA Sofia", "pais": "BG", "anios": "1999-2000" },
+      { "club": "Kashiwa Reysol", "pais": "JP", "anios": "2000" },
+      { "club": "DC United", "pais": "US", "anios": "2000-2003" }
+    ],
+    "companeros": [
+      { "nombre": "Romário", "club": "Barcelona" },
+      { "nombre": "Koeman", "club": "Barcelona" },
+      { "nombre": "Guardiola", "club": "Barcelona" },
+      { "nombre": "Cruyff", "club": "Barcelona" }
+    ],
+    "paises": ["BG", "ES", "IT", "SA", "JP", "US"],
+    "pistaExtra": "Balón de Oro 1994 y Bota de Oro del Mundial 94"
+  },
+  {
+    "id": "david_trezeguet",
+    "nombre": "Trezeguet",
+    "nombreCompleto": "David Sergio Trezeguet",
+    "apodo": "Trezegol",
+    "nacionalidad": "FR",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["goleadores", "serie_a", "mundialistas", "generacion_2000", "trotamundos", "de_sudamerica_europa"],
+    "carrera": [
+      { "club": "Platense", "pais": "AR", "anios": "1994-1995" },
+      { "club": "Monaco", "pais": "FR", "anios": "1995-2000" },
+      { "club": "Juventus", "pais": "IT", "anios": "2000-2010" },
+      { "club": "Hércules", "pais": "ES", "anios": "2010-2011" },
+      { "club": "River Plate", "pais": "AR", "anios": "2012-2013" },
+      { "club": "Newell's Old Boys", "pais": "AR", "anios": "2013" },
+      { "club": "Pune City", "pais": "IN", "anios": "2014" }
+    ],
+    "companeros": [
+      { "nombre": "Henry", "club": "Monaco" },
+      { "nombre": "Del Piero", "club": "Juventus" },
+      { "nombre": "Buffon", "club": "Juventus" },
+      { "nombre": "Zidane", "club": "Francia" }
+    ],
+    "paises": ["AR", "FR", "IT", "ES", "IN"],
+    "pistaExtra": "Gol de Oro en la final de la Euro 2000"
+  },
+  {
+    "id": "diego_costa",
+    "nombre": "Diego Costa",
+    "nombreCompleto": "Diego da Silva Costa",
+    "apodo": null,
+    "nacionalidad": "ES",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["goleadores", "la_liga", "premier_league", "generacion_2010", "trotamundos"],
+    "carrera": [
+      { "club": "Braga", "pais": "PT", "anios": "2006-2007" },
+      { "club": "Penafiel", "pais": "PT", "anios": "2007-2008" },
+      { "club": "Celta de Vigo", "pais": "ES", "anios": "2008-2009" },
+      { "club": "Albacete", "pais": "ES", "anios": "2009-2010" },
+      { "club": "Rayo Vallecano", "pais": "ES", "anios": "2011-2012" },
+      { "club": "Atlético de Madrid", "pais": "ES", "anios": "2012-2014" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2014-2018" },
+      { "club": "Atlético de Madrid", "pais": "ES", "anios": "2018-2020" },
+      { "club": "Atlético Mineiro", "pais": "BR", "anios": "2021" }
+    ],
+    "companeros": [
+      { "nombre": "Hazard", "club": "Chelsea" },
+      { "nombre": "Griezmann", "club": "Atlético de Madrid" },
+      { "nombre": "Simeone", "club": "Atlético de Madrid" },
+      { "nombre": "Fàbregas", "club": "Chelsea" }
+    ],
+    "paises": ["PT", "ES", "GB-ENG", "BR"],
+    "pistaExtra": "Nació en Brasil pero eligió la selección española"
+  },
+  {
+    "id": "deco",
+    "nombre": "Deco",
+    "nombreCompleto": "Anderson Luís de Souza",
+    "apodo": "Deco",
+    "nacionalidad": "PT",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": ["enganches", "champions", "la_liga", "premier_league", "generacion_2000"],
+    "carrera": [
+      { "club": "Alverca", "pais": "PT", "anios": "1997-1998" },
+      { "club": "Salgueiros", "pais": "PT", "anios": "1998-1999" },
+      { "club": "Porto", "pais": "PT", "anios": "1999-2004" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2004-2008" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2008-2010" },
+      { "club": "Fluminense", "pais": "BR", "anios": "2010-2013" }
+    ],
+    "companeros": [
+      { "nombre": "Messi", "club": "Barcelona" },
+      { "nombre": "Ronaldinho", "club": "Barcelona" },
+      { "nombre": "Mourinho", "club": "Porto" },
+      { "nombre": "Lampard", "club": "Chelsea" }
+    ],
+    "paises": ["PT", "ES", "GB-ENG", "BR"],
+    "pistaExtra": "Ganó la Champions con Porto 2004 y fue clave del Barcelona"
+  },
+  {
+    "id": "park_ji_sung",
+    "nombre": "Park Ji-sung",
+    "nombreCompleto": "Park Ji-sung",
+    "apodo": null,
+    "nacionalidad": "KR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": ["mediocampistas", "premier_league", "champions", "trotamundos", "mundialistas"],
+    "carrera": [
+      { "club": "Kyoto Purple Sanga", "pais": "JP", "anios": "2000-2003" },
+      { "club": "PSV", "pais": "NL", "anios": "2003-2005" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2005-2012" },
+      { "club": "QPR", "pais": "GB-ENG", "anios": "2012-2014" }
+    ],
+    "companeros": [
+      { "nombre": "Rooney", "club": "Manchester United" },
+      { "nombre": "Cristiano Ronaldo", "club": "Manchester United" },
+      { "nombre": "Van Nistelrooy", "club": "PSV" },
+      { "nombre": "Ferguson", "club": "Manchester United" }
+    ],
+    "paises": ["JP", "NL", "GB-ENG"],
+    "pistaExtra": "El primer coreano estrella en la Premier League"
+  },
+  {
+    "id": "keylor_navas",
+    "nombre": "Keylor Navas",
+    "nombreCompleto": "Keylor Antonio Navas Gamboa",
+    "apodo": null,
+    "nacionalidad": "CR",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": ["arqueros", "champions", "la_liga", "de_sudamerica_europa", "trotamundos"],
+    "carrera": [
+      { "club": "Saprissa", "pais": "CR", "anios": "2005-2010" },
+      { "club": "Albacete", "pais": "ES", "anios": "2010-2011" },
+      { "club": "Levante", "pais": "ES", "anios": "2011-2014" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2014-2019" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2019-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Cristiano Ronaldo", "club": "Real Madrid" },
+      { "nombre": "Ramos", "club": "Real Madrid" },
+      { "nombre": "Mbappé", "club": "Paris Saint-Germain" },
+      { "nombre": "Neymar", "club": "Paris Saint-Germain" }
+    ],
+    "paises": ["CR", "ES", "FR"],
+    "pistaExtra": "3 Champions League consecutivas como titular del Real Madrid"
+  },
+  {
+    "id": "son_heung_min",
+    "nombre": "Son Heung-min",
+    "nombreCompleto": "Son Heung-min",
+    "apodo": "Sonny",
+    "nacionalidad": "KR",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["goleadores", "generacion_2010", "premier_league", "bundesliga", "trotamundos"],
+    "carrera": [
+      { "club": "Hamburgo", "pais": "DE", "anios": "2008-2013" },
+      { "club": "Bayer Leverkusen", "pais": "DE", "anios": "2013-2015" },
+      { "club": "Tottenham Hotspur", "pais": "GB-ENG", "anios": "2015-" }
+    ],
+    "companeros": [
+      { "nombre": "Kane", "club": "Tottenham Hotspur" },
+      { "nombre": "Eriksen", "club": "Tottenham Hotspur" },
+      { "nombre": "Chicharito", "club": "Bayer Leverkusen" },
+      { "nombre": "Van der Vaart", "club": "Hamburgo" }
+    ],
+    "paises": ["DE", "GB-ENG"],
+    "pistaExtra": "Máximo goleador asiático en la historia de la Premier League"
+  },
+  {
+    "id": "romelu_lukaku",
+    "nombre": "Lukaku",
+    "nombreCompleto": "Romelu Menama Lukaku Bolingoli",
+    "apodo": "Big Rom",
+    "nacionalidad": "BE",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": ["goleadores", "trotamundos", "premier_league", "serie_a", "generacion_2010"],
+    "carrera": [
+      { "club": "Anderlecht", "pais": "BE", "anios": "2009-2011" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2011-2014" },
+      { "club": "West Bromwich Albion", "pais": "GB-ENG", "anios": "2012-2013" },
+      { "club": "Everton", "pais": "GB-ENG", "anios": "2013-2017" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2017-2019" },
+      { "club": "Inter", "pais": "IT", "anios": "2019-2021" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2021-2022" },
+      { "club": "Inter", "pais": "IT", "anios": "2022-2023" },
+      { "club": "Roma", "pais": "IT", "anios": "2023-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Hazard", "club": "Chelsea" },
+      { "nombre": "Lautaro Martínez", "club": "Inter" },
+      { "nombre": "De Bruyne", "club": "Selección Bélgica" },
+      { "nombre": "Pogba", "club": "Manchester United" }
+    ],
+    "paises": ["BE", "GB-ENG", "IT"],
+    "pistaExtra": "Máximo goleador de la historia de la selección belga"
+  }
+]
