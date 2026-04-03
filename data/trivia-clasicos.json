@@ -1,0 +1,362 @@
+[
+  {
+    "id": "cla_001",
+    "categoria": "clasicos",
+    "consigna": "Superclásico eterno",
+    "pregunta": "¿En qué estadio se jugó la final de vuelta de la Copa Libertadores 2018 entre Boca y River, tras la suspensión en La Bombonera?",
+    "opciones": ["Monumental", "Maracaná", "Santiago Bernabéu", "Wembley"],
+    "respuesta": 2,
+    "dato": "La final se trasladó a Madrid tras los incidentes con el micro de Boca. River ganó 3-1 en el Bernabéu."
+  },
+  {
+    "id": "cla_002",
+    "categoria": "clasicos",
+    "consigna": "Goleador del Superclásico",
+    "pregunta": "¿Quién es el máximo goleador histórico en la historia del Superclásico Boca-River?",
+    "opciones": ["Martín Palermo", "Ángel Labruna", "Juan Román Riquelme", "Roberto Cherro"],
+    "respuesta": 1,
+    "dato": "Ángel Labruna, ídolo de River, marcó 17 goles en Superclásicos, un récord que se mantiene hace décadas."
+  },
+  {
+    "id": "cla_003",
+    "categoria": "clasicos",
+    "consigna": "La noche del descenso",
+    "pregunta": "¿En qué año River Plate descendió a la B Nacional tras perder la promoción contra Belgrano?",
+    "opciones": ["2009", "2010", "2011", "2012"],
+    "respuesta": 2,
+    "dato": "El 26 de junio de 2011, River perdió 2-0 en Córdoba contra Belgrano y descendió por primera vez en su historia."
+  },
+  {
+    "id": "cla_004",
+    "categoria": "clasicos",
+    "consigna": "Triplete de Palermo",
+    "pregunta": "¿Cuántos goles le hizo Martín Palermo a River en el Superclásico de Apertura 1997 en La Bombonera?",
+    "opciones": ["Uno", "Dos", "Tres", "Cuatro"],
+    "respuesta": 2,
+    "dato": "Palermo hizo un hat-trick inolvidable en la goleada 4-1 de Boca sobre River en La Bombonera."
+  },
+  {
+    "id": "cla_005",
+    "categoria": "clasicos",
+    "consigna": "Libertadores 2018",
+    "pregunta": "¿Quién marcó el tercer gol de River en la final de la Libertadores 2018 contra Boca en el Santiago Bernabéu?",
+    "opciones": ["Pratto", "Quintero", "Pity Martínez", "Borré"],
+    "respuesta": 2,
+    "dato": "Gonzalo 'Pity' Martínez selló la victoria 3-1 en tiempo suplementario con un golazo en contraataque."
+  },
+  {
+    "id": "cla_006",
+    "categoria": "clasicos",
+    "consigna": "Gambeta de Román",
+    "pregunta": "¿En qué competencia Riquelme le hizo un caño a un rival de River en un Superclásico memorable del año 2000?",
+    "opciones": ["Torneo Apertura", "Copa Libertadores", "Copa Sudamericana", "Torneo Clausura"],
+    "respuesta": 1,
+    "dato": "En la Libertadores 2000, Riquelme brilló con su talento en un recordado cruce de copa entre Boca y River."
+  },
+  {
+    "id": "cla_007",
+    "categoria": "clasicos",
+    "consigna": "Tévez y la Libertadores",
+    "pregunta": "¿En qué año Carlos Tévez marcó un gol memorable contra River en semifinales de la Copa Libertadores?",
+    "opciones": ["2001", "2002", "2004", "2005"],
+    "respuesta": 2,
+    "dato": "Tévez fue clave en la semifinal de Libertadores 2004, donde Boca eliminó a River y luego ganó el título."
+  },
+  {
+    "id": "cla_008",
+    "categoria": "clasicos",
+    "consigna": "Primer Superclásico",
+    "pregunta": "¿En qué década se jugó el primer Superclásico oficial entre Boca y River?",
+    "opciones": ["Década de 1900", "Década de 1910", "Década de 1920", "Década de 1930"],
+    "respuesta": 2,
+    "dato": "El primer enfrentamiento oficial fue en 1925 por la liga argentina. River ganó 2-1."
+  },
+  {
+    "id": "cla_009",
+    "categoria": "clasicos",
+    "consigna": "Superclásico en Núñez",
+    "pregunta": "¿Cuál fue el resultado de la ida de la final de la Libertadores 2018 en La Bombonera?",
+    "opciones": ["2-2", "1-0 Boca", "1-1", "0-0"],
+    "respuesta": 0,
+    "dato": "La ida en La Bombonera terminó 2-2. Benedetto empató para Boca con un golazo sobre el final."
+  },
+  {
+    "id": "cla_010",
+    "categoria": "clasicos",
+    "consigna": "El empate de Pratto",
+    "pregunta": "¿Quién empató para River Plate en la final de vuelta de la Libertadores 2018, forzando el alargue?",
+    "opciones": ["Borré", "Quintero", "Pratto", "Pity Martínez"],
+    "respuesta": 2,
+    "dato": "Lucas Pratto marcó el 1-1 en el tiempo reglamentario en Madrid, igualando el tanto de Benedetto."
+  },
+  {
+    "id": "cla_011",
+    "categoria": "clasicos",
+    "consigna": "Manita en el Bernabéu",
+    "pregunta": "¿En qué año el Barcelona le ganó 5-0 al Real Madrid en un Clásico disputado en el Camp Nou?",
+    "opciones": ["1994", "2000", "2010", "2014"],
+    "respuesta": 2,
+    "dato": "El 29 de noviembre de 2010, el Barça de Guardiola humilló al Madrid 5-0 con goles de Villa (2), Pedro, Xavi y Jeffrén."
+  },
+  {
+    "id": "cla_012",
+    "categoria": "clasicos",
+    "consigna": "Messi en el templo blanco",
+    "pregunta": "¿Qué hizo Messi tras marcar el gol del empate 2-2 en el último minuto del Clásico de abril de 2017 en el Bernabéu?",
+    "opciones": ["Corrió al banquillo", "Se sacó la camiseta y la mostró al público", "Hizo el festejo del arquero", "Pidió silencio con el dedo"],
+    "respuesta": 1,
+    "dato": "Messi marcó en el minuto 92 el 3-2 definitivo y mostró su camiseta al público del Bernabéu en una imagen icónica."
+  },
+  {
+    "id": "cla_013",
+    "categoria": "clasicos",
+    "consigna": "El traidor",
+    "pregunta": "¿En qué año Luís Figo dejó el Barcelona para fichar por el Real Madrid?",
+    "opciones": ["1998", "1999", "2000", "2001"],
+    "respuesta": 2,
+    "dato": "Figo fichó por el Real Madrid en julio de 2000. En su regreso al Camp Nou le tiraron una cabeza de cerdo."
+  },
+  {
+    "id": "cla_014",
+    "categoria": "clasicos",
+    "consigna": "Ovación rival",
+    "pregunta": "¿Qué jugador del Barcelona recibió una ovación del público del Santiago Bernabéu tras una actuación brillante?",
+    "opciones": ["Messi", "Ronaldinho", "Maradona", "Rivaldo"],
+    "respuesta": 1,
+    "dato": "Ronaldinho recibió una ovación de pie en el Bernabéu en noviembre de 2005 tras marcar dos golazos en la victoria 3-0."
+  },
+  {
+    "id": "cla_015",
+    "categoria": "clasicos",
+    "consigna": "6-2 histórico",
+    "pregunta": "¿En qué estadio se jugó el Clásico que terminó 6-2 a favor del Barcelona en mayo de 2009?",
+    "opciones": ["Camp Nou", "Santiago Bernabéu", "Wanda Metropolitano", "Mestalla"],
+    "respuesta": 1,
+    "dato": "El Barça de Pep Guardiola ganó 6-2 en el Bernabéu con un Messi estelar, sellando una temporada de triplete."
+  },
+  {
+    "id": "cla_016",
+    "categoria": "clasicos",
+    "consigna": "La Saeta Rubia",
+    "pregunta": "¿Cómo se llamaba la estrella argentina que brilló en el Real Madrid en los años 50 y fue pretendida también por el Barcelona?",
+    "opciones": ["Héctor Rial", "Alfredo Di Stéfano", "Enrique Omar Sívori", "José Santamaría"],
+    "respuesta": 1,
+    "dato": "Di Stéfano fue pretendido por ambos clubes. Un polémico arbitraje de la FIFA lo asignó al Madrid, donde ganó 5 Copas de Europa."
+  },
+  {
+    "id": "cla_017",
+    "categoria": "clasicos",
+    "consigna": "Cruyff revolucionario",
+    "pregunta": "¿Cuál fue el resultado del primer Clásico que jugó Johan Cruyff con el Barcelona en la temporada 1973-74, en el Bernabéu?",
+    "opciones": ["0-5", "1-3", "2-4", "0-3"],
+    "respuesta": 0,
+    "dato": "El Barcelona de Cruyff aplastó 5-0 al Real Madrid en el Bernabéu en febrero de 1974, un resultado que marcó una era."
+  },
+  {
+    "id": "cla_018",
+    "categoria": "clasicos",
+    "consigna": "Póker de Messi",
+    "pregunta": "¿Cuántos goles marcó Messi en el Clásico de Liga 2013-14 disputado en el Bernabéu, que terminó 4-3 para el Barcelona?",
+    "opciones": ["Uno", "Dos", "Tres", "Cuatro"],
+    "respuesta": 2,
+    "dato": "Messi marcó un hat-trick en el Bernabéu el 23 de marzo de 2014 en la victoria 4-3, alcanzando el récord de goleador histórico del Clásico."
+  },
+  {
+    "id": "cla_019",
+    "categoria": "clasicos",
+    "consigna": "Clásico de Avellaneda",
+    "pregunta": "¿Qué dos equipos disputan el clásico de Avellaneda?",
+    "opciones": ["Boca y River", "Racing e Independiente", "San Lorenzo y Huracán", "Vélez y Argentinos"],
+    "respuesta": 1,
+    "dato": "Racing e Independiente comparten la ciudad de Avellaneda y su rivalidad es una de las más intensas del fútbol argentino."
+  },
+  {
+    "id": "cla_020",
+    "categoria": "clasicos",
+    "consigna": "El Rojo campeón del mundo",
+    "pregunta": "¿Cuántas Copas Libertadores ganó Independiente, récord absoluto del torneo?",
+    "opciones": ["5", "6", "7", "4"],
+    "respuesta": 2,
+    "dato": "Independiente ganó 7 Copas Libertadores, un récord que ningún otro club ha igualado. Las obtuvo entre 1964 y 1984."
+  },
+  {
+    "id": "cla_021",
+    "categoria": "clasicos",
+    "consigna": "Ciclón vs Globo",
+    "pregunta": "¿Qué dos clubes disputan el clásico del barrio de Boedo-Parque Patricios en Buenos Aires?",
+    "opciones": ["Vélez y Argentinos", "San Lorenzo y Huracán", "Atlanta y Chacarita", "Ferro y All Boys"],
+    "respuesta": 1,
+    "dato": "San Lorenzo (el Ciclón) y Huracán (el Globo) comparten una rivalidad histórica en la zona sur de Buenos Aires."
+  },
+  {
+    "id": "cla_022",
+    "categoria": "clasicos",
+    "consigna": "Clásico platense",
+    "pregunta": "¿Qué dos equipos disputan el clásico de la ciudad de La Plata?",
+    "opciones": ["Estudiantes y Gimnasia", "Racing e Independiente", "Rosario Central y Newell's", "Lanús y Banfield"],
+    "respuesta": 0,
+    "dato": "Estudiantes de La Plata y Gimnasia y Esgrima La Plata protagonizan una de las rivalidades más antiguas del fútbol argentino."
+  },
+  {
+    "id": "cla_023",
+    "categoria": "clasicos",
+    "consigna": "Clásico rosarino",
+    "pregunta": "¿Cómo se conoce al clásico entre Newell's Old Boys y Rosario Central?",
+    "opciones": ["Clásico del Litoral", "Clásico rosarino", "Clásico santafesino", "Superclásico del interior"],
+    "respuesta": 1,
+    "dato": "El clásico rosarino es considerado uno de los más pasionales de Argentina. Ambos equipos comparten la ciudad de Rosario."
+  },
+  {
+    "id": "cla_024",
+    "categoria": "clasicos",
+    "consigna": "Racing campeón 2001",
+    "pregunta": "¿Cuántos años estuvo Racing Club sin ganar un título de liga antes de salir campeón en el Apertura 2001?",
+    "opciones": ["25 años", "30 años", "35 años", "40 años"],
+    "respuesta": 2,
+    "dato": "Racing rompió una sequía de 35 años sin títulos de liga al ganar el Apertura 2001, generando una fiesta histórica."
+  },
+  {
+    "id": "cla_025",
+    "categoria": "clasicos",
+    "consigna": "Descenso histórico",
+    "pregunta": "¿Contra qué equipo perdió River la promoción que lo mandó al descenso en 2011?",
+    "opciones": ["San Martín SJ", "Belgrano", "Instituto", "Huracán"],
+    "respuesta": 1,
+    "dato": "Belgrano de Córdoba venció a River 2-0 en la vuelta de la promoción. La ida había sido 0-0 en el Monumental."
+  },
+  {
+    "id": "cla_026",
+    "categoria": "clasicos",
+    "consigna": "Estudiantes copero",
+    "pregunta": "¿Cuántas Copas Libertadores ganó Estudiantes de La Plata?",
+    "opciones": ["2", "3", "4", "5"],
+    "respuesta": 2,
+    "dato": "Estudiantes ganó 4 Libertadores: 1968, 1969, 1970 y 2009. El tricampeonato consecutivo fue con el equipo de Zubeldía."
+  },
+  {
+    "id": "cla_027",
+    "categoria": "clasicos",
+    "consigna": "Derby della Madonnina",
+    "pregunta": "¿Qué dos equipos disputan el Derby della Madonnina?",
+    "opciones": ["Roma y Lazio", "Juventus y Torino", "Inter y Milan", "Napoli y Salernitana"],
+    "respuesta": 2,
+    "dato": "Inter y Milan comparten el estadio San Siro (Giuseppe Meazza) y su rivalidad es de las más grandes de Italia."
+  },
+  {
+    "id": "cla_028",
+    "categoria": "clasicos",
+    "consigna": "Old Firm",
+    "pregunta": "¿Cómo se conoce al clásico entre Celtic y Rangers de Glasgow?",
+    "opciones": ["Glasgow Derby", "Old Firm", "Scottish Clasico", "Battle of Britain"],
+    "respuesta": 1,
+    "dato": "El Old Firm es uno de los derbis más antiguos y pasionales del mundo, con raíces religiosas y culturales profundas."
+  },
+  {
+    "id": "cla_029",
+    "categoria": "clasicos",
+    "consigna": "Rivalidad inglesa",
+    "pregunta": "¿Cómo se conoce la rivalidad entre Liverpool y Manchester United en el fútbol inglés?",
+    "opciones": ["The Big Match", "The North West Derby", "The Roses Derby", "The Old Firm"],
+    "respuesta": 1,
+    "dato": "El North West Derby enfrenta a los dos clubes más exitosos de Inglaterra. La rivalidad también tiene raíces en la competencia industrial entre las ciudades de Liverpool y Mánchester."
+  },
+  {
+    "id": "cla_030",
+    "categoria": "clasicos",
+    "consigna": "De Klassieker",
+    "pregunta": "¿Cómo se llama el clásico entre Ajax y Feyenoord en los Países Bajos?",
+    "opciones": ["De Topper", "De Klassieker", "De Derby", "Het Duel"],
+    "respuesta": 1,
+    "dato": "De Klassieker enfrenta a Ajax (Ámsterdam) y Feyenoord (Róterdam), los dos clubes más exitosos del fútbol neerlandés."
+  },
+  {
+    "id": "cla_031",
+    "categoria": "clasicos",
+    "consigna": "Der Klassiker",
+    "pregunta": "¿Cómo se conoce al clásico entre Bayern Múnich y Borussia Dortmund en Alemania?",
+    "opciones": ["Das Superderby", "Bundesliga Clasico", "Der Klassiker", "Das Duell"],
+    "respuesta": 2,
+    "dato": "Der Klassiker es el duelo más importante del fútbol alemán. La final de Champions League 2013 fue entre ambos equipos."
+  },
+  {
+    "id": "cla_032",
+    "categoria": "clasicos",
+    "consigna": "Champions 2013",
+    "pregunta": "¿Quién ganó la final de la Champions League 2013 entre Bayern y Dortmund en Wembley?",
+    "opciones": ["Borussia Dortmund", "Bayern Múnich", "Empataron y fue a penales", "Se suspendió"],
+    "respuesta": 1,
+    "dato": "Bayern Múnich ganó 2-1 con gol de Robben en el minuto 89. Mandžukić y Gündogan también marcaron."
+  },
+  {
+    "id": "cla_033",
+    "categoria": "clasicos",
+    "consigna": "San Siro compartido",
+    "pregunta": "¿Cuál es el nombre oficial del estadio que comparten Inter y Milan?",
+    "opciones": ["San Siro", "Giuseppe Meazza", "Stadio della Madonnina", "Stadio Lombardia"],
+    "respuesta": 1,
+    "dato": "El estadio se llama oficialmente Giuseppe Meazza, en honor al legendario jugador que vistió las camisetas de ambos clubes."
+  },
+  {
+    "id": "cla_034",
+    "categoria": "clasicos",
+    "consigna": "Meazza legendario",
+    "pregunta": "¿Qué particularidad tiene Giuseppe Meazza respecto a Inter y Milan?",
+    "opciones": ["Jugó en ambos clubes", "Fue DT de ambos", "Nunca jugó en ninguno", "Fundó el Inter"],
+    "respuesta": 0,
+    "dato": "Giuseppe Meazza jugó tanto en el Inter como en el Milan. Ganó dos Mundiales con Italia (1934 y 1938)."
+  },
+  {
+    "id": "cla_035",
+    "categoria": "clasicos",
+    "consigna": "Clásico uruguayo",
+    "pregunta": "¿Qué dos equipos disputan el clásico más importante del fútbol uruguayo?",
+    "opciones": ["Defensor y Danubio", "Peñarol y Nacional", "Cerro y Rampla", "Wanderers y Liverpool"],
+    "respuesta": 1,
+    "dato": "Peñarol y Nacional protagonizan el clásico del fútbol uruguayo, considerado el más antiguo fuera de Gran Bretaña."
+  },
+  {
+    "id": "cla_036",
+    "categoria": "clasicos",
+    "consigna": "Fla-Flu",
+    "pregunta": "¿Qué dos equipos disputan el clásico conocido como Fla-Flu en el fútbol brasileño?",
+    "opciones": ["Flamengo y Fluminense", "Flamengo y Botafogo", "Fluminense y Vasco", "Corinthians y Palmeiras"],
+    "respuesta": 0,
+    "dato": "El Fla-Flu entre Flamengo y Fluminense es uno de los clásicos más populares de Brasil, con partidos épicos en el Maracaná."
+  },
+  {
+    "id": "cla_037",
+    "categoria": "clasicos",
+    "consigna": "Superclásico chileno",
+    "pregunta": "¿Qué dos equipos protagonizan el Superclásico del fútbol chileno?",
+    "opciones": ["Universidad Católica y Cobreloa", "Colo-Colo y Universidad de Chile", "Colo-Colo y Universidad Católica", "U. de Chile y U. Católica"],
+    "respuesta": 1,
+    "dato": "Colo-Colo y Universidad de Chile disputan el Superclásico chileno, la rivalidad más grande del país."
+  },
+  {
+    "id": "cla_038",
+    "categoria": "clasicos",
+    "consigna": "Clásico peruano",
+    "pregunta": "¿Qué dos equipos disputan el clásico más importante del fútbol peruano?",
+    "opciones": ["Sporting Cristal y Cienciano", "Alianza Lima y Universitario", "Alianza Lima y Sporting Cristal", "Universitario y Cienciano"],
+    "respuesta": 1,
+    "dato": "Alianza Lima y Universitario de Deportes disputan el clásico del fútbol peruano, una rivalidad que data de 1928."
+  },
+  {
+    "id": "cla_039",
+    "categoria": "clasicos",
+    "consigna": "Clásico colombiano",
+    "pregunta": "¿Qué dos equipos bogotanos disputan uno de los clásicos más tradicionales del fútbol colombiano?",
+    "opciones": ["América y Deportivo Cali", "Nacional y Medellín", "Millonarios y Santa Fe", "Junior y Real Cartagena"],
+    "respuesta": 2,
+    "dato": "Millonarios y Santa Fe disputan el clásico bogotano, una rivalidad histórica que nació en la época de El Dorado del fútbol colombiano."
+  },
+  {
+    "id": "cla_040",
+    "categoria": "clasicos",
+    "consigna": "Peñarol copero",
+    "pregunta": "¿Cuántas Copas Libertadores ganó Peñarol de Uruguay?",
+    "opciones": ["3", "4", "5", "6"],
+    "respuesta": 2,
+    "dato": "Peñarol ganó 5 Copas Libertadores (1960, 1961, 1966, 1982, 1987), siendo uno de los clubes más ganadores del continente."
+  }
+]
