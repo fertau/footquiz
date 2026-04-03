@@ -1,0 +1,312 @@
+[
+  {
+    "id": "nicolas_gonzalez",
+    "nombre": "Nicolás González",
+    "nombreCompleto": "Nicolás Alejandro González",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "extremo",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "extremos", "de_sudamerica_europa", "serie_a", "bundesliga", "mundialistas"],
+    "carrera": [
+      { "club": "Argentinos Juniors", "pais": "AR", "anios": "2016-2018" },
+      { "club": "Stuttgart", "pais": "DE", "anios": "2018-2021" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "2021-2024" },
+      { "club": "Juventus", "pais": "IT", "anios": "2024-" }
+    ],
+    "companeros": [
+      { "nombre": "Sasa Kalajdzic", "club": "Stuttgart" },
+      { "nombre": "Vlahović", "club": "Fiorentina" },
+      { "nombre": "Vlahović", "club": "Juventus" },
+      { "nombre": "Messi", "club": "Selección Argentina" }
+    ],
+    "paises": ["AR", "DE", "IT"],
+    "pistaExtra": "Extremo campeón del mundo en 2022 que pasó por Stuttgart antes de brillar en la Serie A"
+  },
+  {
+    "id": "cristian_romero",
+    "nombre": "Cuti Romero",
+    "nombreCompleto": "Cristian Gabriel Romero",
+    "apodo": "Cuti",
+    "nacionalidad": "AR",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": ["argentinos_mundo", "defensores", "de_sudamerica_europa", "serie_a", "premier_league", "mundialistas"],
+    "carrera": [
+      { "club": "Belgrano", "pais": "AR", "anios": "2016-2018" },
+      { "club": "Genoa", "pais": "IT", "anios": "2018-2019" },
+      { "club": "Atalanta", "pais": "IT", "anios": "2019-2021" },
+      { "club": "Tottenham Hotspur", "pais": "GB-ENG", "anios": "2021-" }
+    ],
+    "companeros": [
+      { "nombre": "Muriel", "club": "Atalanta" },
+      { "nombre": "Son Heung-min", "club": "Tottenham Hotspur" },
+      { "nombre": "Lo Celso", "club": "Tottenham Hotspur" },
+      { "nombre": "Messi", "club": "Selección Argentina" }
+    ],
+    "paises": ["AR", "IT", "GB-ENG"],
+    "pistaExtra": "Defensor central agresivo, elegido mejor defensor de la Serie A con Atalanta y campeón del mundo 2022"
+  },
+  {
+    "id": "alejandro_garnacho",
+    "nombre": "Garnacho",
+    "nombreCompleto": "Alejandro Garnacho Ferreyra",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "extremo",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "extremos", "premier_league", "generacion_nueva"],
+    "carrera": [
+      { "club": "Atlético de Madrid (cantera)", "pais": "ES", "anios": "2015-2020" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2020-" }
+    ],
+    "companeros": [
+      { "nombre": "Bruno Fernandes", "club": "Manchester United" },
+      { "nombre": "Rashford", "club": "Manchester United" },
+      { "nombre": "Casemiro", "club": "Manchester United" },
+      { "nombre": "Lisandro Martínez", "club": "Manchester United" }
+    ],
+    "paises": ["ES", "GB-ENG"],
+    "pistaExtra": "Nacido en España pero eligió la selección argentina, conocido por sus goles espectaculares con el United"
+  },
+  {
+    "id": "exequiel_palacios",
+    "nombre": "Palacios",
+    "nombreCompleto": "Exequiel Alejandro Palacios",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "mediocampistas", "de_sudamerica_europa", "bundesliga", "mundialistas", "libertadores"],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "2015-2020" },
+      { "club": "Bayer Leverkusen", "pais": "DE", "anios": "2020-" }
+    ],
+    "companeros": [
+      { "nombre": "Gallardo (DT)", "club": "River Plate" },
+      { "nombre": "Enzo Pérez", "club": "River Plate" },
+      { "nombre": "Florian Wirtz", "club": "Bayer Leverkusen" },
+      { "nombre": "Xhaka", "club": "Bayer Leverkusen" }
+    ],
+    "paises": ["AR", "DE"],
+    "pistaExtra": "Campeón de la Libertadores 2018 con River y del invicto histórico de Leverkusen en la Bundesliga 2023-24"
+  },
+  {
+    "id": "nahuel_molina",
+    "nombre": "Nahuel Molina",
+    "nombreCompleto": "Nahuel Molina Lucero",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "defensor",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "defensores", "de_sudamerica_europa", "serie_a", "la_liga", "mundialistas"],
+    "carrera": [
+      { "club": "Boca Juniors", "pais": "AR", "anios": "2017-2018" },
+      { "club": "Rosario Central (préstamo)", "pais": "AR", "anios": "2018-2019" },
+      { "club": "Defensa y Justicia", "pais": "AR", "anios": "2019-2020" },
+      { "club": "Udinese", "pais": "IT", "anios": "2020-2023" },
+      { "club": "Atlético de Madrid", "pais": "ES", "anios": "2023-" }
+    ],
+    "companeros": [
+      { "nombre": "Deulofeu", "club": "Udinese" },
+      { "nombre": "Griezmann", "club": "Atlético de Madrid" },
+      { "nombre": "De Paul", "club": "Atlético de Madrid" },
+      { "nombre": "Messi", "club": "Selección Argentina" }
+    ],
+    "paises": ["AR", "IT", "ES"],
+    "pistaExtra": "Lateral derecho goleador en el Mundial 2022, anotó ante Países Bajos en cuartos de final"
+  },
+  {
+    "id": "marcos_acuna",
+    "nombre": "Marcos Acuña",
+    "nombreCompleto": "Marcos Javier Acuña",
+    "apodo": "El Huevo",
+    "nacionalidad": "AR",
+    "posicion": "defensor",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "defensores", "de_sudamerica_europa", "la_liga", "mundialistas"],
+    "carrera": [
+      { "club": "Ferro Carril Oeste", "pais": "AR", "anios": "2010-2013" },
+      { "club": "Racing Club", "pais": "AR", "anios": "2014-2017" },
+      { "club": "Sporting CP", "pais": "PT", "anios": "2017-2020" },
+      { "club": "Sevilla", "pais": "ES", "anios": "2020-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Lisandro López", "club": "Racing Club" },
+      { "nombre": "Bruno Fernandes", "club": "Sporting CP" },
+      { "nombre": "Ocampos", "club": "Sevilla" },
+      { "nombre": "Lamela", "club": "Sevilla" }
+    ],
+    "paises": ["AR", "PT", "ES"],
+    "pistaExtra": "Lateral aguerrido campeón del mundo 2022, ganó la Europa League con Sevilla en 2023"
+  },
+  {
+    "id": "german_pezzella",
+    "nombre": "Pezzella",
+    "nombreCompleto": "Germán Alejo Pezzella",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "defensor",
+    "tier": 3,
+    "categorias": ["argentinos_mundo", "defensores", "de_sudamerica_europa", "serie_a", "la_liga", "mundialistas"],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "2012-2015" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "2015-2021" },
+      { "club": "Real Betis", "pais": "ES", "anios": "2021-" }
+    ],
+    "companeros": [
+      { "nombre": "Gallardo (DT)", "club": "River Plate" },
+      { "nombre": "Ribéry", "club": "Fiorentina" },
+      { "nombre": "Chiesa", "club": "Fiorentina" },
+      { "nombre": "Fekir", "club": "Real Betis" }
+    ],
+    "paises": ["AR", "IT", "ES"],
+    "pistaExtra": "Capitán de la Fiorentina durante años y mundialista argentino en 2018"
+  },
+  {
+    "id": "lucas_moura",
+    "nombre": "Lucas Moura",
+    "nombreCompleto": "Lucas Rodrigues Moura da Silva",
+    "apodo": null,
+    "nacionalidad": "BR",
+    "posicion": "extremo",
+    "tier": 2,
+    "categorias": ["brasileros_mundo", "extremos", "de_sudamerica_europa", "ligue_1", "premier_league"],
+    "carrera": [
+      { "club": "São Paulo", "pais": "BR", "anios": "2010-2013" },
+      { "club": "Paris Saint-Germain", "pais": "FR", "anios": "2013-2018" },
+      { "club": "Tottenham Hotspur", "pais": "GB-ENG", "anios": "2018-2023" },
+      { "club": "São Paulo", "pais": "BR", "anios": "2023-" }
+    ],
+    "companeros": [
+      { "nombre": "Rogério Ceni", "club": "São Paulo" },
+      { "nombre": "Ibrahimović", "club": "Paris Saint-Germain" },
+      { "nombre": "Harry Kane", "club": "Tottenham Hotspur" },
+      { "nombre": "Son Heung-min", "club": "Tottenham Hotspur" }
+    ],
+    "paises": ["BR", "FR", "GB-ENG"],
+    "pistaExtra": "Autor del hat-trick épico ante Ajax en la semifinal de Champions 2019 que llevó al Tottenham a la final"
+  },
+  {
+    "id": "oscar",
+    "nombre": "Oscar",
+    "nombreCompleto": "Oscar dos Santos Emboaba Júnior",
+    "apodo": null,
+    "nacionalidad": "BR",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": ["brasileros_mundo", "enganches", "de_sudamerica_europa", "premier_league"],
+    "carrera": [
+      { "club": "São Paulo", "pais": "BR", "anios": "2008-2009" },
+      { "club": "Internacional", "pais": "BR", "anios": "2010-2012" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2012-2017" },
+      { "club": "Shanghai SIPG", "pais": "CN", "anios": "2017-2024" }
+    ],
+    "companeros": [
+      { "nombre": "D'Alessandro", "club": "Internacional" },
+      { "nombre": "Hazard", "club": "Chelsea" },
+      { "nombre": "Diego Costa", "club": "Chelsea" },
+      { "nombre": "Hulk", "club": "Shanghai SIPG" }
+    ],
+    "paises": ["BR", "GB-ENG", "CN"],
+    "pistaExtra": "Mediapunta brasileño estrella del Chelsea que se fue a China en la cúspide de su carrera europea"
+  },
+  {
+    "id": "fernandinho",
+    "nombre": "Fernandinho",
+    "nombreCompleto": "Fernando Luiz Rosa",
+    "apodo": "Fernandinho",
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": ["brasileros_mundo", "mediocampistas", "de_sudamerica_europa", "premier_league", "generacion_2010"],
+    "carrera": [
+      { "club": "Atlético Paranaense", "pais": "BR", "anios": "2002-2005" },
+      { "club": "Shakhtar Donetsk", "pais": "UA", "anios": "2005-2013" },
+      { "club": "Manchester City", "pais": "GB-ENG", "anios": "2013-2022" },
+      { "club": "Athletico Paranaense", "pais": "BR", "anios": "2022-" }
+    ],
+    "companeros": [
+      { "nombre": "Willian", "club": "Shakhtar Donetsk" },
+      { "nombre": "Agüero", "club": "Manchester City" },
+      { "nombre": "De Bruyne", "club": "Manchester City" },
+      { "nombre": "Kompany", "club": "Manchester City" }
+    ],
+    "paises": ["BR", "UA", "GB-ENG"],
+    "pistaExtra": "Volante incansable que ganó cinco títulos de Premier League con el Manchester City"
+  },
+  {
+    "id": "willian",
+    "nombre": "Willian",
+    "nombreCompleto": "Willian Borges da Silva",
+    "apodo": null,
+    "nacionalidad": "BR",
+    "posicion": "extremo",
+    "tier": 2,
+    "categorias": ["brasileros_mundo", "extremos", "de_sudamerica_europa", "premier_league", "generacion_2010"],
+    "carrera": [
+      { "club": "Corinthians", "pais": "BR", "anios": "2006-2007" },
+      { "club": "Shakhtar Donetsk", "pais": "UA", "anios": "2007-2013" },
+      { "club": "Anzhi Makhachkala", "pais": "RU", "anios": "2013" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2013-2020" },
+      { "club": "Arsenal", "pais": "GB-ENG", "anios": "2020-2021" },
+      { "club": "Corinthians", "pais": "BR", "anios": "2021-2023" }
+    ],
+    "companeros": [
+      { "nombre": "Fernandinho", "club": "Shakhtar Donetsk" },
+      { "nombre": "Hazard", "club": "Chelsea" },
+      { "nombre": "Kanté", "club": "Chelsea" },
+      { "nombre": "Aubameyang", "club": "Arsenal" }
+    ],
+    "paises": ["BR", "UA", "RU", "GB-ENG"],
+    "pistaExtra": "Extremo brasileño que brilló siete años en Chelsea y ganó la Europa League y la Premier"
+  },
+  {
+    "id": "fred",
+    "nombre": "Fred",
+    "nombreCompleto": "Frederico Rodrigues de Paula Santos",
+    "apodo": "Fred",
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": ["brasileros_mundo", "mediocampistas", "de_sudamerica_europa", "premier_league"],
+    "carrera": [
+      { "club": "Internacional", "pais": "BR", "anios": "2013-2018" },
+      { "club": "Shakhtar Donetsk", "pais": "UA", "anios": "2018" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2018-2023" },
+      { "club": "Fenerbahçe", "pais": "TR", "anios": "2023-" }
+    ],
+    "companeros": [
+      { "nombre": "D'Alessandro", "club": "Internacional" },
+      { "nombre": "Bruno Fernandes", "club": "Manchester United" },
+      { "nombre": "Cristiano Ronaldo", "club": "Manchester United" },
+      { "nombre": "Dzeko", "club": "Fenerbahçe" }
+    ],
+    "paises": ["BR", "UA", "GB-ENG", "TR"],
+    "pistaExtra": "Volante brasileño que fue pieza clave del mediocampo del Manchester United durante cinco temporadas"
+  },
+  {
+    "id": "paqueta",
+    "nombre": "Paquetá",
+    "nombreCompleto": "Lucas Tolentino Coelho de Lima",
+    "apodo": "Paquetá",
+    "nacionalidad": "BR",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": ["brasileros_mundo", "enganches", "de_sudamerica_europa", "serie_a", "ligue_1", "premier_league"],
+    "carrera": [
+      { "club": "Flamengo", "pais": "BR", "anios": "2017-2019" },
+      { "club": "Milan", "pais": "IT", "anios": "2019-2021" },
+      { "club": "Olympique Lyonnais", "pais": "FR", "anios": "2021-2022" },
+      { "club": "West Ham United", "pais": "GB-ENG", "anios": "2022-" }
+    ],
+    "companeros": [
+      { "nombre": "Gabigol", "club": "Flamengo" },
+      { "nombre": "Ibrahimović", "club": "Milan" },
+      { "nombre": "Lacazette", "club": "Olympique Lyonnais" },
+      { "nombre": "Bowen", "club": "West Ham United" }
+    ],
+    "paises": ["BR", "IT", "FR", "GB-ENG"],
+    "pistaExtra": "Mediapunta brasileño que ganó la Conference League con West Ham en 2023"
+  }
+]
