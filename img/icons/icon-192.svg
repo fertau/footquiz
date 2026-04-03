@@ -4,20 +4,44 @@
       <stop offset="0%" style="stop-color:#1b5e20"/>
       <stop offset="100%" style="stop-color:#2e7d32"/>
     </linearGradient>
-    <radialGradient id="ball" cx="40%" cy="35%" r="50%">
+    <radialGradient id="shine" cx="38%" cy="32%" r="55%">
       <stop offset="0%" style="stop-color:#ffffff"/>
-      <stop offset="100%" style="stop-color:#e0e0e0"/>
+      <stop offset="60%" style="stop-color:#f0f0f0"/>
+      <stop offset="100%" style="stop-color:#cccccc"/>
     </radialGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity="0.3"/>
+    </filter>
   </defs>
   <rect width="192" height="192" rx="42" fill="url(#bg)"/>
-  <circle cx="96" cy="96" r="56" fill="url(#ball)"/>
-  <circle cx="96" cy="96" r="56" fill="none" stroke="#bbb" stroke-width="1.5"/>
-  <!-- Pentagon patches -->
-  <polygon points="96,40 112,52 106,72 86,72 80,52" fill="#333" opacity="0.85"/>
-  <polygon points="130,82 132,102 116,112 106,98 116,82" fill="#333" opacity="0.85"/>
-  <polygon points="62,82 76,82 86,98 76,112 60,102" fill="#333" opacity="0.85"/>
-  <polygon points="80,120 86,108 106,108 112,120 104,136" fill="#333" opacity="0.7"/>
-  <polygon points="88,136 80,120 68,126" fill="#333" opacity="0.5"/>
-  <polygon points="120,68 132,82 140,72" fill="#333" opacity="0.5"/>
-  <polygon points="72,68 60,82 52,72" fill="#333" opacity="0.5"/>
+  <circle cx="96" cy="96" r="58" fill="url(#shine)" filter="url(#shadow)"/>
+  <!-- Seams - hexagonal pattern lines -->
+  <g fill="none" stroke="#999" stroke-width="1" opacity="0.5">
+    <line x1="96" y1="38" x2="78" y2="56"/>
+    <line x1="96" y1="38" x2="114" y2="56"/>
+    <line x1="114" y1="56" x2="134" y2="76"/>
+    <line x1="78" y1="56" x2="58" y2="76"/>
+    <line x1="134" y1="76" x2="140" y2="100"/>
+    <line x1="58" y1="76" x2="52" y2="100"/>
+    <line x1="140" y1="100" x2="130" y2="124"/>
+    <line x1="52" y1="100" x2="62" y2="124"/>
+    <line x1="130" y1="124" x2="112" y2="140"/>
+    <line x1="62" y1="124" x2="80" y2="140"/>
+    <line x1="112" y1="140" x2="96" y2="154"/>
+    <line x1="80" y1="140" x2="96" y2="154"/>
+    <line x1="78" y1="56" x2="114" y2="56"/>
+    <line x1="134" y1="76" x2="114" y2="56"/>
+    <line x1="58" y1="76" x2="78" y2="56"/>
+    <line x1="140" y1="100" x2="134" y2="76"/>
+    <line x1="52" y1="100" x2="58" y2="76"/>
+    <line x1="130" y1="124" x2="140" y2="100"/>
+    <line x1="62" y1="124" x2="52" y2="100"/>
+    <line x1="112" y1="140" x2="130" y2="124"/>
+    <line x1="80" y1="140" x2="62" y2="124"/>
+  </g>
+  <!-- Dark pentagons -->
+  <polygon points="96,44 110,54 106,70 86,70 82,54" fill="#2a2a2a" opacity="0.8"/>
+  <polygon points="137,80 138,98 126,110 116,98 120,80" fill="#2a2a2a" opacity="0.7"/>
+  <polygon points="55,80 72,80 76,98 66,110 54,98" fill="#2a2a2a" opacity="0.65"/>
+  <polygon points="84,136 78,122 88,112 104,112 114,122 108,136" fill="#2a2a2a" opacity="0.55"/>
 </svg>
