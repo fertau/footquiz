@@ -92,7 +92,22 @@ export function checkGuess(guess, player) {
     player.nombreCompleto,
     player.apodo
   ].filter(Boolean).map(normalize);
-  return targets.some(t => t === g || (t.includes(g) && g.length >= 4));
+
+  // Check full match or substring (4+ chars)
+  if (targets.some(t => t === g || (t.includes(g) && g.length >= 4))) return true;
+
+  // For apodos: match individual words, ignoring articles
+  if (player.apodo) {
+    const articles = new Set(['el', 'la', 'lo', 'los', 'las', 'o', 'a', 'il', 'le', 'the', 'de', 'del']);
+    const apodoWords = normalize(player.apodo).split(/\s+/).filter(w => !articles.has(w) && w.length > 1);
+    const guessWords = g.split(/\s+/).filter(w => !articles.has(w) && w.length > 1);
+    // Match if any significant word from the guess matches any significant apodo word
+    if (guessWords.length > 0 && guessWords.every(gw => apodoWords.some(aw => aw === gw || (aw.includes(gw) && gw.length >= 4)))) {
+      return true;
+    }
+  }
+
+  return false;
 }
 
 // === Anti-repetition ===

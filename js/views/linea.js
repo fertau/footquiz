@@ -129,17 +129,27 @@ function renderTimelineCards() {
 
 function submitOrder() {
   const question = getCurrentPlayer(state);
+  const total = question.stints.length;
 
-  // Check correctness: compare user order to correct chronological order
+  // Build the user's ordering: for each position, which club was placed there?
+  const userClubOrder = userOrder.map(idx => question.stints[idx].club);
+  const correctClubOrder = [...question.stints]
+    .sort((a, b) => a.correctOrder - b.correctOrder)
+    .map(s => s.club);
+
+  // When duplicate clubs exist, treat them as interchangeable.
+  // We check position-by-position: if the club name matches the correct club
+  // at that position, it's correct — even if the specific stint index differs.
+  const usedCorrectPositions = new Set();
   let correctCount = 0;
-  for (let i = 0; i < userOrder.length; i++) {
-    const stintIdx = userOrder[i];
-    if (question.stints[stintIdx].correctOrder === i) {
+
+  for (let i = 0; i < total; i++) {
+    if (userClubOrder[i] === correctClubOrder[i]) {
       correctCount++;
+      usedCorrectPositions.add(i);
     }
   }
 
-  const total = question.stints.length;
   const allCorrect = correctCount === total;
   const points = allCorrect ? 100 : Math.round((correctCount / total) * 60);
 
