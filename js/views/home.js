@@ -17,7 +17,7 @@ export function renderHome(container) {
       <div class="home-hero">
         <div class="home-logo">⚽</div>
         <h1 class="home-title">FutQuiz</h1>
-        <p class="home-subtitle">${total} jugadores para adivinar</p>
+        <p class="home-subtitle">Adiviná jugadores de fútbol</p>
       </div>
       <div class="home-section-label">Adiviná al jugador</div>
       <div class="mode-grid">
