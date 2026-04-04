@@ -1,0 +1,640 @@
+[
+  {
+    "id": "jorge_campos",
+    "nombre": "Campos",
+    "nombreCompleto": "Jorge Campos Navarrete",
+    "apodo": "El Brody",
+    "nacionalidad": "MX",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "arqueros",
+      "leyendas",
+      "mundialistas",
+      "heroes_90"
+    ],
+    "carrera": [
+      { "club": "UNAM Pumas", "pais": "MX", "anios": "1988-1996" },
+      { "club": "LA Galaxy", "pais": "US", "anios": "1996-1998" },
+      { "club": "Atlante", "pais": "MX", "anios": "1999" },
+      { "club": "Cruz Azul", "pais": "MX", "anios": "1999" },
+      { "club": "Puebla", "pais": "MX", "anios": "2000-2001" },
+      { "club": "Tigres UANL", "pais": "MX", "anios": "2001-2002" },
+      { "club": "Atlante", "pais": "MX", "anios": "2003-2004" }
+    ],
+    "companeros": [
+      { "nombre": "Rafa Márquez", "club": "Selección" },
+      { "nombre": "Blanco", "club": "Selección" },
+      { "nombre": "Cienfuegos", "club": "UNAM Pumas" },
+      { "nombre": "Luis Hernández", "club": "Selección" }
+    ],
+    "paises": ["MX", "US"],
+    "pistaExtra": "Famoso por sus uniformes coloridos y por jugar también como delantero"
+  },
+  {
+    "id": "cuauhtemoc_blanco",
+    "nombre": "Blanco",
+    "nombreCompleto": "Cuauhtémoc Blanco Bravo",
+    "apodo": "Cuau",
+    "nacionalidad": "MX",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "leyendas",
+      "enganches",
+      "mundialistas",
+      "heroes_90",
+      "la_liga"
+    ],
+    "carrera": [
+      { "club": "América", "pais": "MX", "anios": "1992-2000" },
+      { "club": "Real Valladolid", "pais": "ES", "anios": "2000-2002" },
+      { "club": "América", "pais": "MX", "anios": "2002-2007" },
+      { "club": "Chicago Fire", "pais": "US", "anios": "2007-2009" },
+      { "club": "Veracruz", "pais": "MX", "anios": "2009" },
+      { "club": "América", "pais": "MX", "anios": "2010-2012" },
+      { "club": "Dorados", "pais": "MX", "anios": "2012" },
+      { "club": "Irapuato", "pais": "MX", "anios": "2013" },
+      { "club": "Lobos BUAP", "pais": "MX", "anios": "2016" }
+    ],
+    "companeros": [
+      { "nombre": "Borgetti", "club": "Selección" },
+      { "nombre": "Cabañas", "club": "América" },
+      { "nombre": "Zague", "club": "América" },
+      { "nombre": "Guardado", "club": "Selección" }
+    ],
+    "paises": ["MX", "ES", "US"],
+    "pistaExtra": "Inventó la 'Cuauhtemiña', regate que lleva su nombre"
+  },
+  {
+    "id": "michael_laudrup",
+    "nombre": "M. Laudrup",
+    "nombreCompleto": "Michael Laudrup",
+    "apodo": null,
+    "nacionalidad": "DK",
+    "posicion": "enganche",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "enganches",
+      "numero_10",
+      "la_liga",
+      "serie_a"
+    ],
+    "carrera": [
+      { "club": "Brøndby", "pais": "DK", "anios": "1981-1983" },
+      { "club": "Juventus", "pais": "IT", "anios": "1983-1989" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1989-1994" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "1994-1996" },
+      { "club": "Vissel Kobe", "pais": "JP", "anios": "1996-1997" },
+      { "club": "Ajax", "pais": "NL", "anios": "1997-1998" }
+    ],
+    "companeros": [
+      { "nombre": "Platini", "club": "Juventus" },
+      { "nombre": "Romário", "club": "Barcelona" },
+      { "nombre": "Raúl", "club": "Real Madrid" },
+      { "nombre": "Cruyff", "club": "Barcelona (DT)" }
+    ],
+    "paises": ["DK", "IT", "ES", "JP", "NL"],
+    "pistaExtra": "Uno de los pocos que jugó en Barcelona y Real Madrid"
+  },
+  {
+    "id": "brian_laudrup",
+    "nombre": "B. Laudrup",
+    "nombreCompleto": "Brian Laudrup",
+    "apodo": null,
+    "nacionalidad": "DK",
+    "posicion": "extremo",
+    "tier": 2,
+    "categorias": [
+      "trotamundos",
+      "generacion_2000",
+      "serie_a",
+      "bundesliga",
+      "premier_league"
+    ],
+    "carrera": [
+      { "club": "Brøndby", "pais": "DK", "anios": "1986-1989" },
+      { "club": "Bayer Uerdingen", "pais": "DE", "anios": "1989-1990" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "1990-1992" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1992-1993" },
+      { "club": "Milan", "pais": "IT", "anios": "1993-1994" },
+      { "club": "Rangers", "pais": "GB-SCT", "anios": "1994-1998" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "1998" },
+      { "club": "Copenhagen", "pais": "DK", "anios": "1999-2000" },
+      { "club": "Ajax", "pais": "NL", "anios": "2000" }
+    ],
+    "companeros": [
+      { "nombre": "Michael Laudrup", "club": "Selección" },
+      { "nombre": "Gascoigne", "club": "Rangers" },
+      { "nombre": "Maldini", "club": "Milan" },
+      { "nombre": "Matthäus", "club": "Bayern Múnich" }
+    ],
+    "paises": ["DK", "DE", "IT", "GB-SCT", "GB-ENG", "NL"],
+    "pistaExtra": "Campeón de la Euro 1992 con Dinamarca, la sorpresa más grande de la historia"
+  },
+  {
+    "id": "hidetoshi_nakata",
+    "nombre": "Nakata",
+    "nombreCompleto": "Hidetoshi Nakata",
+    "apodo": null,
+    "nacionalidad": "JP",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "mediocampistas",
+      "serie_a",
+      "trotamundos",
+      "generacion_2000",
+      "mundialistas"
+    ],
+    "carrera": [
+      { "club": "Bellmare Hiratsuka", "pais": "JP", "anios": "1995-1998" },
+      { "club": "Perugia", "pais": "IT", "anios": "1998-1999" },
+      { "club": "Roma", "pais": "IT", "anios": "1999-2001" },
+      { "club": "Parma", "pais": "IT", "anios": "2001-2004" },
+      { "club": "Bologna", "pais": "IT", "anios": "2004-2005" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "2005-2006" },
+      { "club": "Bolton Wanderers", "pais": "GB-ENG", "anios": "2005-2006" }
+    ],
+    "companeros": [
+      { "nombre": "Totti", "club": "Roma" },
+      { "nombre": "Batistuta", "club": "Roma" },
+      { "nombre": "Buffon", "club": "Parma" },
+      { "nombre": "Okocha", "club": "Bolton Wanderers" }
+    ],
+    "paises": ["JP", "IT", "GB-ENG"],
+    "pistaExtra": "El primer futbolista japonés estrella en Europa"
+  },
+  {
+    "id": "cha_bum_kun",
+    "nombre": "Cha Bum-kun",
+    "nombreCompleto": "Cha Bum-kun",
+    "apodo": "Cha Boom",
+    "nacionalidad": "KR",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "leyendas",
+      "goleadores",
+      "bundesliga"
+    ],
+    "carrera": [
+      { "club": "Darmstadt 98", "pais": "DE", "anios": "1978-1983" },
+      { "club": "Bayer Leverkusen", "pais": "DE", "anios": "1983-1989" }
+    ],
+    "companeros": [
+      { "nombre": "Rudi Völler", "club": "Bayer Leverkusen" },
+      { "nombre": "Falko Götz", "club": "Bayer Leverkusen" },
+      { "nombre": "Kim Joo-sung", "club": "Selección" },
+      { "nombre": "Hwang Sun-hong", "club": "Selección" }
+    ],
+    "paises": ["DE"],
+    "pistaExtra": "98 goles en la Bundesliga, leyenda del fútbol asiático"
+  },
+  {
+    "id": "elias_figueroa",
+    "nombre": "Figueroa",
+    "nombreCompleto": "Elías Ricardo Figueroa Brander",
+    "apodo": "Don Elías",
+    "nacionalidad": "CL",
+    "posicion": "defensor",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "murallas",
+      "garra_charrua",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      { "club": "Santiago Wanderers", "pais": "CL", "anios": "1963-1966" },
+      { "club": "Peñarol", "pais": "UY", "anios": "1967-1972" },
+      { "club": "Internacional", "pais": "BR", "anios": "1972-1976" },
+      { "club": "Palestino", "pais": "CL", "anios": "1977-1982" },
+      { "club": "Fort Lauderdale Strikers", "pais": "US", "anios": "1981" },
+      { "club": "Colo-Colo", "pais": "CL", "anios": "1982-1983" }
+    ],
+    "companeros": [
+      { "nombre": "Abbadie", "club": "Peñarol" },
+      { "nombre": "Cubilla", "club": "Peñarol" },
+      { "nombre": "Falcão", "club": "Internacional" },
+      { "nombre": "Carpegiani", "club": "Internacional" }
+    ],
+    "paises": ["CL", "UY", "BR", "US"],
+    "pistaExtra": "3 veces mejor futbolista de Sudamérica, considerado el mejor defensor del continente"
+  },
+  {
+    "id": "jose_cardozo",
+    "nombre": "Cardozo",
+    "nombreCompleto": "José Saturnino Cardozo Otazú",
+    "apodo": null,
+    "nacionalidad": "PY",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "de_sudamerica_europa",
+      "libertadores",
+      "trotamundos"
+    ],
+    "carrera": [
+      { "club": "12 de Octubre", "pais": "PY", "anios": "1990-1991" },
+      { "club": "River Plate", "pais": "AR", "anios": "1991-1993" },
+      { "club": "Universidad Católica", "pais": "CL", "anios": "1993-1995" },
+      { "club": "Toluca", "pais": "MX", "anios": "1995-2005" },
+      { "club": "San Lorenzo", "pais": "AR", "anios": "2005" },
+      { "club": "Cruz Azul", "pais": "MX", "anios": "2006-2007" }
+    ],
+    "companeros": [
+      { "nombre": "Francescoli", "club": "River Plate" },
+      { "nombre": "Sinha", "club": "Toluca" },
+      { "nombre": "Gallardo", "club": "River Plate" },
+      { "nombre": "Cabañas", "club": "Selección" }
+    ],
+    "paises": ["PY", "AR", "CL", "MX"],
+    "pistaExtra": "Máximo goleador en la historia de la liga mexicana"
+  },
+  {
+    "id": "oscar_cordoba",
+    "nombre": "Ó. Córdoba",
+    "nombreCompleto": "Óscar Eduardo Córdoba Arce",
+    "apodo": null,
+    "nacionalidad": "CO",
+    "posicion": "arquero",
+    "tier": 3,
+    "categorias": [
+      "arqueros",
+      "libertadores",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      { "club": "América de Cali", "pais": "CO", "anios": "1987-1990" },
+      { "club": "Millonarios", "pais": "CO", "anios": "1990-1992" },
+      { "club": "San Lorenzo", "pais": "AR", "anios": "1993" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "1993-2003" },
+      { "club": "Once Caldas", "pais": "CO", "anios": "2005-2006" }
+    ],
+    "companeros": [
+      { "nombre": "Riquelme", "club": "Boca Juniors" },
+      { "nombre": "Palermo", "club": "Boca Juniors" },
+      { "nombre": "Bermúdez", "club": "Boca Juniors" },
+      { "nombre": "Barros Schelotto", "club": "Boca Juniors" }
+    ],
+    "paises": ["CO", "AR"],
+    "pistaExtra": "Arquero titular de Boca en 3 Libertadores"
+  },
+  {
+    "id": "samuel_kuffour",
+    "nombre": "Kuffour",
+    "nombreCompleto": "Samuel Osei Kuffour",
+    "apodo": null,
+    "nacionalidad": "GH",
+    "posicion": "defensor",
+    "tier": 3,
+    "categorias": [
+      "estrellas_africa",
+      "murallas",
+      "bundesliga",
+      "champions"
+    ],
+    "carrera": [
+      { "club": "Torino", "pais": "IT", "anios": "1993-1994" },
+      { "club": "Bayern Múnich", "pais": "DE", "anios": "1994-2005" },
+      { "club": "Roma", "pais": "IT", "anios": "2005-2006" },
+      { "club": "Livorno", "pais": "IT", "anios": "2006-2007" }
+    ],
+    "companeros": [
+      { "nombre": "Kahn", "club": "Bayern Múnich" },
+      { "nombre": "Lizarazu", "club": "Bayern Múnich" },
+      { "nombre": "Effenberg", "club": "Bayern Múnich" },
+      { "nombre": "Elber", "club": "Bayern Múnich" }
+    ],
+    "paises": ["IT", "DE"],
+    "pistaExtra": "Lloró desconsolado tras perder la final de Champions 1999 en el último minuto"
+  },
+  {
+    "id": "hossam_hassan",
+    "nombre": "Hossam Hassan",
+    "nombreCompleto": "Hossam Hassan Hosni",
+    "apodo": null,
+    "nacionalidad": "EG",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "estrellas_africa",
+      "goleadores",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Al Ahly", "pais": "EG", "anios": "1984-1992" },
+      { "club": "PAOK", "pais": "GR", "anios": "1990-1991" },
+      { "club": "Zamalek", "pais": "EG", "anios": "1992-2000" },
+      { "club": "Al Ain", "pais": "AE", "anios": "2000-2001" },
+      { "club": "Zamalek", "pais": "EG", "anios": "2001-2004" },
+      { "club": "Tanta", "pais": "EG", "anios": "2006" },
+      { "club": "Misr El-Makasa", "pais": "EG", "anios": "2007-2008" }
+    ],
+    "companeros": [
+      { "nombre": "Aboutrika", "club": "Al Ahly" },
+      { "nombre": "Shawky", "club": "Zamalek" },
+      { "nombre": "Ibrahim Hassan", "club": "Al Ahly" },
+      { "nombre": "Barakat", "club": "Zamalek" }
+    ],
+    "paises": ["EG", "GR", "AE"],
+    "pistaExtra": "69 goles con Egipto, récord africano por décadas"
+  },
+  {
+    "id": "shunsuke_nakamura",
+    "nombre": "Nakamura",
+    "nombreCompleto": "Shunsuke Nakamura",
+    "apodo": null,
+    "nacionalidad": "JP",
+    "posicion": "enganche",
+    "tier": 3,
+    "categorias": [
+      "enganches",
+      "serie_a",
+      "premier_league",
+      "trotamundos"
+    ],
+    "carrera": [
+      { "club": "Yokohama F. Marinos", "pais": "JP", "anios": "1997-2002" },
+      { "club": "Reggina", "pais": "IT", "anios": "2002-2005" },
+      { "club": "Celtic", "pais": "GB-SCT", "anios": "2005-2009" },
+      { "club": "Espanyol", "pais": "ES", "anios": "2009-2010" },
+      { "club": "Yokohama F. Marinos", "pais": "JP", "anios": "2010-2022" }
+    ],
+    "companeros": [
+      { "nombre": "Henrik Larsson", "club": "Celtic" },
+      { "nombre": "Artur Boruc", "club": "Celtic" },
+      { "nombre": "Shoji", "club": "Yokohama F. Marinos" },
+      { "nombre": "Tamudo", "club": "Espanyol" }
+    ],
+    "paises": ["JP", "IT", "GB-SCT", "ES"],
+    "pistaExtra": "Sus tiros libres contra Manchester United en Champions son legendarios"
+  },
+  {
+    "id": "predrag_mijatovic",
+    "nombre": "Mijatović",
+    "nombreCompleto": "Predrag Mijatović",
+    "apodo": null,
+    "nacionalidad": "RS",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "la_liga",
+      "champions",
+      "serie_a"
+    ],
+    "carrera": [
+      { "club": "Budućnost", "pais": "ME", "anios": "1986-1989" },
+      { "club": "Partizan", "pais": "RS", "anios": "1989-1993" },
+      { "club": "Valencia", "pais": "ES", "anios": "1993-1996" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "1996-1999" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1999-2000" },
+      { "club": "Levante", "pais": "ES", "anios": "2000-2001" }
+    ],
+    "companeros": [
+      { "nombre": "Raúl", "club": "Real Madrid" },
+      { "nombre": "Roberto Carlos", "club": "Real Madrid" },
+      { "nombre": "Mendieta", "club": "Valencia" },
+      { "nombre": "Batistuta", "club": "Fiorentina" }
+    ],
+    "paises": ["ME", "RS", "ES", "IT"],
+    "pistaExtra": "Gol de la Séptima Champions del Real Madrid en 1998"
+  },
+  {
+    "id": "dejan_savicevic",
+    "nombre": "Savićević",
+    "nombreCompleto": "Dejan Savićević",
+    "apodo": "Il Genio",
+    "nacionalidad": "RS",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "enganches",
+      "serie_a",
+      "champions"
+    ],
+    "carrera": [
+      { "club": "Budućnost", "pais": "ME", "anios": "1982-1988" },
+      { "club": "Estrella Roja", "pais": "RS", "anios": "1988-1992" },
+      { "club": "Milan", "pais": "IT", "anios": "1992-1999" },
+      { "club": "Rapid Viena", "pais": "AT", "anios": "1999-2001" }
+    ],
+    "companeros": [
+      { "nombre": "Prosinečki", "club": "Estrella Roja" },
+      { "nombre": "Maldini", "club": "Milan" },
+      { "nombre": "Van Basten", "club": "Milan" },
+      { "nombre": "Baresi", "club": "Milan" }
+    ],
+    "paises": ["ME", "RS", "IT", "AT"],
+    "pistaExtra": "Golazo desde fuera del área en la final de Champions 1994"
+  },
+  {
+    "id": "dragan_stojkovic",
+    "nombre": "Stojković",
+    "nombreCompleto": "Dragan Stojković",
+    "apodo": "Piksi",
+    "nacionalidad": "RS",
+    "posicion": "enganche",
+    "tier": 2,
+    "categorias": [
+      "enganches",
+      "trotamundos",
+      "tecnicos_jugadores"
+    ],
+    "carrera": [
+      { "club": "Estrella Roja", "pais": "RS", "anios": "1981-1990" },
+      { "club": "Olympique de Marsella", "pais": "FR", "anios": "1990-1992" },
+      { "club": "Hellas Verona", "pais": "IT", "anios": "1992-1994" },
+      { "club": "Nagoya Grampus", "pais": "JP", "anios": "1994-2001" }
+    ],
+    "companeros": [
+      { "nombre": "Savićević", "club": "Estrella Roja" },
+      { "nombre": "Deschamps", "club": "Olympique de Marsella" },
+      { "nombre": "Bokšić", "club": "Olympique de Marsella" },
+      { "nombre": "Wenger", "club": "Nagoya Grampus (DT)" }
+    ],
+    "paises": ["RS", "FR", "IT", "JP"],
+    "pistaExtra": "Leyenda en Japón, luego DT de Serbia en el Mundial 2022"
+  },
+  {
+    "id": "henrik_larsson",
+    "nombre": "H. Larsson",
+    "nombreCompleto": "Henrik Edward Larsson",
+    "apodo": null,
+    "nacionalidad": "SE",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "la_liga",
+      "premier_league",
+      "champions"
+    ],
+    "carrera": [
+      { "club": "Högaborgs BK", "pais": "SE", "anios": "1988-1993" },
+      { "club": "Feyenoord", "pais": "NL", "anios": "1993-1997" },
+      { "club": "Celtic", "pais": "GB-SCT", "anios": "1997-2004" },
+      { "club": "Barcelona", "pais": "ES", "anios": "2004-2006" },
+      { "club": "Helsingborgs IF", "pais": "SE", "anios": "2006-2009" },
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "2007" }
+    ],
+    "companeros": [
+      { "nombre": "Ronaldinho", "club": "Barcelona" },
+      { "nombre": "Eto'o", "club": "Barcelona" },
+      { "nombre": "Nakamura", "club": "Celtic" },
+      { "nombre": "Van Hooijdonk", "club": "Feyenoord" }
+    ],
+    "paises": ["SE", "NL", "GB-SCT", "ES", "GB-ENG"],
+    "pistaExtra": "Dos asistencias en la final de Champions 2006 saliendo del banco"
+  },
+  {
+    "id": "jan_koller",
+    "nombre": "Koller",
+    "nombreCompleto": "Jan Koller",
+    "apodo": null,
+    "nacionalidad": "CZ",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "goleadores",
+      "bundesliga",
+      "trotamundos"
+    ],
+    "carrera": [
+      { "club": "Sparta Praga", "pais": "CZ", "anios": "1994-1996" },
+      { "club": "Lokeren", "pais": "BE", "anios": "1996-1999" },
+      { "club": "Anderlecht", "pais": "BE", "anios": "1999-2001" },
+      { "club": "Borussia Dortmund", "pais": "DE", "anios": "2001-2006" },
+      { "club": "Mónaco", "pais": "FR", "anios": "2006-2008" },
+      { "club": "Núremberg", "pais": "DE", "anios": "2008" },
+      { "club": "Cannes", "pais": "FR", "anios": "2009" }
+    ],
+    "companeros": [
+      { "nombre": "Rosický", "club": "Borussia Dortmund" },
+      { "nombre": "Amoroso", "club": "Borussia Dortmund" },
+      { "nombre": "Giuly", "club": "Mónaco" },
+      { "nombre": "Kompany", "club": "Anderlecht" }
+    ],
+    "paises": ["CZ", "BE", "DE", "FR"],
+    "pistaExtra": "2.02m de altura, el gigante goleador checo"
+  },
+  {
+    "id": "peter_cech",
+    "nombre": "Čech",
+    "nombreCompleto": "Petr Čech",
+    "apodo": null,
+    "nacionalidad": "CZ",
+    "posicion": "arquero",
+    "tier": 1,
+    "categorias": [
+      "arqueros",
+      "leyendas",
+      "premier_league",
+      "champions",
+      "ligue_1"
+    ],
+    "carrera": [
+      { "club": "Chmel Blšany", "pais": "CZ", "anios": "1999-2001" },
+      { "club": "Sparta Praga", "pais": "CZ", "anios": "2001-2002" },
+      { "club": "Rennes", "pais": "FR", "anios": "2002-2004" },
+      { "club": "Chelsea", "pais": "GB-ENG", "anios": "2004-2015" },
+      { "club": "Arsenal", "pais": "GB-ENG", "anios": "2015-2019" }
+    ],
+    "companeros": [
+      { "nombre": "Lampard", "club": "Chelsea" },
+      { "nombre": "Terry", "club": "Chelsea" },
+      { "nombre": "Drogba", "club": "Chelsea" },
+      { "nombre": "Özil", "club": "Arsenal" }
+    ],
+    "paises": ["CZ", "FR", "GB-ENG"],
+    "pistaExtra": "Jugaba con casco protector después de una fractura de cráneo en 2006"
+  },
+  {
+    "id": "juan_arango",
+    "nombre": "Arango",
+    "nombreCompleto": "Juan Fernando Arango Sáenz",
+    "apodo": null,
+    "nacionalidad": "VE",
+    "posicion": "enganche",
+    "tier": 3,
+    "categorias": [
+      "enganches",
+      "la_liga",
+      "bundesliga",
+      "trotamundos"
+    ],
+    "carrera": [
+      { "club": "Caracas FC", "pais": "VE", "anios": "1997-2002" },
+      { "club": "Puebla", "pais": "MX", "anios": "2002-2004" },
+      { "club": "Monterrey", "pais": "MX", "anios": "2004-2005" },
+      { "club": "Mallorca", "pais": "ES", "anios": "2005-2009" },
+      { "club": "Borussia Mönchengladbach", "pais": "DE", "anios": "2009-2014" },
+      { "club": "Tijuana", "pais": "MX", "anios": "2014-2015" }
+    ],
+    "companeros": [
+      { "nombre": "Reus", "club": "Borussia Mönchengladbach" },
+      { "nombre": "Ter Stegen", "club": "Borussia Mönchengladbach" },
+      { "nombre": "Thorgan Hazard", "club": "Borussia Mönchengladbach" },
+      { "nombre": "Funes Mori", "club": "Monterrey" }
+    ],
+    "paises": ["VE", "MX", "ES", "DE"],
+    "pistaExtra": "Famoso por sus goles olímpicos (directo de córner)"
+  },
+  {
+    "id": "alberto_spencer",
+    "nombre": "Spencer",
+    "nombreCompleto": "Alberto Pedro Spencer Herrera",
+    "apodo": "Cabeza Mágica",
+    "nacionalidad": "EC",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "leyendas",
+      "goleadores",
+      "libertadores"
+    ],
+    "carrera": [
+      { "club": "Everest", "pais": "EC", "anios": "1955-1959" },
+      { "club": "Peñarol", "pais": "UY", "anios": "1960-1970" },
+      { "club": "Barcelona SC", "pais": "EC", "anios": "1970-1972" }
+    ],
+    "companeros": [
+      { "nombre": "Pedro Rocha", "club": "Peñarol" },
+      { "nombre": "Cubilla", "club": "Peñarol" },
+      { "nombre": "Abbadie", "club": "Peñarol" },
+      { "nombre": "Joya", "club": "Peñarol" }
+    ],
+    "paises": ["EC", "UY"],
+    "pistaExtra": "Máximo goleador en la historia de la Copa Libertadores con 54 goles"
+  },
+  {
+    "id": "giuseppe_bergomi",
+    "nombre": "Bergomi",
+    "nombreCompleto": "Giuseppe Bergomi",
+    "apodo": "Lo Zio",
+    "nacionalidad": "IT",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "murallas",
+      "leyendas",
+      "serie_a",
+      "mundialistas"
+    ],
+    "carrera": [
+      { "club": "Inter", "pais": "IT", "anios": "1979-1999" }
+    ],
+    "companeros": [
+      { "nombre": "Zenga", "club": "Inter" },
+      { "nombre": "Matthäus", "club": "Inter" },
+      { "nombre": "Zanetti", "club": "Inter" },
+      { "nombre": "Ronaldo", "club": "Inter" }
+    ],
+    "paises": ["IT"],
+    "pistaExtra": "20 años en Inter, debutó con 17 y ganó el Mundial 82"
+  }
+]
