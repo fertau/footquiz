@@ -907,12 +907,67 @@ body {
 
 .timeline-confirm-btn:disabled { background: var(--gray-200); color: var(--gray-400); }
 
-/* === Home Logo === */
-.home-logo {
-  font-size: 4rem;
-  line-height: 1;
-  margin-bottom: 4px;
-  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
+/* === Home Ball === */
+.home-ball {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  border: 3px solid #999;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto 8px;
+  box-shadow:
+    0 6px 20px rgba(0,0,0,0.35),
+    inset 0 -4px 8px rgba(0,0,0,0.15);
+  animation: ballFloat 3s ease-in-out infinite;
+}
+
+.ball-shine {
+  position: absolute;
+  top: 10%;
+  left: 18%;
+  width: 28%;
+  height: 22%;
+  background: radial-gradient(ellipse, rgba(255,255,255,0.7) 0%, transparent 70%);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.ball-seam {
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.ball-seam-h {
+  top: 46%;
+  left: 10%;
+  width: 80%;
+  height: 2px;
+  opacity: 0.3;
+}
+
+.ball-seam-v {
+  top: 15%;
+  left: 48%;
+  width: 2px;
+  height: 70%;
+  opacity: 0.25;
+}
+
+.ball-pentagon {
+  position: absolute;
+  top: 30%;
+  left: 32%;
+  width: 30%;
+  height: 30%;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+  opacity: 0.6;
+}
+
+@keyframes ballFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
 }
 
 /* === Progress Bar (replaces dots) === */
