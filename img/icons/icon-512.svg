@@ -1,4 +1,107 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="102" fill="#1b5e20"/>
-  <text x="256" y="310" font-size="256" text-anchor="middle" font-family="sans-serif">⚽</text>
+  <defs>
+    <linearGradient id="frameBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b5e20"/>
+      <stop offset="50%" stop-color="#2e7d32"/>
+      <stop offset="100%" stop-color="#1b5e20"/>
+    </linearGradient>
+    <radialGradient id="ballGrad" cx="0.38" cy="0.32" r="0.55">
+      <stop offset="0%" stop-color="#fdfdfd"/>
+      <stop offset="50%" stop-color="#f3f3f3"/>
+      <stop offset="80%" stop-color="#dcdcdc"/>
+      <stop offset="100%" stop-color="#b8b8b8"/>
+    </radialGradient>
+    <radialGradient id="shadowGrad" cx="0.5" cy="0.85" r="0.35">
+      <stop offset="0%" stop-color="rgba(0,0,0,0.25)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <filter id="ballShadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="108" fill="url(#frameBg)"/>
+
+  <!-- Subtle grass texture lines -->
+  <g stroke="#1a5520" stroke-width="1" opacity="0.15">
+    <line x1="0" y1="80" x2="512" y2="80"/>
+    <line x1="0" y1="160" x2="512" y2="160"/>
+    <line x1="0" y1="240" x2="512" y2="240"/>
+    <line x1="0" y1="320" x2="512" y2="320"/>
+    <line x1="0" y1="400" x2="512" y2="400"/>
+  </g>
+
+  <!-- Ball shadow on ground -->
+  <ellipse cx="268" cy="410" rx="90" ry="18" fill="rgba(0,0,0,0.2)"/>
+
+  <!-- Main ball -->
+  <circle cx="256" cy="240" r="140" fill="url(#ballGrad)" filter="url(#ballShadow)"/>
+  <circle cx="256" cy="240" r="140" fill="none" stroke="#aaa" stroke-width="2.5"/>
+
+  <!-- Telstar pattern: center pentagon + 5 surrounding -->
+  <!-- Center pentagon -->
+  <polygon points="256,192 284,212 274,244 238,244 228,212" fill="#2a2a2a"/>
+
+  <!-- Top pentagon (partially visible) -->
+  <polygon points="256,108 280,124 272,150 240,150 232,124" fill="#2a2a2a"/>
+
+  <!-- Top-right -->
+  <polygon points="332,168 350,190 340,214 320,214 312,190" fill="#2a2a2a"/>
+
+  <!-- Top-left -->
+  <polygon points="180,168 200,190 192,214 172,214 162,190" fill="#2a2a2a"/>
+
+  <!-- Bottom-right -->
+  <polygon points="316,278 336,298 328,322 308,322 298,298" fill="#2a2a2a"/>
+
+  <!-- Bottom-left -->
+  <polygon points="196,278 214,298 206,322 186,322 176,298" fill="#2a2a2a"/>
+
+  <!-- Bottom center (partially visible) -->
+  <polygon points="256,326 280,342 272,366 240,366 232,342" fill="#2a2a2a" opacity="0.7"/>
+
+  <!-- Seam lines connecting pentagons -->
+  <g fill="none" stroke="#999" stroke-width="1.8" stroke-linecap="round" opacity="0.4">
+    <!-- Center to top -->
+    <line x1="256" y1="192" x2="256" y2="150"/>
+    <line x1="240" y1="150" x2="228" y2="212"/>
+    <line x1="272" y1="150" x2="284" y2="212"/>
+
+    <!-- Center to top-right -->
+    <line x1="284" y1="212" x2="312" y2="190"/>
+    <line x1="274" y1="244" x2="320" y2="214"/>
+
+    <!-- Center to top-left -->
+    <line x1="228" y1="212" x2="200" y2="190"/>
+    <line x1="238" y1="244" x2="192" y2="214"/>
+
+    <!-- Center to bottom-right -->
+    <line x1="274" y1="244" x2="298" y2="298"/>
+    <line x1="284" y1="212" x2="336" y2="298"/>
+
+    <!-- Center to bottom-left -->
+    <line x1="238" y1="244" x2="214" y2="298"/>
+    <line x1="228" y1="212" x2="176" y2="298"/>
+
+    <!-- Bottom connections -->
+    <line x1="206" y1="322" x2="240" y2="366"/>
+    <line x1="308" y1="322" x2="272" y2="366"/>
+    <line x1="206" y1="322" x2="308" y2="322"/>
+
+    <!-- Side connections -->
+    <line x1="350" y1="190" x2="336" y2="298"/>
+    <line x1="162" y1="190" x2="176" y2="298"/>
+
+    <!-- Top connections -->
+    <line x1="232" y1="124" x2="200" y2="190"/>
+    <line x1="280" y1="124" x2="312" y2="190"/>
+  </g>
+
+  <!-- Specular highlight -->
+  <ellipse cx="220" cy="190" rx="45" ry="35" fill="white" opacity="0.18"/>
+  <ellipse cx="210" cy="180" rx="25" ry="18" fill="white" opacity="0.25"/>
+
+  <!-- Gold border ring -->
+  <rect x="8" y="8" width="496" height="496" rx="102" fill="none" stroke="#c9a84c" stroke-width="5" opacity="0.6"/>
 </svg>
