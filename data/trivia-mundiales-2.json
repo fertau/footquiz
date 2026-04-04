@@ -1,0 +1,702 @@
+[
+  {
+    "id": "wc2_001",
+    "categoria": "mundiales",
+    "consigna": "Camerún sorprende",
+    "pregunta": "¿A qué selección campeona venció Camerún en el partido inaugural del Mundial 1990?",
+    "opciones": [
+      "Alemania",
+      "Brasil",
+      "Argentina",
+      "Francia"
+    ],
+    "respuesta": 2,
+    "dato": "Camerún venció 1-0 a Argentina con gol de Omam-Biyik. Fue una de las mayores sorpresas de la historia mundialista."
+  },
+  {
+    "id": "wc2_002",
+    "categoria": "mundiales",
+    "consigna": "Corea 2002",
+    "pregunta": "¿A qué selección eliminó Corea del Sur en cuartos de final del Mundial 2002?",
+    "opciones": [
+      "Italia",
+      "España",
+      "Alemania",
+      "Portugal"
+    ],
+    "respuesta": 1,
+    "dato": "España cayó en penales ante Corea en un partido lleno de polémicas arbitrales. Dos goles españoles fueron anulados."
+  },
+  {
+    "id": "wc2_003",
+    "categoria": "mundiales",
+    "consigna": "Costa Rica histórica",
+    "pregunta": "¿En qué ronda fue eliminada Costa Rica en el Mundial 2014?",
+    "opciones": [
+      "Octavos de final",
+      "Cuartos de final",
+      "Fase de grupos",
+      "Semifinal"
+    ],
+    "respuesta": 1,
+    "dato": "Costa Rica ganó el grupo con Italia, Uruguay e Inglaterra, y cayó en penales ante Países Bajos en cuartos."
+  },
+  {
+    "id": "wc2_004",
+    "categoria": "mundiales",
+    "consigna": "Falta criminal",
+    "pregunta": "¿Qué jugador francés sufrió la brutal falta de Harald Schumacher en la semifinal del Mundial 1982?",
+    "opciones": [
+      "Patrick Battiston",
+      "Alain Giresse",
+      "Michel Platini",
+      "Dominique Rocheteau"
+    ],
+    "respuesta": 0,
+    "dato": "Schumacher golpeó a Battiston en la cara y le rompió dos dientes. No fue ni falta. Francia perdió en penales."
+  },
+  {
+    "id": "wc2_005",
+    "categoria": "mundiales",
+    "consigna": "Penales en Pasadena",
+    "pregunta": "¿Quién erró el penal decisivo de Italia en la final del Mundial 1994 contra Brasil?",
+    "opciones": [
+      "Roberto Baggio",
+      "Daniele Massaro",
+      "Franco Baresi",
+      "Luigi Apolloni"
+    ],
+    "respuesta": 0,
+    "dato": "Roberto Baggio, estrella del torneo, tiró el penal por encima del travesaño. Brasil ganó su cuarto título."
+  },
+  {
+    "id": "wc2_006",
+    "categoria": "mundiales",
+    "consigna": "Tanda alemana",
+    "pregunta": "¿Quién atajó dos penales para Alemania en la tanda contra Argentina en cuartos del Mundial 2006?",
+    "opciones": [
+      "Oliver Kahn",
+      "Timo Hildebrand",
+      "Manuel Neuer",
+      "Jens Lehmann"
+    ],
+    "respuesta": 3,
+    "dato": "Lehmann tenía una hoja con anotaciones sobre los tiradores argentinos. Le atajó a Ayala y Cambiasso."
+  },
+  {
+    "id": "wc2_007",
+    "categoria": "mundiales",
+    "consigna": "Mascota mexicana",
+    "pregunta": "¿Cómo se llamó la mascota del Mundial de México 1986?",
+    "opciones": [
+      "Willie",
+      "Naranjito",
+      "Pique",
+      "Ciao"
+    ],
+    "respuesta": 2,
+    "dato": "Pique era un chile jalapeño con bigote y sombrero, representando la cultura mexicana."
+  },
+  {
+    "id": "wc2_008",
+    "categoria": "mundiales",
+    "consigna": "Canción mundialista",
+    "pregunta": "¿Quién interpretó 'Waka Waka', la canción oficial del Mundial 2010?",
+    "opciones": [
+      "Shakira",
+      "Rihanna",
+      "Jennifer Lopez",
+      "Beyoncé"
+    ],
+    "respuesta": 0,
+    "dato": "Shakira cantó 'Waka Waka (This Time for Africa)' en la ceremonia de apertura en Johannesburgo."
+  },
+  {
+    "id": "wc2_009",
+    "categoria": "mundiales",
+    "consigna": "Fútbol femenino",
+    "pregunta": "¿Qué país ganó el primer Mundial Femenino de la historia en 1991?",
+    "opciones": [
+      "Noruega",
+      "Alemania",
+      "Estados Unidos",
+      "Suecia"
+    ],
+    "respuesta": 2,
+    "dato": "Estados Unidos venció 2-1 a Noruega en la final jugada en Guangzhou, China."
+  },
+  {
+    "id": "wc2_010",
+    "categoria": "mundiales",
+    "consigna": "Récord femenino",
+    "pregunta": "¿Qué selección tiene más títulos en Mundiales Femeninos?",
+    "opciones": [
+      "Brasil",
+      "Estados Unidos",
+      "Alemania",
+      "Japón"
+    ],
+    "respuesta": 1,
+    "dato": "Estados Unidos ganó 4 Mundiales Femeninos: 1991, 1999, 2015 y 2019."
+  },
+  {
+    "id": "wc2_011",
+    "categoria": "mundiales",
+    "consigna": "Goleador multigeneracional",
+    "pregunta": "¿Quién marcó goles en cuatro Mundiales distintos (1998, 2002, 2006 y 2014)?",
+    "opciones": [
+      "Ronaldo Nazário",
+      "Thierry Henry",
+      "Miroslav Klose",
+      "Cristiano Ronaldo"
+    ],
+    "respuesta": 2,
+    "dato": "Klose marcó en sus cuatro participaciones mundialistas, acumulando 16 goles en total."
+  },
+  {
+    "id": "wc2_012",
+    "categoria": "mundiales",
+    "consigna": "Cristiano en Mundiales",
+    "pregunta": "¿En cuántos Mundiales marcó goles Cristiano Ronaldo?",
+    "opciones": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "respuesta": 1,
+    "dato": "Cristiano marcó en 4 Mundiales: 2006, 2010, 2014 y 2018, totalizando 8 goles."
+  },
+  {
+    "id": "wc2_013",
+    "categoria": "mundiales",
+    "consigna": "DT bicampeón",
+    "pregunta": "¿Qué entrenador ganó dos Mundiales como director técnico?",
+    "opciones": [
+      "Vittorio Pozzo",
+      "Carlos Bilardo",
+      "Vicente del Bosque",
+      "Didier Deschamps"
+    ],
+    "respuesta": 0,
+    "dato": "Vittorio Pozzo es el único DT bicampeón mundial, ganando con Italia en 1934 y 1938."
+  },
+  {
+    "id": "wc2_014",
+    "categoria": "mundiales",
+    "consigna": "Zagallo versátil",
+    "pregunta": "¿Qué brasileño fue campeón mundial como jugador y como DT?",
+    "opciones": [
+      "Mário Zagallo",
+      "Carlos Alberto Parreira",
+      "Pelé",
+      "Telê Santana"
+    ],
+    "respuesta": 0,
+    "dato": "Zagallo ganó como jugador en 1958 y 1962, y como DT en 1970 con la mítica selección de Pelé."
+  },
+  {
+    "id": "wc2_015",
+    "categoria": "mundiales",
+    "consigna": "Repechaje dramático",
+    "pregunta": "¿Contra qué selección jugó Australia un repechaje intercontinental para clasificar al Mundial 2006?",
+    "opciones": [
+      "Irán",
+      "Trinidad y Tobago",
+      "Bahréin",
+      "Uruguay"
+    ],
+    "respuesta": 3,
+    "dato": "Australia venció a Uruguay 1-0 en Sydney (global 1-1) y avanzó por penales tras 32 años sin ir a un Mundial."
+  },
+  {
+    "id": "wc2_016",
+    "categoria": "mundiales",
+    "consigna": "Sede asiática",
+    "pregunta": "¿Cuántos países fueron sede conjunta del Mundial 2002?",
+    "opciones": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "respuesta": 3,
+    "dato": "Corea del Sur y Japón organizaron conjuntamente el primer Mundial en Asia. Fue la primera sede compartida."
+  },
+  {
+    "id": "wc2_017",
+    "categoria": "mundiales",
+    "consigna": "Senegal debuta",
+    "pregunta": "¿A quién venció Senegal en su debut mundialista en 2002?",
+    "opciones": [
+      "Francia",
+      "Dinamarca",
+      "Turquía",
+      "Uruguay"
+    ],
+    "respuesta": 0,
+    "dato": "Senegal venció 1-0 a Francia, la vigente campeona, con gol de Papa Bouba Diop en el partido inaugural."
+  },
+  {
+    "id": "wc2_018",
+    "categoria": "mundiales",
+    "consigna": "Tarjeta roja histórica",
+    "pregunta": "¿Quién fue expulsado en la semifinal del Mundial 1998 entre Francia y Croacia?",
+    "opciones": [
+      "Zinedine Zidane",
+      "Laurent Blanc",
+      "Davor Šuker",
+      "Robert Prosinečki"
+    ],
+    "respuesta": 1,
+    "dato": "Laurent Blanc fue expulsado por una simulación de Slaven Bilić y se perdió la final."
+  },
+  {
+    "id": "wc2_019",
+    "categoria": "mundiales",
+    "consigna": "Suárez y la mano",
+    "pregunta": "¿En qué partido del Mundial 2010 Luis Suárez sacó un balón con la mano en la línea de gol?",
+    "opciones": [
+      "Uruguay vs Países Bajos",
+      "Uruguay vs Corea del Sur",
+      "Uruguay vs Ghana",
+      "Uruguay vs Francia"
+    ],
+    "respuesta": 2,
+    "dato": "Suárez detuvo el gol con la mano en el último minuto. Ghana erró el penal y Uruguay ganó la tanda."
+  },
+  {
+    "id": "wc2_020",
+    "categoria": "mundiales",
+    "consigna": "Mascota Fuleco",
+    "pregunta": "¿Qué animal representaba Fuleco, la mascota del Mundial 2014?",
+    "opciones": [
+      "Un armadillo",
+      "Un jaguar",
+      "Un mono",
+      "Un tucán"
+    ],
+    "respuesta": 0,
+    "dato": "Fuleco era un armadillo de tres bandas, especie nativa de Brasil en peligro de extinción."
+  },
+  {
+    "id": "wc2_021",
+    "categoria": "mundiales",
+    "consigna": "Ciudad inaugural",
+    "pregunta": "¿En qué ciudad se jugó el primer partido de la historia de los Mundiales en 1930?",
+    "opciones": [
+      "Río de Janeiro",
+      "Buenos Aires",
+      "São Paulo",
+      "Montevideo"
+    ],
+    "respuesta": 3,
+    "dato": "El primer partido se jugó en Montevideo: Francia venció 4-1 a México el 13 de julio de 1930."
+  },
+  {
+    "id": "wc2_022",
+    "categoria": "mundiales",
+    "consigna": "DT de España 2010",
+    "pregunta": "¿Quién fue el director técnico de España cuando ganó el Mundial 2010?",
+    "opciones": [
+      "Luis Aragonés",
+      "Vicente del Bosque",
+      "Luis Enrique",
+      "Julen Lopetegui"
+    ],
+    "respuesta": 1,
+    "dato": "Del Bosque ya había ganado la Champions con Real Madrid. Con España sumó la Euro 2008 como asistente y el Mundial 2010."
+  },
+  {
+    "id": "wc2_023",
+    "categoria": "mundiales",
+    "consigna": "Copa Jules Rimet",
+    "pregunta": "¿Qué selección se quedó definitivamente con la Copa Jules Rimet original?",
+    "opciones": [
+      "Italia",
+      "Alemania",
+      "Brasil",
+      "Uruguay"
+    ],
+    "respuesta": 2,
+    "dato": "Brasil se quedó con el trofeo tras ganar su tercer Mundial en 1970. Luego fue robado en 1983 y nunca se recuperó."
+  },
+  {
+    "id": "wc2_024",
+    "categoria": "mundiales",
+    "consigna": "Marta récord",
+    "pregunta": "¿Quién es la máxima goleadora en la historia de los Mundiales Femeninos?",
+    "opciones": [
+      "Megan Rapinoe",
+      "Birgit Prinz",
+      "Abby Wambach",
+      "Marta"
+    ],
+    "respuesta": 3,
+    "dato": "Marta marcó 17 goles en Mundiales Femeninos, superando el récord de Birgit Prinz."
+  },
+  {
+    "id": "wc2_025",
+    "categoria": "mundiales",
+    "consigna": "Zabivaka",
+    "pregunta": "¿Qué animal era Zabivaka, la mascota del Mundial 2018 en Rusia?",
+    "opciones": [
+      "Un oso",
+      "Un águila",
+      "Un tigre",
+      "Un lobo"
+    ],
+    "respuesta": 3,
+    "dato": "Zabivaka era un lobo con gafas deportivas naranjas. Su nombre significa 'el que anota' en ruso."
+  },
+  {
+    "id": "wc2_026",
+    "categoria": "finales",
+    "consigna": "FA Cup clásica",
+    "pregunta": "¿Qué equipo ganó la FA Cup 2006 con un golazo de volea de Steven Gerrard en el último minuto?",
+    "opciones": [
+      "Chelsea",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "respuesta": 2,
+    "dato": "Gerrard empató el partido con un golazo desde fuera del área en el minuto 91. Liverpool ganó en penales al West Ham."
+  },
+  {
+    "id": "wc2_027",
+    "categoria": "finales",
+    "consigna": "Copa del Rey dramática",
+    "pregunta": "¿Qué equipo venció al Real Madrid 3-2 en la final de la Copa del Rey 2004 con un gol en el último minuto?",
+    "opciones": [
+      "Real Zaragoza",
+      "Deportivo de la Coruña",
+      "Mallorca",
+      "Sevilla"
+    ],
+    "respuesta": 0,
+    "dato": "Real Zaragoza remontó un 1-2 con dos goles en el tramo final, incluyendo una volea espectacular de Luciano Galletti."
+  },
+  {
+    "id": "wc2_028",
+    "categoria": "finales",
+    "consigna": "Copa América 2021",
+    "pregunta": "¿En qué estadio Argentina ganó la Copa América 2021 ante Brasil?",
+    "opciones": [
+      "Mineirao",
+      "Maracaná",
+      "Arena Corinthians",
+      "Morumbí"
+    ],
+    "respuesta": 1,
+    "dato": "Argentina ganó 1-0 con gol de Di María en el Maracaná. Fue el primer título de Messi con la selección mayor."
+  },
+  {
+    "id": "wc2_029",
+    "categoria": "finales",
+    "consigna": "Copa América centenaria",
+    "pregunta": "¿Dónde se jugó la final de la Copa América Centenario 2016?",
+    "opciones": [
+      "Buenos Aires",
+      "Nueva York (MetLife Stadium)",
+      "Miami",
+      "Santiago de Chile"
+    ],
+    "respuesta": 1,
+    "dato": "Chile venció a Argentina en penales en el MetLife Stadium de Nueva Jersey. Messi erró su penal."
+  },
+  {
+    "id": "wc2_030",
+    "categoria": "finales",
+    "consigna": "Eurocopa griega",
+    "pregunta": "¿Qué selección dio la mayor sorpresa ganando la Eurocopa 2004?",
+    "opciones": [
+      "Dinamarca",
+      "Turquía",
+      "República Checa",
+      "Grecia"
+    ],
+    "respuesta": 3,
+    "dato": "Grecia venció 1-0 a Portugal en la final con gol de Charisteas. Era una selección sin estrellas dirigida por Otto Rehhagel."
+  },
+  {
+    "id": "wc2_031",
+    "categoria": "finales",
+    "consigna": "Gol de Trezeguet",
+    "pregunta": "¿Quién marcó el gol de oro que dio a Francia la Eurocopa 2000?",
+    "opciones": [
+      "Vieira",
+      "Henry",
+      "Zidane",
+      "Trezeguet"
+    ],
+    "respuesta": 3,
+    "dato": "Trezeguet marcó un golazo de volea en la prórroga para vencer 2-1 a Italia, que había empatado en el minuto 93."
+  },
+  {
+    "id": "wc2_032",
+    "categoria": "finales",
+    "consigna": "Peñarol copero",
+    "pregunta": "¿Cuántas Copa Libertadores ganó Peñarol?",
+    "opciones": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "respuesta": 2,
+    "dato": "Peñarol ganó 5 Libertadores: 1960, 1961, 1966, 1982 y 1987, siendo uno de los clubes más exitosos del torneo."
+  },
+  {
+    "id": "wc2_033",
+    "categoria": "finales",
+    "consigna": "Olimpia campeón",
+    "pregunta": "¿En qué año Olimpia de Paraguay ganó su última Copa Libertadores?",
+    "opciones": [
+      "1979",
+      "2002",
+      "1990",
+      "2012"
+    ],
+    "respuesta": 2,
+    "dato": "Olimpia ganó su tercera y última Libertadores en 1990, siendo el único club paraguayo tricampeón del torneo."
+  },
+  {
+    "id": "wc2_034",
+    "categoria": "finales",
+    "consigna": "LDU campeón",
+    "pregunta": "¿A quién venció LDU de Quito en la final de la Libertadores 2008?",
+    "opciones": [
+      "Boca Juniors",
+      "River Plate",
+      "Grêmio",
+      "Fluminense"
+    ],
+    "respuesta": 3,
+    "dato": "LDU venció a Fluminense en penales en el Maracaná, convirtiéndose en el primer club ecuatoriano campeón de la Libertadores."
+  },
+  {
+    "id": "wc2_035",
+    "categoria": "finales",
+    "consigna": "Atlético Nacional",
+    "pregunta": "¿En qué año Atlético Nacional de Medellín ganó su primera Copa Libertadores?",
+    "opciones": [
+      "1987",
+      "1989",
+      "1991",
+      "1995"
+    ],
+    "respuesta": 1,
+    "dato": "Atlético Nacional venció en penales a Olimpia en la final de 1989 con René Higuita en el arco."
+  },
+  {
+    "id": "wc2_036",
+    "categoria": "finales",
+    "consigna": "City treblista",
+    "pregunta": "¿A quién venció Manchester City en la final de la Champions League 2023?",
+    "opciones": [
+      "AC Milan",
+      "Bayern Múnich",
+      "Real Madrid",
+      "Inter de Milán"
+    ],
+    "respuesta": 3,
+    "dato": "City venció 1-0 al Inter con gol de Rodri en Estambul, completando el triplete histórico de Guardiola."
+  },
+  {
+    "id": "wc2_037",
+    "categoria": "finales",
+    "consigna": "Decimoquinta",
+    "pregunta": "¿A quién venció Real Madrid en la final de la Champions League 2024?",
+    "opciones": [
+      "Manchester City",
+      "Bayern Múnich",
+      "PSG",
+      "Borussia Dortmund"
+    ],
+    "respuesta": 3,
+    "dato": "Real Madrid ganó 2-0 al Borussia Dortmund en Wembley con goles de Carvajal y Vinícius. Fue su decimoquinta Champions."
+  },
+  {
+    "id": "wc2_038",
+    "categoria": "finales",
+    "consigna": "Calciopoli",
+    "pregunta": "¿A qué división fue descendida la Juventus tras el escándalo del Calciopoli en 2006?",
+    "opciones": [
+      "Serie B",
+      "Permaneció en Serie A con sanción",
+      "Serie C1",
+      "Serie C2"
+    ],
+    "respuesta": 0,
+    "dato": "Juventus fue enviada a la Serie B y se le quitaron los scudetti de 2005 y 2006 por manipulación de árbitros."
+  },
+  {
+    "id": "wc2_039",
+    "categoria": "finales",
+    "consigna": "DFB-Pokal épica",
+    "pregunta": "¿Qué equipo completó el doblete Liga+Copa en Alemania en 2012, ganando la DFB-Pokal 5-2 en la final?",
+    "opciones": [
+      "Bayern Múnich",
+      "Bayer Leverkusen",
+      "Borussia Dortmund",
+      "Schalke 04"
+    ],
+    "respuesta": 2,
+    "dato": "Borussia Dortmund de Klopp aplastó 5-2 al Bayern en la final de la DFB-Pokal, completando un doblete histórico."
+  },
+  {
+    "id": "wc2_040",
+    "categoria": "finales",
+    "consigna": "Eurocopa 2020",
+    "pregunta": "¿Quién falló el penal decisivo de Inglaterra en la final de la Eurocopa 2020 ante Italia?",
+    "opciones": [
+      "Marcus Rashford",
+      "Jadon Sancho",
+      "Bukayo Saka",
+      "Jack Grealish"
+    ],
+    "respuesta": 2,
+    "dato": "Saka, de solo 19 años, falló el quinto penal. Donnarumma fue la figura de Italia en la tanda."
+  },
+  {
+    "id": "wc2_041",
+    "categoria": "finales",
+    "consigna": "Copa América sede",
+    "pregunta": "¿En qué país se jugó la Copa América 2019?",
+    "opciones": [
+      "Brasil",
+      "Colombia",
+      "Argentina",
+      "Chile"
+    ],
+    "respuesta": 0,
+    "dato": "Brasil fue sede y campeón, venciendo 3-1 a Perú en la final en el Maracaná."
+  },
+  {
+    "id": "wc2_042",
+    "categoria": "finales",
+    "consigna": "Santos de Neymar",
+    "pregunta": "¿En qué año Santos ganó su última Copa Libertadores con Neymar como estrella?",
+    "opciones": [
+      "2010",
+      "2012",
+      "2011",
+      "2013"
+    ],
+    "respuesta": 2,
+    "dato": "Santos venció a Peñarol en la final de 2011. Neymar marcó en la vuelta para el 2-1 global."
+  },
+  {
+    "id": "wc2_043",
+    "categoria": "finales",
+    "consigna": "Descenso histórico",
+    "pregunta": "¿En qué año descendió River Plate a la Segunda División argentina por primera vez en su historia?",
+    "opciones": [
+      "2011",
+      "2009",
+      "2010",
+      "2008"
+    ],
+    "respuesta": 0,
+    "dato": "River perdió la promoción contra Belgrano de Córdoba y bajó a la B Nacional. Fue un terremoto en el fútbol argentino."
+  },
+  {
+    "id": "wc2_044",
+    "categoria": "finales",
+    "consigna": "Descenso inglés",
+    "pregunta": "¿En qué temporada descendió Leeds United de la Premier League tras su crisis financiera?",
+    "opciones": [
+      "2003-04",
+      "2002-03",
+      "2004-05",
+      "2001-02"
+    ],
+    "respuesta": 0,
+    "dato": "Leeds había llegado a semifinales de Champions en 2001 pero la deuda los llevó al descenso en 2004."
+  },
+  {
+    "id": "wc2_045",
+    "categoria": "finales",
+    "consigna": "Título robado",
+    "pregunta": "¿A qué club se le asignó el scudetto 2005-06 tras el Calciopoli que dejó vacante el título de Juventus?",
+    "opciones": [
+      "Milan",
+      "Inter de Milán",
+      "Fiorentina",
+      "Roma"
+    ],
+    "respuesta": 1,
+    "dato": "El Inter de Milán recibió el scudetto 2005-06 tras la descalificación de Juventus por el escándalo de amaño de partidos."
+  },
+  {
+    "id": "wc2_046",
+    "categoria": "finales",
+    "consigna": "Eurocopa de Dinamarca",
+    "pregunta": "¿Qué selección ganó sorpresivamente la Eurocopa 1992 sin haberse clasificado originalmente?",
+    "opciones": [
+      "Suecia",
+      "Dinamarca",
+      "Escocia",
+      "Irlanda"
+    ],
+    "respuesta": 1,
+    "dato": "Dinamarca reemplazó a Yugoslavia (excluida por la guerra) y venció a Alemania 2-0 en la final."
+  },
+  {
+    "id": "wc2_047",
+    "categoria": "finales",
+    "consigna": "Libertadores colombiana",
+    "pregunta": "¿Qué club colombiano ganó la Copa Libertadores 2004?",
+    "opciones": [
+      "Atlético Nacional",
+      "Once Caldas",
+      "Millonarios",
+      "América de Cali"
+    ],
+    "respuesta": 1,
+    "dato": "Once Caldas de Manizales venció a Boca Juniors en penales, en una de las mayores sorpresas de la historia del torneo."
+  },
+  {
+    "id": "wc2_048",
+    "categoria": "finales",
+    "consigna": "FA Cup del Centenario",
+    "pregunta": "¿Quién marcó el gol de la victoria de Arsenal en la final de la FA Cup 2017 contra Chelsea?",
+    "opciones": [
+      "Aaron Ramsey",
+      "Olivier Giroud",
+      "Danny Welbeck",
+      "Alexis Sánchez"
+    ],
+    "respuesta": 0,
+    "dato": "Aaron Ramsey marcó el gol del 2-1 definitivo. Wenger le ganó una final a Conte en Wembley."
+  },
+  {
+    "id": "wc2_049",
+    "categoria": "finales",
+    "consigna": "Leicester desciende",
+    "pregunta": "¿En qué temporada descendió Leicester City de la Premier League, pocos años después de haber sido campeón?",
+    "opciones": [
+      "2022-23",
+      "2023-24",
+      "2021-22",
+      "2020-21"
+    ],
+    "respuesta": 0,
+    "dato": "Leicester fue relegado en la temporada 2022-23, un giro dramático tras su mágico título de 2016."
+  },
+  {
+    "id": "wc2_050",
+    "categoria": "finales",
+    "consigna": "Euro memorable",
+    "pregunta": "¿Quién marcó el gol en la prórroga que dio a Portugal la Eurocopa 2016?",
+    "opciones": [
+      "Cristiano Ronaldo",
+      "Nani",
+      "Renato Sanches",
+      "Éder"
+    ],
+    "respuesta": 3,
+    "dato": "Éder, suplente poco habitual, marcó en el minuto 109 contra Francia. Cristiano se había lesionado en el primer tiempo."
+  }
+]

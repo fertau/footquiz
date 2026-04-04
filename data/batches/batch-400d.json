@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "alan_hansen",
+    "nombre": "Alan Hansen",
+    "nombreCompleto": "Alan David Hansen",
+    "apodo": null,
+    "nacionalidad": "GB-SCO",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "leyendas",
+      "murallas",
+      "premier_league",
+      "heroes_80",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Partick Thistle",
+        "pais": "GB-SCO",
+        "anios": "1973-1977"
+      },
+      {
+        "club": "Liverpool",
+        "pais": "GB-ENG",
+        "anios": "1977-1991"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Dalglish",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Rush",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Souness",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Lawrenson",
+        "club": "Liverpool"
+      }
+    ],
+    "paises": [
+      "GB-SCO",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Elegante central escocés que ganó 8 ligas y 3 Copas de Europa con Liverpool"
+  },
+  {
+    "id": "peter_beardsley",
+    "nombre": "Beardsley",
+    "nombreCompleto": "Peter Andrew Beardsley",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "heroes_80",
+      "heroes_90",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Newcastle United",
+        "pais": "GB-ENG",
+        "anios": "1983-1987"
+      },
+      {
+        "club": "Liverpool",
+        "pais": "GB-ENG",
+        "anios": "1987-1991"
+      },
+      {
+        "club": "Everton",
+        "pais": "GB-ENG",
+        "anios": "1991-1993"
+      },
+      {
+        "club": "Newcastle United",
+        "pais": "GB-ENG",
+        "anios": "1993-1997"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Dalglish",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Gascoigne",
+        "club": "Selección Inglaterra"
+      },
+      {
+        "nombre": "Shearer",
+        "club": "Newcastle United"
+      },
+      {
+        "nombre": "Lineker",
+        "club": "Selección Inglaterra"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Mediapunta habilidoso que brilló en Newcastle y Liverpool en los 80 y 90"
+  },
+  {
+    "id": "les_ferdinand",
+    "nombre": "Les Ferdinand",
+    "nombreCompleto": "Leslie Ferdinand",
+    "apodo": "Sir Les",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "premier_league",
+      "goleadores",
+      "heroes_90"
+    ],
+    "carrera": [
+      {
+        "club": "Queens Park Rangers",
+        "pais": "GB-ENG",
+        "anios": "1987-1995"
+      },
+      {
+        "club": "Newcastle United",
+        "pais": "GB-ENG",
+        "anios": "1995-1997"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "pais": "GB-ENG",
+        "anios": "1997-2003"
+      },
+      {
+        "club": "West Ham United",
+        "pais": "GB-ENG",
+        "anios": "2003-2004"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Shearer",
+        "club": "Newcastle United"
+      },
+      {
+        "nombre": "Ginola",
+        "club": "Newcastle United"
+      },
+      {
+        "nombre": "Klinsmann",
+        "club": "Tottenham Hotspur"
+      },
+      {
+        "nombre": "Sheringham",
+        "club": "Tottenham Hotspur"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Potente delantero que marcó 149 goles en la Premier League entre QPR, Newcastle y Tottenham"
+  },
+  {
+    "id": "ruud_gullit",
+    "nombre": "Gullit",
+    "nombreCompleto": "Ruud Gullit",
+    "apodo": "El Tulipán Negro",
+    "nacionalidad": "NL",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "serie_a",
+      "premier_league",
+      "heroes_80",
+      "heroes_90",
+      "champions",
+      "mundialistas",
+      "tecnicos_jugadores"
+    ],
+    "carrera": [
+      {
+        "club": "Feyenoord",
+        "pais": "NL",
+        "anios": "1982-1985"
+      },
+      {
+        "club": "PSV Eindhoven",
+        "pais": "NL",
+        "anios": "1985-1987"
+      },
+      {
+        "club": "AC Milan",
+        "pais": "IT",
+        "anios": "1987-1993"
+      },
+      {
+        "club": "Sampdoria",
+        "pais": "IT",
+        "anios": "1993-1994"
+      },
+      {
+        "club": "Chelsea",
+        "pais": "GB-ENG",
+        "anios": "1995-1998"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Van Basten",
+        "club": "AC Milan"
+      },
+      {
+        "nombre": "Rijkaard",
+        "club": "AC Milan"
+      },
+      {
+        "nombre": "Baresi",
+        "club": "AC Milan"
+      },
+      {
+        "nombre": "Zola",
+        "club": "Chelsea"
+      }
+    ],
+    "paises": [
+      "NL",
+      "IT",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Balón de Oro 1987, líder del Milan de Sacchi y campeón de la Euro 88 con Holanda"
+  },
+  {
+    "id": "patrick_kluivert",
+    "nombre": "Kluivert",
+    "nombreCompleto": "Patrick Stephan Kluivert",
+    "apodo": null,
+    "nacionalidad": "NL",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "goleadores",
+      "la_liga",
+      "serie_a",
+      "premier_league",
+      "champions",
+      "heroes_90",
+      "generacion_2000",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Ajax",
+        "pais": "NL",
+        "anios": "1994-1997"
+      },
+      {
+        "club": "AC Milan",
+        "pais": "IT",
+        "anios": "1997-1998"
+      },
+      {
+        "club": "Barcelona",
+        "pais": "ES",
+        "anios": "1998-2004"
+      },
+      {
+        "club": "Newcastle United",
+        "pais": "GB-ENG",
+        "anios": "2004-2005"
+      },
+      {
+        "club": "Valencia",
+        "pais": "ES",
+        "anios": "2005-2006"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Seedorf",
+        "club": "Ajax"
+      },
+      {
+        "nombre": "Rivaldo",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Xavi",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Overmars",
+        "club": "Barcelona"
+      }
+    ],
+    "paises": [
+      "NL",
+      "IT",
+      "ES",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Goleador holandés que marcó el gol de la final de Champions League 1995 con Ajax a los 18 años"
+  },
+  {
+    "id": "andy_cole",
+    "nombre": "Andy Cole",
+    "nombreCompleto": "Andrew Alexander Cole",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "goleadores",
+      "heroes_90",
+      "generacion_2000",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Newcastle United",
+        "pais": "GB-ENG",
+        "anios": "1993-1995"
+      },
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "1995-2001"
+      },
+      {
+        "club": "Blackburn Rovers",
+        "pais": "GB-ENG",
+        "anios": "2001-2004"
+      },
+      {
+        "club": "Fulham",
+        "pais": "GB-ENG",
+        "anios": "2004-2005"
+      },
+      {
+        "club": "Manchester City",
+        "pais": "GB-ENG",
+        "anios": "2005-2006"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Beardsley",
+        "club": "Newcastle United"
+      },
+      {
+        "nombre": "Beckham",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Scholes",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Yorke",
+        "club": "Manchester United"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Tercer máximo goleador histórico de la Premier con 187 goles, ganó el Treble con el United en 1999"
+  },
+  {
+    "id": "michael_carrick",
+    "nombre": "Carrick",
+    "nombreCompleto": "Michael Carrick",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": [
+      "premier_league",
+      "generacion_2000",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "West Ham United",
+        "pais": "GB-ENG",
+        "anios": "1999-2004"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "pais": "GB-ENG",
+        "anios": "2004-2006"
+      },
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "2006-2018"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Rooney",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Scholes",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Ronaldo",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Di Canio",
+        "club": "West Ham United"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Mediocampista elegante que ganó 5 Premier Leagues y una Champions con Manchester United"
+  },
+  {
+    "id": "teddy_sheringham",
+    "nombre": "Sheringham",
+    "nombreCompleto": "Edward Paul Sheringham",
+    "apodo": "Teddy",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "goleadores",
+      "heroes_90",
+      "generacion_2000",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Millwall",
+        "pais": "GB-ENG",
+        "anios": "1983-1991"
+      },
+      {
+        "club": "Nottingham Forest",
+        "pais": "GB-ENG",
+        "anios": "1991-1992"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "pais": "GB-ENG",
+        "anios": "1992-1997"
+      },
+      {
+        "club": "Manchester United",
+        "pais": "GB-ENG",
+        "anios": "1997-2001"
+      },
+      {
+        "club": "Tottenham Hotspur",
+        "pais": "GB-ENG",
+        "anios": "2001-2003"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Klinsmann",
+        "club": "Tottenham Hotspur"
+      },
+      {
+        "nombre": "Beckham",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Solskjær",
+        "club": "Manchester United"
+      },
+      {
+        "nombre": "Shearer",
+        "club": "Selección Inglaterra"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Goleó el empate en la final de Champions 1999 contra el Bayern y ganó el Treble con el United"
+  },
+  {
+    "id": "ian_rush",
+    "nombre": "Ian Rush",
+    "nombreCompleto": "Ian James Rush",
+    "apodo": "Rushie",
+    "nacionalidad": "GB-WAL",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "goleadores",
+      "premier_league",
+      "heroes_80",
+      "serie_a",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Liverpool",
+        "pais": "GB-ENG",
+        "anios": "1980-1987"
+      },
+      {
+        "club": "Juventus",
+        "pais": "IT",
+        "anios": "1987-1988"
+      },
+      {
+        "club": "Liverpool",
+        "pais": "GB-ENG",
+        "anios": "1988-1996"
+      },
+      {
+        "club": "Leeds United",
+        "pais": "GB-ENG",
+        "anios": "1996-1997"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Dalglish",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Hansen",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "Platini",
+        "club": "Juventus"
+      },
+      {
+        "nombre": "Barnes",
+        "club": "Liverpool"
+      }
+    ],
+    "paises": [
+      "GB-ENG",
+      "IT"
+    ],
+    "pistaExtra": "Máximo goleador histórico del Liverpool con 346 goles, galés que dominó los 80"
+  },
+  {
+    "id": "ian_wright",
+    "nombre": "Ian Wright",
+    "nombreCompleto": "Ian Edward Wright",
+    "apodo": "Wrighty",
+    "nacionalidad": "GB-ENG",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "goleadores",
+      "heroes_90",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Crystal Palace",
+        "pais": "GB-ENG",
+        "anios": "1985-1991"
+      },
+      {
+        "club": "Arsenal",
+        "pais": "GB-ENG",
+        "anios": "1991-1998"
+      },
+      {
+        "club": "West Ham United",
+        "pais": "GB-ENG",
+        "anios": "1998-1999"
+      },
+      {
+        "club": "Celtic",
+        "pais": "GB-SCO",
+        "anios": "1999-2000"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Bergkamp",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Adams",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Seaman",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Di Canio",
+        "club": "West Ham United"
+      }
+    ],
+    "paises": [
+      "GB-ENG",
+      "GB-SCO"
+    ],
+    "pistaExtra": "Fue el máximo goleador histórico del Arsenal con 185 goles hasta que lo superó Henry"
+  },
+  {
+    "id": "sol_campbell",
+    "nombre": "Sol Campbell",
+    "nombreCompleto": "Sulzeer Jeremiah Campbell",
+    "apodo": "Sol",
+    "nacionalidad": "GB-ENG",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "murallas",
+      "heroes_90",
+      "generacion_2000",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Tottenham Hotspur",
+        "pais": "GB-ENG",
+        "anios": "1992-2001"
+      },
+      {
+        "club": "Arsenal",
+        "pais": "GB-ENG",
+        "anios": "2001-2006"
+      },
+      {
+        "club": "Portsmouth",
+        "pais": "GB-ENG",
+        "anios": "2006-2009"
+      },
+      {
+        "club": "Newcastle United",
+        "pais": "GB-ENG",
+        "anios": "2010-2011"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Henry",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Bergkamp",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Vieira",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Sheringham",
+        "club": "Tottenham Hotspur"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Central de los Invencibles del Arsenal 2003-04, polémico traspaso libre del Spurs al Arsenal"
+  },
+  {
+    "id": "ashley_cole",
+    "nombre": "Ashley Cole",
+    "nombreCompleto": "Ashley Cole",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "murallas",
+      "generacion_2000",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Arsenal",
+        "pais": "GB-ENG",
+        "anios": "1999-2006"
+      },
+      {
+        "club": "Chelsea",
+        "pais": "GB-ENG",
+        "anios": "2006-2014"
+      },
+      {
+        "club": "Roma",
+        "pais": "IT",
+        "anios": "2014-2015"
+      },
+      {
+        "club": "LA Galaxy",
+        "pais": "US",
+        "anios": "2016-2018"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Henry",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Lampard",
+        "club": "Chelsea"
+      },
+      {
+        "nombre": "Drogba",
+        "club": "Chelsea"
+      },
+      {
+        "nombre": "Terry",
+        "club": "Chelsea"
+      }
+    ],
+    "paises": [
+      "GB-ENG",
+      "IT",
+      "US"
+    ],
+    "pistaExtra": "Considerado el mejor lateral izquierdo de la historia de la Premier League, ganó Champions con Chelsea en 2012"
+  },
+  {
+    "id": "david_seaman",
+    "nombre": "Seaman",
+    "nombreCompleto": "David Andrew Seaman",
+    "apodo": "Safe Hands",
+    "nacionalidad": "GB-ENG",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "arqueros",
+      "murallas",
+      "heroes_90",
+      "generacion_2000",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Queens Park Rangers",
+        "pais": "GB-ENG",
+        "anios": "1986-1990"
+      },
+      {
+        "club": "Arsenal",
+        "pais": "GB-ENG",
+        "anios": "1990-2003"
+      },
+      {
+        "club": "Manchester City",
+        "pais": "GB-ENG",
+        "anios": "2003-2004"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Adams",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Wright",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Bergkamp",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Vieira",
+        "club": "Arsenal"
+      }
+    ],
+    "paises": [
+      "GB-ENG"
+    ],
+    "pistaExtra": "Arquero emblema del Arsenal de los 90, reconocido por su bigote y su seguridad bajo los tres palos"
+  },
+  {
+    "id": "giuseppe_meazza",
+    "nombre": "Meazza",
+    "nombreCompleto": "Giuseppe Meazza",
+    "apodo": "Il Balilla",
+    "nacionalidad": "IT",
+    "posicion": "goleador",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "goleadores",
+      "serie_a",
+      "mundialistas",
+      "heroes_historicos"
+    ],
+    "carrera": [
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "1927-1940"
+      },
+      {
+        "club": "AC Milan",
+        "pais": "IT",
+        "anios": "1940-1942"
+      },
+      {
+        "club": "Juventus",
+        "pais": "IT",
+        "anios": "1942-1943"
+      },
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "1946-1947"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Piola",
+        "club": "Selección Italia"
+      },
+      {
+        "nombre": "Ferrari",
+        "club": "Selección Italia"
+      },
+      {
+        "nombre": "Colaussi",
+        "club": "Selección Italia"
+      },
+      {
+        "nombre": "Frossi",
+        "club": "Inter"
+      }
+    ],
+    "paises": [
+      "IT"
+    ],
+    "pistaExtra": "Leyenda del fútbol italiano, bicampeón del mundo 1934-38, el estadio San Siro lleva su nombre"
+  },
+  {
+    "id": "gianluca_pagliuca",
+    "nombre": "Pagliuca",
+    "nombreCompleto": "Gianluca Pagliuca",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "arquero",
+    "tier": 3,
+    "categorias": [
+      "serie_a",
+      "arqueros",
+      "murallas",
+      "heroes_90",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Sampdoria",
+        "pais": "IT",
+        "anios": "1987-1994"
+      },
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "1994-1999"
+      },
+      {
+        "club": "Bologna",
+        "pais": "IT",
+        "anios": "1999-2007"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Mancini",
+        "club": "Sampdoria"
+      },
+      {
+        "nombre": "Vialli",
+        "club": "Sampdoria"
+      },
+      {
+        "nombre": "Ronaldo",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Zanetti",
+        "club": "Inter"
+      }
+    ],
+    "paises": [
+      "IT"
+    ],
+    "pistaExtra": "Arquero de la Sampdoria campeona del Scudetto 1991 y primer arquero expulsado en un Mundial (USA 94)"
+  },
+  {
+    "id": "gianluca_zambrotta",
+    "nombre": "Zambrotta",
+    "nombreCompleto": "Gianluca Zambrotta",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "serie_a",
+      "la_liga",
+      "murallas",
+      "generacion_2000",
+      "mundialistas",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Bari",
+        "pais": "IT",
+        "anios": "1994-1999"
+      },
+      {
+        "club": "Juventus",
+        "pais": "IT",
+        "anios": "1999-2006"
+      },
+      {
+        "club": "Barcelona",
+        "pais": "ES",
+        "anios": "2006-2008"
+      },
+      {
+        "club": "AC Milan",
+        "pais": "IT",
+        "anios": "2008-2012"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Del Piero",
+        "club": "Juventus"
+      },
+      {
+        "nombre": "Buffon",
+        "club": "Juventus"
+      },
+      {
+        "nombre": "Ronaldinho",
+        "club": "Barcelona"
+      },
+      {
+        "nombre": "Pirlo",
+        "club": "AC Milan"
+      }
+    ],
+    "paises": [
+      "IT",
+      "ES"
+    ],
+    "pistaExtra": "Lateral versátil campeón del mundo con Italia en 2006, jugó en ambos lados de la defensa"
+  },
+  {
+    "id": "giacinto_facchetti",
+    "nombre": "Facchetti",
+    "nombreCompleto": "Giacinto Facchetti",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "defensor",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "serie_a",
+      "murallas",
+      "heroes_historicos",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "1960-1978"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Mazzola",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Suárez",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Jair",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Burgnich",
+        "club": "Inter"
+      }
+    ],
+    "paises": [
+      "IT"
+    ],
+    "pistaExtra": "Lateral izquierdo revolucionario de la Grande Inter de Herrera, pionero del lateral ofensivo moderno"
+  },
+  {
+    "id": "sandro_mazzola",
+    "nombre": "Sandro Mazzola",
+    "nombreCompleto": "Alessandro Mazzola",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "serie_a",
+      "heroes_historicos",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "1960-1977"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Facchetti",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Suárez",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Boninsegna",
+        "club": "Inter"
+      },
+      {
+        "nombre": "Burgnich",
+        "club": "Inter"
+      }
+    ],
+    "paises": [
+      "IT"
+    ],
+    "pistaExtra": "Hijo de Valentino Mazzola, estrella de la Grande Inter, bicampeón de Europa en 1964-65"
+  },
+  {
+    "id": "alberto_gilardino",
+    "nombre": "Gilardino",
+    "nombreCompleto": "Alberto Gilardino",
+    "apodo": "Gila",
+    "nacionalidad": "IT",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "serie_a",
+      "goleadores",
+      "generacion_2000",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Piacenza",
+        "pais": "IT",
+        "anios": "1999-2002"
+      },
+      {
+        "club": "Parma",
+        "pais": "IT",
+        "anios": "2002-2005"
+      },
+      {
+        "club": "AC Milan",
+        "pais": "IT",
+        "anios": "2005-2008"
+      },
+      {
+        "club": "Fiorentina",
+        "pais": "IT",
+        "anios": "2008-2012"
+      },
+      {
+        "club": "Genoa",
+        "pais": "IT",
+        "anios": "2012-2015"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Kaká",
+        "club": "AC Milan"
+      },
+      {
+        "nombre": "Pirlo",
+        "club": "AC Milan"
+      },
+      {
+        "nombre": "Mutu",
+        "club": "Fiorentina"
+      },
+      {
+        "nombre": "Toni",
+        "club": "Selección Italia"
+      }
+    ],
+    "paises": [
+      "IT"
+    ],
+    "pistaExtra": "Delantero campeón del mundo con Italia en 2006, goleador prolífico en la Serie A"
+  },
+  {
+    "id": "fritz_walter",
+    "nombre": "Fritz Walter",
+    "nombreCompleto": "Friedrich Walter",
+    "apodo": "Fritz",
+    "nacionalidad": "DE",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": [
+      "leyendas",
+      "bundesliga",
+      "heroes_historicos",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Kaiserslautern",
+        "pais": "DE",
+        "anios": "1937-1959"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Ottmar Walter",
+        "club": "Kaiserslautern"
+      },
+      {
+        "nombre": "Rahn",
+        "club": "Selección Alemania"
+      },
+      {
+        "nombre": "Turek",
+        "club": "Selección Alemania"
+      },
+      {
+        "nombre": "Liebrich",
+        "club": "Kaiserslautern"
+      }
+    ],
+    "paises": [
+      "DE"
+    ],
+    "pistaExtra": "Capitán de Alemania en el Milagro de Berna 1954, leyenda de un solo club en Kaiserslautern"
+  },
+  {
+    "id": "sepp_maier",
+    "nombre": "Sepp Maier",
+    "nombreCompleto": "Josef Dieter Maier",
+    "apodo": "Die Katze von Anzing",
+    "nacionalidad": "DE",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "bundesliga",
+      "arqueros",
+      "murallas",
+      "heroes_70",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Bayern Múnich",
+        "pais": "DE",
+        "anios": "1962-1980"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Beckenbauer",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Gerd Müller",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Breitner",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Rummenigge",
+        "club": "Bayern Múnich"
+      }
+    ],
+    "paises": [
+      "DE"
+    ],
+    "pistaExtra": "Arquero del Bayern tricampeón de Europa 1974-76 y campeón del mundo 1974 con Alemania"
+  },
+  {
+    "id": "paul_breitner",
+    "nombre": "Breitner",
+    "nombreCompleto": "Paul Breitner",
+    "apodo": "Der Afro",
+    "nacionalidad": "DE",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "bundesliga",
+      "la_liga",
+      "heroes_70",
+      "heroes_80",
+      "mundialistas",
+      "champions"
+    ],
+    "carrera": [
+      {
+        "club": "Bayern Múnich",
+        "pais": "DE",
+        "anios": "1970-1974"
+      },
+      {
+        "club": "Real Madrid",
+        "pais": "ES",
+        "anios": "1974-1977"
+      },
+      {
+        "club": "Eintracht Braunschweig",
+        "pais": "DE",
+        "anios": "1977-1978"
+      },
+      {
+        "club": "Bayern Múnich",
+        "pais": "DE",
+        "anios": "1978-1983"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Beckenbauer",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Gerd Müller",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Rummenigge",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Santillana",
+        "club": "Real Madrid"
+      }
+    ],
+    "paises": [
+      "DE",
+      "ES"
+    ],
+    "pistaExtra": "Lateral goleador, marcó en dos finales de Mundial (1974 y 1982), también jugó de mediocampista"
+  },
+  {
+    "id": "mario_gomez",
+    "nombre": "Mario Gómez",
+    "nombreCompleto": "Mario Gómez García",
+    "apodo": null,
+    "nacionalidad": "DE",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "bundesliga",
+      "serie_a",
+      "goleadores",
+      "generacion_2000",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Stuttgart",
+        "pais": "DE",
+        "anios": "2003-2009"
+      },
+      {
+        "club": "Bayern Múnich",
+        "pais": "DE",
+        "anios": "2009-2013"
+      },
+      {
+        "club": "Fiorentina",
+        "pais": "IT",
+        "anios": "2013-2015"
+      },
+      {
+        "club": "Beşiktaş",
+        "pais": "TR",
+        "anios": "2015-2016"
+      },
+      {
+        "club": "Wolfsburgo",
+        "pais": "DE",
+        "anios": "2016-2018"
+      },
+      {
+        "club": "Stuttgart",
+        "pais": "DE",
+        "anios": "2018-2020"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Ribéry",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Robben",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Müller",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Lahm",
+        "club": "Bayern Múnich"
+      }
+    ],
+    "paises": [
+      "DE",
+      "IT",
+      "TR"
+    ],
+    "pistaExtra": "Goleador germano-español, campeón de Bundesliga con Stuttgart y Bayern, máximo goleador de la Euro 2012"
+  },
+  {
+    "id": "lukas_podolski",
+    "nombre": "Podolski",
+    "nombreCompleto": "Lukas Josef Podolski",
+    "apodo": "Poldi",
+    "nacionalidad": "DE",
+    "posicion": "goleador",
+    "tier": 3,
+    "categorias": [
+      "bundesliga",
+      "premier_league",
+      "serie_a",
+      "generacion_2000",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Colonia",
+        "pais": "DE",
+        "anios": "2003-2006"
+      },
+      {
+        "club": "Bayern Múnich",
+        "pais": "DE",
+        "anios": "2006-2009"
+      },
+      {
+        "club": "Colonia",
+        "pais": "DE",
+        "anios": "2009-2012"
+      },
+      {
+        "club": "Arsenal",
+        "pais": "GB-ENG",
+        "anios": "2012-2015"
+      },
+      {
+        "club": "Inter",
+        "pais": "IT",
+        "anios": "2015"
+      },
+      {
+        "club": "Galatasaray",
+        "pais": "TR",
+        "anios": "2015-2017"
+      },
+      {
+        "club": "Vissel Kobe",
+        "pais": "JP",
+        "anios": "2017-2020"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Schweinsteiger",
+        "club": "Bayern Múnich"
+      },
+      {
+        "nombre": "Özil",
+        "club": "Arsenal"
+      },
+      {
+        "nombre": "Klose",
+        "club": "Selección Alemania"
+      },
+      {
+        "nombre": "Sneijder",
+        "club": "Galatasaray"
+      }
+    ],
+    "paises": [
+      "DE",
+      "GB-ENG",
+      "IT",
+      "TR",
+      "JP"
+    ],
+    "pistaExtra": "Nacido en Polonia, campeón del mundo 2014 con Alemania, conocido por su potente disparo con la zurda"
+  },
+  {
+    "id": "fernando_morientes",
+    "nombre": "Morientes",
+    "nombreCompleto": "Fernando Morientes Sánchez",
+    "apodo": "El Moro",
+    "nacionalidad": "ES",
+    "posicion": "goleador",
+    "tier": 2,
+    "categorias": [
+      "la_liga",
+      "ligue_1",
+      "premier_league",
+      "goleadores",
+      "heroes_90",
+      "generacion_2000",
+      "champions",
+      "mundialistas"
+    ],
+    "carrera": [
+      {
+        "club": "Real Zaragoza",
+        "pais": "ES",
+        "anios": "1995-1997"
+      },
+      {
+        "club": "Real Madrid",
+        "pais": "ES",
+        "anios": "1997-2005"
+      },
+      {
+        "club": "Mónaco",
+        "pais": "FR",
+        "anios": "2003-2004"
+      },
+      {
+        "club": "Liverpool",
+        "pais": "GB-ENG",
+        "anios": "2005-2006"
+      },
+      {
+        "club": "Valencia",
+        "pais": "ES",
+        "anios": "2006-2010"
+      }
+    ],
+    "companeros": [
+      {
+        "nombre": "Raúl",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Zidane",
+        "club": "Real Madrid"
+      },
+      {
+        "nombre": "Gerrard",
+        "club": "Liverpool"
+      },
+      {
+        "nombre": "David Villa",
+        "club": "Valencia"
+      }
+    ],
+    "paises": [
+      "ES",
+      "FR",
+      "GB-ENG"
+    ],
+    "pistaExtra": "Goleador de Champions League con Real Madrid, llegó a la final con Mónaco eliminando al propio Madrid"
+  }
+]

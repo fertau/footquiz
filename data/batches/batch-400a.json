@@ -1,0 +1,797 @@
+[
+  {
+    "id": "claudio_caniggia",
+    "nombre": "Caniggia",
+    "nombreCompleto": "Claudio Paul Caniggia",
+    "apodo": "El Hijo del Viento",
+    "nacionalidad": "AR",
+    "posicion": "delantero",
+    "tier": 2,
+    "categorias": [
+      "argentinos_mundo",
+      "goleadores",
+      "generacion_90",
+      "mundialistas",
+      "serie_a",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "1985-1988" },
+      { "club": "Hellas Verona", "pais": "IT", "anios": "1988-1989" },
+      { "club": "Atalanta", "pais": "IT", "anios": "1989-1992" },
+      { "club": "Roma", "pais": "IT", "anios": "1992-1994" },
+      { "club": "Benfica", "pais": "PT", "anios": "1994-1995" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "1995-1998" },
+      { "club": "Dundee", "pais": "GB-SCT", "anios": "2000-2001" },
+      { "club": "Rangers", "pais": "GB-SCT", "anios": "2001-2002" }
+    ],
+    "companeros": [
+      { "nombre": "Maradona", "club": "Boca Juniors" },
+      { "nombre": "Riquelme", "club": "Boca Juniors" },
+      { "nombre": "Totti", "club": "Roma" },
+      { "nombre": "De Boer", "club": "Rangers" }
+    ],
+    "paises": ["AR", "IT", "PT", "GB-SCT"],
+    "pistaExtra": "Goleador del Mundial 1990, famoso por su velocidad y su sociedad con Maradona en Italia 90"
+  },
+  {
+    "id": "abel_balbo",
+    "nombre": "Balbo",
+    "nombreCompleto": "Abel Eduardo Balbo",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "delantero",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "goleadores",
+      "generacion_90",
+      "serie_a",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      { "club": "Newell's Old Boys", "pais": "AR", "anios": "1986-1989" },
+      { "club": "Udinese", "pais": "IT", "anios": "1989-1993" },
+      { "club": "Roma", "pais": "IT", "anios": "1993-1998" },
+      { "club": "Parma", "pais": "IT", "anios": "1998-1999" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1999-2001" },
+      { "club": "Roma", "pais": "IT", "anios": "2001-2002" }
+    ],
+    "companeros": [
+      { "nombre": "Totti", "club": "Roma" },
+      { "nombre": "Cannavaro", "club": "Parma" },
+      { "nombre": "Batistuta", "club": "Fiorentina" },
+      { "nombre": "Cafu", "club": "Roma" }
+    ],
+    "paises": ["AR", "IT"],
+    "pistaExtra": "Goleador argentino que brilló en la Serie A, especialmente en la Roma de los 90"
+  },
+  {
+    "id": "sergio_batista",
+    "nombre": "Batista",
+    "nombreCompleto": "Sergio Daniel Batista",
+    "apodo": "Checho",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "generacion_80",
+      "mundialistas",
+      "campeones_mundo"
+    ],
+    "carrera": [
+      { "club": "Argentinos Juniors", "pais": "AR", "anios": "1980-1989" },
+      { "club": "River Plate", "pais": "AR", "anios": "1989-1990" },
+      { "club": "Argentinos Juniors", "pais": "AR", "anios": "1990-1995" }
+    ],
+    "companeros": [
+      { "nombre": "Maradona", "club": "Argentinos Juniors" },
+      { "nombre": "Borghi", "club": "Argentinos Juniors" },
+      { "nombre": "Ruggeri", "club": "Selección Argentina" },
+      { "nombre": "Alzamendi", "club": "River Plate" }
+    ],
+    "paises": ["AR"],
+    "pistaExtra": "Campeón del mundo en México 86, volante de contención de Argentinos Juniors y luego DT de la Selección"
+  },
+  {
+    "id": "dario_benedetto",
+    "nombre": "Benedetto",
+    "nombreCompleto": "Darío Ismael Benedetto",
+    "apodo": "Pipa",
+    "nacionalidad": "AR",
+    "posicion": "delantero",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "goleadores",
+      "generacion_2010",
+      "ligue_1",
+      "libertadores",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      { "club": "Arsenal de Sarandí", "pais": "AR", "anios": "2010-2013" },
+      { "club": "Tijuana", "pais": "MX", "anios": "2013-2016" },
+      { "club": "América", "pais": "MX", "anios": "2016-2016" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "2016-2019" },
+      { "club": "Olympique de Marseille", "pais": "FR", "anios": "2019-2022" },
+      { "club": "Boca Juniors", "pais": "AR", "anios": "2022-2023" },
+      { "club": "Elche", "pais": "ES", "anios": "2023-2024" }
+    ],
+    "companeros": [
+      { "nombre": "Tevez", "club": "Boca Juniors" },
+      { "nombre": "Payet", "club": "Olympique de Marseille" },
+      { "nombre": "Rojo", "club": "Boca Juniors" },
+      { "nombre": "Thauvin", "club": "Olympique de Marseille" }
+    ],
+    "paises": ["AR", "MX", "FR", "ES"],
+    "pistaExtra": "Goleador de Boca Juniors en dos etapas, pasó por el Marsella en la Ligue 1"
+  },
+  {
+    "id": "leonardo_ponzio",
+    "nombre": "Ponzio",
+    "nombreCompleto": "Leonardo Daniel Ponzio",
+    "apodo": "León",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "generacion_2000",
+      "generacion_2010",
+      "libertadores",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      { "club": "Newell's Old Boys", "pais": "AR", "anios": "1999-2003" },
+      { "club": "Zaragoza", "pais": "ES", "anios": "2003-2007" },
+      { "club": "River Plate", "pais": "AR", "anios": "2007-2022" }
+    ],
+    "companeros": [
+      { "nombre": "Gallardo", "club": "River Plate" },
+      { "nombre": "D'Alessandro", "club": "Zaragoza" },
+      { "nombre": "Alario", "club": "River Plate" },
+      { "nombre": "Enzo Pérez", "club": "River Plate" }
+    ],
+    "paises": ["AR", "ES"],
+    "pistaExtra": "Capitán emblemático de River Plate en la era Gallardo, ganó múltiples Copas Libertadores"
+  },
+  {
+    "id": "ramon_diaz",
+    "nombre": "Ramón Díaz",
+    "nombreCompleto": "Ramón Ángel Díaz",
+    "apodo": "El Pelado",
+    "nacionalidad": "AR",
+    "posicion": "delantero",
+    "tier": 2,
+    "categorias": [
+      "argentinos_mundo",
+      "goleadores",
+      "generacion_80",
+      "mundialistas",
+      "serie_a",
+      "de_sudamerica_europa",
+      "campeones_mundo"
+    ],
+    "carrera": [
+      { "club": "River Plate", "pais": "AR", "anios": "1979-1982" },
+      { "club": "Napoli", "pais": "IT", "anios": "1982-1984" },
+      { "club": "Avellino", "pais": "IT", "anios": "1984-1985" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1985-1986" },
+      { "club": "Inter", "pais": "IT", "anios": "1986-1988" },
+      { "club": "Monaco", "pais": "FR", "anios": "1988-1989" },
+      { "club": "River Plate", "pais": "AR", "anios": "1989-1995" },
+      { "club": "Yokohama Marinos", "pais": "JP", "anios": "1995-1997" }
+    ],
+    "companeros": [
+      { "nombre": "Francescoli", "club": "River Plate" },
+      { "nombre": "Passarella", "club": "River Plate" },
+      { "nombre": "Matthäus", "club": "Inter" },
+      { "nombre": "Maradona", "club": "Napoli" }
+    ],
+    "paises": ["AR", "IT", "FR", "JP"],
+    "pistaExtra": "Goleador histórico de River Plate, campeón del mundo juvenil en 1979 y luego exitoso DT millonario"
+  },
+  {
+    "id": "nery_pumpido",
+    "nombre": "Pumpido",
+    "nombreCompleto": "Nery Alberto Pumpido",
+    "apodo": null,
+    "nacionalidad": "AR",
+    "posicion": "arquero",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "arqueros",
+      "murallas",
+      "generacion_80",
+      "mundialistas",
+      "campeones_mundo"
+    ],
+    "carrera": [
+      { "club": "Unión de Santa Fe", "pais": "AR", "anios": "1977-1981" },
+      { "club": "River Plate", "pais": "AR", "anios": "1981-1989" },
+      { "club": "Betis", "pais": "ES", "anios": "1989-1990" },
+      { "club": "River Plate", "pais": "AR", "anios": "1990-1993" }
+    ],
+    "companeros": [
+      { "nombre": "Francescoli", "club": "River Plate" },
+      { "nombre": "Ruggeri", "club": "River Plate" },
+      { "nombre": "Alonso", "club": "River Plate" },
+      { "nombre": "Passarella", "club": "River Plate" }
+    ],
+    "paises": ["AR", "ES"],
+    "pistaExtra": "Arquero titular de Argentina campeona del mundo en México 86, ídolo de River Plate"
+  },
+  {
+    "id": "zico",
+    "nombre": "Zico",
+    "nombreCompleto": "Arthur Antunes Coimbra",
+    "apodo": "El Pelé Blanco",
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": [
+      "brasileiros_mundo",
+      "goleadores",
+      "generacion_80",
+      "mundialistas",
+      "serie_a",
+      "de_sudamerica_europa",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Flamengo", "pais": "BR", "anios": "1971-1983" },
+      { "club": "Udinese", "pais": "IT", "anios": "1983-1985" },
+      { "club": "Flamengo", "pais": "BR", "anios": "1985-1989" },
+      { "club": "Kashima Antlers", "pais": "JP", "anios": "1991-1994" }
+    ],
+    "companeros": [
+      { "nombre": "Júnior", "club": "Flamengo" },
+      { "nombre": "Adílio", "club": "Flamengo" },
+      { "nombre": "Leandro", "club": "Flamengo" },
+      { "nombre": "Edinho", "club": "Udinese" }
+    ],
+    "paises": ["BR", "IT", "JP"],
+    "pistaExtra": "Máximo ídolo del Flamengo, considerado uno de los mejores mediocampistas ofensivos de la historia"
+  },
+  {
+    "id": "falcao_br",
+    "nombre": "Falcão",
+    "nombreCompleto": "Paulo Roberto Falcão",
+    "apodo": "El Rey de Roma",
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "generacion_80",
+      "mundialistas",
+      "serie_a",
+      "de_sudamerica_europa",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Internacional", "pais": "BR", "anios": "1972-1980" },
+      { "club": "Roma", "pais": "IT", "anios": "1980-1985" },
+      { "club": "São Paulo", "pais": "BR", "anios": "1985-1986" }
+    ],
+    "companeros": [
+      { "nombre": "Conti", "club": "Roma" },
+      { "nombre": "Pruzzo", "club": "Roma" },
+      { "nombre": "Cerezo", "club": "Roma" },
+      { "nombre": "Batista", "club": "Internacional" }
+    ],
+    "paises": ["BR", "IT"],
+    "pistaExtra": "Leyenda brasileña que brilló en la Roma italiana, ganando el Scudetto en 1983"
+  },
+  {
+    "id": "dida",
+    "nombre": "Dida",
+    "nombreCompleto": "Nélson de Jesus Silva",
+    "apodo": "Dida",
+    "nacionalidad": "BR",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "arqueros",
+      "murallas",
+      "generacion_2000",
+      "mundialistas",
+      "champions",
+      "serie_a",
+      "de_sudamerica_europa",
+      "campeones_mundo"
+    ],
+    "carrera": [
+      { "club": "Vitória", "pais": "BR", "anios": "1993-1996" },
+      { "club": "Cruzeiro", "pais": "BR", "anios": "1996-1999" },
+      { "club": "Corinthians", "pais": "BR", "anios": "1999-2000" },
+      { "club": "Milan", "pais": "IT", "anios": "2000-2010" }
+    ],
+    "companeros": [
+      { "nombre": "Maldini", "club": "Milan" },
+      { "nombre": "Pirlo", "club": "Milan" },
+      { "nombre": "Kaká", "club": "Milan" },
+      { "nombre": "Shevchenko", "club": "Milan" }
+    ],
+    "paises": ["BR", "IT"],
+    "pistaExtra": "Arquero del Milan bicampeón de Champions League y campeón del mundo con Brasil en 2002"
+  },
+  {
+    "id": "jairzinho",
+    "nombre": "Jairzinho",
+    "nombreCompleto": "Jair Ventura Filho",
+    "apodo": "Furacão",
+    "nacionalidad": "BR",
+    "posicion": "delantero",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "goleadores",
+      "generacion_70",
+      "mundialistas",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Botafogo", "pais": "BR", "anios": "1959-1974" },
+      { "club": "Olympique de Marseille", "pais": "FR", "anios": "1974-1975" },
+      { "club": "Cruzeiro", "pais": "BR", "anios": "1976-1978" },
+      { "club": "Portuguesa", "pais": "VE", "anios": "1978-1979" },
+      { "club": "Noroeste", "pais": "BR", "anios": "1981-1982" }
+    ],
+    "companeros": [
+      { "nombre": "Pelé", "club": "Selección Brasil" },
+      { "nombre": "Carlos Alberto", "club": "Selección Brasil" },
+      { "nombre": "Tostão", "club": "Selección Brasil" },
+      { "nombre": "Gérson", "club": "Selección Brasil" }
+    ],
+    "paises": ["BR", "FR", "VE"],
+    "pistaExtra": "Único jugador en anotar en todos los partidos de una Copa del Mundo (México 1970)"
+  },
+  {
+    "id": "carlos_alberto_torres",
+    "nombre": "Carlos Alberto",
+    "nombreCompleto": "Carlos Alberto Torres",
+    "apodo": "O Capitão",
+    "nacionalidad": "BR",
+    "posicion": "defensor",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "murallas",
+      "generacion_70",
+      "mundialistas",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Fluminense", "pais": "BR", "anios": "1963-1966" },
+      { "club": "Santos", "pais": "BR", "anios": "1966-1974" },
+      { "club": "Flamengo", "pais": "BR", "anios": "1974-1977" },
+      { "club": "New York Cosmos", "pais": "US", "anios": "1977-1980" },
+      { "club": "Flamengo", "pais": "BR", "anios": "1981-1982" }
+    ],
+    "companeros": [
+      { "nombre": "Pelé", "club": "Santos" },
+      { "nombre": "Beckenbauer", "club": "New York Cosmos" },
+      { "nombre": "Jairzinho", "club": "Selección Brasil" },
+      { "nombre": "Rivelino", "club": "Selección Brasil" }
+    ],
+    "paises": ["BR", "US"],
+    "pistaExtra": "Capitán de Brasil en la Copa del Mundo 1970, anotó el icónico cuarto gol en la final contra Italia"
+  },
+  {
+    "id": "tostao",
+    "nombre": "Tostão",
+    "nombreCompleto": "Eduardo Gonçalves de Andrade",
+    "apodo": "Tostão",
+    "nacionalidad": "BR",
+    "posicion": "delantero",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "goleadores",
+      "generacion_70",
+      "mundialistas",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Cruzeiro", "pais": "BR", "anios": "1963-1972" },
+      { "club": "Vasco da Gama", "pais": "BR", "anios": "1972-1973" }
+    ],
+    "companeros": [
+      { "nombre": "Pelé", "club": "Selección Brasil" },
+      { "nombre": "Jairzinho", "club": "Selección Brasil" },
+      { "nombre": "Carlos Alberto", "club": "Selección Brasil" },
+      { "nombre": "Dirceu Lopes", "club": "Cruzeiro" }
+    ],
+    "paises": ["BR"],
+    "pistaExtra": "Estrella del Brasil campeón en 1970, se retiró joven por problemas de visión y se convirtió en médico"
+  },
+  {
+    "id": "emerson_br",
+    "nombre": "Emerson",
+    "nombreCompleto": "Emerson Ferreira da Rosa",
+    "apodo": null,
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": [
+      "brasileiros_mundo",
+      "generacion_2000",
+      "mundialistas",
+      "serie_a",
+      "champions",
+      "de_sudamerica_europa",
+      "campeones_mundo"
+    ],
+    "carrera": [
+      { "club": "Grêmio", "pais": "BR", "anios": "1994-1997" },
+      { "club": "Bayer Leverkusen", "pais": "DE", "anios": "1997-2000" },
+      { "club": "Roma", "pais": "IT", "anios": "2000-2004" },
+      { "club": "Juventus", "pais": "IT", "anios": "2004-2007" },
+      { "club": "Real Madrid", "pais": "ES", "anios": "2007-2008" },
+      { "club": "Milan", "pais": "IT", "anios": "2008-2009" },
+      { "club": "Santos", "pais": "BR", "anios": "2009-2010" }
+    ],
+    "companeros": [
+      { "nombre": "Totti", "club": "Roma" },
+      { "nombre": "Del Piero", "club": "Juventus" },
+      { "nombre": "Ballack", "club": "Bayer Leverkusen" },
+      { "nombre": "Robinho", "club": "Real Madrid" }
+    ],
+    "paises": ["BR", "DE", "IT", "ES"],
+    "pistaExtra": "Mediocampista brasileño campeón del mundo en 2002, recorrió los mejores clubes de Europa"
+  },
+  {
+    "id": "roberto_dinamite",
+    "nombre": "Roberto Dinamite",
+    "nombreCompleto": "Carlos Roberto de Oliveira",
+    "apodo": "Dinamite",
+    "nacionalidad": "BR",
+    "posicion": "delantero",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "goleadores",
+      "generacion_80",
+      "mundialistas",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Vasco da Gama", "pais": "BR", "anios": "1971-1979" },
+      { "club": "Barcelona", "pais": "ES", "anios": "1980-1980" },
+      { "club": "Vasco da Gama", "pais": "BR", "anios": "1980-1992" }
+    ],
+    "companeros": [
+      { "nombre": "Roberto", "club": "Vasco da Gama" },
+      { "nombre": "Quini", "club": "Barcelona" },
+      { "nombre": "Simonsen", "club": "Barcelona" },
+      { "nombre": "Zandoná", "club": "Vasco da Gama" }
+    ],
+    "paises": ["BR", "ES"],
+    "pistaExtra": "Máximo goleador histórico del Vasco da Gama con más de 700 goles, leyenda del fútbol brasileño"
+  },
+  {
+    "id": "paul_gascoigne",
+    "nombre": "Gascoigne",
+    "nombreCompleto": "Paul John Gascoigne",
+    "apodo": "Gazza",
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "serie_a",
+      "generacion_90",
+      "mundialistas",
+      "de_sudamerica_europa"
+    ],
+    "carrera": [
+      { "club": "Newcastle United", "pais": "GB-ENG", "anios": "1985-1988" },
+      { "club": "Tottenham Hotspur", "pais": "GB-ENG", "anios": "1988-1992" },
+      { "club": "Lazio", "pais": "IT", "anios": "1992-1995" },
+      { "club": "Rangers", "pais": "GB-SCT", "anios": "1995-1998" },
+      { "club": "Middlesbrough", "pais": "GB-ENG", "anios": "1998-2000" },
+      { "club": "Everton", "pais": "GB-ENG", "anios": "2000-2002" }
+    ],
+    "companeros": [
+      { "nombre": "Lineker", "club": "Tottenham Hotspur" },
+      { "nombre": "Signori", "club": "Lazio" },
+      { "nombre": "Laudrup", "club": "Rangers" },
+      { "nombre": "Beardsley", "club": "Newcastle United" }
+    ],
+    "paises": ["GB-ENG", "IT", "GB-SCT"],
+    "pistaExtra": "Mediocampista genial inglés, héroe del Mundial 90, conocido por su talento y su carácter impredecible"
+  },
+  {
+    "id": "marco_tardelli",
+    "nombre": "Tardelli",
+    "nombreCompleto": "Marco Tardelli",
+    "apodo": null,
+    "nacionalidad": "IT",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "serie_a",
+      "generacion_80",
+      "mundialistas",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Pisa", "pais": "IT", "anios": "1972-1975" },
+      { "club": "Como", "pais": "IT", "anios": "1975-1976" },
+      { "club": "Juventus", "pais": "IT", "anios": "1976-1985" },
+      { "club": "Inter", "pais": "IT", "anios": "1985-1988" }
+    ],
+    "companeros": [
+      { "nombre": "Platini", "club": "Juventus" },
+      { "nombre": "Zoff", "club": "Selección Italia" },
+      { "nombre": "Boniek", "club": "Juventus" },
+      { "nombre": "Matthäus", "club": "Inter" }
+    ],
+    "paises": ["IT"],
+    "pistaExtra": "Autor del icónico gol y celebración en la final del Mundial 1982, pilar de la Juventus de los 80"
+  },
+  {
+    "id": "peter_shilton",
+    "nombre": "Shilton",
+    "nombreCompleto": "Peter Leslie Shilton",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "arqueros",
+      "murallas",
+      "generacion_80",
+      "mundialistas",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Leicester City", "pais": "GB-ENG", "anios": "1966-1974" },
+      { "club": "Stoke City", "pais": "GB-ENG", "anios": "1974-1977" },
+      { "club": "Nottingham Forest", "pais": "GB-ENG", "anios": "1977-1982" },
+      { "club": "Southampton", "pais": "GB-ENG", "anios": "1982-1987" },
+      { "club": "Derby County", "pais": "GB-ENG", "anios": "1987-1992" }
+    ],
+    "companeros": [
+      { "nombre": "Clough (DT)", "club": "Nottingham Forest" },
+      { "nombre": "Francis", "club": "Nottingham Forest" },
+      { "nombre": "Le Tissier", "club": "Southampton" },
+      { "nombre": "Lineker", "club": "Selección Inglaterra" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Récord de 125 partidos con Inglaterra, ganó la Copa de Europa con Nottingham Forest"
+  },
+  {
+    "id": "gordon_banks",
+    "nombre": "Banks",
+    "nombreCompleto": "Gordon Banks",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "arquero",
+    "tier": 2,
+    "categorias": [
+      "premier_league",
+      "arqueros",
+      "murallas",
+      "generacion_70",
+      "mundialistas",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Chesterfield", "pais": "GB-ENG", "anios": "1958-1959" },
+      { "club": "Leicester City", "pais": "GB-ENG", "anios": "1959-1967" },
+      { "club": "Stoke City", "pais": "GB-ENG", "anios": "1967-1973" },
+      { "club": "Fort Lauderdale Strikers", "pais": "US", "anios": "1977-1978" }
+    ],
+    "companeros": [
+      { "nombre": "Bobby Moore", "club": "Selección Inglaterra" },
+      { "nombre": "Bobby Charlton", "club": "Selección Inglaterra" },
+      { "nombre": "Hurst", "club": "Selección Inglaterra" },
+      { "nombre": "Shilton", "club": "Leicester City" }
+    ],
+    "paises": ["GB-ENG", "US"],
+    "pistaExtra": "Arquero campeón del mundo en 1966, famoso por la parada del siglo a Pelé en el Mundial 1970"
+  },
+  {
+    "id": "bobby_moore",
+    "nombre": "Bobby Moore",
+    "nombreCompleto": "Robert Frederick Chelsea Moore",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "defensor",
+    "tier": 1,
+    "categorias": [
+      "premier_league",
+      "murallas",
+      "generacion_70",
+      "mundialistas",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "West Ham United", "pais": "GB-ENG", "anios": "1958-1974" },
+      { "club": "Fulham", "pais": "GB-ENG", "anios": "1974-1977" },
+      { "club": "San Antonio Thunder", "pais": "US", "anios": "1976-1976" },
+      { "club": "Seattle Sounders", "pais": "US", "anios": "1978-1978" }
+    ],
+    "companeros": [
+      { "nombre": "Hurst", "club": "West Ham United" },
+      { "nombre": "Peters", "club": "West Ham United" },
+      { "nombre": "Bobby Charlton", "club": "Selección Inglaterra" },
+      { "nombre": "Banks", "club": "Selección Inglaterra" }
+    ],
+    "paises": ["GB-ENG", "US"],
+    "pistaExtra": "Capitán de Inglaterra campeona del mundo en 1966, considerado el mejor defensor inglés de la historia"
+  },
+  {
+    "id": "bobby_charlton",
+    "nombre": "Bobby Charlton",
+    "nombreCompleto": "Sir Robert Charlton",
+    "apodo": null,
+    "nacionalidad": "GB-ENG",
+    "posicion": "mediocampista",
+    "tier": 1,
+    "categorias": [
+      "premier_league",
+      "goleadores",
+      "generacion_70",
+      "mundialistas",
+      "champions",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Manchester United", "pais": "GB-ENG", "anios": "1956-1973" },
+      { "club": "Preston North End", "pais": "GB-ENG", "anios": "1974-1975" }
+    ],
+    "companeros": [
+      { "nombre": "George Best", "club": "Manchester United" },
+      { "nombre": "Denis Law", "club": "Manchester United" },
+      { "nombre": "Bobby Moore", "club": "Selección Inglaterra" },
+      { "nombre": "Nobby Stiles", "club": "Manchester United" }
+    ],
+    "paises": ["GB-ENG"],
+    "pistaExtra": "Leyenda del Manchester United, sobreviviente de Múnich 58, campeón del mundo 66 y de la Copa de Europa 68"
+  },
+  {
+    "id": "dunga",
+    "nombre": "Dunga",
+    "nombreCompleto": "Carlos Caetano Bledorn Verri",
+    "apodo": "Dunga",
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "generacion_90",
+      "mundialistas",
+      "serie_a",
+      "bundesliga",
+      "de_sudamerica_europa",
+      "campeones_mundo"
+    ],
+    "carrera": [
+      { "club": "Internacional", "pais": "BR", "anios": "1980-1984" },
+      { "club": "Corinthians", "pais": "BR", "anios": "1984-1985" },
+      { "club": "Santos", "pais": "BR", "anios": "1985-1987" },
+      { "club": "Vasco da Gama", "pais": "BR", "anios": "1987-1988" },
+      { "club": "Pisa", "pais": "IT", "anios": "1988-1989" },
+      { "club": "Fiorentina", "pais": "IT", "anios": "1989-1992" },
+      { "club": "Pescara", "pais": "IT", "anios": "1992-1993" },
+      { "club": "Stuttgart", "pais": "DE", "anios": "1993-1995" },
+      { "club": "Jubilo Iwata", "pais": "JP", "anios": "1995-1998" },
+      { "club": "Internacional", "pais": "BR", "anios": "1999-2000" }
+    ],
+    "companeros": [
+      { "nombre": "Batistuta", "club": "Fiorentina" },
+      { "nombre": "Romário", "club": "Selección Brasil" },
+      { "nombre": "Bebeto", "club": "Selección Brasil" },
+      { "nombre": "Baggio", "club": "Fiorentina" }
+    ],
+    "paises": ["BR", "IT", "DE", "JP"],
+    "pistaExtra": "Capitán de Brasil campeón del mundo en USA 1994, volante de contención aguerrido"
+  },
+  {
+    "id": "rivelino",
+    "nombre": "Rivelino",
+    "nombreCompleto": "Roberto Rivelino",
+    "apodo": null,
+    "nacionalidad": "BR",
+    "posicion": "mediocampista",
+    "tier": 2,
+    "categorias": [
+      "brasileiros_mundo",
+      "goleadores",
+      "generacion_70",
+      "mundialistas",
+      "campeones_mundo",
+      "leyendas"
+    ],
+    "carrera": [
+      { "club": "Corinthians", "pais": "BR", "anios": "1965-1974" },
+      { "club": "Fluminense", "pais": "BR", "anios": "1975-1978" },
+      { "club": "Al-Hilal", "pais": "SA", "anios": "1978-1981" }
+    ],
+    "companeros": [
+      { "nombre": "Pelé", "club": "Selección Brasil" },
+      { "nombre": "Jairzinho", "club": "Selección Brasil" },
+      { "nombre": "Carlos Alberto", "club": "Selección Brasil" },
+      { "nombre": "Tostão", "club": "Selección Brasil" }
+    ],
+    "paises": ["BR", "SA"],
+    "pistaExtra": "Zurdo genial del Brasil campeón en México 1970, famoso por su tiro libre con efecto conocido como 'la patada elástica'"
+  },
+  {
+    "id": "hernan_barcos",
+    "nombre": "Barcos",
+    "nombreCompleto": "Hernán Renato Barcos",
+    "apodo": "El Pirata",
+    "nacionalidad": "AR",
+    "posicion": "delantero",
+    "tier": 4,
+    "categorias": [
+      "argentinos_mundo",
+      "goleadores",
+      "generacion_2010",
+      "trotamundos"
+    ],
+    "carrera": [
+      { "club": "Douglas Haig", "pais": "AR", "anios": "2002-2003" },
+      { "club": "Tigre", "pais": "AR", "anios": "2004-2005" },
+      { "club": "Quilmes", "pais": "AR", "anios": "2005-2006" },
+      { "club": "Cobreloa", "pais": "CL", "anios": "2006-2007" },
+      { "club": "Atlas", "pais": "MX", "anios": "2008-2008" },
+      { "club": "LDU Quito", "pais": "EC", "anios": "2009-2010" },
+      { "club": "Palmeiras", "pais": "BR", "anios": "2011-2012" },
+      { "club": "Cruzeiro", "pais": "BR", "anios": "2013-2013" },
+      { "club": "Alianza Lima", "pais": "PE", "anios": "2019-2022" }
+    ],
+    "companeros": [
+      { "nombre": "Reasco", "club": "LDU Quito" },
+      { "nombre": "Valdivia", "club": "Palmeiras" },
+      { "nombre": "Farfán", "club": "Alianza Lima" },
+      { "nombre": "Barrios", "club": "Cruzeiro" }
+    ],
+    "paises": ["AR", "CL", "MX", "EC", "BR", "PE"],
+    "pistaExtra": "Delantero trotamundos argentino que recorrió Sudamérica, ídolo de Alianza Lima en Perú"
+  },
+  {
+    "id": "leandro_romagnoli",
+    "nombre": "Romagnoli",
+    "nombreCompleto": "Leandro Daniel Romagnoli",
+    "apodo": "Pipi",
+    "nacionalidad": "AR",
+    "posicion": "mediocampista",
+    "tier": 3,
+    "categorias": [
+      "argentinos_mundo",
+      "generacion_2000",
+      "generacion_2010",
+      "libertadores"
+    ],
+    "carrera": [
+      { "club": "San Lorenzo", "pais": "AR", "anios": "2000-2006" },
+      { "club": "Catania", "pais": "IT", "anios": "2006-2007" },
+      { "club": "San Lorenzo", "pais": "AR", "anios": "2007-2016" }
+    ],
+    "companeros": [
+      { "nombre": "Bergessio", "club": "San Lorenzo" },
+      { "nombre": "Mercier", "club": "San Lorenzo" },
+      { "nombre": "Ortigoza", "club": "San Lorenzo" },
+      { "nombre": "Buffarini", "club": "San Lorenzo" }
+    ],
+    "paises": ["AR", "IT"],
+    "pistaExtra": "Ídolo máximo de San Lorenzo, campeón de la Copa Libertadores 2014 como capitán del Ciclón"
+  }
+]
