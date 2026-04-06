@@ -14387,7 +14387,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "Discípulo de Maradona en Napoli, elegido mejor jugador de la historia del Chelsea por los hinchas"
+    "pistaExtra": "Discípulo de Maradona en Napoli, elegido mejor jugador de la historia del Chelsea por los hinchas",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Stamford Bridge, años 90. Un italiano pequeño hace magia. Los hinchas lo adoran.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Discípulo de un genio argentino en Nápoles. Aprendió del mejor.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Napoli, Parma, Chelsea, Cagliari. Italiano. Mediapunta.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Elegido mejor jugador de la historia del Chelsea por los hinchas.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Napoli, Parma, Chelsea. Italiano. Discípulo de Maradona. Leyenda del Chelsea.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gianluca_pagliuca",
@@ -14442,7 +14469,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "Arquero de la Sampdoria campeona del Scudetto 1991 y primer arquero expulsado en un Mundial (USA 94)"
+    "pistaExtra": "Arquero de la Sampdoria campeona del Scudetto 1991 y primer arquero expulsado en un Mundial (USA 94)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "USA 94. Un arquero italiano es expulsado en un Mundial. El primero en la historia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Sampdoria campeona del Scudetto 1991. Él era el dueño del arco.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Sampdoria, Inter, Bologna. Toda su carrera en Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero italiano. Primer portero expulsado en un Mundial. Sampdoria e Inter.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Sampdoria, Inter, Bologna. Italiano. Primer arquero expulsado en un Mundial. Scudetto 91.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gianluca_vialli",
@@ -14502,7 +14556,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "Capitán de la Sampdoria campeón de la Serie A 1991"
+    "pistaExtra": "Capitán de la Sampdoria campeón de la Serie A 1991",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Génova, 1991. Un delantero italiano levanta el Scudetto con la Sampdoria. Histórico.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De la Sampdoria a la Juventus. Después a Londres a cerrar su carrera.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Cremonese, Sampdoria, Juventus, Chelsea. Italiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán de la Sampdoria campeona 91. Después Juventus y Chelsea. Italiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Sampdoria, Juventus, Chelsea. Italiano. Scudetto 1991 con Sampdoria. Delantero noble.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gianluca_zambrotta",
@@ -14564,7 +14645,34 @@
       "IT",
       "ES"
     ],
-    "pistaExtra": "Lateral versátil campeón del mundo con Italia en 2006, jugó en ambos lados de la defensa"
+    "pistaExtra": "Lateral versátil campeón del mundo con Italia en 2006, jugó en ambos lados de la defensa",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Berlín, 2006. Italia campeona. Un lateral que juega por las dos bandas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Bari a la Juventus. Después Barcelona y Milan.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Bari, Juventus, Barcelona, Milan. Italiano. Defensor versátil.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Lateral italiano. Campeón del mundo 2006. Juve, Barça y Milan.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Bari, Juventus, Barcelona, Milan. Italiano. Mundial 2006. Jugaba por ambas bandas.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gianluigi_buffon",
@@ -14632,7 +14740,34 @@
       "IT",
       "FR"
     ],
-    "pistaExtra": "Campeón del Mundo en 2006 y más de 25 temporadas en la élite"
+    "pistaExtra": "Campeón del Mundo en 2006 y más de 25 temporadas en la élite",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Más de 25 temporadas en la élite. Un arquero que desafió al tiempo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Campeón del mundo 2006. Mejor arquero de su generación sin discusión.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Parma, Juventus, PSG. Volvió a Parma al final. Italiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero de la Juventus por casi 20 años. Campeón del mundo. Leyenda.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Parma, Juventus, PSG, Parma. Italiano. Mundial 2006. 25+ temporadas. Eterno.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gianluigi_donnarumma",
@@ -14682,7 +14817,34 @@
       "IT",
       "FR"
     ],
-    "pistaExtra": "MVP de la Euro 2020 con solo 22 años"
+    "pistaExtra": "MVP de la Euro 2020 con solo 22 años",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Wembley, 2021. Final de la Eurocopa. Un arquero joven ataja penales decisivos.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "MVP del torneo con solo 22 años. De Milán a París.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Milan, Paris Saint-Germain. Italiano. Arquero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero italiano del PSG. MVP de la Euro 2020. Formado en el Milan.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Milan, PSG. Italiano. MVP de la Euro 2020. Arquero joven que atajó penales en la final.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gilberto_silva",
@@ -14755,7 +14917,34 @@
       "GB-ENG",
       "GR"
     ],
-    "pistaExtra": "Parte del Arsenal Invencible de 2004"
+    "pistaExtra": "Parte del Arsenal Invencible de 2004",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Londres, 2004. Un equipo inglés es invicto toda la temporada. Un volante brasileño es el muro invisible.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Campeón del mundo 2002 con Brasil antes de ir a la Premier.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Atlético Mineiro, Arsenal, Panathinaikos, Grêmio. Brasileño.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Arsenal Invencible 2004. Volante de contención. Mundial 2002.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Atlético Mineiro, Arsenal Invencible, Grêmio. Brasileño. Mundial 2002. El Muro Invisible.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "giovani_lo_celso",
@@ -14834,7 +15023,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Campeón del Mundo 2022, surgido en Rosario Central"
+    "pistaExtra": "Campeón del Mundo 2022, surgido en Rosario Central",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Rosario, cantera del fútbol argentino. Un mediocampista joven emigra a París.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Campeón del mundo 2022. Pasó por Francia, España e Inglaterra.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Rosario Central, PSG, Betis, Tottenham, Villarreal. Argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino campeón del mundo. Central, PSG, Betis, Tottenham.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Rosario Central, PSG, Betis, Tottenham. Argentino. Campeón del mundo 2022.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "giovanni_simeone",
@@ -14910,7 +15126,34 @@
       "AR",
       "IT"
     ],
-    "pistaExtra": "Hijo del Cholo Simeone, forjó su carrera en Italia como su padre"
+    "pistaExtra": "Hijo del Cholo Simeone, forjó su carrera en Italia como su padre",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Italia, como su padre. Un goleador argentino forja su camino en el calcio.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Hijo de un DT legendario. Mismo país, mismo amor por el fútbol italiano.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "River, Genoa, Fiorentina, Cagliari, Verona, Napoli. Toda su carrera en Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Napoli. Hijo de un famoso DT colchonero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Genoa, Fiorentina, Cagliari, Napoli. Argentino. Hijo del Cholo. Goleador en Italia.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "giuseppe_bergomi",
@@ -14954,7 +15197,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "20 años en Inter, debutó con 17 y ganó el Mundial 82"
+    "pistaExtra": "20 años en Inter, debutó con 17 y ganó el Mundial 82",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "España 82. Un defensor de 17 años gana el Mundial. El más joven de la historia en hacerlo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "20 años en un solo club de Milán. Fidelidad absoluta.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Inter y nada más. 1979 a 1999. Italiano. Central.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Defensor del Inter. 20 años. Mundial 1982 con 17 años. Italiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Inter 20 años. Italiano. Campeón del mundo 82 a los 17. Un solo club toda la vida.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "giuseppe_meazza",
@@ -15014,7 +15284,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "Leyenda del fútbol italiano, bicampeón del mundo 1934-38, el estadio San Siro lleva su nombre"
+    "pistaExtra": "Leyenda del fútbol italiano, bicampeón del mundo 1934-38, el estadio San Siro lleva su nombre",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Milán, años 30. Un goleador domina el fútbol italiano. Un estadio llevará su nombre.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Bicampeón del mundo con Italia en 1934 y 1938.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Inter y Milan. Italiano. El estadio San Siro lleva su nombre real.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Leyenda del Inter. Bicampeón mundial. San Siro se llama así por él.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Inter, Milan, Juventus. Italiano. Bicampeón mundial 34-38. San Siro lleva su nombre.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gonzalo_higuain",
@@ -15095,7 +15392,34 @@
       "GB-ENG",
       "US"
     ],
-    "pistaExtra": "36 goles en una temporada de Serie A, récord histórico en ese momento"
+    "pistaExtra": "36 goles en una temporada de Serie A, récord histórico en ese momento",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Nápoles, 2016. Un goleador argentino marca 36 goles en una temporada. Récord de Serie A.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De River al Real Madrid. Después Nápoles, Turín, Milán y Londres.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "River, Real Madrid, Napoli, Juventus, Milan, Chelsea. Argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino. 36 goles en Serie A, récord. River, Madrid, Napoli, Juve.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Real Madrid, Napoli, Juventus, Chelsea, Inter Miami. Argentino. 36 goles récord.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gordon_banks",
@@ -15158,7 +15482,34 @@
       "GB-ENG",
       "US"
     ],
-    "pistaExtra": "Arquero campeón del mundo en 1966, famoso por la parada del siglo a Pelé en el Mundial 1970"
+    "pistaExtra": "Arquero campeón del mundo en 1966, famoso por la parada del siglo a Pelé en el Mundial 1970",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Guadalajara, 1970. La parada del siglo. Un cabezazo de Pelé que parecía gol.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Arquero campeón del mundo con Inglaterra en 1966.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Leicester City y Stoke City. Inglés. Toda su carrera en clubes modestos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero inglés. Mundial 66. Parada del siglo a Pelé en 1970.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Leicester, Stoke. Inglés. Campeón del mundo 66. La atajada más famosa de la historia.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "guillermo_ochoa",
@@ -15230,7 +15581,34 @@
       "BE",
       "IT"
     ],
-    "pistaExtra": "Atajadas memorables en Mundiales, especialmente vs Brasil 2014"
+    "pistaExtra": "Atajadas memorables en Mundiales, especialmente vs Brasil 2014",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Brasil, 2014. Un arquero mexicano ataja todo contra la selección local. Heroico.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Atajadas memorables en Mundiales. América de México fue su casa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "América, Ajaccio, Málaga, Standard Liège, Salernitana. Mexicano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero mexicano. América. Heroico contra Brasil en el Mundial 2014.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "América de México, Ajaccio, Málaga, Salernitana. Mexicano. Arquero héroe en Mundiales.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "harry_kane",
@@ -15282,7 +15660,34 @@
       "GB-ENG",
       "DE"
     ],
-    "pistaExtra": "Bota de Oro del Mundial 2018 con 6 goles"
+    "pistaExtra": "Bota de Oro del Mundial 2018 con 6 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Rusia 2018. Un goleador inglés gana la Bota de Oro con 6 tantos.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Máximo artillero en la historia de un club londinense. Después dio el salto a Alemania.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Tottenham toda la vida hasta que se fue a la Bundesliga.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Inglés del Bayern Múnich. Bota de Oro 2018. Goleador del Tottenham.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Tottenham, Bayern Múnich. Inglés. Bota de Oro 2018. Máximo goleador del Spurs.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "henrik_larsson",
@@ -15355,7 +15760,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Dos asistencias en la final de Champions 2006 saliendo del banco"
+    "pistaExtra": "Dos asistencias en la final de Champions 2006 saliendo del banco",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "París, 2006. Final de Champions. Un suplente sueco entra y da dos asistencias decisivas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Leyenda en Glasgow. 7 años goleando en Escocia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Feyenoord, Celtic, Barcelona. Sueco. Delantero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Sueco. Ídolo del Celtic. Dos asistencias en la final de Champions 2006 con el Barcelona.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Feyenoord, Celtic 7 años, Barcelona. Sueco. Dos asistencias en la final de Champions 2006.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "hernan_barcos",
@@ -15444,7 +15876,34 @@
       "BR",
       "PE"
     ],
-    "pistaExtra": "Delantero trotamundos argentino que recorrió Sudamérica, ídolo de Alianza Lima en Perú"
+    "pistaExtra": "Delantero trotamundos argentino que recorrió Sudamérica, ídolo de Alianza Lima en Perú",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudamérica, un goleador argentino trotamundos que encontró su hogar en Perú.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Pasó por Chile, México, Ecuador, Brasil. Siempre haciendo goles.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Tigre, Quilmes, Cobreloa, LDU, Palmeiras, Alianza Lima.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino ídolo de Alianza Lima. Delantero viajero por toda Sudamérica.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Douglas Haig, Tigre, Cobreloa, LDU, Palmeiras, Alianza Lima. Argentino. Ídolo en Perú.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "hidetoshi_nakata",
@@ -15521,7 +15980,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "El primer futbolista japonés estrella en Europa"
+    "pistaExtra": "El primer futbolista japonés estrella en Europa",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Roma, 2001. Un mediocampista japonés ayuda a ganar el Scudetto. Asia celebra.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "El primer futbolista japonés estrella en Europa. Pionero absoluto.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Perugia, Roma, Parma, Bologna, Fiorentina, Bolton. Toda la Serie A.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Japonés. Estrella en la Serie A. Scudetto con la Roma. Pionero asiático en Europa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Perugia, Roma, Parma, Bolton. Japonés. Primer estrella asiática en Europa.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "hossam_hassan",
@@ -15596,7 +16082,34 @@
       "GR",
       "AE"
     ],
-    "pistaExtra": "69 goles con Egipto, récord africano por décadas"
+    "pistaExtra": "69 goles con Egipto, récord africano por décadas",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "El Cairo. Un goleador que batió récords africanos. 69 goles con su selección.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Jugó para los dos clubes más grandes de Egipto. Un acto casi imposible.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Al Ahly y Zamalek. Los dos gigantes del fútbol egipcio. Él vistió ambas camisetas.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Egipcio. 69 goles con su selección. Al Ahly y Zamalek. Récord africano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Al Ahly, Zamalek. Egipcio. 69 goles con Egipto. Récord de goles africano por décadas.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "hristo_stoichkov",
@@ -15681,7 +16194,34 @@
       "JP",
       "US"
     ],
-    "pistaExtra": "Balón de Oro 1994 y Bota de Oro del Mundial 94"
+    "pistaExtra": "Balón de Oro 1994 y Bota de Oro del Mundial 94",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "USA 94. Bulgaria llega a semis. Un goleador gana el Balón de Oro y la Bota de Oro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Sofía a Barcelona. Zurda letal. Carácter explosivo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "CSKA Sofía, Barcelona, Parma. Búlgaro. Delantero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Búlgaro. Balón de Oro 1994. Barcelona de Cruyff. Zurda imparable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "CSKA Sofía, Barcelona, Parma. Búlgaro. Balón de Oro y Bota de Oro del Mundial 94.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "hugo_sanchez",
@@ -15750,7 +16290,34 @@
       "MX",
       "ES"
     ],
-    "pistaExtra": "5 veces Pichichi, sus goles de chilena eran su marca"
+    "pistaExtra": "5 veces Pichichi, sus goles de chilena eran su marca",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, años 80. Un goleador celebra cada gol con una voltereta perfecta. Cinco Pichichis.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De México a España. Sus chilenas eran su marca registrada.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "UNAM Pumas, Atlético de Madrid, Real Madrid. Mexicano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Mexicano. Real Madrid. 5 Pichichis. Chilenas y volteretas. Leyenda.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Pumas, Atlético, Real Madrid. Mexicano. 5 veces Pichichi. Chilenas. Volteretas.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "hulk",
@@ -15818,7 +16385,34 @@
       "RU",
       "CN"
     ],
-    "pistaExtra": "Apodo por su parecido con el superhéroe"
+    "pistaExtra": "Apodo por su parecido con el superhéroe",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un delantero brasileño con un físico de superhéroe. Tiro potente con ambas piernas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Porto a Rusia, de Rusia a China. Después volvió a Brasil.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Vitória, Porto, Zenit, Shanghai, Atlético Mineiro. Brasileño.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Porto y Zenit. Apodado por un superhéroe. Fuerza bruta.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Porto, Zenit, Shanghai, Atlético Mineiro. Brasileño. Apodo de superhéroe. Tiro letal.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ian_rush",
@@ -15880,7 +16474,34 @@
       "GB-ENG",
       "IT"
     ],
-    "pistaExtra": "Máximo goleador histórico del Liverpool con 346 goles, galés que dominó los 80"
+    "pistaExtra": "Máximo goleador histórico del Liverpool con 346 goles, galés que dominó los 80",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Anfield, años 80. Un galés mete goles sin parar. 346 en total. Récord del club.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Intentó un año en la Juventus. No funcionó. Volvió a casa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Liverpool, Juventus, Liverpool. Galés. Goleador.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Máximo goleador histórico del Liverpool. Galés. Dominó los 80.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Liverpool toda la vida (salvo un año en Juve). Galés. 346 goles. Récord del club.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ian_wright",
@@ -15940,7 +16561,34 @@
       "GB-ENG",
       "GB-SCO"
     ],
-    "pistaExtra": "Fue el máximo goleador histórico del Arsenal con 185 goles hasta que lo superó Henry"
+    "pistaExtra": "Fue el máximo goleador histórico del Arsenal con 185 goles hasta que lo superó Henry",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Highbury, años 90. Un goleador inglés que llegó tarde al fútbol profesional pero compensó cada segundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Fue récord de goles del Arsenal hasta que llegó un francés.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Crystal Palace y Arsenal. Inglés. Delantero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Goleador del Arsenal antes de Henry. Crystal Palace primero. Inglés.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Crystal Palace, Arsenal. Inglés. Récord de goles del Arsenal hasta que Henry lo superó.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "iker_casillas",
@@ -15992,7 +16640,34 @@
       "ES",
       "PT"
     ],
-    "pistaExtra": "Paró el penal decisivo en la final del Mundial 2010 ante Holanda"
+    "pistaExtra": "Paró el penal decisivo en la final del Mundial 2010 ante Holanda",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Johannesburgo, 2010. Final del Mundial. Un arquero español para un penal decisivo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Más de 15 años como titular del club más grande del mundo. Tres Champions.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Real Madrid y Porto. Español. Arquero. Capitán.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero del Real Madrid. Campeón del mundo 2010. San Iker.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Real Madrid, Porto. Español. 3 Champions. Mundial 2010. San Iker. Leyenda.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ivan_cordoba",
@@ -16048,7 +16723,34 @@
       "AR",
       "IT"
     ],
-    "pistaExtra": "12 años como central del Inter"
+    "pistaExtra": "12 años como central del Inter",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Milán, 12 años. Un central colombiano que nunca se fue del Inter.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Atlético Nacional a San Lorenzo, y de ahí a Italia para siempre.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Nacional, San Lorenzo, Inter. Colombiano. Defensor.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Colombiano del Inter por 12 años. Central sólido. De Nacional y San Lorenzo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Atlético Nacional, San Lorenzo, Inter 12 años. Colombiano. Defensor leal.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ivan_rakitic",
@@ -16128,7 +16830,34 @@
       "SA",
       "HR"
     ],
-    "pistaExtra": "Gol en la final de la Champions League 2015 con Barcelona"
+    "pistaExtra": "Gol en la final de la Champions League 2015 con Barcelona",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Berlín, 2015. Final de Champions. Un mediocampista abre el marcador. Barcelona golea.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Nacido en Suiza, creció en el fútbol suizo pero eligió a Croacia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Basel, Schalke, Sevilla, Barcelona. Croata.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Croata del Barcelona. Gol en la final de Champions 2015. Sevilla dos veces.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Basel, Schalke, Sevilla, Barcelona, Sevilla. Croata. Gol en la final Champions 2015.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ivan_zamorano",
@@ -16214,7 +16943,34 @@
       "ES",
       "MX"
     ],
-    "pistaExtra": "Usó el número 1+8 en Inter cuando Ronaldo tomó el 9"
+    "pistaExtra": "Usó el número 1+8 en Inter cuando Ronaldo tomó el 9",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, años 90. Un goleador chileno con camiseta blanca. Pichichi de La Liga.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "En el Inter usó el número 1+8 porque otro crack le quitó el 9.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Cobresal, Sevilla, Real Madrid, Inter. Chileno.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Chileno del Real Madrid e Inter. Número 1+8. Goleador. Bam Bam.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Cobresal, Sevilla, Real Madrid, Inter, América, Colo-Colo. Chileno. 1+8. Bam Bam.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jairzinho",
@@ -16282,7 +17038,34 @@
       "FR",
       "VE"
     ],
-    "pistaExtra": "Único jugador en anotar en todos los partidos de una Copa del Mundo (México 1970)"
+    "pistaExtra": "Único jugador en anotar en todos los partidos de una Copa del Mundo (México 1970)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "México 70. Gol en cada partido del Mundial. El único en la historia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Formó parte de la selección brasileña más brillante jamás vista.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Botafogo, Marsella, Cruzeiro. Brasileño. Delantero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño. Botafogo. Gol en los 6 partidos del Mundial 1970. Único.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Botafogo, Marsella, Cruzeiro. Brasileño. Gol en cada partido del Mundial 70. Furacão.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jamal_musiala",
@@ -16331,7 +17114,34 @@
       "GB",
       "DE"
     ],
-    "pistaExtra": "Eligió Alemania sobre Inglaterra para su selección"
+    "pistaExtra": "Eligió Alemania sobre Inglaterra para su selección",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un joven que eligió Alemania sobre Inglaterra. Enganche del Bayern con 17 años.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se formó en la cantera del Chelsea pero su destino estaba en Múnich.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Chelsea cantera, Bayern Múnich. Alemán. Enganche.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Alemán del Bayern. Cantera de Chelsea. Eligió Alemania sobre Inglaterra.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Chelsea cantera, Bayern Múnich. Alemán. Eligió Alemania. Enganche prodigio.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "james_rodriguez",
@@ -16442,7 +17252,34 @@
       "GR",
       "BR"
     ],
-    "pistaExtra": "Bota de Oro del Mundial 2014 con 6 goles"
+    "pistaExtra": "Bota de Oro del Mundial 2014 con 6 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Brasil 2014. Un golazo de volea contra Uruguay. Bota de Oro con 6 goles.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De un pueblo colombiano al mundo. Banfield, Porto, Mónaco, Madrid.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Envigado, Banfield, Porto, Mónaco, Real Madrid, Bayern. Colombiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Colombiano. Bota de Oro del Mundial 2014. Real Madrid y Bayern.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Envigado, Banfield, Porto, Mónaco, Real Madrid, Bayern. Colombiano. Bota de Oro 2014.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jan_koller",
@@ -16518,7 +17355,34 @@
       "DE",
       "FR"
     ],
-    "pistaExtra": "2.02m de altura, el gigante goleador checo"
+    "pistaExtra": "2.02m de altura, el gigante goleador checo",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "2.02 metros de altura. Un gigante checo que goleaba en la Bundesliga.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Praga a Bélgica, y de Bélgica al Borussia Dortmund.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Sparta Praga, Anderlecht, Dortmund, Mónaco. Checo. Delantero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Checo del Dortmund. 2.02m. Goleador gigante. Pasó por Anderlecht.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Sparta Praga, Anderlecht, Dortmund, Mónaco. Checo. 2.02m. El gigante goleador.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jan_oblak",
@@ -16574,7 +17438,34 @@
       "PT",
       "ES"
     ],
-    "pistaExtra": "Cinco veces ganador del Trofeo Zamora en La Liga"
+    "pistaExtra": "Cinco veces ganador del Trofeo Zamora en La Liga",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, más de una década. Un arquero que gana el Zamora año tras año.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "5 Trofeos Zamora. El portero menos goleado de La Liga.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Olimpija, Benfica, Atlético de Madrid. Esloveno.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero esloveno del Atlético de Madrid. 5 Zamoras. Muro impenetrable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Benfica, Atlético de Madrid 10+ años. Esloveno. 5 Zamoras. Arquero élite.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "javier_hernandez",
@@ -16654,7 +17545,34 @@
       "DE",
       "US"
     ],
-    "pistaExtra": "Máximo goleador de México en la historia"
+    "pistaExtra": "Máximo goleador de México en la historia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Old Trafford, 2010. Un mexicano debuta y no para de hacer goles. Instinto puro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Máximo goleador en la historia de la selección mexicana.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Guadalajara, United, Madrid, Leverkusen, West Ham. Mexicano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Mexicano. Manchester United, Real Madrid. Máximo goleador de México.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Chivas, United, Real Madrid, Leverkusen, West Ham, Galaxy. Mexicano. Goleador histórico.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "javier_saviola",
@@ -16745,7 +17663,34 @@
       "PT",
       "GR"
     ],
-    "pistaExtra": "Debutó en River a los 16 años y fue goleador del Mundial Sub-20 en 2001"
+    "pistaExtra": "Debutó en River a los 16 años y fue goleador del Mundial Sub-20 en 2001",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Argentina, 2001. Sub-20. Un delantero joven es goleador del torneo mundial.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Debutó en River a los 16 años. Barcelona lo fichó siendo un pibe.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "River, Barcelona, Mónaco, Sevilla, Real Madrid, Benfica. Argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Barcelona y Real Madrid. Debutó a los 16 en River. Goleador Sub-20.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Barcelona, Mónaco, Sevilla, Real Madrid, Benfica. Argentino. Goleador Sub-20 2001.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jay_jay_okocha",
@@ -16831,7 +17776,34 @@
       "GB-ENG",
       "QA"
     ],
-    "pistaExtra": "Considerado uno de los mejores regateadores de la historia del fútbol"
+    "pistaExtra": "Considerado uno de los mejores regateadores de la historia del fútbol",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un regateador nigeriano que hacía cosas imposibles con la pelota. Arte puro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Frankfurt, Fenerbahçe, PSG, Bolton. Cada club fue un espectáculo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Nigeriano que brilló en Francia, Alemania, Turquía e Inglaterra.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Nigeriano del PSG y Bolton. Uno de los mejores regateadores de la historia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Frankfurt, Fenerbahçe, PSG, Bolton. Nigeriano. Regate mágico. Artista del balón.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jefferson_farfan",
@@ -16903,7 +17875,34 @@
       "AE",
       "RU"
     ],
-    "pistaExtra": "Goleador peruano en Bundesliga y Eredivisie"
+    "pistaExtra": "Goleador peruano en Bundesliga y Eredivisie",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Gelsenkirchen, Alemania. Un extremo peruano se convierte en ídolo del Schalke.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Alianza Lima al PSV. Después Alemania y Rusia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Alianza Lima, PSV, Schalke, Lokomotiv Moscú. Peruano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Peruano del Schalke 04. Goleador en Bundesliga y Eredivisie.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Alianza Lima, PSV, Schalke, Lokomotiv, Alianza Lima. Peruano. La Foquita.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "johan_cruyff",
@@ -16982,7 +17981,34 @@
       "ES",
       "US"
     ],
-    "pistaExtra": "Tres veces Balón de Oro (1971, 1973, 1974)"
+    "pistaExtra": "Tres veces Balón de Oro (1971, 1973, 1974)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Tres Balones de Oro. El Fútbol Total. Un holandés que reinventó cómo se juega.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Ámsterdam a Barcelona. Cambió dos clubes para siempre, como jugador y como DT.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Ajax, Barcelona. Holandés. Enganche. Filósofo del balón.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Holandés. 3 Balones de Oro. Ajax y Barcelona. Fútbol Total.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Ajax, Barcelona. Holandés. 3 Balones de Oro. Inventó el Fútbol Total. Revolucionario.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "john_terry",
@@ -17034,7 +18060,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Capitán emblemático del Chelsea, ganó la Champions League 2012"
+    "pistaExtra": "Capitán emblemático del Chelsea, ganó la Champions League 2012",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Stamford Bridge, 18 años. Un central inglés que lideraba desde la línea defensiva.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Capitán del Chelsea. Champions League 2012. Líder absoluto.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Chelsea y Aston Villa al final. Inglés. Central.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán del Chelsea. Inglés. Champions 2012. Defensor emblema.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Chelsea toda la vida. Inglés. Capitán. Champions 2012. Central legendario.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jorge_burruchaga",
@@ -17101,7 +18154,34 @@
       "AR",
       "FR"
     ],
-    "pistaExtra": "Autor del gol decisivo en la final del Mundial 1986"
+    "pistaExtra": "Autor del gol decisivo en la final del Mundial 1986",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "México, 1986. Final del mundo. Un mediocampista argentino define con un gol histórico.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Independiente a Nantes. Francia fue su hogar por 7 años.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Arsenal de Sarandí, Independiente, Nantes. Argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino. Gol en la final del Mundial 86. Independiente y Nantes.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Independiente, Nantes. Argentino. Gol definitivo en la final del Mundial 1986.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jorge_campos",
@@ -17176,7 +18256,34 @@
       "MX",
       "US"
     ],
-    "pistaExtra": "Famoso por sus uniformes coloridos y por jugar también como delantero"
+    "pistaExtra": "Famoso por sus uniformes coloridos y por jugar también como delantero",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un arquero mexicano con uniformes de colores imposibles. Y también jugaba de delantero.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Diseñaba sus propios uniformes. Nadie más se animó a hacer algo así.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "UNAM Pumas, LA Galaxy, Cruz Azul, Tigres. Mexicano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero mexicano. Uniformes coloridos. También jugó como delantero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Pumas, Galaxy, Cruz Azul, Tigres. Mexicano. Arquero con uniformes de colores. Jugaba de 9.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jorge_valdano",
@@ -17236,7 +18343,34 @@
       "AR",
       "ES"
     ],
-    "pistaExtra": "Marcó gol en la final del Mundial 1986, formó parte de la Quinta del Buitre en el Real Madrid y luego fue DT y director deportivo merengue"
+    "pistaExtra": "Marcó gol en la final del Mundial 1986, formó parte de la Quinta del Buitre en el Real Madrid y luego fue DT y director deportivo merengue",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "México, 1986. Un delantero argentino marca en la final del mundo. Compañero del más grande.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Newell's a Alavés. Después brilló en el Real Madrid de la Quinta del Buitre.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Newell's, Alavés, Zaragoza, Real Madrid. Argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Real Madrid. Gol en la final del Mundial 86. Después DT y director deportivo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Newell's, Zaragoza, Real Madrid. Argentino. Gol final Mundial 86. Después filósofo del fútbol.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jose_cardozo",
@@ -17308,7 +18442,34 @@
       "CL",
       "MX"
     ],
-    "pistaExtra": "Máximo goleador en la historia de la liga mexicana"
+    "pistaExtra": "Máximo goleador en la historia de la liga mexicana",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Toluca, México. Un goleador paraguayo se convierte en leyenda del fútbol mexicano.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Máximo artillero en la historia de la liga mexicana. 10 años en un solo club.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "12 de Octubre, River Plate, Católica, Toluca. Paraguayo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Paraguayo del Toluca. Máximo goleador de la liga mexicana.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "12 de Octubre, River, Católica, Toluca 10 años. Paraguayo. Goleador récord de México.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jose_luis_chilavert",
@@ -17388,7 +18549,34 @@
       "FR",
       "UY"
     ],
-    "pistaExtra": "Arquero goleador: anotó más de 60 goles de tiro libre y penal en su carrera"
+    "pistaExtra": "Arquero goleador: anotó más de 60 goles de tiro libre y penal en su carrera",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un arquero que atajaba y goleaba. Más de 60 goles de tiro libre y penal. Único.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Paraguay al mundo. Vélez Sarsfield fue su gran casa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Sportivo Luqueño, San Lorenzo, Zaragoza, Vélez. Paraguayo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero paraguayo de Vélez. Goleador con tiros libres. Más de 60 goles.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Luqueño, San Lorenzo, Zaragoza, Vélez. Paraguayo. Arquero goleador. 60+ goles.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "josef_bican",
@@ -17446,7 +18634,34 @@
       "AT",
       "CZ"
     ],
-    "pistaExtra": "Considerado el máximo goleador de la historia del fútbol con más de 800 goles oficiales según la IFFHS"
+    "pistaExtra": "Considerado el máximo goleador de la historia del fútbol con más de 800 goles oficiales según la IFFHS",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Más de 800 goles oficiales. El goleador más prolífico de la historia según la IFFHS.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Jugó en Austria y Checoslovaquia entre los años 30 y 50.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Rapid Wien, Slavia Praga. Austro-checo. Delantero de otra época.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Checo. Más de 800 goles. Récord histórico mundial. Slavia Praga.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Rapid Wien, Slavia Praga. Checo. 800+ goles oficiales. Máximo goleador de la historia.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "juan_arango",
@@ -17518,7 +18733,34 @@
       "ES",
       "DE"
     ],
-    "pistaExtra": "Famoso por sus goles olímpicos (directo de córner)"
+    "pistaExtra": "Famoso por sus goles olímpicos (directo de córner)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un gol olímpico. Y otro. Y otro. Un venezolano que convertía córners directos en arte.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Caracas a México, después España y Alemania. Zurda prodigiosa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Caracas, Puebla, Monterrey, Mallorca, Mönchengladbach. Venezolano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Venezolano. Famoso por sus goles olímpicos. Mallorca y Mönchengladbach.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Caracas, Puebla, Mallorca, Mönchengladbach. Venezolano. Goles olímpicos. Zurda mágica.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "juan_carlos_valeron",
@@ -17581,7 +18823,34 @@
     "paises": [
       "ES"
     ],
-    "pistaExtra": "El mago del Depor: uno de los mejores enganches españoles"
+    "pistaExtra": "El mago del Depor: uno de los mejores enganches españoles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "A Coruña, años 2000. Un enganche español hace del Depor un equipo temible en Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Las Palmas a Mallorca, Atlético y después 13 años en Galicia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Las Palmas, Mallorca, Atlético, Deportivo. Español. Enganche.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Español del Deportivo. 13 años. El mago del Depor. Enganche elegante.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Las Palmas, Mallorca, Atlético, Deportivo 13 años, Las Palmas. Español. Enganche del Depor.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "juan_cuadrado",
@@ -17658,7 +18927,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "10 años entre Fiorentina y Juventus en Italia"
+    "pistaExtra": "10 años entre Fiorentina y Juventus en Italia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Turín, casi una década. Un extremo colombiano veloz se convierte en fijo de la Juventus.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Medellín a Italia. Fiorentina, Chelsea y Juventus.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Medellín, Udinese, Fiorentina, Chelsea, Juventus, Inter. Colombiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Colombiano de la Juventus. 8 años en Turín. Extremo veloz.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Medellín, Udinese, Fiorentina, Chelsea, Juventus, Inter. Colombiano. Extremo rápido.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "juan_pablo_sorin",
@@ -17756,7 +19052,34 @@
       "FR",
       "DE"
     ],
-    "pistaExtra": "Lateral izquierdo que jugó en 6 países distintos"
+    "pistaExtra": "Lateral izquierdo que jugó en 6 países distintos",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un lateral argentino que jugó en 6 países. Trotamundos del fútbol.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Juventus, Lazio, Barcelona, PSG, Villarreal, Hamburgo. Todos lo quisieron.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Argentinos Juniors, Juventus, River, Cruzeiro, Lazio, Barcelona, PSG, Villarreal.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino. Lateral izquierdo. 6 países. Juve, Barça, PSG, Villarreal.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Argentinos, Juve, River, Cruzeiro, Lazio, Barça, PSG, Villarreal, Hamburgo. Argentino.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "jude_bellingham",
@@ -17813,7 +19136,34 @@
       "DE",
       "ES"
     ],
-    "pistaExtra": "Debutó con 17 años en el Dortmund y se convirtió en estrella del Real Madrid a los 20"
+    "pistaExtra": "Debutó con 17 años en el Dortmund y se convirtió en estrella del Real Madrid a los 20",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, 2023. Un inglés de 20 años llega y empieza a marcar en cada partido.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Debutó con 17 años en la Bundesliga. Dortmund lo lanzó al estrellato.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Birmingham City, Dortmund, Real Madrid. Inglés. Mediocampista.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Inglés del Real Madrid. De Birmingham a Dortmund a los 17. Estrella joven.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Birmingham, Dortmund, Real Madrid. Inglés. 20 años. Mediocampista goleador.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "julian_alvarez",
