@@ -176,10 +176,14 @@ export function buildQuienSoyClues(player) {
 
   // 6. Apodo hint (if exists)
   if (player.apodo) {
-    // Give a vague hint about the nickname
+    // Strip common articles before counting letters
+    const articles = new Set(['el', 'la', 'lo', 'los', 'las', 'o', 'a', 'il', 'le', 'the', 'de', 'del']);
+    const significantWords = player.apodo.split(/\s+/).filter(w => !articles.has(w.toLowerCase()));
+    const apodoCore = significantWords.join(' ');
+    const letterCount = apodoCore.replace(/\s/g, '').length;
     clues.push({
       emoji: '🏷️',
-      text: `Su apodo tiene ${player.apodo.length} letras`,
+      text: `Su apodo tiene ${letterCount} letras`,
       type: 'apodo'
     });
   }
