@@ -28,6 +28,7 @@ function main() {
 
   const playerIds = new Set();
   const categoryIds = new Set(categories.map(c => c.id));
+  let narrativeCount = 0;
 
   console.log(`Validating ${players.length} players and ${categories.length} categories...\n`);
 
@@ -103,6 +104,78 @@ function main() {
         }
       }
     }
+
+    // === Narrative clues validation (3-tier) ===
+    if (p.narrativeClues) {
+      // Tier 1: Structural
+      if (!Array.isArray(p.narrativeClues) || p.narrativeClues.length !== 5) {
+        console.error(`  ERROR: ${ctx} narrativeClues must be array of 5 beats (got ${Array.isArray(p.narrativeClues) ? p.narrativeClues.length : 'non-array'})`);
+        errors++;
+      } else {
+        const validDifficulties = ['hard', 'medium', 'easy'];
+        for (const clue of p.narrativeClues) {
+          if (typeof clue.beat !== 'number' || clue.beat < 1 || clue.beat > 5) {
+            console.error(`  ERROR: ${ctx} narrative beat number invalid: ${clue.beat}`);
+            errors++;
+          }
+          if (!clue.text || typeof clue.text !== 'string') {
+            console.error(`  ERROR: ${ctx} narrative beat ${clue.beat} missing text`);
+            errors++;
+          } else if (clue.text.length < 20 || clue.text.length > 200) {
+            console.warn(`  WARN: ${ctx} narrative beat ${clue.beat} text length ${clue.text.length} (expected 20-200)`);
+            warnings++;
+          }
+          if (!validDifficulties.includes(clue.difficulty)) {
+            console.error(`  ERROR: ${ctx} narrative beat ${clue.beat} invalid difficulty "${clue.difficulty}"`);
+            errors++;
+          }
+        }
+
+        // Tier 2: Cross-reference years and clubs from clue text against carrera
+        if (p.carrera) {
+          const knownYears = new Set();
+          const knownClubs = new Set();
+          for (const c of p.carrera) {
+            if (c.anios) {
+              const yearMatch = c.anios.match(/\d{4}/g);
+              if (yearMatch) yearMatch.forEach(y => knownYears.add(y));
+            }
+            if (c.club) knownClubs.add(c.club.toLowerCase());
+          }
+
+          for (const clue of p.narrativeClues) {
+            if (!clue.text) continue;
+            // Extract 4-digit years from clue text
+            const clueYears = clue.text.match(/\b(19\d{2}|20\d{2})\b/g) || [];
+            for (const year of clueYears) {
+              if (!knownYears.has(year)) {
+                console.warn(`  WARN: ${ctx} narrative beat ${clue.beat} mentions year ${year} not in carrera`);
+                warnings++;
+              }
+            }
+          }
+        }
+
+        // Check name leak in early beats (1-3)
+        const nameWords = [p.nombre, p.nombreCompleto, p.apodo]
+          .filter(Boolean)
+          .flatMap(n => n.toLowerCase().split(/\s+/))
+          .filter(w => w.length > 3);
+
+        for (const clue of p.narrativeClues) {
+          if (clue.beat <= 3 && clue.text) {
+            const textLower = clue.text.toLowerCase();
+            for (const word of nameWords) {
+              if (textLower.includes(word)) {
+                console.warn(`  WARN: ${ctx} narrative beat ${clue.beat} may leak name: "${word}"`);
+                warnings++;
+              }
+            }
+          }
+        }
+      }
+      narrativeCount++;
+    }
   }
 
   // === Category validation ===
@@ -157,6 +230,7 @@ function main() {
   }
   const topNat = Object.entries(nationalities).sort((a, b) => b[1] - a[1]).slice(0, 10);
   console.log(`Top nationalities: ${topNat.map(([k, v]) => `${k}(${v})`).join(', ')}`);
+  console.log(`Narrative clues: ${narrativeCount}/${players.length} players (${(narrativeCount/players.length*100).toFixed(1)}%)`);
 
   if (errors > 0) {
     console.log(`\n❌ ${errors} errors found. Fix before deploying.`);

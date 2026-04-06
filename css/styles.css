@@ -41,8 +41,23 @@
   --shadow-lg: 0 8px 30px rgba(0,0,0,0.15);
   --max-w: 440px;
   --ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
   --transition: 0.2s var(--ease);
   --bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* Dark mode surfaces */
+  --dark-bg: #121212;
+  --dark-surface: #1e1e1e;
+  --dark-text: #f5f5f5;
+  --dark-text-dim: #9e9e9e;
+
+  /* Spacing scale (4px base) */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
 }
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -165,7 +180,7 @@ body {
   align-items: center;
   gap: 12px;
   padding: 16px 14px;
-  background: var(--white);
+  background: color-mix(in srgb, var(--mode-color, var(--green-500)) 6%, var(--white));
   border: none;
   border-radius: var(--radius);
   font-family: var(--font);
@@ -175,16 +190,6 @@ body {
   box-shadow: var(--shadow-sm);
   position: relative;
   overflow: hidden;
-}
-
-.mode-btn::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 4px;
-  background: var(--mode-color, var(--green-500));
 }
 
 .mode-btn:active {
@@ -1067,4 +1072,280 @@ body {
 
 @media (min-width: 500px) and (prefers-color-scheme: dark) {
   body { background: #050505; }
+}
+
+/* === Featured Mode Card (Modo Narrador) === */
+.featured-mode-btn {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  max-width: 380px;
+  padding: 18px 16px;
+  background: var(--dark-bg);
+  border: 1px solid rgba(255, 214, 0, 0.2);
+  border-radius: var(--radius);
+  color: var(--dark-text);
+  cursor: pointer;
+  transition: all var(--transition);
+  text-align: left;
+  box-shadow: var(--shadow-md), 0 0 20px rgba(255, 214, 0, 0.08);
+  font-family: var(--font);
+}
+
+.featured-mode-btn:active {
+  transform: scale(0.97);
+  box-shadow: var(--shadow-sm);
+}
+
+.featured-mode-btn .mode-emoji {
+  font-size: 1.8rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.featured-mode-btn .mode-name {
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--gold);
+  line-height: 1.2;
+}
+
+.featured-mode-btn .mode-desc {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--dark-text-dim);
+  line-height: 1.3;
+}
+
+.featured-mode-btn .featured-badge {
+  font-size: 0.55rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--gold);
+  background: rgba(255, 214, 0, 0.12);
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-left: auto;
+}
+
+.featured-mode-btn.disabled {
+  opacity: 0.45;
+  pointer-events: none;
+  filter: grayscale(0.6);
+}
+
+.featured-mode-btn.disabled .mode-name {
+  color: var(--gray-400);
+}
+
+/* === Modo Narrador — Game Screen === */
+.narrador-screen {
+  background: var(--dark-bg);
+  color: var(--dark-text);
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-md);
+}
+
+.narrador-beat-text {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.4;
+  text-align: center;
+  padding: var(--space-2xl) var(--space-md);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: beatReveal 0.3s var(--ease-out) both;
+}
+
+@keyframes beatReveal {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.narrador-beat-counter {
+  text-align: center;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--dark-text-dim);
+  letter-spacing: 0.5px;
+  margin-bottom: var(--space-md);
+}
+
+.narrador-actions {
+  display: flex;
+  gap: var(--space-sm);
+  padding-bottom: var(--space-lg);
+}
+
+.narrador-actions button {
+  flex: 1;
+  min-height: 48px;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-family: var(--font);
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.narrador-btn-next {
+  background: var(--dark-surface);
+  color: var(--dark-text);
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.narrador-btn-correct {
+  background: var(--green-600);
+  color: var(--white);
+}
+
+.narrador-btn-correct:active {
+  background: var(--green-700);
+  transform: scale(0.97);
+}
+
+.narrador-btn-reveal {
+  background: var(--gold);
+  color: var(--gray-900);
+}
+
+.narrador-btn-skip {
+  background: var(--dark-surface);
+  color: var(--dark-text-dim);
+}
+
+/* Narrador reveal screen */
+.narrador-reveal {
+  text-align: center;
+  padding: var(--space-2xl) var(--space-md);
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-md);
+}
+
+.narrador-reveal-flag {
+  font-size: 3rem;
+}
+
+.narrador-reveal-name {
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--white);
+}
+
+.narrador-reveal-apodo {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--gold);
+  font-style: italic;
+}
+
+.narrador-reveal-career {
+  font-size: 0.8rem;
+  color: var(--dark-text-dim);
+  line-height: 1.6;
+}
+
+.narrador-reveal-points {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: var(--green-400);
+  margin-top: var(--space-sm);
+}
+
+.narrador-reveal-missed {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--red);
+}
+
+/* Narrador session setup */
+.narrador-setup {
+  background: var(--dark-bg);
+  color: var(--dark-text);
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-xl);
+  gap: var(--space-lg);
+}
+
+.narrador-setup h2 {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: var(--gold);
+}
+
+.narrador-setup p {
+  font-size: 0.85rem;
+  color: var(--dark-text-dim);
+  text-align: center;
+}
+
+.narrador-length-options {
+  display: flex;
+  gap: var(--space-sm);
+}
+
+.narrador-length-btn {
+  min-width: 80px;
+  min-height: 48px;
+  background: var(--dark-surface);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-sm);
+  color: var(--dark-text);
+  font-family: var(--font);
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.narrador-length-btn:active {
+  background: var(--gold);
+  color: var(--gray-900);
+  transform: scale(0.95);
+}
+
+/* === Clue reveal animation (all modes) === */
+.clue-reveal {
+  animation: beatReveal 0.3s var(--ease-out) both;
+}
+
+/* === Correct guess flash === */
+.correct-flash {
+  animation: correctFlash 0.4s var(--ease) both;
+}
+
+@keyframes correctFlash {
+  0% { background-color: transparent; }
+  30% { background-color: rgba(67, 160, 71, 0.15); }
+  100% { background-color: transparent; }
+}
+
+/* === Accessibility: reduced motion === */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

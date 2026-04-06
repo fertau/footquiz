@@ -1,4 +1,5 @@
 import { getPlayers } from '../data.js';
+import { isNarradorAvailable, getNarradorPlayerCount } from './narrador.js';
 
 const MODES = [
   { id: 'carrera', emoji: '🏟️', name: 'La Carrera', desc: 'Clubes donde jugó', color: '#2e7d32' },
@@ -10,6 +11,9 @@ const MODES = [
 ];
 
 export function renderHome(container) {
+  const narradorAvailable = isNarradorAvailable();
+  const narradorCount = getNarradorPlayerCount();
+
   container.innerHTML = `
     <div class="home">
       <div class="home-hero">
@@ -29,6 +33,16 @@ export function renderHome(container) {
           </button>
         `).join('')}
       </div>
+      <button class="featured-mode-btn ${narradorAvailable ? '' : 'disabled'}" id="narrador-btn">
+        <span class="mode-emoji">🎙️</span>
+        <div class="mode-text">
+          <span class="mode-name">Modo Narrador</span>
+          <span class="mode-desc">${narradorAvailable
+            ? 'Pistas narrativas con drama de relator'
+            : 'Próximamente'}</span>
+        </div>
+        ${narradorAvailable ? '<span class="featured-badge">Nuevo</span>' : ''}
+      </button>
       <div class="home-section-label">Trivia</div>
       <button class="trivia-home-btn" id="trivia-btn">
         <span class="trivia-emoji">🧠</span>
@@ -47,6 +61,12 @@ export function renderHome(container) {
       location.hash = `#/categorias/${btn.dataset.mode}`;
     });
   });
+
+  if (narradorAvailable) {
+    document.getElementById('narrador-btn').addEventListener('click', () => {
+      location.hash = '#/narrador';
+    });
+  }
 
   document.getElementById('trivia-btn').addEventListener('click', () => {
     location.hash = '#/trivia';
@@ -69,6 +89,7 @@ function showHowToPlay(container) {
       <p><strong>Quién Soy:</strong> Pistas genéricas: posición, década, datos.</p>
       <p><strong>Conexión:</strong> Dos jugadores. ¿Club en común?</p>
       <p><strong>Línea de Tiempo:</strong> Ordená los clubes cronológicamente.</p>
+      <p><strong>Modo Narrador:</strong> Pistas narrativas con drama de relator. El host lee, los demás adivinan.</p>
       <p><strong>Trivia:</strong> Preguntas de mundiales, finales y clásicos.</p>
       <button class="modal-close">Entendido</button>
     </div>

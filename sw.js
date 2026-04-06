@@ -1,4 +1,4 @@
-const CACHE_NAME = 'futquiz-v4';
+const CACHE_NAME = 'futquiz-v5';
 const ASSETS = [
   './',
   './index.html',
@@ -24,6 +24,7 @@ const ASSETS = [
   './data/trivia-finales.json',
   './data/trivia-clasicos.json',
   './js/views/trivia.js',
+  './js/views/narrador.js',
   './manifest.json'
 ];
 
