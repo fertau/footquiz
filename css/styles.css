@@ -84,11 +84,12 @@ body {
 .header {
   background: var(--green-700);
   color: var(--white);
-  padding: 12px 48px;
+  padding: 14px 48px;
   text-align: center;
   position: sticky;
   top: 0;
   z-index: 100;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
 .header h1 {
@@ -124,72 +125,79 @@ body {
 
 /* === Home === */
 .home {
-  padding: 0 20px 40px;
+  padding: 0 20px 48px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 14px;
+  gap: var(--space-lg);
   min-height: 100dvh;
-  background: linear-gradient(180deg, var(--green-800) 0%, var(--green-700) 30%, var(--off-white) 30%);
+  background: linear-gradient(180deg, var(--green-900) 0%, var(--green-700) 35%, var(--off-white) 35%);
 }
 
 .home-hero {
-  padding: 32px 0 20px;
+  padding: var(--space-2xl) 0 var(--space-lg);
   text-align: center;
 }
 
+.home-logo {
+  font-size: 3.2rem;
+  margin-bottom: var(--space-sm);
+  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.3));
+}
+
 .home-title {
-  font-size: 2.4rem;
+  font-size: 2.8rem;
   font-weight: 900;
   color: #ffffff;
-  letter-spacing: -0.5px;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  letter-spacing: -1px;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.4);
 }
 
 .home-subtitle {
-  color: #a5d6a7;
-  font-size: 0.8rem;
+  color: var(--green-300);
+  font-size: 0.85rem;
   font-weight: 600;
-  margin-top: 6px;
-  letter-spacing: 0.3px;
+  margin-top: var(--space-sm);
+  letter-spacing: 0.5px;
 }
 
 .home-section-label {
   width: 100%;
-  max-width: 380px;
-  font-size: 0.65rem;
+  max-width: 400px;
+  font-size: 0.7rem;
   font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 2px;
   color: var(--gray-400);
-  padding-left: 2px;
-  margin-top: 4px;
+  padding-left: 4px;
+  margin-top: var(--space-xs);
 }
 
 /* === Mode Grid === */
 .mode-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 10px;
+  gap: 12px;
   width: 100%;
-  max-width: 380px;
+  max-width: 400px;
 }
 
 .mode-btn {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 12px;
-  padding: 16px 14px;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-lg) var(--space-md);
   background: color-mix(in srgb, var(--mode-color, var(--green-500)) 6%, var(--white));
   border: none;
   border-radius: var(--radius);
   font-family: var(--font);
   cursor: pointer;
   transition: all var(--transition);
-  text-align: left;
-  box-shadow: var(--shadow-sm);
-  position: relative;
-  overflow: hidden;
+  text-align: center;
+  box-shadow: var(--shadow);
+  min-height: 100px;
 }
 
 .mode-btn:active {
@@ -198,27 +206,25 @@ body {
 }
 
 .mode-btn .mode-emoji {
-  font-size: 1.6rem;
+  font-size: 2rem;
   line-height: 1;
-  flex-shrink: 0;
 }
 
 .mode-btn .mode-text {
   display: flex;
   flex-direction: column;
-  gap: 2px;
-  min-width: 0;
+  gap: 3px;
 }
 
 .mode-btn .mode-name {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   font-weight: 800;
   color: var(--gray-900);
   line-height: 1.2;
 }
 
 .mode-btn .mode-desc {
-  font-size: 0.65rem;
+  font-size: 0.7rem;
   font-weight: 500;
   color: var(--gray-500);
   line-height: 1.3;
@@ -228,10 +234,10 @@ body {
 .trivia-home-btn {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
   width: 100%;
-  max-width: 360px;
-  padding: 14px 16px;
+  max-width: 400px;
+  padding: 18px 20px;
   background: var(--white);
   border: none;
   border-radius: var(--radius);
@@ -343,18 +349,19 @@ body {
 
 /* === Game === */
 .game {
-  padding: 10px 14px 14px;
+  padding: var(--space-md) var(--space-md) var(--space-md);
   display: flex;
   flex-direction: column;
   min-height: calc(100dvh - 50px);
+  gap: var(--space-xs);
 }
 
 .game-progress {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2px 0;
-  font-size: 0.75rem;
+  padding: 4px 0;
+  font-size: 0.8rem;
   color: var(--gray-500);
   font-weight: 600;
 }
@@ -362,7 +369,7 @@ body {
 .game-score {
   font-weight: 800;
   color: var(--green-700);
-  font-size: 0.85rem;
+  font-size: 0.95rem;
 }
 
 .game-dots {
@@ -384,16 +391,16 @@ body {
 .game-dot.wrong { background: var(--red); }
 
 /* === Next Clue === */
-.next-clue-area { margin: 4px 0 6px; }
+.next-clue-area { margin: var(--space-sm) 0; }
 
 .next-clue-btn {
   width: 100%;
-  padding: 12px;
+  padding: 14px;
   background: var(--white);
-  border: 1.5px dashed var(--green-400);
+  border: 2px dashed var(--green-400);
   border-radius: var(--radius-sm);
   color: var(--green-700);
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   font-weight: 700;
   cursor: pointer;
   transition: all var(--transition);
@@ -401,37 +408,38 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 6px;
+  gap: 8px;
   font-family: var(--font);
+  min-height: 48px;
 }
 
 .next-clue-btn:active { background: var(--green-100); border-style: solid; transform: scale(0.98); }
-.next-clue-btn .btn-icon { font-size: 1.1rem; }
+.next-clue-btn .btn-icon { font-size: 1.2rem; }
 
 /* === Clue Cards === */
 .clues-area {
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  margin: 6px 0;
+  gap: var(--space-sm);
+  margin: var(--space-sm) 0;
 }
 
 .clue-card {
   display: flex;
   align-items: center;
-  gap: 8px;
-  padding: 10px 12px;
+  gap: 10px;
+  padding: 14px 16px;
   background: color-mix(in srgb, var(--green-400) 5%, var(--white));
   border-radius: var(--radius-sm);
-  box-shadow: var(--shadow-xs);
+  box-shadow: var(--shadow-sm);
   animation: beatReveal 0.3s var(--ease-out) both;
 }
 
 .clue-card .clue-number {
-  font-size: 0.6rem;
+  font-size: 0.65rem;
   font-weight: 800;
   color: var(--green-600);
-  width: 16px; height: 16px;
+  width: 20px; height: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -440,10 +448,10 @@ body {
   flex-shrink: 0;
 }
 
-.clue-card .clue-flag { font-size: 1.2rem; flex-shrink: 0; }
+.clue-card .clue-flag { font-size: 1.4rem; flex-shrink: 0; }
 
 .clue-card .clue-text {
-  font-size: 0.85rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--gray-800);
   flex: 1;
@@ -451,12 +459,12 @@ body {
 }
 
 .clue-card .clue-years {
-  font-size: 0.7rem;
+  font-size: 0.75rem;
   color: var(--gray-500);
   flex-shrink: 0;
   font-weight: 600;
   background: var(--gray-100);
-  padding: 2px 7px;
+  padding: 3px 8px;
   border-radius: 100px;
 }
 
@@ -496,62 +504,65 @@ body {
 /* === Guess Area === */
 .guess-area {
   margin-top: auto;
-  padding: 10px 0 2px;
+  padding: var(--space-md) 0 var(--space-xs);
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: var(--space-sm);
   border-top: 1px solid var(--gray-200);
 }
 
-.guess-row { display: flex; gap: 6px; }
+.guess-row { display: flex; gap: var(--space-sm); }
 
 .guess-input {
   flex: 1;
-  padding: 12px 14px;
-  border: 1.5px solid var(--gray-200);
+  padding: 14px 16px;
+  border: 2px solid var(--gray-200);
   border-radius: var(--radius-sm);
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-family: var(--font);
   font-weight: 600;
   outline: none;
   transition: border-color var(--transition);
   background: var(--white);
+  min-height: 48px;
 }
 
 .guess-input::placeholder { font-weight: 500; color: var(--gray-400); }
-.guess-input:focus { border-color: var(--green-500); box-shadow: 0 0 0 3px rgba(76,175,80,0.08); }
+.guess-input:focus { border-color: var(--green-500); box-shadow: 0 0 0 3px rgba(76,175,80,0.1); }
 .guess-input.wrong { border-color: var(--red); background: var(--red-bg); animation: shake 0.35s ease; }
 
 .guess-btn {
-  padding: 12px 18px;
+  padding: 14px 22px;
   background: var(--green-600);
   color: var(--white);
   border: none;
   border-radius: var(--radius-sm);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 800;
   cursor: pointer;
   transition: all var(--transition);
   white-space: nowrap;
   font-family: var(--font);
+  min-height: 48px;
 }
 
 .guess-btn:active { transform: scale(0.95); background: var(--green-700); }
 .guess-btn:disabled { background: var(--gray-300); cursor: not-allowed; }
 
-.game-actions { display: flex; justify-content: center; }
+.game-actions { display: flex; justify-content: center; margin-top: var(--space-xs); }
 
 .skip-btn {
-  padding: 6px 14px;
+  padding: 8px 16px;
   background: none;
   border: none;
   color: var(--gray-400);
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   font-weight: 600;
   cursor: pointer;
   text-decoration: underline;
   text-underline-offset: 3px;
   font-family: var(--font);
+  min-height: 44px;
 }
 
 .skip-btn:active { color: var(--red); }
@@ -582,38 +593,39 @@ body {
   to { opacity: 1; transform: scale(1); }
 }
 
-.answer-emoji { font-size: 2.5rem; margin-bottom: 6px; }
-.answer-name { font-size: 1.1rem; font-weight: 900; color: var(--gray-900); }
-.answer-apodo { color: var(--gray-500); font-size: 0.8rem; font-weight: 600; font-style: italic; }
-.answer-points { font-size: 0.8rem; color: var(--green-700); font-weight: 700; margin-top: 4px; }
+.answer-emoji { font-size: 3rem; margin-bottom: var(--space-sm); }
+.answer-name { font-size: 1.3rem; font-weight: 900; color: var(--gray-900); }
+.answer-apodo { color: var(--gray-500); font-size: 0.9rem; font-weight: 600; font-style: italic; margin-top: 2px; }
+.answer-points { font-size: 1rem; color: var(--green-700); font-weight: 800; margin-top: var(--space-sm); }
 
 .answer-next-btn {
-  margin-top: 14px;
-  padding: 12px 28px;
+  margin-top: var(--space-lg);
+  padding: 14px 32px;
   background: var(--green-600);
   color: var(--white);
   border: none;
   border-radius: 100px;
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 800;
   cursor: pointer;
   font-family: var(--font);
+  min-height: 48px;
 }
 
 .answer-next-btn:active { transform: scale(0.96); background: var(--green-700); }
 
 /* === Result === */
 .result {
-  padding: 20px 14px;
+  padding: var(--space-xl) var(--space-md);
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 12px;
+  gap: var(--space-md);
 }
 
-.result-emoji { font-size: 3rem; }
-.result-title { font-size: 1.2rem; font-weight: 900; color: var(--green-700); }
+.result-emoji { font-size: 3.5rem; }
+.result-title { font-size: 1.4rem; font-weight: 900; color: var(--green-700); }
 
 .result-score {
   font-size: 2rem;
