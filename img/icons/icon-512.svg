@@ -2,95 +2,122 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#1b5e20"/>
-      <stop offset="100%" stop-color="#145218"/>
+      <stop offset="50%" stop-color="#145218"/>
+      <stop offset="100%" stop-color="#0d3b12"/>
     </linearGradient>
-    <radialGradient id="ball" cx="0.4" cy="0.35" r="0.52">
-      <stop offset="0%" stop-color="#fefefe"/>
-      <stop offset="40%" stop-color="#f7f7f7"/>
-      <stop offset="70%" stop-color="#e4e4e4"/>
-      <stop offset="90%" stop-color="#c0c0c0"/>
+    <radialGradient id="bgGlow" cx="0.5" cy="0.45" r="0.55">
+      <stop offset="0%" stop-color="#2e7d32" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+    <radialGradient id="ball" cx="0.38" cy="0.32" r="0.55">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="35%" stop-color="#f8f8f8"/>
+      <stop offset="65%" stop-color="#e8e8e8"/>
+      <stop offset="85%" stop-color="#c8c8c8"/>
       <stop offset="100%" stop-color="#a0a0a0"/>
     </radialGradient>
-    <radialGradient id="inner" cx="0.42" cy="0.36" r="0.48">
+    <radialGradient id="inner" cx="0.42" cy="0.36" r="0.5">
       <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
-      <stop offset="85%" stop-color="rgba(0,0,0,0)"/>
-      <stop offset="100%" stop-color="rgba(0,0,0,0.12)"/>
+      <stop offset="80%" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0.18)"/>
     </radialGradient>
+    <linearGradient id="qGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffd600"/>
+      <stop offset="100%" stop-color="#f9a825"/>
+    </linearGradient>
     <filter id="ds">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="10"/>
-      <feOffset dy="10"/>
-      <feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="12"/>
+      <feOffset dy="8"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.45"/></feComponentTransfer>
       <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="qShadow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="2" dy="4"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.3"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="qGlow">
+      <feGaussianBlur stdDeviation="8"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.4"/></feComponentTransfer>
     </filter>
   </defs>
 
   <!-- Background -->
   <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect width="512" height="512" rx="112" fill="url(#bgGlow)"/>
 
-  <!-- Ball group -->
+  <!-- Subtle pitch texture lines -->
+  <g opacity="0.04" stroke="#fff" stroke-width="1.5">
+    <line x1="0" y1="170" x2="512" y2="170"/>
+    <line x1="0" y1="340" x2="512" y2="340"/>
+    <circle cx="256" cy="256" r="60" fill="none"/>
+  </g>
+
+  <!-- Question mark glow (behind everything) -->
+  <text x="310" y="370" font-family="'Inter', system-ui, sans-serif" font-size="320" font-weight="900" fill="#ffd600" opacity="0.08" filter="url(#qGlow)">?</text>
+
+  <!-- Question mark - bold, behind the ball -->
+  <g filter="url(#qShadow)">
+    <text x="290" y="400" font-family="'Inter', system-ui, sans-serif" font-size="340" font-weight="900" fill="url(#qGrad)" opacity="0.85" letter-spacing="-10">?</text>
+    <!-- Question mark highlight stroke -->
+    <text x="290" y="400" font-family="'Inter', system-ui, sans-serif" font-size="340" font-weight="900" fill="none" stroke="#fff" stroke-width="2" opacity="0.15" letter-spacing="-10">?</text>
+  </g>
+
+  <!-- Ball group with shadow -->
   <g filter="url(#ds)">
     <!-- White sphere -->
-    <circle cx="256" cy="248" r="148" fill="url(#ball)"/>
+    <circle cx="232" cy="230" r="152" fill="url(#ball)"/>
 
-    <!-- Curved black panels using paths -->
+    <!-- Curved black panels (pentagons) -->
     <!-- Center pentagon -->
-    <path d="M256,198 C264,198 272,204 278,212 C282,220 280,232 274,240 C268,248 254,252 244,248 C234,244 228,234 228,224 C228,214 238,200 256,198Z" fill="#1a1a1a"/>
+    <path d="M232,178 C241,178 250,185 256,194 C260,203 258,216 251,224 C244,232 228,236 218,232 C208,228 202,217 202,206 C202,195 214,180 232,178Z" fill="#1a1a1a"/>
 
     <!-- Top pentagon -->
-    <path d="M256,112 C268,112 280,118 286,128 C290,136 284,148 276,154 C268,160 248,162 240,156 C232,150 226,138 230,128 C234,118 244,112 256,112Z" fill="#1a1a1a"/>
+    <path d="M232,90 C245,90 258,97 264,108 C268,117 262,130 253,136 C244,142 228,144 219,138 C210,132 204,119 208,108 C212,97 222,90 232,90Z" fill="#1a1a1a"/>
 
     <!-- Upper-right pentagon -->
-    <path d="M340,166 C350,172 356,184 354,196 C352,208 342,216 332,218 C322,220 312,214 308,204 C304,194 306,180 314,172 C322,164 332,162 340,166Z" fill="#1a1a1a"/>
+    <path d="M320,148 C330,154 336,167 334,180 C332,193 322,202 312,204 C302,206 292,200 288,189 C284,178 286,164 294,156 C302,148 312,146 320,148Z" fill="#1a1a1a"/>
 
     <!-- Upper-left pentagon -->
-    <path d="M172,166 C180,162 192,164 200,172 C208,180 210,194 206,204 C202,214 192,220 182,218 C172,216 162,208 160,196 C158,184 164,172 172,166Z" fill="#1a1a1a"/>
+    <path d="M148,148 C156,144 168,146 176,156 C184,164 186,178 182,189 C178,200 168,206 158,204 C148,202 138,193 136,180 C134,167 140,154 148,148Z" fill="#1a1a1a"/>
 
     <!-- Lower-right pentagon -->
-    <path d="M324,280 C334,276 344,280 350,290 C356,300 354,314 346,322 C338,330 326,332 316,326 C306,320 302,308 306,296 C310,284 316,278 324,280Z" fill="#1a1a1a" opacity="0.85"/>
+    <path d="M304,266 C314,262 324,266 330,276 C336,286 334,300 326,308 C318,316 306,318 296,312 C286,306 282,294 286,282 C290,270 296,264 304,266Z" fill="#1a1a1a" opacity="0.8"/>
 
     <!-- Lower-left pentagon -->
-    <path d="M188,280 C196,278 206,284 210,296 C214,308 210,320 200,326 C190,332 178,330 170,322 C162,314 160,300 166,290 C172,280 180,276 188,280Z" fill="#1a1a1a" opacity="0.85"/>
+    <path d="M164,266 C172,264 182,270 186,282 C190,294 186,306 176,312 C166,318 154,316 146,308 C138,300 136,286 142,276 C148,266 156,262 164,266Z" fill="#1a1a1a" opacity="0.8"/>
 
     <!-- Bottom pentagon -->
-    <path d="M256,330 C266,328 276,334 282,344 C286,352 282,364 274,370 C266,376 248,376 240,370 C232,364 228,352 232,344 C236,334 246,328 256,330Z" fill="#1a1a1a" opacity="0.65"/>
+    <path d="M232,318 C242,316 252,322 258,332 C262,340 258,352 250,358 C242,364 224,364 216,358 C208,352 204,340 208,332 C212,322 222,316 232,318Z" fill="#1a1a1a" opacity="0.6"/>
 
-    <!-- Seam lines (curved) -->
-    <g fill="none" stroke="#b0b0b0" stroke-width="2" opacity="0.5">
-      <!-- Center to top -->
-      <path d="M250,198 Q252,176 250,156"/>
-      <path d="M262,198 Q264,176 266,156"/>
-      <!-- Center to upper-right -->
-      <path d="M278,210 Q294,200 308,196"/>
-      <path d="M276,236 Q296,228 316,222"/>
-      <!-- Center to upper-left -->
-      <path d="M234,210 Q218,200 204,196"/>
-      <path d="M236,236 Q216,228 196,222"/>
-      <!-- Center to lower-right -->
-      <path d="M272,244 Q290,262 304,282"/>
-      <!-- Center to lower-left -->
-      <path d="M240,244 Q222,262 208,282"/>
-      <!-- Top to upper-right -->
-      <path d="M282,130 Q306,146 326,164"/>
-      <!-- Top to upper-left -->
-      <path d="M234,130 Q208,146 188,164"/>
-      <!-- Upper-right to lower-right -->
-      <path d="M352,210 Q350,244 342,278"/>
-      <!-- Upper-left to lower-left -->
-      <path d="M162,210 Q164,244 172,278"/>
-      <!-- Lower to bottom -->
-      <path d="M316,328 Q290,340 270,342"/>
-      <path d="M196,328 Q222,340 244,342"/>
+    <!-- Seam lines -->
+    <g fill="none" stroke="#bbb" stroke-width="1.8" opacity="0.45">
+      <path d="M226,178 Q228,155 226,136"/>
+      <path d="M238,178 Q240,155 242,136"/>
+      <path d="M256,194 Q274,184 290,180"/>
+      <path d="M253,220 Q274,212 296,206"/>
+      <path d="M210,194 Q194,184 180,180"/>
+      <path d="M212,220 Q192,212 172,206"/>
+      <path d="M248,228 Q266,248 284,268"/>
+      <path d="M216,228 Q198,248 184,268"/>
+      <path d="M260,110 Q284,128 306,148"/>
+      <path d="M210,110 Q186,128 166,148"/>
+      <path d="M332,194 Q330,230 322,264"/>
+      <path d="M138,194 Q140,230 148,264"/>
+      <path d="M296,314 Q266,326 246,328"/>
+      <path d="M172,314 Q198,326 220,328"/>
     </g>
 
-    <!-- Inner shadow for spherical depth -->
-    <circle cx="256" cy="248" r="148" fill="url(#inner)"/>
+    <!-- Inner shadow for depth -->
+    <circle cx="232" cy="230" r="152" fill="url(#inner)"/>
 
     <!-- Specular highlights -->
-    <ellipse cx="216" cy="188" rx="52" ry="38" fill="white" opacity="0.15" transform="rotate(-15,216,188)"/>
-    <ellipse cx="204" cy="178" rx="28" ry="16" fill="white" opacity="0.3" transform="rotate(-15,204,178)"/>
-    <ellipse cx="198" cy="172" rx="10" ry="6" fill="white" opacity="0.5" transform="rotate(-20,198,172)"/>
+    <ellipse cx="190" cy="168" rx="56" ry="40" fill="white" opacity="0.18" transform="rotate(-18,190,168)"/>
+    <ellipse cx="178" cy="158" rx="30" ry="18" fill="white" opacity="0.35" transform="rotate(-18,178,158)"/>
+    <ellipse cx="170" cy="150" rx="12" ry="7" fill="white" opacity="0.55" transform="rotate(-22,170,150)"/>
   </g>
 
   <!-- Subtle gold border -->
-  <rect x="6" y="6" width="500" height="500" rx="108" fill="none" stroke="#c9a84c" stroke-width="4" opacity="0.5"/>
+  <rect x="5" y="5" width="502" height="502" rx="109" fill="none" stroke="#c9a84c" stroke-width="3" opacity="0.4"/>
 </svg>

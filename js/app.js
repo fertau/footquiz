@@ -10,8 +10,6 @@ import { renderConexion } from './views/conexion.js';
 import { renderLinea } from './views/linea.js';
 import { renderResult } from './views/result.js';
 import { renderTriviaMenu } from './views/trivia.js';
-import { renderNarradorSetup } from './views/narrador.js';
-import { renderCategories as renderNarradorCategories } from './views/categories.js';
 
 const app = document.getElementById('app');
 
@@ -34,8 +32,6 @@ async function init() {
     '#/jugar/quiensoy/:catId': (params) => renderQuienSoy(app, params),
     '#/jugar/conexion/:catId': (params) => renderConexion(app, params),
     '#/jugar/linea/:catId': (params) => renderLinea(app, params),
-    '#/narrador': () => renderNarradorCategories(app, { modo: 'narrador' }),
-    '#/narrador/:catId': (params) => renderNarradorSetup(app, params),
     '#/trivia': () => renderTriviaMenu(app),
     '#/resultado': () => renderResult(app),
   });

@@ -34,8 +34,6 @@ function checkModeViability(players, mode) {
     }
     case 'linea':
       return players.filter(p => p.carrera && p.carrera.length >= 3).length;
-    case 'narrador':
-      return players.filter(p => p.narrativeClues && Array.isArray(p.narrativeClues) && p.narrativeClues.length === 5).length;
     default:
       return 0;
   }
@@ -45,7 +43,6 @@ function render(container, mode) {
   const modeNames = {
     carrera: 'La Carrera', companeros: 'Compañeros', pasaporte: 'El Pasaporte',
     quiensoy: 'Quién Soy', conexion: 'Conexión', linea: 'Línea de Tiempo',
-    narrador: 'Modo Narrador'
   };
   const modeName = modeNames[mode] || mode;
 
@@ -83,11 +80,7 @@ function render(container, mode) {
 
   container.querySelectorAll('.cat-card').forEach(card => {
     card.addEventListener('click', () => {
-      if (mode === 'narrador') {
-        location.hash = `#/narrador/${card.dataset.cat}`;
-      } else {
-        location.hash = `#/jugar/${mode}/${card.dataset.cat}`;
-      }
+      location.hash = `#/jugar/${mode}/${card.dataset.cat}`;
     });
   });
 

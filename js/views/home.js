@@ -1,19 +1,15 @@
 import { getPlayers } from '../data.js';
-import { isNarradorAvailable, getNarradorPlayerCount } from './narrador.js';
 
 const MODES = [
   { id: 'carrera', emoji: '🏟️', name: 'La Carrera', desc: 'Clubes donde jugó', color: '#2e7d32' },
   { id: 'companeros', emoji: '🤝', name: 'Compañeros', desc: 'Compañeros de equipo', color: '#1565c0' },
   { id: 'pasaporte', emoji: '🛂', name: 'Pasaporte', desc: 'Países donde jugó', color: '#6a1b9a' },
-  { id: 'quiensoy', emoji: '🎭', name: 'Quién Soy', desc: 'Pistas y datos', color: '#e65100' },
+  { id: 'quiensoy', emoji: '🎭', name: 'Quién Soy', desc: 'Pistas narrativas y datos', color: '#e65100' },
   { id: 'conexion', emoji: '🔗', name: 'Conexión', desc: 'Club en común', color: '#00838f' },
   { id: 'linea', emoji: '📅', name: 'Línea de Tiempo', desc: 'Orden cronológico', color: '#ad1457' },
 ];
 
 export function renderHome(container) {
-  const narradorAvailable = isNarradorAvailable();
-  const narradorCount = getNarradorPlayerCount();
-
   container.innerHTML = `
     <div class="home">
       <div class="home-hero">
@@ -33,16 +29,6 @@ export function renderHome(container) {
           </button>
         `).join('')}
       </div>
-      <button class="featured-mode-btn ${narradorAvailable ? '' : 'disabled'}" id="narrador-btn">
-        <span class="mode-emoji">🎙️</span>
-        <div class="mode-text">
-          <span class="mode-name">Modo Narrador</span>
-          <span class="mode-desc">${narradorAvailable
-            ? 'Pistas narrativas con drama de relator'
-            : 'Próximamente'}</span>
-        </div>
-        ${narradorAvailable ? '<span class="featured-badge">Nuevo</span>' : ''}
-      </button>
       <div class="home-section-label">Trivia</div>
       <button class="trivia-home-btn" id="trivia-btn">
         <span class="trivia-emoji">🧠</span>
@@ -62,12 +48,6 @@ export function renderHome(container) {
     });
   });
 
-  if (narradorAvailable) {
-    document.getElementById('narrador-btn').addEventListener('click', () => {
-      location.hash = '#/narrador';
-    });
-  }
-
   document.getElementById('trivia-btn').addEventListener('click', () => {
     location.hash = '#/trivia';
   });
@@ -86,10 +66,9 @@ function showHowToPlay(container) {
       <p><strong>La Carrera:</strong> Te mostramos los clubes uno por uno. Menos pistas = más puntos.</p>
       <p><strong>Compañeros:</strong> Te damos compañeros. Adiviná con quién jugaron todos.</p>
       <p><strong>Pasaporte:</strong> Países donde jugó.</p>
-      <p><strong>Quién Soy:</strong> Pistas genéricas: posición, década, datos.</p>
+      <p><strong>Quién Soy:</strong> Pistas narrativas con drama de relator + datos. Adiviná al jugador.</p>
       <p><strong>Conexión:</strong> Dos jugadores. ¿Club en común?</p>
       <p><strong>Línea de Tiempo:</strong> Ordená los clubes cronológicamente.</p>
-      <p><strong>Modo Narrador:</strong> Pistas narrativas con drama de relator. El host lee, los demás adivinan.</p>
       <p><strong>Trivia:</strong> Preguntas de mundiales, finales y clásicos.</p>
       <button class="modal-close">Entendido</button>
     </div>

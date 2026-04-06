@@ -110,10 +110,25 @@ export function generateTimelineQuestions(players, count = 5) {
 }
 
 // Build "Quién Soy" clues from player metadata
+// If the player has narrative clues (5-beat story), those go first as dramatic hints.
+// Data-based clues follow as additional help.
 export function buildQuienSoyClues(player) {
   const clues = [];
 
-  // 1. Position
+  // Narrative beats first (if available) — dramatic, story-driven hints
+  if (player.narrativeClues && Array.isArray(player.narrativeClues) && player.narrativeClues.length === 5) {
+    for (const nc of player.narrativeClues) {
+      clues.push({
+        emoji: '🎙️',
+        text: nc.text,
+        type: 'narrative'
+      });
+    }
+  }
+
+  // Data-based clues follow as supplementary hints
+
+  // Position
   const posNames = {
     arquero: 'Arquero', defensor: 'Defensor', mediocampista: 'Mediocampista',
     enganche: 'Enganche / Mediapunta', extremo: 'Extremo',
@@ -125,7 +140,7 @@ export function buildQuienSoyClues(player) {
     type: 'position'
   });
 
-  // 2. Number of countries
+  // Number of countries
   if (player.paises && player.paises.length > 1) {
     clues.push({
       emoji: '🌍',
@@ -134,7 +149,7 @@ export function buildQuienSoyClues(player) {
     });
   }
 
-  // 3. Decade active (from career)
+  // Decade active
   if (player.carrera && player.carrera.length > 0) {
     const startYear = parseStartYear(player.carrera[0].anios);
     const lastEntry = player.carrera[player.carrera.length - 1];
@@ -153,7 +168,7 @@ export function buildQuienSoyClues(player) {
     });
   }
 
-  // 4. Number of clubs
+  // Number of clubs
   if (player.carrera) {
     clues.push({
       emoji: '🏟️',
@@ -162,7 +177,7 @@ export function buildQuienSoyClues(player) {
     });
   }
 
-  // 5. Tier hint
+  // Tier hint
   const tierHints = {
     1: 'Leyenda absoluta del fútbol mundial',
     2: 'Estrella internacional reconocida',
@@ -174,9 +189,8 @@ export function buildQuienSoyClues(player) {
     type: 'tier'
   });
 
-  // 6. Apodo hint (if exists)
+  // Apodo hint
   if (player.apodo) {
-    // Strip common articles before counting letters
     const articles = new Set(['el', 'la', 'lo', 'los', 'las', 'o', 'a', 'il', 'le', 'the', 'de', 'del']);
     const significantWords = player.apodo.split(/\s+/).filter(w => !articles.has(w.toLowerCase()));
     const apodoCore = significantWords.join(' ');
@@ -188,7 +202,7 @@ export function buildQuienSoyClues(player) {
     });
   }
 
-  // 7. pistaExtra as last clue
+  // pistaExtra as last clue
   if (player.pistaExtra) {
     clues.push({
       emoji: '💡',

@@ -29,7 +29,6 @@ export function getMaxClues(state) {
     case 'companeros': return player.companeros.length;
     case 'pasaporte': return player.paises.length;
     case 'quiensoy': return state.modeConfig.clues ? state.modeConfig.clues.length : 0;
-    case 'narrador': return player.narrativeClues ? player.narrativeClues.length : 5;
     default: return 0;
   }
 }
@@ -137,9 +136,6 @@ export function getMaxPossibleScore(state) {
   if (state.mode === 'linea') {
     return state.players.length * 100;
   }
-  if (state.mode === 'narrador') {
-    return state.players.length * 100;
-  }
   return state.players.reduce((sum, p) => sum + (p.tier || 2) * 100, 0);
 }
 
@@ -147,7 +143,6 @@ export function generateShareText(state, categoryName) {
   const modeNames = {
     carrera: 'La Carrera', companeros: 'Compañeros', pasaporte: 'El Pasaporte',
     quiensoy: 'Quién Soy', conexion: 'Conexión', linea: 'Línea de Tiempo',
-    narrador: 'Modo Narrador'
   };
   const modeName = modeNames[state.mode] || state.mode;
   let text = `\u26BD\u{1F9E9} FutQuiz \u2014 ${modeName}\n`;

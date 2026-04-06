@@ -24,7 +24,6 @@ const ASSETS = [
   './data/trivia-finales.json',
   './data/trivia-clasicos.json',
   './js/views/trivia.js',
-  './js/views/narrador.js',
   './manifest.json'
 ];
 
