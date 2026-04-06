@@ -55,7 +55,34 @@
       "AR",
       "ES"
     ],
-    "pistaExtra": "Arquero titular de Boca en la era dorada de Bianchi y mundialista en 2006"
+    "pistaExtra": "Arquero titular de Boca en la era dorada de Bianchi y mundialista en 2006",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Años 2000 en la Bombonera. Un arquero que lo atajaba todo. El Virrey confiaba en sus manos.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Mundialista en Alemania 2006, se lesionó en cuartos de final contra el anfitrión.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Llegó desde Rosario, hizo historia en el club más popular de Argentina.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Figura en la era dorada de Boca Juniors. Después pasó al Getafe en España.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Arquero titular de Boca con Bianchi. Apodado por un animal acuático.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "abedi_pele",
@@ -135,7 +162,34 @@
       "IT",
       "DE"
     ],
-    "pistaExtra": "Tres veces Mejor Futbolista Africano, estrella del Marsella campeón de la Champions 1993, padre de André y Jordan Ayew"
+    "pistaExtra": "Tres veces Mejor Futbolista Africano, estrella del Marsella campeón de la Champions 1993, padre de André y Jordan Ayew",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Marsella, 1993. El Vélodrome estalla. Un africano levanta la primera Champions del club.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Tres veces elegido el mejor futbolista de su continente.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Recorrió Qatar, Suiza, Francia, Italia y Alemania en una carrera nómade.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Sus hijos también fueron estrellas internacionales en la Premier League.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Estrella ghanesa del Marsella campeón de Europa. Padre de André y Jordan.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "abel_balbo",
@@ -206,7 +260,34 @@
       "AR",
       "IT"
     ],
-    "pistaExtra": "Goleador argentino que brilló en la Serie A, especialmente en la Roma de los 90"
+    "pistaExtra": "Goleador argentino que brilló en la Serie A, especialmente en la Roma de los 90",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Roma, años 90. Un goleador sudamericano conquista el Olímpico con su olfato de área.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Pasó por Udinese, Parma y Fiorentina. La Serie A fue su hogar por más de una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Arrancó en un grande de Rosario antes de cruzar el Atlántico.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Delantero argentino que fue referencia goleadora de la Roma en los 90.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "De Newell's a Italia. Ídolo goleador de la Roma. Pura Serie A.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "achraf_hakimi",
@@ -271,7 +352,34 @@
       "IT",
       "FR"
     ],
-    "pistaExtra": "Lateral derecho marroquí que llevó a Marruecos a semis del Mundial 2022"
+    "pistaExtra": "Lateral derecho marroquí que llevó a Marruecos a semis del Mundial 2022",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Qatar 2022. Una selección africana hace historia y llega a semifinales. Un lateral vuela por la banda.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se formó en la cantera del club más grande de España pero brilló cedido en Alemania.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Pasó por la Bundesliga y la Serie A antes de aterrizar en París.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Lateral derecho del PSG, nacido en España pero representó a Marruecos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Llevó a Marruecos a semis del Mundial. Juega en el PSG. Criado en el Real Madrid.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "adriano",
@@ -348,7 +456,34 @@
       "BR",
       "IT"
     ],
-    "pistaExtra": "Conocido por su potente tiro de zurda"
+    "pistaExtra": "Conocido por su potente tiro de zurda",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "San Siro, mediados de los 2000. Un cañón de zurda hacía temblar las redes.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Fue el 9 más temido del mundo, pero la melancolía le ganó la batalla.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Dominó la Serie A con un club de Milán, luego volvió a su país varias veces.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Inter, famoso por su potencia. Volvió al Flamengo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "El Emperador. Zurda demoledora. Inter de Milán. Flamengo. Brasil.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "aimar",
@@ -415,7 +550,34 @@
       "ES",
       "PT"
     ],
-    "pistaExtra": "Ídolo de Messi en su infancia"
+    "pistaExtra": "Ídolo de Messi en su infancia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Núñez, finales de los 90. Un pibe con magia pura hacía jugar a todos.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "El ídolo de infancia del mejor jugador del mundo lo miraba por televisión.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De River a Valencia. Pasó por Zaragoza y Benfica.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Enganche argentino que brilló en la Liga española. Volvió a su primer club para retirarse.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Ídolo de Messi. River Plate y Valencia. Enganche mágico. Volvió al Monumental.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alan_hansen",
@@ -466,7 +628,34 @@
       "GB-SCO",
       "GB-ENG"
     ],
-    "pistaExtra": "Elegante central escocés que ganó 8 ligas y 3 Copas de Europa con Liverpool"
+    "pistaExtra": "Elegante central escocés que ganó 8 ligas y 3 Copas de Europa con Liverpool",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Anfield, años 80. Un central elegante que salía jugando cuando nadie lo hacía.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Ganó 8 ligas y 3 Copas de Europa con un solo club inglés.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Escocés que llegó del Partick Thistle y se convirtió en leyenda de la Premier.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Defensor del Liverpool de los 80, era del dominio absoluto.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Central escocés. 14 años en Liverpool. 8 ligas. 3 Copas de Europa.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alan_shearer",
@@ -523,7 +712,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Máximo goleador histórico de la Premier League con 260 goles"
+    "pistaExtra": "Máximo goleador histórico de la Premier League con 260 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Inglaterra, años 90. Un 9 imparable. Goles de todos los colores. Nadie le ganaba en el área.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Llevó a un club modesto al título de la Premier League en 1995.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Southampton a la gloria. Después eligió volver al norte, a su tierra.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Máximo goleador histórico de la Premier League. Rechazó a los grandes.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "260 goles en la Premier. Newcastle fue su casa. Leyenda absoluta del fútbol inglés.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alberto_gilardino",
@@ -587,7 +803,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "Delantero campeón del mundo con Italia en 2006, goleador prolífico en la Serie A"
+    "pistaExtra": "Delantero campeón del mundo con Italia en 2006, goleador prolífico en la Serie A",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Berlín, 2006. Italia levanta la copa. Un delantero joven celebra su primer Mundial.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Piacenza a Parma. Luego fue fichaje estrella de un gigante de Milán.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Goleador prolífico de la Serie A. Pasó por Fiorentina y Genoa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Delantero italiano del Milan, campeón del mundo 2006. Toda su carrera en Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Campeón del mundo con Italia. Piacenza, Parma, Milan, Fiorentina, Genoa. Puro calcio.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alberto_spencer",
@@ -641,7 +884,34 @@
       "EC",
       "UY"
     ],
-    "pistaExtra": "Máximo goleador en la historia de la Copa Libertadores con 54 goles"
+    "pistaExtra": "Máximo goleador en la historia de la Copa Libertadores con 54 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Montevideo, años 60. Un goleador sudamericano hace historia en la Libertadores.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Nadie ha metido más goles en la historia del torneo continental más prestigioso de América.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Ecuatoriano que hizo su carrera en Uruguay, en uno de los clubes más ganadores.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "54 goles en la Copa Libertadores. Récord que duró décadas. Jugó en Peñarol.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Máximo goleador histórico de la Libertadores. Peñarol. Ecuador. Cabeza letal.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alejandro_garnacho",
@@ -691,7 +961,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Nacido en España pero eligió la selección argentina, conocido por sus goles espectaculares con el United"
+    "pistaExtra": "Nacido en España pero eligió la selección argentina, conocido por sus goles espectaculares con el United",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Old Trafford, 2022. Un pibe de 18 años marca un golazo de chilena que da vuelta al mundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Nacido en Madrid, formado en la cantera del Atlético, pero eligió otro camino.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Se fue a Inglaterra siendo juvenil. Eligió la selección argentina.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Extremo argentino del Manchester United. Goles espectaculares.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Del Atlético al United. Argentino nacido en España. Golazo de chilena viral.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alejandro_grimaldo",
@@ -748,7 +1045,34 @@
       "PT",
       "DE"
     ],
-    "pistaExtra": "Lateral izquierdo clave en el Leverkusen invicto que ganó la Bundesliga 2023-24 bajo Xabi Alonso"
+    "pistaExtra": "Lateral izquierdo clave en el Leverkusen invicto que ganó la Bundesliga 2023-24 bajo Xabi Alonso",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Alemania, 2024. Un equipo hace historia siendo invicto toda la temporada. Un lateral es clave.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se formó en La Masía pero nunca logró afianzarse en el primer equipo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Pasó por Lisboa antes de brillar en la Bundesliga.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Lateral izquierdo español del Leverkusen de Xabi Alonso. Temporada perfecta.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Barcelona, Benfica, Leverkusen invicto. Lateral español. Bundesliga 2024.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alessandro_del_piero",
@@ -811,7 +1135,34 @@
       "AU",
       "IN"
     ],
-    "pistaExtra": "Máximo goleador histórico de la Juventus"
+    "pistaExtra": "Máximo goleador histórico de la Juventus",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Turín, dos décadas de goles. Un artista con la 10 que hizo del tiro libre un arte.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Cuando su club bajó a segunda división, él se quedó. Lealtad absoluta.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Campeón del mundo en 2006. Terminó su carrera en Australia e India.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Máximo goleador histórico de la Juventus. Italiano de pura cepa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Leyenda de la Juventus. Campeón del mundo. Tiro libre perfecto. Toda una vida en Turín.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alessandro_nesta",
@@ -867,7 +1218,34 @@
       "IT",
       "CA"
     ],
-    "pistaExtra": "Considerado uno de los mejores defensores centrales de su generación, ganó dos Champions con Milan"
+    "pistaExtra": "Considerado uno de los mejores defensores centrales de su generación, ganó dos Champions con Milan",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "San Siro, años 2000. Un central que hacía parecer fácil lo imposible.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Ganó dos Champions League con un club de Milán, siendo pilar defensivo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De la Lazio al Milan. Elegancia pura en cada intervención.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Defensor italiano. Lazio y Milan. Dos Champions. Terminó en Canadá.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Central del Milan campeón de Europa. De los mejores defensores de su generación.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alexander_isak",
@@ -936,7 +1314,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Delantero sueco que debutó profesionalmente a los 16 años en AIK y se convirtió en referencia goleadora del Newcastle"
+    "pistaExtra": "Delantero sueco que debutó profesionalmente a los 16 años en AIK y se convirtió en referencia goleadora del Newcastle",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Estocolmo, 2016. Un delantero de 16 años debuta como profesional. El mundo lo mira.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Pasó por Alemania y Holanda antes de encontrar su lugar en España.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Brilló en la Real Sociedad antes de dar el salto a la Premier League.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Sueco, goleador del Newcastle. Debutó adolescente en el AIK.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Delantero sueco. AIK, Dortmund, Real Sociedad, Newcastle. Gol es su idioma.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alexis_mac_allister",
@@ -998,7 +1403,34 @@
       "AR",
       "GB-ENG"
     ],
-    "pistaExtra": "Campeón del Mundo 2022, su padre y hermanos también son futbolistas"
+    "pistaExtra": "Campeón del Mundo 2022, su padre y hermanos también son futbolistas",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Lusail, diciembre 2022. La copa vuelve a Sudamérica. Un volante joven brilla en el medio.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Familia de futbolistas: su padre y sus hermanos también jugaron profesionalmente.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Argentinos Juniors a la costa sur de Inglaterra.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Campeón del mundo con Argentina. De Brighton pasó a Liverpool.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Mundial 2022. Argentinos Juniors, Brighton, Liverpool. Familia de fútbol.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alexis_sanchez",
@@ -1089,7 +1521,34 @@
       "GB-ENG",
       "FR"
     ],
-    "pistaExtra": "Máximo goleador histórico de la selección chilena"
+    "pistaExtra": "Máximo goleador histórico de la selección chilena",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un niño de la minería chilena recorre Europa como torbellino. Velocidad pura.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "El máximo goleador de su selección. Campeón de dos Copas América consecutivas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Udinese al Barcelona. Después brilló en Londres con un club de rojo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Extremo chileno. Arsenal, United, Inter, Barcelona. Máximo artillero de su país.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Chileno. Cobreloa, Barcelona, Arsenal, Inter. Goleador histórico de Chile.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alfredo_di_stefano",
@@ -1157,7 +1616,34 @@
       "CO",
       "ES"
     ],
-    "pistaExtra": "Ganó 5 Copas de Europa consecutivas con Real Madrid, jugó para las selecciones de Argentina, Colombia y España"
+    "pistaExtra": "Ganó 5 Copas de Europa consecutivas con Real Madrid, jugó para las selecciones de Argentina, Colombia y España",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, años 50. Cinco finales europeas, cinco copas. Un hombre lo dominaba todo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Jugó para tres selecciones nacionales distintas. Algo único en la historia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De River Plate a Millonarios, y luego al club más grande de Europa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "5 Copas de Europa consecutivas con el Real Madrid. Delantero argentino-español.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "La Saeta Rubia. River, Millonarios, Real Madrid. 5 Copas de Europa seguidas.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alisson",
@@ -1216,7 +1702,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "Gol de cabeza contra West Brom que clasificó al Liverpool a Champions"
+    "pistaExtra": "Gol de cabeza contra West Brom que clasificó al Liverpool a Champions",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Anfield, últimos minutos. Un arquero sube a cabecear un córner. Y marca.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Porto Alegre a Roma, y de Roma a la Premier. Siempre fue el 1.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Brasileño que llegó a Liverpool y ganó Champions en su primera temporada.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero del Liverpool y Brasil. Gol de cabeza contra West Brom.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Arquero brasileño. Internacional, Roma, Liverpool. Gol de cabeza histórico.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "almeyda",
@@ -1300,7 +1813,34 @@
       "ES",
       "IT"
     ],
-    "pistaExtra": "Volante aguerrido de River y la Lazio, luego DT exitoso en México y MLS"
+    "pistaExtra": "Volante aguerrido de River y la Lazio, luego DT exitoso en México y MLS",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Núñez, años 90. Un volante de marca que metía el alma en cada pelota dividida.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Argentina a Sevilla, luego conquistó Roma con la Lazio.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Pasó por Parma, Inter y Brescia. Toda una vida en el calcio italiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Mediocampista argentino de River y la Lazio. Después fue DT en México y MLS.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Volante aguerrido. River Plate y Lazio. Luego DT exitoso. Apodado por su cabeza.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "alvaro_recoba",
@@ -1371,7 +1911,34 @@
       "UY",
       "IT"
     ],
-    "pistaExtra": "Debutó en Inter con dos goles en 12 minutos contra Brescia"
+    "pistaExtra": "Debutó en Inter con dos goles en 12 minutos contra Brescia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Milán, 1997. Un debutante mete dos goles en 12 minutos. La hinchada no lo puede creer.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Zurda mágica. Más de una década en la Serie A con un solo club milanés.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Uruguayo que pasó por Danubio y Nacional, pero Italia fue su hogar.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Enganche uruguayo del Inter. Debut soñado. Zurda letal.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Uruguayo. Danubio, Nacional, Inter. Dos goles en su debut. Zurda mágica.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "americo_gallego",
@@ -1419,7 +1986,34 @@
     "paises": [
       "AR"
     ],
-    "pistaExtra": "Volante central campeón del mundo en 1978, emblema de River Plate en los 70 y 80, luego DT de River y la Selección Argentina"
+    "pistaExtra": "Volante central campeón del mundo en 1978, emblema de River Plate en los 70 y 80, luego DT de River y la Selección Argentina",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Buenos Aires, 1978. Argentina levanta su primera copa del mundo. Un volante central es el motor.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Jugó toda su carrera en solo dos clubes argentinos. Fidelidad total.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Newell's a un gigante de Núñez. Emblema durante más de una década.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Campeón del mundo 1978. Volante de River Plate. Luego DT del mismo club y la selección.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River Plate en los 70 y 80. Campeón mundial 78. Después DT. Apodado por su carácter.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "andres_guardado",
@@ -1491,7 +2085,34 @@
       "DE",
       "NL"
     ],
-    "pistaExtra": "5 Mundiales con México como Rafa Márquez"
+    "pistaExtra": "5 Mundiales con México como Rafa Márquez",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Cinco Mundiales. Pocos jugadores en la historia pueden decir eso. Un mexicano lo logró.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Recorrió España, Alemania y Holanda. Un trotamundos del fútbol.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Atlas al Deportivo de La Coruña. Luego Valencia, Leverkusen, PSV y Betis.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Mediocampista mexicano con 5 Mundiales. Carrera repartida por toda Europa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Mexicano. Atlas, Depor, Valencia, Leverkusen, PSV, Betis. 5 Copas del Mundo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "andres_iniesta",
@@ -1551,7 +2172,34 @@
       "JP",
       "AE"
     ],
-    "pistaExtra": "Autor del gol del título en la final del Mundial 2010"
+    "pistaExtra": "Autor del gol del título en la final del Mundial 2010",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Johannesburgo, 2010. Minuto 116. Un gol que cambia la historia de un país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Pasó toda su carrera europea en un solo club. Maestro del toque y la pausa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Campeón de todo con España y su club. Terminó su carrera en Japón.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Gol en la final del Mundial 2010. Barcelona de toda la vida. Genio del mediocampo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Gol del Mundial 2010. Barcelona. España. Vissel Kobe al final. Mediocampista total.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "andriy_shevchenko",
@@ -1620,7 +2268,34 @@
       "IT",
       "GB"
     ],
-    "pistaExtra": "Balón de Oro 2004 y campeón de la Champions 2003"
+    "pistaExtra": "Balón de Oro 2004 y campeón de la Champions 2003",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Manchester, 2003. Un delantero del este de Europa levanta la Champions. Es imparable.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Balón de Oro 2004. Goleador letal que dominó la Serie A.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Dynamo Kyiv al Milan. Después un paso fallido por Londres.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Ucraniano. Goleador del Milan. Balón de Oro. Pasó por Chelsea.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Balón de Oro 2004. Dynamo Kyiv, Milan, Chelsea. Goleador ucraniano legendario.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "andy_cole",
@@ -1685,7 +2360,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Tercer máximo goleador histórico de la Premier con 187 goles, ganó el Treble con el United en 1999"
+    "pistaExtra": "Tercer máximo goleador histórico de la Premier con 187 goles, ganó el Treble con el United en 1999",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Barcelona, 1999. Un equipo inglés remonta en el último minuto. Un delantero es parte del Treble.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Tercer máximo goleador histórico de la Premier League con 187 goles.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Newcastle al United. Después Blackburn, Fulham y City.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Delantero inglés del United campeón del Treble 1999. 187 goles en Premier.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Newcastle, Manchester United, Treble 99. Tercer goleador histórico de la Premier.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "angel_correa",
@@ -1736,7 +2438,34 @@
       "AR",
       "ES"
     ],
-    "pistaExtra": "Más de 10 temporadas en Atlético Madrid, superó una operación al corazón"
+    "pistaExtra": "Más de 10 temporadas en Atlético Madrid, superó una operación al corazón",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, más de una década. Un delantero argentino que supera una cirugía al corazón y sigue adelante.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Llegó desde un club grande de Buenos Aires siendo muy joven.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Más de 10 temporadas en un club colchonero. Fidelidad total.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Atlético de Madrid. Operado del corazón. Nunca se fue.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "San Lorenzo y Atlético Madrid. Más de 10 años en el Wanda. Corazón guerrero.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "angel_di_maria",
@@ -1819,7 +2548,34 @@
       "FR",
       "IT"
     ],
-    "pistaExtra": "Gol en la final del Mundial 2022 y en la final de la Copa América 2021"
+    "pistaExtra": "Gol en la final del Mundial 2022 y en la final de la Copa América 2021",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Lusail, 2022. La final más épica. Un gol que enciende la ilusión de todo un continente.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Recorrió Portugal, España, Inglaterra, Francia e Italia. Siempre decisivo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Salió de Rosario. Pasó por Benfica y Real Madrid antes de ir a París.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Gol en la final del Mundial 2022 y en la Copa América 2021. Extremo argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Rosario Central, Benfica, Real Madrid, PSG, Juve. Gol en la final del Mundial 2022.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "antoine_griezmann",
@@ -1879,7 +2635,34 @@
     "paises": [
       "ES"
     ],
-    "pistaExtra": "Se formó en España y fue clave en la obtención del Mundial 2018 con Francia"
+    "pistaExtra": "Se formó en España y fue clave en la obtención del Mundial 2018 con Francia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Moscú, 2018. Francia es campeona. Un delantero que se formó en España celebra con su país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Llegó a España con 13 años. La Real Sociedad fue su primer hogar.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Del País Vasco a Madrid. Un paso corto por Cataluña y vuelta.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Francés del Atlético de Madrid. Campeón del mundo 2018. Formado en España.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Real Sociedad, Atlético, Barcelona, Atlético. Francés. Mundial 2018.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "arjen_robben",
@@ -1954,7 +2737,34 @@
       "ES",
       "DE"
     ],
-    "pistaExtra": "Famoso por recortar siempre hacia la izquierda y definir con pierna izquierda"
+    "pistaExtra": "Famoso por recortar siempre hacia la izquierda y definir con pierna izquierda",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un extremo zurdo que siempre hace la misma jugada. Todos lo saben. Nadie lo puede parar.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Holanda a Londres, luego Madrid, y finalmente Alemania por una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Ganó títulos con Chelsea, Real Madrid y Bayern. Holandés veloz.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Extremo del Bayern Múnich. Recorte a la izquierda. Zurda imparable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Holandés. PSV, Chelsea, Real Madrid, Bayern. Siempre recorta a la izquierda.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "arturo_vidal",
@@ -2044,7 +2854,34 @@
       "ES",
       "BR"
     ],
-    "pistaExtra": "Campeón de dos Copas América consecutivas con Chile (2015 y 2016)"
+    "pistaExtra": "Campeón de dos Copas América consecutivas con Chile (2015 y 2016)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un guerrero sudamericano que conquistó Italia, Alemania y España.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Dos Copas América consecutivas con su selección. 2015 y 2016. Histórico.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Colo-Colo a Leverkusen, Juventus, Bayern, Barcelona e Inter.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Chileno. Volante box to box. Juventus, Bayern, Barça, Inter. Rey de copas.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Colo-Colo, Juve, Bayern, Barça, Inter, Flamengo. Chile campeón 2015-16. Guerrero.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ashley_cole",
@@ -2106,7 +2943,34 @@
       "IT",
       "US"
     ],
-    "pistaExtra": "Considerado el mejor lateral izquierdo de la historia de la Premier League, ganó Champions con Chelsea en 2012"
+    "pistaExtra": "Considerado el mejor lateral izquierdo de la historia de la Premier League, ganó Champions con Chelsea en 2012",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Londres, dos décadas. Un lateral que definió la posición en la Premier League.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Ganó la Champions League con su segundo club londinense en 2012.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Arsenal a Chelsea. El traspaso más polémico entre clubes rivales.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Lateral izquierdo inglés. Arsenal, Chelsea, Roma. El mejor en su puesto.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Arsenal y Chelsea. Mejor lateral izquierdo de la Premier. Champions 2012.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "bastian_schweinsteiger",
@@ -2167,7 +3031,34 @@
       "GB-ENG",
       "US"
     ],
-    "pistaExtra": "Capitán de Alemania campeona del mundo en 2014, símbolo del Bayern por más de una década"
+    "pistaExtra": "Capitán de Alemania campeona del mundo en 2014, símbolo del Bayern por más de una década",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Maracaná, 2014. El capitán levanta la copa del mundo con sangre en el rostro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Más de una década como símbolo de un club bávaro. Fidelidad total.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Pasó por Inglaterra y terminó en la MLS. Pero Alemania siempre fue su hogar.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán de Alemania campeona del mundo 2014. Bayern Múnich toda la vida.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Bayern Múnich. Alemania campeona 2014. Capitán. Después United y Chicago.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "batistuta",
@@ -2235,7 +3126,34 @@
       "IT",
       "QA"
     ],
-    "pistaExtra": "9 temporadas consecutivas en Fiorentina"
+    "pistaExtra": "9 temporadas consecutivas en Fiorentina",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Florencia, años 90. Un goleador argentino hace de un estadio su templo durante 9 años.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Cuando el club bajó a Serie B, él se quedó. Lealtad legendaria.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Newell's y River al calcio. Después una última aventura en Qatar.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "9 temporadas consecutivas en Fiorentina. Después ganó el Scudetto con la Roma.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Fiorentina 9 años. Roma. Goleador argentino. Sus goles eran cañonazos.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "bebeto",
@@ -2331,7 +3249,34 @@
       "JP",
       "SA"
     ],
-    "pistaExtra": "Celebración meciendo un bebé en el Mundial 94"
+    "pistaExtra": "Celebración meciendo un bebé en el Mundial 94",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "USA 94. Un goleador brasileño mece un bebé imaginario. El mundo entero lo imita.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Brilló en España con un club gallego en los 90.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Flamengo, Vasco y Deportivo La Coruña fueron sus casas más importantes.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Deportivo. Celebración del bebé en el Mundial 94.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Flamengo, Vasco, Deportivo. Brasil campeón 1994. Celebración meciendo un bebé.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "bernardo_silva",
@@ -2388,7 +3333,34 @@
       "FR",
       "GB-ENG"
     ],
-    "pistaExtra": "Pieza clave del treble histórico del Manchester City en 2023"
+    "pistaExtra": "Pieza clave del treble histórico del Manchester City en 2023",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Manchester, 2023. Un club inglés gana todo: Liga, Champions y FA Cup. Un portugués es el cerebro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Brilló en Mónaco antes de dar el salto a la Premier League.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Benfica lo formó. Mónaco lo catapultó. Manchester lo consagró.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Portugués del Manchester City. Pieza clave del treble 2023. Mediocampista creativo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Benfica, Mónaco, Manchester City. Treble 2023. Portugués. Cerebro del equipo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "bobby_charlton",
@@ -2440,7 +3412,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Leyenda del Manchester United, sobreviviente de Múnich 58, campeón del mundo 66 y de la Copa de Europa 68"
+    "pistaExtra": "Leyenda del Manchester United, sobreviviente de Múnich 58, campeón del mundo 66 y de la Copa de Europa 68",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Múnich, 1958. Un avión se estrella. Un sobreviviente vuelve a jugar y se convierte en leyenda.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Campeón del mundo 1966 con Inglaterra. Copa de Europa 1968 con su club.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Toda su carrera en un solo club de Manchester. Más de 750 partidos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Leyenda del Manchester United. Sobrevivió a Múnich 58. Campeón del mundo 66.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Manchester United toda la vida. Múnich 58. Inglaterra campeona 66. Copa de Europa 68.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "bobby_moore",
@@ -2502,7 +3501,34 @@
       "GB-ENG",
       "US"
     ],
-    "pistaExtra": "Capitán de Inglaterra campeona del mundo en 1966, considerado el mejor defensor inglés de la historia"
+    "pistaExtra": "Capitán de Inglaterra campeona del mundo en 1966, considerado el mejor defensor inglés de la historia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Wembley, 1966. El capitán de Inglaterra levanta la Jules Rimet. Elegancia pura.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Considerado el mejor defensor inglés de todos los tiempos. Liderazgo total.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Hizo toda su carrera en el este de Londres, en un club con martillos cruzados.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán de Inglaterra campeona 1966. West Ham United fue su hogar.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "West Ham. Capitán de Inglaterra 1966. Mejor defensor inglés de la historia.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "brian_laudrup",
@@ -2592,7 +3618,34 @@
       "GB-ENG",
       "NL"
     ],
-    "pistaExtra": "Campeón de la Euro 1992 con Dinamarca, la sorpresa más grande de la historia"
+    "pistaExtra": "Campeón de la Euro 1992 con Dinamarca, la sorpresa más grande de la historia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Suecia, 1992. Dinamarca no debía estar ahí. Un extremo brilla y lo imposible se hace real.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Recorrió Alemania, Italia, Escocia e Inglaterra. Hermano de otro crack.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Bayern y Milan a los Rangers de Glasgow. Campeón en Escocia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Danés campeón de la Euro 92. Hermano de otro genio. Rangers de Glasgow.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Dinamarca campeona Euro 92. Bayern, Milan, Rangers. Hermano de Michael.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "bruno_fernandes",
@@ -2660,7 +3713,34 @@
       "PT",
       "GB-ENG"
     ],
-    "pistaExtra": "Capitán del Manchester United, formado en Italia antes de brillar en Portugal e Inglaterra"
+    "pistaExtra": "Capitán del Manchester United, formado en Italia antes de brillar en Portugal e Inglaterra",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Old Trafford, 2020 en adelante. Un mediocampista llega de Portugal y se pone la cinta de capitán.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se formó en Italia, pasó por Novara, Udinese y Sampdoria antes de volver a su país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Brilló en el Sporting de Lisboa. La Premier lo esperaba.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán del Manchester United. Portugués. Formado en Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Sporting Lisboa, Manchester United. Capitán. Portugués. Penales y goles.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "bukayo_saka",
@@ -2703,7 +3783,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Formado íntegramente en la academia del Arsenal, clave en el regreso del club a la élite"
+    "pistaExtra": "Formado íntegramente en la academia del Arsenal, clave en el regreso del club a la élite",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Londres, norte. Un joven de la academia brilla desde los 17 años. Nunca se fue.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Formado íntegramente en un solo club. Clave en el regreso a la élite.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Extremo inglés. Su club viste de rojo y blanco. Zona norte de Londres.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arsenal desde las juveniles. Estrella de la selección inglesa. Extremo veloz.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Arsenal toda la vida. Inglés. Extremo. Starboy. Clave en la Premier moderna.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cafu",
@@ -2775,7 +3882,34 @@
       "ES",
       "IT"
     ],
-    "pistaExtra": "Jugó 3 finales de Mundial consecutivas y ganó 2"
+    "pistaExtra": "Jugó 3 finales de Mundial consecutivas y ganó 2",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Tres finales de Copa del Mundo consecutivas. Un lateral que nunca se cansaba.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Ganó dos Mundiales. 94 y 2002. Récord de un defensor brasileño.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "São Paulo, Roma y Milan. Siempre por la banda derecha. Incansable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Lateral derecho brasileño. Roma y Milan. 3 finales mundialistas seguidas.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "São Paulo, Roma, Milan. Brasil campeón 94 y 2002. Lateral derecho legendario.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cambiasso",
@@ -2843,7 +3977,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "Ganó la Champions con Inter en 2010"
+    "pistaExtra": "Ganó la Champions con Inter en 2010",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, 2010. El Inter de Mourinho gana la Champions. Un volante argentino es pieza clave.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Pasó por el Real Madrid pero nunca logró afianzarse. Italia fue su destino.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Argentinos Juniors y River al Inter. Más de 10 años en Milán.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Mediocampista argentino del Inter campeón de Champions 2010. Después Leicester.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Argentinos, River, Real Madrid, Inter, Leicester. Champions 2010. Volante inteligente.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "carles_puyol",
@@ -2889,7 +4050,34 @@
     "paises": [
       "ES"
     ],
-    "pistaExtra": "Cabezazo decisivo en la semifinal del Mundial 2010 contra Alemania"
+    "pistaExtra": "Cabezazo decisivo en la semifinal del Mundial 2010 contra Alemania",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudáfrica 2010. Semifinal. Un cabezazo en un córner elimina a Alemania y cambia la historia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Un solo club en toda su carrera. Más de 15 años. Capitán con pelo largo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Defensor español que nunca quiso irse de Cataluña. Líder por naturaleza.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central del Barcelona. Toda la vida. Cabezazo en el Mundial 2010 contra Alemania.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Barcelona y nada más. Capitán. Cabezazo semifinal Mundial 2010. Defensor español.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "carlos_alberto_torres",
@@ -2956,7 +4144,34 @@
       "BR",
       "US"
     ],
-    "pistaExtra": "Capitán de Brasil en la Copa del Mundo 1970, anotó el icónico cuarto gol en la final contra Italia"
+    "pistaExtra": "Capitán de Brasil en la Copa del Mundo 1970, anotó el icónico cuarto gol en la final contra Italia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "México 70. Gol número 4 en la final. La jugada más hermosa de la historia de los Mundiales.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Capitán de la selección brasileña más brillante jamás vista.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Santos, Flamengo y los Cosmos de Nueva York. Un lateral con gol.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán de Brasil 1970. Gol icónico en la final contra Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Brasil 1970. Santos, Flamengo, Cosmos. El cuarto gol contra Italia. Capitán.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "carlos_bilardo",
@@ -3009,7 +4224,34 @@
     "paises": [
       "AR"
     ],
-    "pistaExtra": "DT campeón del mundo en 1986, pero antes fue jugador campeón de la Intercontinental 1968"
+    "pistaExtra": "DT campeón del mundo en 1986, pero antes fue jugador campeón de la Intercontinental 1968",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Buenos Aires, años 60. Estudiantes de La Plata conquista el mundo con fútbol aguerrido.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Campeón de la Intercontinental como jugador. Campeón del mundo como DT.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Jugó en San Lorenzo, Deportivo Español y Estudiantes.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Antes de dirigir a Argentina al título en 1986, fue mediocampista y campeón intercontinental.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "DT campeón 86. Antes jugador en Estudiantes. Intercontinental 68. Táctico obsesivo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "carlos_tevez",
@@ -3091,7 +4333,34 @@
       "GB-ENG",
       "IT"
     ],
-    "pistaExtra": "Ídolo en Boca y en Corinthians, campeón de Libertadores con ambos"
+    "pistaExtra": "Ídolo en Boca y en Corinthians, campeón de Libertadores con ambos",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "De un barrio humilde en Buenos Aires al mundo. Un delantero con hambre de gloria.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Ídolo en Argentina y en Brasil. Campeón de la Libertadores con ambos clubes.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "West Ham, United, City, Juventus. Siempre protagonista. Siempre polémico.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Delantero argentino. Boca y Corinthians lo adoran. Jugó en Manchester y Turín.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Boca, Corinthians, West Ham, United, City, Juventus, Boca. Libertadores con Boca y Corinthians.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "carlos_valderrama",
@@ -3185,7 +4454,34 @@
       "ES",
       "US"
     ],
-    "pistaExtra": "Su icónico peinado afro lo hizo inconfundible en tres Mundiales"
+    "pistaExtra": "Su icónico peinado afro lo hizo inconfundible en tres Mundiales",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un peinado inconfundible en tres Mundiales. Un enganche colombiano que jugaba como nadie.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Trotamundos: Colombia, Francia, España y la MLS. La pelota siempre bajo control.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Unión Magdalena a Montpellier y Valladolid. Después Junior y la MLS.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Enganche colombiano con afro rubio. Tres Mundiales. Tampa Bay en la MLS.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Colombia. Afro icónico. Tres Mundiales. Junior, Montpellier, Tampa Bay. Enganche mágico.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "casemiro",
@@ -3245,7 +4541,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Ganó 5 Champions League con Real Madrid"
+    "pistaExtra": "Ganó 5 Champions League con Real Madrid",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "5 Champions League. Un volante de contención que ganó todo en Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De São Paulo al Real Madrid. El mediocampista defensivo más ganador de su generación.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Brasileño que formó un mediocampo legendario en España junto a dos croatas y un alemán.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "5 Champions con el Real Madrid. Volante brasileño. Después pasó a Manchester.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "São Paulo, Real Madrid, Manchester United. 5 Champions. Brasileño. Mediocampista destructor.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cesar_menotti",
@@ -3314,7 +4637,34 @@
       "BR",
       "US"
     ],
-    "pistaExtra": "DT campeón del mundo en 1978, revolucionó el estilo argentino"
+    "pistaExtra": "DT campeón del mundo en 1978, revolucionó el estilo argentino",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Buenos Aires, 1978. Argentina campeona del mundo. Un estilo de juego ofensivo revolucionario.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Como jugador, pasó por varios clubes argentinos e incluso jugó al lado de Pelé en Brasil.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Rosario Central, Racing, Santos y Boca Juniors en su carrera como jugador.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "DT campeón del mundo 1978. Antes fue mediocampista en varios clubes argentinos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Selección Argentina campeona 78. DT filósofo. Antes jugó en Central, Racing, Santos y Boca.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cesc_fabregas",
@@ -3384,7 +4734,34 @@
       "FR",
       "IT"
     ],
-    "pistaExtra": "Debutó en Arsenal a los 16 años y luego fue director técnico del Como en Serie A"
+    "pistaExtra": "Debutó en Arsenal a los 16 años y luego fue director técnico del Como en Serie A",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Londres, 2003. Un adolescente español debuta en la Premier con apenas 16 años.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Volvió a su país para jugar en Cataluña, pero regresó a Londres, esta vez al oeste.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Arsenal, Barcelona, Chelsea. Tres camisetas pesadas.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Mediocampista español que hoy dirige en la Serie A italiana.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Arsenal a los 16, Barcelona, Chelsea. Ahora DT del Como. Español. Creador de juego.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cha_bum_kun",
@@ -3432,7 +4809,34 @@
     "paises": [
       "DE"
     ],
-    "pistaExtra": "98 goles en la Bundesliga, leyenda del fútbol asiático"
+    "pistaExtra": "98 goles en la Bundesliga, leyenda del fútbol asiático",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Alemania, años 80. Un goleador asiático deslumbra en la Bundesliga cuando nadie esperaba.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "98 goles en la liga alemana. Pionero de un continente entero en Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Darmstadt y Bayer Leverkusen fueron sus dos clubes. Once temporadas en Alemania.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Surcoreano. Leyenda de la Bundesliga. El primer gran futbolista asiático en Europa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "98 goles en la Bundesliga. Leverkusen. Corea del Sur. Pionero del fútbol asiático.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "christian_vieri",
@@ -3536,7 +4940,34 @@
       "ES",
       "FR"
     ],
-    "pistaExtra": "Máximo goleador italiano en mundiales con 9 goles entre Francia 98 y Corea-Japón 2002"
+    "pistaExtra": "Máximo goleador italiano en mundiales con 9 goles entre Francia 98 y Corea-Japón 2002",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Francia 98 y Corea 2002. Un 9 italiano mete goles en cada Mundial.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Máximo goleador italiano en la historia de los Mundiales. 9 goles entre dos torneos.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Pasó por Juventus, Lazio e Inter. Un nómade del calcio.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Goleador italiano. Inter fue su casa más larga. Atlético de Madrid también.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Torino, Juve, Atlético, Lazio, Inter. 9 goles en Mundiales. Delantero italiano puro.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "clarence_seedorf",
@@ -3612,7 +5043,34 @@
       "ES",
       "BR"
     ],
-    "pistaExtra": "Único jugador en ganar la Champions League con tres clubes distintos"
+    "pistaExtra": "Único jugador en ganar la Champions League con tres clubes distintos",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Tres Champions League. Tres clubes distintos. Un récord que nadie más tiene.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Ámsterdam a Madrid, de Madrid a Milán. Holandés de origen surinamés.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Ajax, Real Madrid, Inter y Milan. Cuatro gigantes europeos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Único jugador en ganar la Champions con tres clubes. Terminó en Brasil.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Ajax, Real Madrid, Inter, Milan. Champions con 3 clubes. Holandés. Terminó en Botafogo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "claudio_bravo",
@@ -3678,7 +5136,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Ganó dos Copas América con Chile (2015, 2016)"
+    "pistaExtra": "Ganó dos Copas América con Chile (2015, 2016)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Chile, 2015. Por primera vez campeona de América. Un arquero es el héroe en los penales.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Colo-Colo a España. Guardameta en la Real Sociedad por casi una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Pasó por Barcelona y Manchester City. Siempre suplente o titular, nunca indiferente.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero chileno. Dos Copas América. Barcelona, City, Betis.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Colo-Colo, Real Sociedad, Barcelona, City, Betis. Chile campeón 2015 y 2016.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "claudio_caniggia",
@@ -3762,7 +5247,34 @@
       "PT",
       "GB-SCT"
     ],
-    "pistaExtra": "Goleador del Mundial 1990, famoso por su velocidad y su sociedad con Maradona en Italia 90"
+    "pistaExtra": "Goleador del Mundial 1990, famoso por su velocidad y su sociedad con Maradona en Italia 90",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Italia 90. Un gol contra Brasil en octavos. Un delantero veloz hace estallar al mundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Sociedad letal con el 10 más grande. Juntos, imparables en aquel Mundial.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De River a la Serie A. Atalanta, Roma, Verona. Después Benfica y Boca.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Delantero argentino. Velocidad extrema. Mundial 90. Terminó en Escocia con Rangers.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Atalanta, Roma, Boca, Rangers. Gol a Brasil en Italia 90. Velocidad pura.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "claudio_pizarro",
@@ -3844,7 +5356,34 @@
       "DE",
       "GB-ENG"
     ],
-    "pistaExtra": "Máximo goleador extranjero en la historia de la Bundesliga"
+    "pistaExtra": "Máximo goleador extranjero en la historia de la Bundesliga",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Alemania. Un goleador sudamericano rompe récords durante dos décadas en la Bundesliga.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Máximo goleador extranjero en la historia de la liga alemana.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Bremen y Bayern fueron sus dos casas. Volvió a Bremen tres veces.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Peruano. Bremen, Bayern, Chelsea. El bombardero de los Andes.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Alianza Lima, Bremen, Bayern, Chelsea, Bremen, Bayern, Bremen. Peruano. Récord en Bundesliga.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cole_palmer",
@@ -3892,7 +5431,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Marcó 4 goles en una sola mitad contra Everton en la Premier League 2023-24 y fue figura en la final de la Conference League"
+    "pistaExtra": "Marcó 4 goles en una sola mitad contra Everton en la Premier League 2023-24 y fue figura en la final de la Conference League",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Londres, 2024. Un joven mete 4 goles en un solo tiempo contra Everton. Locura total.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se formó en la cantera de un club celeste de Manchester pero emigró a Londres.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Extremo inglés que brilla en Stamford Bridge. Generación nueva.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "De Manchester City a Chelsea. 4 goles en una mitad. Estrella de la Premier.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "City cantera, Chelsea primera figura. Inglés. 4 goles contra Everton en un tiempo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "coutinho",
@@ -3977,7 +5543,34 @@
       "GB-ENG",
       "DE"
     ],
-    "pistaExtra": "Transferencia récord de 160M del Liverpool al Barcelona"
+    "pistaExtra": "Transferencia récord de 160M del Liverpool al Barcelona",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Liverpool, 2017. Un mediocampista brasileño que hacía magia sale por una cifra récord.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "160 millones de euros. El traspaso más caro entre dos clubes en ese momento.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Vasco al Inter, de Liverpool a Barcelona. Nunca rindió igual.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño. Liverpool, Barcelona, Bayern, Aston Villa. Enganche con zurda fina.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Vasco, Inter, Liverpool, Barcelona, Bayern, Villa. Transferencia récord de 160M. Brasileño.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "crespo",
@@ -4064,7 +5657,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "Volvió a Parma dos veces en su carrera"
+    "pistaExtra": "Volvió a Parma dos veces en su carrera",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Italia, años 2000. Un goleador argentino recorre los mejores clubes del calcio.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Volvió al mismo club italiano dos veces. Parma fue su primer y último amor europeo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "River, Lazio, Inter, Chelsea, Milan. Siempre gol.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Goleador argentino. Parma, Lazio, Inter, Chelsea, Milan. Dos goles en la final de Champions 2005.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Parma, Lazio, Inter, Chelsea, Milan, Parma. Argentino goleador del calcio.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cristian_romero",
@@ -4127,7 +5747,34 @@
       "IT",
       "GB-ENG"
     ],
-    "pistaExtra": "Defensor central agresivo, elegido mejor defensor de la Serie A con Atalanta y campeón del mundo 2022"
+    "pistaExtra": "Defensor central agresivo, elegido mejor defensor de la Serie A con Atalanta y campeón del mundo 2022",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Qatar 2022. Un defensor argentino aguerrido marca a los mejores del mundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Elegido mejor defensor de la Serie A con un club de Bérgamo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Belgrano a Genoa y Atalanta. Después cruzó a la Premier League.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central argentino del Tottenham. Campeón del mundo 2022. Agresivo y veloz.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Belgrano, Genoa, Atalanta, Tottenham. Argentina campeona 2022. Central aguerrido.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cristiano_ronaldo",
@@ -4205,7 +5852,34 @@
       "IT",
       "SA"
     ],
-    "pistaExtra": "Máximo goleador histórico del Real Madrid"
+    "pistaExtra": "Máximo goleador histórico del Real Madrid",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Una máquina de goles que batió todos los récords posibles durante dos décadas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "5 Balones de Oro. Máximo goleador en la historia de la Champions League.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De una isla portuguesa a Manchester. De Manchester a Madrid. De Madrid al mundo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Portugués. Sporting, United, Real Madrid, Juventus. El goleador definitivo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Sporting, United, Real Madrid, Juve, Al-Nassr. 5 Balones de Oro. Máximo goleador del Madrid.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "cuauhtemoc_blanco",
@@ -4292,7 +5966,34 @@
       "ES",
       "US"
     ],
-    "pistaExtra": "Inventó la 'Cuauhtemiña', regate que lleva su nombre"
+    "pistaExtra": "Inventó la 'Cuauhtemiña', regate que lleva su nombre",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Francia 98. Un regate nunca visto. Un jugador salta con la pelota entre los pies.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Inventó un regate que lleva su nombre. Ídolo absoluto en su país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "América de México fue su casa. Volvió una y otra vez.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Enganche mexicano. América, Valladolid, Chicago Fire. Regate icónico.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "América de México, toda la vida. Inventó un regate legendario. Ídolo mexicano total.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dani_alves",
@@ -4383,7 +6084,34 @@
       "FR",
       "MX"
     ],
-    "pistaExtra": "El jugador con más títulos en la historia del fútbol"
+    "pistaExtra": "El jugador con más títulos en la historia del fútbol",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "El jugador con más títulos en la historia del fútbol. Récord absoluto. Más de 40 copas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Bahía a Sevilla. Después, Cataluña por casi una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Sevilla, Barcelona, Juventus, PSG, São Paulo. Lateral derecho incansable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño. Lateral del Barcelona de Guardiola. El más ganador de la historia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Bahía, Sevilla, Barcelona, PSG, Juve, São Paulo. Brasileño. Más títulos que nadie.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dani_olmo",
@@ -4440,7 +6168,34 @@
       "DE",
       "ES"
     ],
-    "pistaExtra": "Máximo goleador de la Eurocopa 2024 con España, donde fue elegido mejor jugador del torneo"
+    "pistaExtra": "Máximo goleador de la Eurocopa 2024 con España, donde fue elegido mejor jugador del torneo",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Berlín, 2024. España campeona de Europa. Un mediocampista es elegido mejor jugador.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se formó en España pero se fue a Croacia de joven. Regresó por la puerta grande.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Dinamo Zagreb, RB Leipzig y vuelta a España. Máximo goleador de la Euro 2024.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Español. Leipzig, luego Barcelona. MVP de la Eurocopa 2024.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Dinamo Zagreb, Leipzig, Barcelona. España campeona Euro 2024. Goleador y MVP del torneo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "daniel_passarella",
@@ -4507,7 +6262,34 @@
       "AR",
       "IT"
     ],
-    "pistaExtra": "Capitán y campeón del mundo con Argentina en 1978, defensor goleador récord con más de 130 goles en su carrera"
+    "pistaExtra": "Capitán y campeón del mundo con Argentina en 1978, defensor goleador récord con más de 130 goles en su carrera",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Buenos Aires, 1978. Un defensor levanta la copa del mundo. Goleador desde atrás.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Más de 130 goles en su carrera. Un récord insólito para un central.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De River Plate a la Fiorentina. Después Inter y vuelta a Núñez.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán argentino campeón del mundo 1978. Defensor goleador. River y Fiorentina.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River Plate, Fiorentina, Inter. Capitán Argentina 78. Defensor con más de 130 goles.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "daniele_de_rossi",
@@ -4559,7 +6341,34 @@
       "IT",
       "AR"
     ],
-    "pistaExtra": "Leyenda de la Roma con casi 20 años en el club, terminó su carrera en Boca Juniors"
+    "pistaExtra": "Leyenda de la Roma con casi 20 años en el club, terminó su carrera en Boca Juniors",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Roma, casi 20 años. Un mediocampista que nunca quiso irse. Un club, una ciudad, una vida.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Campeón del mundo 2006 con Italia. Roma fue todo para él.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Terminó su carrera como jugador en Buenos Aires, en un club azul y oro.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Leyenda de la Roma. Italiano. Casi dos décadas. Después jugó en Boca Juniors.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Roma toda la vida. Italia campeona 2006. Se retiró en Boca Juniors.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dario_benedetto",
@@ -4638,7 +6447,34 @@
       "FR",
       "ES"
     ],
-    "pistaExtra": "Goleador de Boca Juniors en dos etapas, pasó por el Marsella en la Ligue 1"
+    "pistaExtra": "Goleador de Boca Juniors en dos etapas, pasó por el Marsella en la Ligue 1",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "La Bombonera ruge. Un goleador argentino marca en cada partido importante de Boca.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De México volvió a Argentina. Después probó en Francia y regresó.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Arsenal de Sarandí, Tijuana, América, Boca, Marsella, Boca. Ida y vuelta.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Goleador de Boca en dos etapas. Pasó por el Marsella en la Ligue 1.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Boca Juniors dos veces. Tijuana, América, Marsella. Goleador argentino con apodo de pipa.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "darwin_nunez",
@@ -4700,7 +6536,34 @@
       "PT",
       "GB-ENG"
     ],
-    "pistaExtra": "Transferencia de 75M de Benfica a Liverpool"
+    "pistaExtra": "Transferencia de 75M de Benfica a Liverpool",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Anfield, 2022. Liverpool paga 75 millones por un goleador sudamericano de Benfica.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Arrancó en un grande de Montevideo. Pasó por España antes de explotar en Portugal.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Peñarol, Almería, Benfica y después la Premier League.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Uruguayo. Goleador del Liverpool. Transferencia millonaria desde Benfica.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Peñarol, Almería, Benfica, Liverpool. Uruguayo. 75M de traspaso. Velocidad y gol.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "david_beckham",
@@ -4775,7 +6638,34 @@
       "IT",
       "FR"
     ],
-    "pistaExtra": "Conocido por sus centros y tiros libres con efecto"
+    "pistaExtra": "Conocido por sus centros y tiros libres con efecto",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un centro perfecto desde la derecha. Un tiro libre que se curva como nadie más puede.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Manchester a Madrid. Después Los Ángeles, Milán y París. Íconodel fútbol global.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Inglés que vistió la camiseta del Real Madrid en la era de los Galácticos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Manchester United, Real Madrid, LA Galaxy. Mediocampista inglés. Centros y tiros libres.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "United, Real Madrid, Galaxy, Milan, PSG. Inglés. Centros legendarios. Ícono global.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "david_luiz",
@@ -4855,7 +6745,34 @@
       "GB-ENG",
       "FR"
     ],
-    "pistaExtra": "Conocido por sus tiros libres y su pelo"
+    "pistaExtra": "Conocido por sus tiros libres y su pelo",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un defensor brasileño con rulos inconfundibles. Goles de tiro libre desde 30 metros.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Chelsea, PSG y de vuelta a Chelsea. Dos etapas en Londres.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Benfica, Chelsea, PSG, Arsenal, Flamengo. Central con alma de enganche.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño. Chelsea dos veces. PSG. Arsenal. Pelo rizado. Tiro libre letal.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Benfica, Chelsea, PSG, Chelsea, Arsenal, Flamengo. Brasileño. Rulos y tiros libres.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "david_seaman",
@@ -4911,7 +6828,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Arquero emblema del Arsenal de los 90, reconocido por su bigote y su seguridad bajo los tres palos"
+    "pistaExtra": "Arquero emblema del Arsenal de los 90, reconocido por su bigote y su seguridad bajo los tres palos",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Highbury, años 90. Un arquero con bigote y manos seguras domina la Premier.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Formó parte del Arsenal invicto. Leyenda bajo los tres palos por más de una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De QPR al Arsenal. Terminó brevemente en Manchester City.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero inglés del Arsenal de los 90. Bigote icónico. Seguridad total.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Arsenal por 13 años. Arquero inglés. Bigote famoso. Manos seguras. QPR antes.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "david_silva",
@@ -4978,7 +6922,34 @@
       "ES",
       "GB"
     ],
-    "pistaExtra": "Campeón del Mundo 2010 y cuatro veces campeón de la Premier"
+    "pistaExtra": "Campeón del Mundo 2010 y cuatro veces campeón de la Premier",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudáfrica, 2010. España campeona. Un mediocampista canario es pieza silenciosa del éxito.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Diez temporadas en Manchester. Cuatro títulos de Premier. El mago del medio.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Valencia a City. Después volvió a España, a la Real Sociedad.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Español del Manchester City. Campeón del mundo 2010. Zurda mágica.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Valencia, Manchester City 10 años, Real Sociedad. España campeona 2010. Mediocampista mago.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "david_trezeguet",
@@ -5058,7 +7029,34 @@
       "ES",
       "IN"
     ],
-    "pistaExtra": "Gol de Oro en la final de la Euro 2000"
+    "pistaExtra": "Gol de Oro en la final de la Euro 2000",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Rotterdam, 2000. Final de la Eurocopa. Gol de Oro. Francia campeona. Un franco-argentino decide.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Nacido en Francia, criado en Argentina. Arrancó en un club humilde de Buenos Aires.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Mónaco a la Juventus. Diez años en Turín goleando en la Serie A.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Franco-argentino. Goleador de la Juventus. Gol de Oro en la Euro 2000.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Platense, Mónaco, Juventus, River. Gol de Oro Euro 2000. Franco-argentino.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "david_villa",
@@ -5135,7 +7133,34 @@
       "US",
       "JP"
     ],
-    "pistaExtra": "Máximo goleador histórico de la selección española hasta 2023"
+    "pistaExtra": "Máximo goleador histórico de la selección española hasta 2023",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudáfrica 2010. España campeona. Un delantero asturiano es el máximo goleador del torneo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Máximo artillero histórico de la selección española hasta hace poco.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Sporting de Gijón, Zaragoza, Valencia y Barcelona. Puro fútbol español.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Delantero español. Valencia, Barcelona, Atlético. Goleador histórico de la Roja.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Sporting, Zaragoza, Valencia, Barcelona, Atlético, NYC, Kobe. España. Goleador de la selección.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "davor_suker",
@@ -5214,7 +7239,34 @@
       "GB",
       "DE"
     ],
-    "pistaExtra": "Bota de Oro del Mundial 1998 con 6 goles"
+    "pistaExtra": "Bota de Oro del Mundial 1998 con 6 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Francia 98. Croacia sorprende al mundo. Un delantero gana la Bota de Oro con 6 goles.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Sevilla al Real Madrid. Después un paso breve por Arsenal.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Croata. Osijek, Dinamo Zagreb, Sevilla, Real Madrid, Arsenal, West Ham.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Bota de Oro del Mundial 1998. Delantero croata. Jugó en el Real Madrid.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Croata. Sevilla, Real Madrid, Arsenal. 6 goles en Francia 98. Bota de Oro.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "deco",
@@ -5287,7 +7339,34 @@
       "GB-ENG",
       "BR"
     ],
-    "pistaExtra": "Ganó la Champions con Porto 2004 y fue clave del Barcelona"
+    "pistaExtra": "Ganó la Champions con Porto 2004 y fue clave del Barcelona",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Gelsenkirchen, 2004. Un equipo portugués gana la Champions. Un brasileño nacionalizado es el cerebro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Nacido en Brasil, jugó para la selección de Portugal. Enganche con visión total.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Porto, Barcelona y Chelsea. Tres clubes enormes.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño-portugués. Champions con Porto 2004. Después Barcelona y Chelsea.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Porto campeón de Champions 2004. Después Barcelona y Chelsea. Brasileño con pasaporte portugués.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dejan_savicevic",
@@ -5348,7 +7427,34 @@
       "IT",
       "AT"
     ],
-    "pistaExtra": "Golazo desde fuera del área en la final de Champions 1994"
+    "pistaExtra": "Golazo desde fuera del área en la final de Champions 1994",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Atenas, 1994. Final de Champions. Un golazo desde fuera del área que entra como un misil.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Ganó la Copa de Europa con Estrella Roja en 1991 antes de ir a Italia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Belgrado a Milán. Serbio con magia pura. El Genio del calcio.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Estrella Roja y Milan. Serbio. Golazo en la final de Champions 1994.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Estrella Roja, Milan. Serbio. Golazo en la final de 1994 contra Barcelona. El Genio.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dejan_stankovic",
@@ -5405,7 +7511,34 @@
       "RS",
       "IT"
     ],
-    "pistaExtra": "Único jugador en disputar 3 Mundiales con 3 selecciones diferentes (Yugoslavia, Serbia y Montenegro, Serbia)"
+    "pistaExtra": "Único jugador en disputar 3 Mundiales con 3 selecciones diferentes (Yugoslavia, Serbia y Montenegro, Serbia)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Tres Mundiales, tres selecciones diferentes. Un récord único en la historia del fútbol.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Yugoslavia, Serbia y Montenegro, y Serbia. El mismo hombre, tres banderas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Estrella Roja, Lazio e Inter. Casi dos décadas en Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Serbio del Inter y la Lazio. 3 Mundiales con 3 selecciones distintas.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Estrella Roja, Lazio, Inter. Serbio. 3 Mundiales con 3 selecciones. Récord único.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "denilson",
@@ -5474,7 +7607,34 @@
       "FR",
       "US"
     ],
-    "pistaExtra": "Fue el fichaje más caro del mundo en 1998 (31.5M)"
+    "pistaExtra": "Fue el fichaje más caro del mundo en 1998 (31.5M)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "1998. El fichaje más caro del mundo. Un extremo brasileño llega a España por una cifra récord.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "31.5 millones a un club sevillano. Regates imposibles pero inconsistencia.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De São Paulo al Betis. Después Bordeaux y la MLS.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Real Betis. Fichaje récord mundial en 1998. Regates y velocidad.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "São Paulo, Real Betis, Bordeaux. Brasileño. Fichaje más caro del mundo en 1998. 31.5M.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dennis_bergkamp",
@@ -5534,7 +7694,34 @@
       "IT",
       "GB"
     ],
-    "pistaExtra": "Famoso por su gol contra Argentina en el Mundial 1998"
+    "pistaExtra": "Famoso por su gol contra Argentina en el Mundial 1998",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Saint-Étienne, 1998. Un control de espalda imposible. Gol contra Argentina. El mundo se detiene.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Tenía miedo a volar. Nunca viajaba a los partidos fuera de Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Ajax, Inter y Arsenal. Holandés que marcó una era en Londres.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Holandés del Arsenal. Gol icónico contra Argentina en el Mundial 98. No volaba.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Ajax, Inter, Arsenal. Holandés. Gol mágico contra Argentina. Miedo a volar.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dida",
@@ -5599,7 +7786,34 @@
       "BR",
       "IT"
     ],
-    "pistaExtra": "Arquero del Milan bicampeón de Champions League y campeón del mundo con Brasil en 2002"
+    "pistaExtra": "Arquero del Milan bicampeón de Champions League y campeón del mundo con Brasil en 2002",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Yokohama 2002. Brasil campeón del mundo. Un arquero gigante custodia el arco.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Bicampeón de la Champions League con un club de Milán.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Vitória y Cruzeiro a una década en la Serie A.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero brasileño del Milan. Champions 2003 y 2007. Campeón del mundo 2002.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Vitória, Cruzeiro, Corinthians, Milan. Brasileño. Champions con Milan. Mundial 2002.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "didier_deschamps",
@@ -5669,7 +7883,34 @@
       "GB",
       "ES"
     ],
-    "pistaExtra": "Único en ganar el Mundial como capitán (1998) y como técnico (2018) de Francia"
+    "pistaExtra": "Único en ganar el Mundial como capitán (1998) y como técnico (2018) de Francia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "París, 1998. Francia campeona por primera vez. El capitán levanta la copa en casa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Único hombre en ganar el Mundial como capitán y como director técnico de su país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Marsella, Juventus, Chelsea, Valencia. Volante de contención. Líder nato.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Francés. Capitán campeón 1998. DT campeón 2018. Marsella y Juventus.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Nantes, Marsella, Juventus, Chelsea. Francia 98 como capitán, 2018 como DT. Único.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "diego_costa",
@@ -5757,7 +7998,34 @@
       "GB-ENG",
       "BR"
     ],
-    "pistaExtra": "Nació en Brasil pero eligió la selección española"
+    "pistaExtra": "Nació en Brasil pero eligió la selección española",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un delantero aguerrido nacido en Brasil que eligió jugar para otro país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Su pelea constante con los rivales era parte de su juego. Provocador nato.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Atlético de Madrid y Chelsea. Dos etapas en Madrid.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño naturalizado español. Goleador del Atlético y Chelsea. Guerrero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Atlético de Madrid, Chelsea, Atlético. Nació en Brasil, jugó para España. Delantero agresivo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "diego_forlan",
@@ -5850,7 +8118,34 @@
       "BR",
       "JP"
     ],
-    "pistaExtra": "Balón de Oro del Mundial 2010 en Sudáfrica, dos veces Pichichi de La Liga y goleador histórico de Uruguay"
+    "pistaExtra": "Balón de Oro del Mundial 2010 en Sudáfrica, dos veces Pichichi de La Liga y goleador histórico de Uruguay",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudáfrica 2010. Un uruguayo es elegido el mejor jugador del Mundial. Goles memorables.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Dos Pichichis en La Liga. Villarreal y Atlético de Madrid lo adoraron.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Empezó en Danubio e Independiente. Pasó por Manchester United sin brillar.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Uruguayo. Balón de Oro del Mundial 2010. Villarreal y Atlético de Madrid.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Danubio, Independiente, United, Villarreal, Atlético. Uruguay. Balón de Oro Mundial 2010.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "diego_godin",
@@ -5936,7 +8231,34 @@
       "BR",
       "AR"
     ],
-    "pistaExtra": "Gol de cabeza en la final de la Champions League 2014"
+    "pistaExtra": "Gol de cabeza en la final de la Champions League 2014",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Lisboa, 2014. Final de Champions. Un cabezazo empata todo. El Atlético roza la gloria.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Capitán y central inamovible de un equipo colchonero durante casi una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Nacional y Villarreal a Madrid. Después Inter, Cagliari y Sudamérica.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Uruguayo del Atlético de Madrid. Cabezazo en la final de Champions 2014. Defensor líder.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Nacional, Villarreal, Atlético Madrid 9 años. Uruguayo. Gol en la final de Champions 2014.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "diego_lugano",
@@ -6009,7 +8331,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Capitán de Uruguay en el Mundial 2010"
+    "pistaExtra": "Capitán de Uruguay en el Mundial 2010",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudáfrica 2010. Uruguay en semifinales. Un capitán lidera con garra desde atrás.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Brilló en Brasil con São Paulo antes de saltar a Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "São Paulo, Fenerbahçe, PSG, Málaga. Carrera internacional.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central uruguayo. Capitán en el Mundial 2010. São Paulo y PSG.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "São Paulo, Fenerbahçe, PSG, Málaga. Capitán de Uruguay 2010. Defensor aguerrido.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "diego_milito",
@@ -6085,7 +8434,34 @@
       "IT",
       "ES"
     ],
-    "pistaExtra": "Dos goles en la final de la Champions League 2010"
+    "pistaExtra": "Dos goles en la final de la Champions League 2010",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, 2010. Final de Champions. Dos goles de un argentino sentencian todo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Empezó y terminó su carrera en el mismo club argentino. Ídolo total.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Racing, Genoa, Zaragoza e Inter. Goleador fino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Inter. Dos goles en la final de Champions 2010. Racing al inicio y al final.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Racing, Genoa, Zaragoza, Inter, Racing. Dos goles final Champions 2010. Argentino.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "diego_simeone",
@@ -6170,7 +8546,34 @@
       "IT",
       "ES"
     ],
-    "pistaExtra": "Hoy es el DT más exitoso en la historia del Atlético de Madrid"
+    "pistaExtra": "Hoy es el DT más exitoso en la historia del Atlético de Madrid",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un mediocampista argentino que corría como ninguno. Intensidad pura.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Hoy es el DT más exitoso en la historia de un club colchonero. Pero antes fue jugador allí.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Vélez, Sevilla, Atlético, Inter, Lazio. Europa completa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino. Jugó en Atlético dos veces. Lazio e Inter. Ahora DT del Atlético.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Vélez, Sevilla, Atlético, Inter, Lazio, Atlético, Racing. Hoy DT histórico del Atlético.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dimitar_berbatov",
@@ -6256,7 +8659,34 @@
       "GR",
       "IN"
     ],
-    "pistaExtra": "Famoso por su elegancia y control de balón"
+    "pistaExtra": "Famoso por su elegancia y control de balón",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un delantero con un control de balón tan suave que parecía jugar en cámara lenta.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Bulgaria a Alemania, luego Londres y Manchester. Elegancia sin apuro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Leverkusen, Tottenham, Manchester United, Fulham, Mónaco. Nómade del gol.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Búlgaro del Manchester United. Control exquisito. Goleador del Leverkusen y Tottenham.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "CSKA Sofía, Leverkusen, Tottenham, United, Fulham, Mónaco. Búlgaro. Elegancia pura.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "diogo_jota",
@@ -6316,7 +8746,34 @@
       "PT",
       "GB-ENG"
     ],
-    "pistaExtra": "Delantero portugués que fue parte del Liverpool campeón de la Premier League y la Champions bajo Klopp"
+    "pistaExtra": "Delantero portugués que fue parte del Liverpool campeón de la Premier League y la Champions bajo Klopp",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Anfield, era Klopp. Un delantero portugués completa el ataque más temido de Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Wolverhampton a Liverpool. Un salto que pocos esperaban.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Paços de Ferreira, Porto, Wolves y Liverpool. Carrera ascendente.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Portugués del Liverpool. Llegó de Wolves. Goleador letal.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Porto, Wolves, Liverpool. Portugués. Delantero del Liverpool de Klopp. Premier y Champions.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dragan_stojkovic",
@@ -6377,7 +8834,34 @@
       "IT",
       "JP"
     ],
-    "pistaExtra": "Leyenda en Japón, luego DT de Serbia en el Mundial 2022"
+    "pistaExtra": "Leyenda en Japón, luego DT de Serbia en el Mundial 2022",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Italia 90. Un enganche yugoslavo deslumbra al mundo con su técnica.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se fue a Japón y se convirtió en leyenda. Después volvió como DT de su selección.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Estrella Roja, Marsella, Verona y Nagoya Grampus. Nómade del talento.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Serbio. Leyenda en Japón con Nagoya. DT de Serbia en el Mundial 2022.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Estrella Roja, Marsella, Nagoya. Serbio. Ídolo en Japón. DT de Serbia en Qatar 2022.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "drogba",
@@ -6462,7 +8946,34 @@
       "TR",
       "US"
     ],
-    "pistaExtra": "Gol en la final de Champions 2012"
+    "pistaExtra": "Gol en la final de Champions 2012",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Múnich, 2012. Minuto 88. Un cabezazo empata la final de Champions. Después, penales.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De la Ligue 1 a Londres. El delantero más temido de la Premier por una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Le Mans, Guingamp, Marsella y Chelsea. Marfileño imparable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Goleador del Chelsea. Costa de Marfil. Gol en la final de Champions 2012.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Le Mans, Marsella, Chelsea. Marfileño. Gol en la final de Champions 2012. Leyenda azul.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "dunga",
@@ -6557,7 +9068,34 @@
       "DE",
       "JP"
     ],
-    "pistaExtra": "Capitán de Brasil campeón del mundo en USA 1994, volante de contención aguerrido"
+    "pistaExtra": "Capitán de Brasil campeón del mundo en USA 1994, volante de contención aguerrido",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Pasadena, 1994. Brasil gana el Mundial en penales. El capitán levanta la copa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Volante de contención aguerrido. Lideró un Brasil pragmático, no el bonito.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Internacional, Fiorentina, Stuttgart, Jubilo Iwata. De Brasil a Europa a Japón.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán de Brasil campeón 1994. Después DT de la selección. Mediocampista defensivo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Internacional, Fiorentina, Stuttgart, Jubilo. Capitán Brasil 94. Después DT de Brasil.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "eden_hazard",
@@ -6614,7 +9152,34 @@
       "GB",
       "ES"
     ],
-    "pistaExtra": "Dos veces mejor jugador de la Premier League (2015, 2019)"
+    "pistaExtra": "Dos veces mejor jugador de la Premier League (2015, 2019)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Stamford Bridge, 2015-2019. Un extremo belga hace lo que quiere con la pelota.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Dos veces mejor jugador de la Premier League. Después un fichaje galáctico que no funcionó.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Lille, Chelsea, Real Madrid. De Francia a Londres a España.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Belga. Chelsea, luego Real Madrid. Lesiones frenaron su carrera en España.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Lille, Chelsea, Real Madrid. Belga. Dos veces MVP de la Premier. Se retiró en Madrid.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "edinson_cavani",
@@ -6696,7 +9261,34 @@
       "ES",
       "AR"
     ],
-    "pistaExtra": "Máximo goleador histórico de la selección uruguaya"
+    "pistaExtra": "Máximo goleador histórico de la selección uruguaya",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un goleador uruguayo que hizo de París su casa durante 7 temporadas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Máximo artillero histórico de la selección uruguaya. Olfato de gol puro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Danubio, Palermo, Napoli, PSG, United, Valencia y Boca.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Uruguayo. PSG, Napoli, Manchester United. Máximo goleador de Uruguay.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Danubio, Palermo, Napoli, PSG, United, Boca. Uruguayo. Goleador histórico de su selección.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "elias_figueroa",
@@ -6768,7 +9360,34 @@
       "BR",
       "US"
     ],
-    "pistaExtra": "3 veces mejor futbolista de Sudamérica, considerado el mejor defensor del continente"
+    "pistaExtra": "3 veces mejor futbolista de Sudamérica, considerado el mejor defensor del continente",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudamérica, años 70. Un defensor es elegido tres veces el mejor futbolista del continente.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Dominó en Uruguay, Brasil y su país natal. El mejor central de su generación.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Peñarol, Internacional de Porto Alegre y clubes chilenos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Chileno. 3 veces mejor de Sudamérica. Peñarol e Internacional. Defensor legendario.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Wanderers, Peñarol, Internacional, Colo-Colo. Chileno. 3 veces mejor de Sudamérica.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "emerson_br",
@@ -6848,7 +9467,34 @@
       "IT",
       "ES"
     ],
-    "pistaExtra": "Mediocampista brasileño campeón del mundo en 2002, recorrió los mejores clubes de Europa"
+    "pistaExtra": "Mediocampista brasileño campeón del mundo en 2002, recorrió los mejores clubes de Europa",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Corea-Japón 2002. Brasil campeón. Un mediocampista brasileño está en el plantel.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Grêmio a Leverkusen. Después Roma, Juventus, Real Madrid y Milan. Toda Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Mediocampista brasileño que recorrió los mejores clubes de Italia y España.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño. Roma, Juventus, Real Madrid, Milan. Campeón del mundo 2002.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Grêmio, Leverkusen, Roma, Juve, Real Madrid, Milan, Santos. Brasil campeón 2002.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "emiliano_martinez",
@@ -6936,7 +9582,34 @@
       "GB-ENG",
       "ES"
     ],
-    "pistaExtra": "Héroe en la tanda de penales de la final del Mundial 2022"
+    "pistaExtra": "Héroe en la tanda de penales de la final del Mundial 2022",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Lusail, 2022. Penales. Un arquero baila, provoca y ataja. Argentina campeona.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Más de 10 años en un club londinense sin ser titular. La paciencia como virtud.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Arsenal a un club de Birmingham. Ahí explotó.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero argentino del Aston Villa. Héroe de los penales en la final del Mundial 2022.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Arsenal 10 años, Aston Villa. Argentina campeona 2022. Penales. Provocación. Héroe.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "endrick",
@@ -6987,7 +9660,34 @@
       "BR",
       "ES"
     ],
-    "pistaExtra": "Debutó con 16 años como goleador profesional"
+    "pistaExtra": "Debutó con 16 años como goleador profesional",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "São Paulo, 2022. Un delantero debuta profesionalmente con 16 años. El mundo lo observa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Palmeiras lo formó. Un gigante europeo lo compró antes de que cumpla 18.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Brasileño que llegó al club más grande de Europa siendo adolescente.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "De Palmeiras al Real Madrid. Brasileño. 16 años de debut. Goleador joven.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Palmeiras, Real Madrid. Brasileño. Debutó con 16 años. La nueva joya del fútbol.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "enzo_fernandez",
@@ -7046,7 +9746,34 @@
       "PT",
       "GB-ENG"
     ],
-    "pistaExtra": "Mejor jugador joven del Mundial 2022"
+    "pistaExtra": "Mejor jugador joven del Mundial 2022",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Lusail, 2022. Un mediocampista joven argentino brilla en el escenario más grande del mundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Elegido el mejor jugador joven del torneo. De River a Europa en un año.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De River Plate a Lisboa. Después a Londres por una cifra millonaria.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Chelsea. Mejor jugador joven del Mundial 2022. Pasó por Benfica.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Benfica, Chelsea. Argentina campeona 2022. Mejor joven del Mundial.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "enzo_francescoli",
@@ -7126,7 +9853,34 @@
       "FR",
       "IT"
     ],
-    "pistaExtra": "Ídolo de Zidane, quien nombró a su hijo Enzo en su honor"
+    "pistaExtra": "Ídolo de Zidane, quien nombró a su hijo Enzo en su honor",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "El ídolo del ídolo. Un crack uruguayo que inspiró al mejor jugador francés de su generación.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Un jugador tan elegante que un genio europeo nombró a su hijo en su honor.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Wanderers, River Plate, Marsella, Cagliari, Torino. Sudamérica y Europa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Uruguayo. Ídolo de River Plate. Inspiró a Zidane. Enganche de clase mundial.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Wanderers, River Plate, Marsella, Cagliari. Uruguayo. Ídolo de Zidane.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "eric_abidal",
@@ -7181,7 +9935,34 @@
       "FR",
       "ES"
     ],
-    "pistaExtra": "Superó un trasplante de hígado y volvió a jugar al máximo nivel"
+    "pistaExtra": "Superó un trasplante de hígado y volvió a jugar al máximo nivel",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un defensor que superó un trasplante de hígado y volvió a jugar al máximo nivel.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Lyon al Barcelona. Ganó la Champions y le dieron la cinta para levantarla.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Francés. Lyon 7 años, Barcelona 6 años. Lateral izquierdo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Defensor francés del Barcelona. Trasplante de hígado. Volvió a jugar.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Lyon, Barcelona, Mónaco. Francés. Superó un trasplante y siguió jugando al top.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "eric_cantona",
@@ -7263,7 +10044,34 @@
       "FR",
       "GB"
     ],
-    "pistaExtra": "Ícono del Manchester United de los 90, se retiró a los 30 años para dedicarse al cine"
+    "pistaExtra": "Ícono del Manchester United de los 90, se retiró a los 30 años para dedicarse al cine",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Old Trafford, años 90. Un francés con el cuello levantado camina como un rey.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se retiró a los 30 para dedicarse al cine. Nadie lo vio venir.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Francia a Leeds. De Leeds a Manchester. Cambió la historia de un club.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Francés del Manchester United. Ícono de los 90. Se retiró joven.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Marsella, Leeds, Manchester United. Francés. Cuello levantado. Ícono de Old Trafford.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "erik_lamela",
@@ -7327,7 +10135,34 @@
       "GB-ENG",
       "ES"
     ],
-    "pistaExtra": "Famoso por su gol de rabona con el Tottenham, premio Puskás 2021"
+    "pistaExtra": "Famoso por su gol de rabona con el Tottenham, premio Puskás 2021",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Londres, 2021. Un gol de rabona imposible gana el premio Puskás. El mundo no lo puede creer.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De River Plate a Roma. Después casi una década en la Premier League.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Argentino que brilló en el Tottenham. Después se fue a Sevilla.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Gol de rabona, premio Puskás 2021. River, Roma, Tottenham, Sevilla.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Roma, Tottenham, Sevilla. Argentino. Rabona legendaria. Premio Puskás.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "erling_haaland",
@@ -7396,7 +10231,34 @@
       "DE",
       "GB"
     ],
-    "pistaExtra": "Ganó el Treble con Manchester City en 2023"
+    "pistaExtra": "Ganó el Treble con Manchester City en 2023",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un gigante nórdico que mete goles como si fuera un videojuego. Cifras irreales.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Treble en su primera temporada en la Premier League. 52 goles en una temporada.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Noruega, Austria, Alemania, Inglaterra. Cada paso fue una explosión goleadora.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Noruego del Manchester City. Treble 2023. Hijo de un exfutbolista de la Premier.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Molde, Salzburg, Dortmund, City. Noruego. Treble 2023. Máquina de goles.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "etoo",
@@ -7491,7 +10353,34 @@
       "GB-ENG",
       "TR"
     ],
-    "pistaExtra": "Ganó la Champions con dos clubes distintos en dos años seguidos"
+    "pistaExtra": "Ganó la Champions con dos clubes distintos en dos años seguidos",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Champions League dos años seguidos, con dos clubes distintos. Nadie más lo hizo así.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "El mejor goleador africano de su generación. Tres veces mejor futbolista de África.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Real Madrid, Mallorca, Barcelona, Inter. De España a Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Camerunés. Barcelona e Inter. Champions con ambos. Goleador letal.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Real Madrid, Mallorca, Barcelona, Inter, Chelsea. Camerunés. Champions con Barça e Inter.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "eusebio",
@@ -7551,7 +10440,34 @@
       "US",
       "CA"
     ],
-    "pistaExtra": "Máximo goleador de la historia del Benfica con más de 600 goles"
+    "pistaExtra": "Máximo goleador de la historia del Benfica con más de 600 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Lisboa, años 60. Un goleador nacido en Mozambique aterroriza a Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Más de 600 goles con un solo club. Un récord que resistió décadas.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Llegó de África y nunca se fue de Lisboa. Benfica fue su vida.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Máximo goleador histórico del Benfica. Portugués adoptivo. Balón de Oro 1965.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Benfica toda la vida. Mozambique. Portugal. Pantera del gol. Más de 600 goles.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ever_banega",
@@ -7630,7 +10546,34 @@
       "IT",
       "SA"
     ],
-    "pistaExtra": "Ganó tres Europa League con Sevilla"
+    "pistaExtra": "Ganó tres Europa League con Sevilla",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sevilla, tres noches mágicas. Un mediocampista argentino levanta la Europa League cada vez.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Boca Juniors a Valencia. Después el Inter no le funcionó.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Tres Europa League con Sevilla. Boca, Valencia, Newell's, Inter.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Sevilla. Tres Europa League. Pasó por Boca, Valencia e Inter.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Boca, Valencia, Newell's, Sevilla, Inter, Sevilla. Argentino. Tres Europa League con Sevilla.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "exequiel_palacios",
@@ -7682,7 +10625,34 @@
       "AR",
       "DE"
     ],
-    "pistaExtra": "Campeón de la Libertadores 2018 con River y del invicto histórico de Leverkusen en la Bundesliga 2023-24"
+    "pistaExtra": "Campeón de la Libertadores 2018 con River y del invicto histórico de Leverkusen en la Bundesliga 2023-24",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, 2018. River gana la Libertadores más dramática. Un volante joven es clave.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De River a Alemania. Parte del equipo invicto que hizo historia en la Bundesliga.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "River Plate y Bayer Leverkusen. Argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Leverkusen invicto 2024. Campeón de la Libertadores 2018 con River.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River Plate, Bayer Leverkusen. Libertadores 2018. Bundesliga invicta 2024. Argentino.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ezequiel_lavezzi",
@@ -7756,7 +10726,34 @@
       "FR",
       "CN"
     ],
-    "pistaExtra": "Ídolo de Napoli, donde lo comparaban con Maradona por su carisma"
+    "pistaExtra": "Ídolo de Napoli, donde lo comparaban con Maradona por su carisma",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Nápoles lo adoró. Un argentino con carisma que le recordaba al más grande que pasó por ahí.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De San Lorenzo al sur de Italia. Después París y China.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Estudiantes, San Lorenzo, Napoli, PSG. Extremo con gambeta.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Napoli y el PSG. Lo comparaban con el Diego en Nápoles.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Estudiantes, San Lorenzo, Napoli, PSG. Argentino. Ídolo en Nápoles. Carisma puro.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fabio_cannavaro",
@@ -7835,7 +10832,34 @@
       "ES",
       "AE"
     ],
-    "pistaExtra": "Único defensor en ganar el Balón de Oro (2006), tras ser campeón del mundo con Italia"
+    "pistaExtra": "Único defensor en ganar el Balón de Oro (2006), tras ser campeón del mundo con Italia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Berlín, 2006. Italia campeona. Un defensor gana el Balón de Oro. El único central en lograrlo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Nápoles a Parma, Inter, Juventus y Real Madrid. El calcio lo formó.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Único defensor en ganar el Balón de Oro. Italiano puro.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central italiano. Balón de Oro 2006. Juventus y Real Madrid.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Napoli, Parma, Inter, Juve, Real Madrid. Italiano. Balón de Oro 2006. Único defensor.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fabricio_coloccini",
@@ -7924,7 +10948,34 @@
       "ES",
       "GB-ENG"
     ],
-    "pistaExtra": "Capitán de Newcastle por varios años, gran recorrido por España"
+    "pistaExtra": "Capitán de Newcastle por varios años, gran recorrido por España",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Newcastle, años 2010. Un central argentino con rulos se convierte en capitán.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Recorrió media España antes de cruzar a Inglaterra.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Argentinos Juniors, Milan, San Lorenzo, Alavés, Atlético, Villarreal, Depor, Newcastle.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino. Capitán de Newcastle. Gran recorrido por España. Volvió a San Lorenzo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Argentinos, Milan, San Lorenzo, España, Newcastle, San Lorenzo. Argentino. Capitán en Inglaterra.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "falcao_br",
@@ -7981,7 +11032,34 @@
       "BR",
       "IT"
     ],
-    "pistaExtra": "Leyenda brasileña que brilló en la Roma italiana, ganando el Scudetto en 1983"
+    "pistaExtra": "Leyenda brasileña que brilló en la Roma italiana, ganando el Scudetto en 1983",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Roma, 1983. Un brasileño hace ganar el Scudetto al equipo de la capital.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Llegó de Porto Alegre y conquistó Italia con su elegancia y visión.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Internacional, Roma, São Paulo. Mediocampista brasileño de los 80.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Roma. Scudetto 1983. Lo llamaban el Rey de esa ciudad.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Internacional, Roma, São Paulo. Brasileño. Scudetto 1983. El Rey de Roma.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "faustino_asprilla",
@@ -8055,7 +11133,34 @@
       "GB-ENG",
       "BR"
     ],
-    "pistaExtra": "Hat-trick contra Barcelona en Champions con Newcastle"
+    "pistaExtra": "Hat-trick contra Barcelona en Champions con Newcastle",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "St. James' Park, Champions League. Un hat-trick contra el Barcelona. Newcastle vuela.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Colombia a Italia. Un delantero impredecible que enloquecía a los defensores.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Atlético Nacional, Parma, Newcastle, Palmeiras. Colombiano explosivo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Colombiano. Parma y Newcastle. Hat-trick contra el Barça en Champions.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Nacional, Parma, Newcastle. Colombiano. Tres goles al Barcelona en Champions. Impredecible.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "federico_valverde",
@@ -8111,7 +11216,34 @@
       "UY",
       "ES"
     ],
-    "pistaExtra": "Su falta táctica en la Supercopa 2020 evitó un gol de Morata"
+    "pistaExtra": "Su falta táctica en la Supercopa 2020 evitó un gol de Morata",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Supercopa 2020. Una falta táctica evita un gol. Un mediocampista lo sacrifica todo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Uruguayo que llegó de Peñarol y se ganó un puesto en el mejor equipo del mundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Peñarol, Real Madrid. Mediocampista box-to-box. Uruguay.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Uruguayo del Real Madrid. Falta táctica famosa. Volante incansable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Peñarol, Real Madrid. Uruguayo. Mediocampista total. Falta a Morata en la Supercopa.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "ferenc_puskas",
@@ -8161,7 +11293,34 @@
       "HU",
       "ES"
     ],
-    "pistaExtra": "El premio FIFA al mejor gol del año lleva su nombre"
+    "pistaExtra": "El premio FIFA al mejor gol del año lleva su nombre",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Berna, 1954. Un equipo húngaro invicto pierde la final del mundo. Un goleador zurdo llora.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "El premio FIFA al mejor gol del año lleva su nombre.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Budapest Honvéd y luego Real Madrid. De Hungría a España.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Húngaro del Real Madrid. Premio al mejor gol lleva su nombre. Zurda letal.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Budapest Honvéd, Real Madrid. Húngaro. Premio Puskás. Goleador zurdo legendario.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fernandinho",
@@ -8223,7 +11382,34 @@
       "UA",
       "GB-ENG"
     ],
-    "pistaExtra": "Volante incansable que ganó cinco títulos de Premier League con el Manchester City"
+    "pistaExtra": "Volante incansable que ganó cinco títulos de Premier League con el Manchester City",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Manchester, cinco Premiers. Un volante brasileño incansable que no para de ganar.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Ucrania a Inglaterra. Ocho años en Shakhtar antes del salto.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Atlético Paranaense, Shakhtar, Manchester City. Brasileño.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Manchester City. 5 Premiers. Volante incansable.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Paranaense, Shakhtar, Manchester City. Brasileño. 5 títulos de Premier. Motor del equipo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fernando_hierro",
@@ -8287,7 +11473,34 @@
       "QA",
       "GB"
     ],
-    "pistaExtra": "Tres veces campeón de la Champions League con Real Madrid"
+    "pistaExtra": "Tres veces campeón de la Champions League con Real Madrid",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Madrid, 14 años. Un central goleador que ganaba todo con el club más grande del mundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Tres Champions League. Más de 100 goles como defensor.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De Valladolid al Real Madrid. Terminó en Qatar e Inglaterra.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central español del Real Madrid. 3 Champions. Goleador desde atrás.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Valladolid, Real Madrid 14 años. Español. 3 Champions. Defensor goleador.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fernando_morientes",
@@ -8357,7 +11570,34 @@
       "FR",
       "GB-ENG"
     ],
-    "pistaExtra": "Goleador de Champions League con Real Madrid, llegó a la final con Mónaco eliminando al propio Madrid"
+    "pistaExtra": "Goleador de Champions League con Real Madrid, llegó a la final con Mónaco eliminando al propio Madrid",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Mónaco, 2004. Un delantero cedido elimina a su propio club en la Champions.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Goleador histórico de la Champions con el Real Madrid.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Zaragoza, Real Madrid, Mónaco, Liverpool, Valencia. Español.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Delantero español del Real Madrid. Goleador de Champions. Después Valencia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Zaragoza, Real Madrid, Mónaco, Liverpool, Valencia. Español. Goleador de Champions.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fernando_muslera",
@@ -8412,7 +11652,34 @@
       "IT",
       "TR"
     ],
-    "pistaExtra": "Más de 10 años en Galatasaray"
+    "pistaExtra": "Más de 10 años en Galatasaray",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Estambul, más de una década. Un arquero uruguayo se convierte en leyenda de un club turco.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Nacional a la Lazio. Después Turquía para siempre.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Nacional, Lazio, Galatasaray. Uruguayo. Arquero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Arquero uruguayo del Galatasaray. Más de 10 años en Turquía.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Nacional, Lazio, Galatasaray 10+ años. Uruguayo. Arquero leyenda en Turquía.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fernando_redondo",
@@ -8475,7 +11742,34 @@
       "ES",
       "IT"
     ],
-    "pistaExtra": "Famosa taquito contra Manchester United en la Champions 2000"
+    "pistaExtra": "Famosa taquito contra Manchester United en la Champions 2000",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Old Trafford, 2000. Un taquito imposible en la Champions. El Santiago Bernabéu explota.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Un mediocampista argentino con una elegancia que el fútbol no olvida.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Argentinos Juniors, Tenerife, Real Madrid, Milan. De Argentina a España e Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino del Real Madrid. Taquito legendario contra el United. Después Milan.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Argentinos, Tenerife, Real Madrid, Milan. Argentino. Taquito en Champions 2000.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fernando_torres",
@@ -8550,7 +11844,34 @@
       "IT",
       "JP"
     ],
-    "pistaExtra": "Marcó el gol de la final de la Eurocopa 2008 contra Alemania"
+    "pistaExtra": "Marcó el gol de la final de la Eurocopa 2008 contra Alemania",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Viena, 2008. Final de la Eurocopa. Un gol español define el título.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Ídolo del Atlético, estrella en Liverpool, polémico en Chelsea.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Atlético, Liverpool, Chelsea, Milan. Después volvió a casa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Español. Gol en la final de la Euro 2008. Atlético, Liverpool, Chelsea.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Atlético, Liverpool, Chelsea, Milan, Atlético. Español. Gol decisivo Euro 2008.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "filippo_inzaghi",
@@ -8615,7 +11936,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "El delantero que más goles metió en Champions League en su época"
+    "pistaExtra": "El delantero que más goles metió en Champions League en su época",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Atenas, 2007. Final de Champions. Dos goles de un delantero italiano sentencian la revancha.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Vivía en offside. Lo anulaban 100 veces pero el gol 101 siempre llegaba.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Piacenza, Juventus y Milan. Toda su carrera en Italia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Goleador italiano del Milan. Dos goles en la final de Champions 2007.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Piacenza, Parma, Juve, Milan. Italiano. Goleador de Champions. Final 2007.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "florian_wirtz",
@@ -8658,7 +12006,34 @@
     "paises": [
       "DE"
     ],
-    "pistaExtra": "Pieza clave del Leverkusen invicto campeón 2024"
+    "pistaExtra": "Pieza clave del Leverkusen invicto campeón 2024",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Alemania, 2024. Un equipo hace historia siendo invicto toda la temporada. Un joven es el cerebro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Debutó a los 17 y ya era titular indiscutido. Enganche moderno.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Un solo club en toda su carrera. Leverkusen. Alemania.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Alemán del Bayer Leverkusen invicto. Enganche joven. Temporada perfecta 2024.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Bayer Leverkusen. Alemán. Temporada invicta 2024. Enganche prodigio.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "forlan",
@@ -8750,7 +12125,34 @@
       "JP",
       "IN"
     ],
-    "pistaExtra": "Balón de Oro del Mundial 2010"
+    "pistaExtra": "Balón de Oro del Mundial 2010",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Sudáfrica 2010. El mejor jugador del Mundial es un delantero uruguayo con tiros imposibles.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Dos veces Pichichi de La Liga. Villarreal y Atlético lo adoraron.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Independiente, United, Villarreal, Atlético, Inter. Trotamundos del gol.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Uruguayo. Balón de Oro del Mundial 2010. Villarreal y Atlético de Madrid.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Independiente, United, Villarreal, Atlético, Inter. Uruguay. Balón de Oro 2010.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "francesco_totti",
@@ -8796,7 +12198,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "Toda su carrera en un solo club: 25 temporadas en la Roma"
+    "pistaExtra": "Toda su carrera en un solo club: 25 temporadas en la Roma",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Roma, 25 temporadas. Un hombre, un club, una ciudad. Lealtad en estado puro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Nunca se fue. Rechazó al Real Madrid, al Milan, a todos.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Toda su carrera en un solo club italiano. De 1993 a 2017. Enganche.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Italiano. Roma, nada más. 25 años. Capitán eterno.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Roma toda la vida. 25 temporadas. Italiano. Capitán. Enganche. Un solo club.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "franck_ribery",
@@ -8884,7 +12313,34 @@
       "DE",
       "IT"
     ],
-    "pistaExtra": "Formó la dupla Robbery con Robben en el Bayern y ganó la Champions 2013"
+    "pistaExtra": "Formó la dupla Robbery con Robben en el Bayern y ganó la Champions 2013",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Múnich, 2013. Champions League. Un extremo francés forma la dupla más temida de Europa.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Junto a un holandés, aterrorizaron las bandas del Bayern durante una década.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "De clubes humildes franceses al Bayern. Marsella fue su trampolín.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Francés del Bayern Múnich. La dupla con un holandés. Champions 2013.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Marsella, Bayern 12 años, Fiorentina. Francés. Champions 2013. Dupla famosa por las bandas.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "franco_baresi",
@@ -8928,7 +12384,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "20 años como capitán del Milan, nunca jugó en otro club"
+    "pistaExtra": "20 años como capitán del Milan, nunca jugó en otro club",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "San Siro, 20 años de capitanía. Un central que nunca se fue de un solo club.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "El número 6 más icónico de la historia del fútbol italiano.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Toda su carrera en Milán. 20 temporadas. Defensor italiano puro.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central del Milan. 20 años. Una camiseta retirada. Nunca se fue.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Milan toda la vida. 20 años capitán. Italiano. Camiseta 6 retirada. Leyenda eterna.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "frank_lampard",
@@ -8991,7 +12474,34 @@
       "GB-ENG",
       "US"
     ],
-    "pistaExtra": "Máximo goleador histórico del Chelsea con más de 200 goles"
+    "pistaExtra": "Máximo goleador histórico del Chelsea con más de 200 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Stamford Bridge, más de 200 goles. Un mediocampista que goleaba como delantero.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Llegó del este de Londres. El oeste se convirtió en su hogar por 13 años.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "West Ham, Chelsea, NYC. Inglés. Mediocampista goleador.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Máximo goleador histórico del Chelsea. Mediocampista inglés. Champions 2012.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "West Ham, Chelsea 13 años. Inglés. 200+ goles. Mediocampista goleador. Champions.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "franz_beckenbauer",
@@ -9054,7 +12564,34 @@
       "DE",
       "US"
     ],
-    "pistaExtra": "Ganó el Mundial como jugador (1974) y como técnico (1990)"
+    "pistaExtra": "Ganó el Mundial como jugador (1974) y como técnico (1990)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Ganó el Mundial como jugador y como técnico. Solo uno lo logró con el mismo país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Inventó el líbero moderno. Revolucionó la posición de defensor.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Bayern Múnich y los Cosmos de Nueva York. Alemania.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Alemán. Mundial 74 como jugador, 90 como DT. Bayern toda la vida. Der Kaiser.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Bayern Múnich, Cosmos. Alemán. Mundial 74 y 90. Der Kaiser. Inventó el líbero.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fred",
@@ -9116,7 +12653,34 @@
       "GB-ENG",
       "TR"
     ],
-    "pistaExtra": "Volante brasileño que fue pieza clave del mediocampo del Manchester United durante cinco temporadas"
+    "pistaExtra": "Volante brasileño que fue pieza clave del mediocampo del Manchester United durante cinco temporadas",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Manchester, 2018-2023. Un volante brasileño se convierte en pieza fija del mediocampo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Porto Alegre a Ucrania. Después el salto a la Premier League.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Internacional, Shakhtar, Manchester United, Fenerbahçe.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Manchester United. 5 temporadas. Después Turquía.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Internacional, Shakhtar, Manchester United, Fenerbahçe. Brasileño. Volante.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "freddy_rincon",
@@ -9200,7 +12764,34 @@
       "ES",
       "BR"
     ],
-    "pistaExtra": "Gol histórico contra Alemania en Italia 90"
+    "pistaExtra": "Gol histórico contra Alemania en Italia 90",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Italia 90. Último minuto contra Alemania. Un gol colombiano que clasifica a su país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Recorrió Italia, España y Brasil. Mediocampista físico y goleador.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "América de Cali, Napoli, Real Madrid, Palmeiras, Corinthians.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Colombiano. Gol contra Alemania en Italia 90. Real Madrid, Corinthians.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "América de Cali, Napoli, Real Madrid, Palmeiras, Corinthians. Colombiano. Gol a Alemania en 90.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "frenkie_de_jong",
@@ -9255,7 +12846,34 @@
       "NL",
       "ES"
     ],
-    "pistaExtra": "Pieza clave en la semifinal de Champions del Ajax 2019"
+    "pistaExtra": "Pieza clave en la semifinal de Champions del Ajax 2019",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Amsterdam, 2019. El Ajax sorprende en la Champions. Un mediocampista holandés es el cerebro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Pasó por Willem II antes de explotar en el Ajax.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Willem II, Ajax, Barcelona. Holandés. Mediocampista elegante.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Holandés del Barcelona. Pieza clave del Ajax semifinalista de Champions 2019.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Willem II, Ajax, Barcelona. Holandés. Champions 2019 con Ajax. Mediocampista de salida.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "fritz_walter",
@@ -9299,7 +12917,34 @@
     "paises": [
       "DE"
     ],
-    "pistaExtra": "Capitán de Alemania en el Milagro de Berna 1954, leyenda de un solo club en Kaiserslautern"
+    "pistaExtra": "Capitán de Alemania en el Milagro de Berna 1954, leyenda de un solo club en Kaiserslautern",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Berna, 1954. Alemania gana el Mundial contra la imbatible Hungría. Un milagro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Toda su carrera en un solo club alemán. Más de 20 años de fidelidad.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Kaiserslautern y nada más. Capitán de Alemania.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Capitán alemán en el Milagro de Berna 1954. Kaiserslautern toda la vida.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Kaiserslautern 22 años. Capitán de Alemania. Milagro de Berna 1954. Un solo club.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gabriel_heinze",
@@ -9391,7 +13036,34 @@
       "GB-ENG",
       "IT"
     ],
-    "pistaExtra": "Jugó en los dos grandes de Madrid: Real Madrid y Atlético lo quiso pero FIFA lo bloqueó"
+    "pistaExtra": "Jugó en los dos grandes de Madrid: Real Madrid y Atlético lo quiso pero FIFA lo bloqueó",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un defensor argentino que jugó en los dos grandes de Madrid. O casi.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Newell's a París, Manchester, Madrid y Marsella. Siempre intenso.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Newell's, PSG, United, Real Madrid, Marsella, Roma. Trotamundos.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Argentino. Manchester United y Real Madrid. FIFA le bloqueó ir al Atlético.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Newell's, PSG, United, Real Madrid, Marsella, Roma. Argentino. Lateral aguerrido.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gabriel_jesus",
@@ -9448,7 +13120,34 @@
       "BR",
       "GB-ENG"
     ],
-    "pistaExtra": "Campeón de la Premier con el City de Guardiola"
+    "pistaExtra": "Campeón de la Premier con el City de Guardiola",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Manchester, era Guardiola. Un joven brasileño llega de Palmeiras y gana la Premier.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Campeón con el City múltiples veces antes de cruzar Londres.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Palmeiras, Manchester City, Arsenal. Brasileño. Delantero.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño del Arsenal. Antes City de Guardiola. Palmeiras lo formó.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Palmeiras, Manchester City, Arsenal. Brasileño. Campeón de Premier con Guardiola.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gabriel_milito",
@@ -9510,7 +13209,34 @@
       "AR",
       "ES"
     ],
-    "pistaExtra": "Hermano de Diego Milito, ambos surgieron de Independiente"
+    "pistaExtra": "Hermano de Diego Milito, ambos surgieron de Independiente",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Dos hermanos de Independiente que llegaron a Europa. Este fue central.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Avellaneda a Zaragoza y después al Barcelona.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Independiente, Zaragoza, Barcelona. Argentino. Defensor.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central argentino del Barcelona. Hermano de un goleador del Inter.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Independiente, Zaragoza, Barcelona. Argentino. Hermano de un goleador famoso.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "garrincha",
@@ -9568,7 +13294,34 @@
     "paises": [
       "BR"
     ],
-    "pistaExtra": "Bicampeón del mundo con piernas torcidas, considerado el mejor driblador de la historia"
+    "pistaExtra": "Bicampeón del mundo con piernas torcidas, considerado el mejor driblador de la historia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Suecia 1958 y Chile 1962. Dos Mundiales consecutivos. Un extremo brasileño baila con la pelota.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Piernas torcidas de nacimiento. El mejor driblador que el fútbol ha visto.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Botafogo fue su club. Río de Janeiro fue su escenario.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Brasileño. Bicampeón del mundo. Botafogo. Piernas torcidas. Regate puro.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Botafogo. Brasileño. Bicampeón mundial 58 y 62. Piernas torcidas. El driblador máximo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gary_lineker",
@@ -9637,7 +13390,34 @@
       "ES",
       "JP"
     ],
-    "pistaExtra": "Bota de Oro del Mundial 1986 con 6 goles"
+    "pistaExtra": "Bota de Oro del Mundial 1986 con 6 goles",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "México 86. Un inglés gana la Bota de Oro con 6 goles. Goleador letal.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De la Premier al Barcelona. Después Tottenham y Japón.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Leicester, Everton, Barcelona, Tottenham. Inglés.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Bota de Oro del Mundial 86. Inglés. Leicester, Barcelona, Tottenham.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Leicester, Everton, Barcelona, Tottenham, Nagoya. Inglés. Bota de Oro 1986.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gary_medel",
@@ -9727,7 +13507,34 @@
       "TR",
       "BR"
     ],
-    "pistaExtra": "El Pitbull: conocido por su intensidad y liderazgo"
+    "pistaExtra": "El Pitbull: conocido por su intensidad y liderazgo",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Un defensor chileno que juega cada partido como si fuera una final. Intensidad máxima.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De Chile a Boca, Sevilla, Inter y Bologna. Trotamundos aguerrido.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Católica, Boca, Sevilla, Cardiff, Inter, Bologna. Chileno.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Chileno. Inter, Sevilla, Boca. Apodado por un perro de pelea.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "U. Católica, Boca, Sevilla, Inter, Bologna, Boca. Chileno. El Pitbull. Intensidad.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gary_neville",
@@ -9774,7 +13581,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Lateral derecho de toda la vida del Manchester United, parte de la 'Class of 92'"
+    "pistaExtra": "Lateral derecho de toda la vida del Manchester United, parte de la 'Class of 92'",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Old Trafford, toda una vida. Un lateral derecho que nunca quiso irse.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Parte de la generación del 92. Un grupo de canteranos que cambió todo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Manchester United y nada más. Inglés. Lateral derecho.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Inglés del Manchester United. Class of 92. Lateral derecho de toda la vida.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Manchester United 19 años. Inglés. Class of 92. Lateral derecho. Un solo club.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gavi",
@@ -9817,7 +13651,34 @@
     "paises": [
       "ES"
     ],
-    "pistaExtra": "Ganó el Trofeo Kopa como mejor sub-21 en 2022"
+    "pistaExtra": "Ganó el Trofeo Kopa como mejor sub-21 en 2022",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Barcelona, 2021. Un mediocampista de 17 años debuta y juega como veterano.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Trofeo Kopa como mejor sub-21 del mundo en 2022. Español precoz.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Un solo club. Barcelona. Cantera pura. Centrocampista.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Español del Barcelona. Trofeo Kopa 2022. Mediocampista joven.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Barcelona cantera. Español. Trofeo Kopa 2022. Mediocampista prodigio.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gennaro_gattuso",
@@ -9886,7 +13747,34 @@
       "GB",
       "CH"
     ],
-    "pistaExtra": "Emblema de la garra del Milan de Ancelotti, ganó dos Champions y el Mundial 2006"
+    "pistaExtra": "Emblema de la garra del Milan de Ancelotti, ganó dos Champions y el Mundial 2006",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Milán, años 2000. Un mediocampista que muerde cada pelota. Garra pura.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Dos Champions y el Mundial 2006. Italiano de guerra.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Perugia, Rangers, Milan. De Italia a Escocia y vuelta.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Italiano del Milan de Ancelotti. Dos Champions. Mundial 2006. Volante aguerrido.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Perugia, Rangers, Milan. Italiano. Dos Champions. Mundial 2006. Pura garra en el medio.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "george_best",
@@ -9929,7 +13817,34 @@
     "paises": [
       "GB-ENG"
     ],
-    "pistaExtra": "Balón de Oro 1968, considerado el mejor jugador norirlandés de la historia"
+    "pistaExtra": "Balón de Oro 1968, considerado el mejor jugador norirlandés de la historia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Manchester, años 60. Un extremo norirlandés juega como si la pelota le perteneciera.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Balón de Oro 1968. Copa de Europa con su club. Todo antes de los 23 años.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Un solo club en su carrera relevante. Manchester United.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Norirlandés del Manchester United. Balón de Oro 1968. Extremo mágico.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Manchester United. Norirlandés. Balón de Oro 1968. Copa de Europa. Genio absoluto.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "george_weah",
@@ -10021,7 +13936,34 @@
       "GB-ENG",
       "AE"
     ],
-    "pistaExtra": "Único africano en ganar el Balón de Oro (1995), luego fue presidente de Liberia"
+    "pistaExtra": "Único africano en ganar el Balón de Oro (1995), luego fue presidente de Liberia",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "1995. Un africano gana el Balón de Oro por primera y única vez. Goleador imparable.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Después de retirarse se convirtió en presidente de su país.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Mónaco, PSG, Milan, Chelsea, City. De África al mundo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Liberiano. Balón de Oro 1995. PSG, Milan. Después presidente de Liberia.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Mónaco, PSG, Milan. Liberiano. Único africano Balón de Oro. Luego presidente de su país.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gerard_pique",
@@ -10079,7 +14021,34 @@
       "GB",
       "ES"
     ],
-    "pistaExtra": "Ganó la Champions con Manchester United y Barcelona en años consecutivos (2008 y 2009)"
+    "pistaExtra": "Ganó la Champions con Manchester United y Barcelona en años consecutivos (2008 y 2009)",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Champions consecutivas con dos clubes distintos. 2008 con uno, 2009 con otro.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Se formó en la cantera del United pero volvió a su ciudad natal.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Manchester United, Zaragoza, Barcelona. Español. Central.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Defensor español del Barcelona. Champions con United y Barça. Catalán.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "United, Barcelona 15 años. Español. Champions 2008 y 2009 con clubes distintos.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "german_pezzella",
@@ -10137,7 +14106,34 @@
       "IT",
       "ES"
     ],
-    "pistaExtra": "Capitán de la Fiorentina durante años y mundialista argentino en 2018"
+    "pistaExtra": "Capitán de la Fiorentina durante años y mundialista argentino en 2018",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Florencia, años 2010. Un central argentino se pone la cinta de capitán.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "De River Plate a Italia. Después España. Mundialista 2018.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "River, Fiorentina, Real Betis. Argentino. Defensor.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Central argentino. Capitán de la Fiorentina. Mundialista 2018. Después Betis.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "River, Fiorentina capitán, Real Betis. Argentino. Central. Mundialista 2018.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gheorghe_hagi",
@@ -10219,7 +14215,34 @@
       "IT",
       "TR"
     ],
-    "pistaExtra": "Ganó la Copa UEFA 2000 con Galatasaray"
+    "pistaExtra": "Ganó la Copa UEFA 2000 con Galatasaray",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "USA 94. Un golazo desde 35 metros contra Colombia. Rumania asombra al mundo.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Jugó en Real Madrid y Barcelona. Dos rivales eternos. Pocos lo lograron.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Steaua, Real Madrid, Brescia, Barcelona, Galatasaray. Europa completa.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Rumano. Real Madrid, Barcelona y Galatasaray. Lo llamaban como a un argentino.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Steaua, Real Madrid, Brescia, Barcelona, Galatasaray. Rumano. El Maradona de los Cárpatos.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "giacinto_facchetti",
@@ -10265,7 +14288,34 @@
     "paises": [
       "IT"
     ],
-    "pistaExtra": "Lateral izquierdo revolucionario de la Grande Inter de Herrera, pionero del lateral ofensivo moderno"
+    "pistaExtra": "Lateral izquierdo revolucionario de la Grande Inter de Herrera, pionero del lateral ofensivo moderno",
+    "narrativeClues": [
+      {
+        "beat": 1,
+        "text": "Milán, años 60. La Grande Inter domina Europa. Un lateral izquierdo ataca como nadie.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 2,
+        "text": "Pionero del lateral ofensivo moderno. Revolucionó la posición.",
+        "difficulty": "hard"
+      },
+      {
+        "beat": 3,
+        "text": "Inter y nada más. 18 temporadas. Italiano.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 4,
+        "text": "Lateral izquierdo del Inter de Herrera. Italiano. Pionero del lateral ofensivo.",
+        "difficulty": "medium"
+      },
+      {
+        "beat": 5,
+        "text": "Inter 18 años. Italiano. Grande Inter de Herrera. Inventó el lateral ofensivo.",
+        "difficulty": "easy"
+      }
+    ]
   },
   {
     "id": "gianfranco_zola",
